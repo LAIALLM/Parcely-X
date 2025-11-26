@@ -6,5 +6,12 @@
         "tweet": "By 2025, delivery vans in dense cities like \ud83c\uddfa\ud83c\uddf8New York and \ud83c\uddec\ud83c\udde7London are projected to account for 30% of urban vehicle miles traveled, driving a 45% rise in traffic congestion from 2022 levels.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2025-11-26",
+        "status": "posted",
+        "tweet": "FedEx $FDX logistics infrastructure: 370 aircraft fleet delivers 15 million packages daily across 220 countries.\n\n\ud83c\uddfa\ud83c\uddf8 Memphis hub processes 2.5 million packages per day at 99.9% efficiency.",
+        "type": "infrastructure"
     }
 ]
