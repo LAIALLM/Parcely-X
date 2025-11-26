@@ -159,12 +159,12 @@ def cleanup_old_articles(processed_articles):
 
 # Save processed articles (ensuring correct update & GitHub push)
 def save_processed_articles(processed):
-    print("💾 Writing to filtered_news.json...")
+    print("💾 Writing to parcely_news.json...")
     try:
         # Always write the entire list, including both new and previously processed entries
         with open(LOG_FILE, "w") as file:
             json.dump(processed, file, indent=4)
-        print("✅ Successfully wrote to filtered_news.json!")
+        print("✅ Successfully wrote to parcely_news.json!")
     except Exception as e:
         print(f"❌ Error writing to JSON: {e}")
         return  # Stop execution if writing fails
@@ -174,8 +174,8 @@ def save_processed_articles(processed):
         print("🔄 Committing changes to GitHub...")
         os.system("git config --global user.email 'github-actions@github.com'")
         os.system("git config --global user.name 'GitHub Actions'")
-        os.system("git add filtered_news.json")
-        commit_result = os.system("git commit -m 'Update filtered_news.json [Automated]'")
+        os.system("git add parcely_news.json")
+        commit_result = os.system("git commit -m 'Update parcely_news.json [Automated]'")
         
         if commit_result != 0:
             print("⚠️ No changes to commit. Skipping push.")
@@ -598,7 +598,6 @@ if __name__ == "__main__":
     today_news_count = count_news_tweets_today(processed_articles)
     today_stat_count = count_stat_tweets_today(processed_articles)
     today_infra_count = count_infra_tweets_today(processed_articles)
-    today_crypto_count = count_crypto_tweets_today(processed_articles)
     today_reply_count = count_replies_today(load_reply_log())
 
     # Consolidated random selection for type of tweet
@@ -760,4 +759,4 @@ if __name__ == "__main__":
     # ✅ Save all processed articles to JSON
     processed_articles = cleanup_old_articles(processed_articles)
     save_processed_articles(processed_articles)
-    print("✅ filtered_news.json updated successfully!")
+    print("✅ parcely_news.json updated successfully!")
