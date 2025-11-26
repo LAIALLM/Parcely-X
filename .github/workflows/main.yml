@@ -36,7 +36,7 @@ jobs:
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python parcely_news.py  # ✅ Runs your Parcely bot script
+        run: python parcely-news.py  # ✅ Runs your Parcely bot script
 
       - name: 🔄 Commit and Push Updates (parcely_news.json)
         run: |
