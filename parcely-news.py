@@ -50,22 +50,19 @@ TARGET_ACCOUNTS = {
 
 # Google News + Industry-Specific RSS Feeds
 RSS_FEEDS = [
-    
-    # Google News Feeds
-    "https://news.google.com/rss/search?q=construction+industry&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=infrastructure&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=urban+development&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=smart+city&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=new+city+urban+development&hl=en-IN&gl=IN&ceid=IN:en",
+    # Google News – global logistics + e-commerce + smart buildings/cities
+    "https://news.google.com/rss/search?q=last+mile+delivery+logistics&hl=en&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=e-commerce+delivery&hl=en&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=parcel+locker+network&hl=en&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=smart+building+package+delivery&hl=en&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=smart+city+urban+logistics&hl=en&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=autonomous+delivery+robot&hl=en&gl=US&ceid=US:en",
 
-    # Industry-Specific Construction & Infrastructure News Feeds
-    "https://www.constructiondive.com/feeds/news/",  # Construction Dive
-    "https://www.enr.com/rss/articles",  # Engineering News-Record (ENR)
-    "https://www.archdaily.com/rss",  # ArchDaily (Architecture & Urbanism)
-    "https://nextcity.org/feeds/features",  # Next City (Urban Planning & Development)
-    "https://www.smartcitiesdive.com/feeds/news/",  # Smart Cities World (Tech & Development)
-    "https://www.urbantransportnews.com/feed",  # Urban Transport News
-    "https://infrastructuremagazine.com.au/feed/",  # Infrastructure Intelligence
+    # Industry / niche logistics & parcel feeds (examples)
+    "https://www.postandparcel.info/feed/",
+    "https://www.parcelandpostaltechnologyinternational.com/feed",
+    "https://www.supplychaindigital.com/rss",
+    "https://www.theloadstar.com/feed/"
 ]
 
 # =========================================================
@@ -256,27 +253,29 @@ def get_news_relevance_score(title, summary):
     )
 
     prompt = f"""
-    You are ranking news articles for a construction industry Twitter feed.
-    Assign a **relevance score (0-10)** based on its impact, factual data, importance, and timeliness.
+    You are ranking news articles for a Twitter feed about **global last-mile delivery, e-commerce logistics, parcel lockers, and smart buildings/cities**.
     
-    **Scoring Criteria:**
-    - **9-10:** Major infrastructure projects, large-scale investments, confirmed government policies, or high-impact urban development. 
-    - **7-8:** Medium-scale developments, emerging industry trends, detailed industry reports, corporate deals, or major tech innovations in construction.
-    - **5-6:** Minor but relevant construction updates, small investments, or less significant projects.
-    - **1-4:** Articles with vague, speculative, or unverified information.
-    - **0:** DO NOT SCORE articles about:
-      - Entertainment (sports events, matches, concerts, movies, celebrity real estate).
-      - Political debates without specific infrastructure or urban development plans.
-      - Speculative reports or opinions without confirmed policies, contracts, or investments.
+    Assign a **relevance score (0–10)** based on:
+    - Impact on last-mile delivery, parcel handling, or building/city logistics.
+    - Presence of concrete data (numbers, locations, contracts, pilots, policy, investment).
+    - Connection to themes like: failed deliveries, package theft, traffic congestion, packaging waste, EV/micro-mobility fleets, robotics and automation.
     
-    - **Substract 1 point** for articles that do not contain **concrete data** or **confirmed urban development projects**.
+    **Scoring:**
+    - **9–10:** Major global/regional deals, pilots, policy or infrastructure that directly affects urban logistics, parcel lockers, automated delivery, EV/micro fleets or smart buildings/cities.
+    - **7–8:** Strong but smaller news in these areas; city-level projects, serious pilots, notable technology launches.
+    - **5–6:** Indirectly relevant (e-commerce, retail, real-estate, smart cities) with at least one clear logistics or building-operations angle.
+    - **1–4:** Weak, vague, or mostly unrelated to logistics or smart buildings/cities.
+    - **0:** Entertainment, politics, or finance pieces without any link to delivery, logistics, real estate, or smart cities.
     
-    **Reply only with a single integer between 0-10.**
+    Subtract 1 point if the article lacks concrete data (no numbers, locations, or named projects).
     
-    **Article:**
+    Reply with a **single integer 0–10** only.
+    
+    Article:
     Title: {title}
     Summary: {summary}
     """
+
 
     response = client.chat.completions.create(
         model=XAI_MODEL,  # Changed to Grok-2-1212
@@ -301,7 +300,7 @@ def summarize_news(title, summary, source):
     )
 
     prompt = f"""
-    Rewrite this construction-related news title into a concise, natural tweet.
+    Rewrite this logistics-related news title into a concise, natural tweet.
 
     - **Always place a country flag emoji at the START** if a country, city, or company is explicitly mentioned.
     - **Format:** (Flag) NEWS: Main content
@@ -337,23 +336,18 @@ def summarize_news(title, summary, source):
 # Global list of statistical tweet categories in a preferred order
 
 STATISTICAL_CATEGORIES = [
-    "infrastructure",
-    "energy",
-    "transportation",
-    "population",
-    "urban development",
-    "urban planning",
-    "smart cities",
-    "countries",
-    "cities",
-    "construction projects",
-    "engineering projects",
-    "infrastructural projects",
-    "construction companies",
-    "infrastructure companies",
-    "urban development firms"
+    "failed first-attempt deliveries in global e-commerce",
+    "package theft and porch piracy in major cities",
+    "last-mile delivery costs per parcel in large metros",
+    "urban traffic growth caused by delivery vans in dense cities",
+    "packaging waste from e-commerce deliveries worldwide",
+    "growth of smart residential and office buildings",
+    "adoption of smart access systems for buildings",
+    "EV and micro-mobility delivery fleets in cities",
+    "parcel locker and pickup-point networks globally",
+    "online grocery and food delivery frequency in large cities",
+    "CO2 emissions from last-mile logistics versus building-integrated networks",
 ]
-
 
 def generate_statistical_tweet(selected_category):
     """Generate a statistical tweet dynamically using GPT-4."""
@@ -409,7 +403,7 @@ def generate_infrastructure_tweet():
     )
     
     prompt = """
-    Assume the current year is 2025. Write a concise social media post from an external perspective about a tech company that highlights a single key quantitative infrastructure metric. Focus strictly on presenting data with minimal wording.
+    The current year is 2025. Write a concise social media post from an external perspective about a logistics focused company that highlights a single key quantitative infrastructure metric. Focus strictly on presenting data with minimal wording.
 
     The tweet should:
     - Present only clear, factual data (e.g., daily data volumes, production figures, energy consumption, or efficiency ratings)
@@ -431,83 +425,6 @@ def generate_infrastructure_tweet():
     tweet = response.choices[0].message.content.strip()
     return tweet
 
-# =========================================================
-#         AI: CRYPTO TWEET GENERATORS
-# =========================================================
-
-# Global list of crypto infrastructure categories
-
-CRYPTO_INFRA_CATEGORIES = [
-    "electricity consumption",
-    "hardware costs",
-    "node distribution",
-    "cloud & data center usage",
-    "geographic mining concentration",
-    "carbon footprint",
-    "network scalability costs",
-    "maintenance & security costs",
-    "transaction throughput vs. cost",
-    "staking vs. mining costs",
-    "validator decentralization",
-    "historical cost trends of running blockchain networks",
-    "government regulations & impact on infrastructure",
-]
-
-
-# Crypto tweet formats to bring variation
-CRYPTO_TWEET_FORMATS = {
-    1: "A single striking statistic or future projection.",
-    2: "A direct comparison between two blockchain networks.",
-    3: """Generate a ranked list ensuring the tweet is under 280 characters.
-    
-Format:
-Summary: <One sentence overview of the ranking outcome>
-
-1. Item
-2. Item
-3. Item
-""",
-}
-
-
-# Generate a Crypto tweet using Grok-2-1212
-def generate_crypto_tweet():
-    client = openai.OpenAI(
-        api_key=XAI_API_KEY,  # Using xAI API key
-        base_url="https://api.x.ai/v1"  # xAI endpoint
-    )
-
-    # Randomly select a category and tweet format
-    selected_category = random.choice(CRYPTO_INFRA_CATEGORIES)
-    selected_format_key = random.choice(list(CRYPTO_TWEET_FORMATS.keys()))
-    selected_format = CRYPTO_TWEET_FORMATS[selected_format_key]  # Get actual format text
-
-    # Construct the dynamic prompt
-    prompt = f"""
-    The current year is 2025. Generate a concise, direct, factual, and impactful statistical tweet about the infrastructural costs of running Bitcoin, Ethereum, or Solana. Focus specifically on: **{selected_category}**.
-
-    {selected_format}
-
-    The tweet should:
-    - Present only clear, factual data
-    - **NEVER use quotes, hashtags, or generic emojis.**
-    - **Keep it strictly under 280 characters.**
-    - **NEVER use generic phrases and unnecessary filler words.** Keep it sharp and data-driven.
-    - **Always place country flags before a location name.**
-    - **Use proper line breaks for readability.** If the tweet contains multiple paragraphs, insert a blank line between them.
-    
-    - **Only add a stock ticker $TICKER if:**
-      1. The company is **publicly traded**.
-      2. The **correct** ticker symbol is available. 
-    """
-
-    response = client.chat.completions.create(
-        model=XAI_MODEL,  # Using Grok-2-1212
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    tweet = response.choices[0].message.content.strip()
-    return tweet[:280]  # Ensure it's within the character limit
 
 # =========================================================
 #                       REPLIES
