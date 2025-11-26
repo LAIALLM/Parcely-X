@@ -615,9 +615,6 @@ if __name__ == "__main__":
     elif tweet_type == "infrastructure" and today_infra_count >= INFRA_TWEETS_LIMIT:
         print(f"🚫 Reached daily infrastructure tweet limit ({INFRA_TWEETS_LIMIT}). Exiting to save resources.")
         exit(0)
-    elif tweet_type == "crypto" and today_crypto_count >= CRYPTO_TWEETS_LIMIT:
-        print(f"🚫 Reached daily crypto tweet limit ({CRYPTO_TWEETS_LIMIT}). Exiting to save resources.")
-        exit(0)
     elif tweet_type == "reply" and today_reply_count >= REPLY_TWEETS_LIMIT:
         print(f"🚫 Reached daily reply tweet limit ({REPLY_TWEETS_LIMIT}). Exiting to save resources.")
         exit(0)
@@ -755,20 +752,6 @@ if __name__ == "__main__":
                     "tweet": tweet,
                     "type": "infrastructure"
                 })
-
-    elif tweet_type == "crypto":
-        if today_crypto_count >= CRYPTO_TWEETS_LIMIT:
-            print(f"🚫 Reached daily crypto tweet limit ({CRYPTO_TWEETS_LIMIT}). Skipping crypto tweets.")
-        else:
-            tweet = generate_crypto_tweet()
-            if post_tweet(tweet):
-                processed_articles.append({
-                    "link": None,
-                    "date": today,
-                    "status": "posted",
-                    "tweet": tweet,
-                    "type": "crypto"
-                })    
 
 
     else:
