@@ -147,5 +147,13 @@
         "status": "posted",
         "tweet": "FedEx logistics infrastructure in 2025:\n\nProcesses 15 million packages daily across 220 countries.\n\nOn-time delivery rate: 99.2%.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-28",
+        "status": "posted",
+        "tweet": "Summary: Top 5 large cities by projected average weekly online grocery and food delivery orders per household in 2025, driven by urban density and app adoption.\n\n1. \ud83c\uddf8\ud83c\uddec Singapore: 4.2 orders  \n2. \ud83c\udde8\ud83c\uddf3 Shanghai: 3.9 orders  \n3. \ud83c\uddfa\ud83c\uddf8 New York: 3.6 orders  \n4. \ud83c\uddee\ud83c\uddf3 Mumbai: 3.3 orders  \n5. ",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
