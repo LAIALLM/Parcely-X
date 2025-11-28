@@ -140,5 +140,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-28",
+        "status": "posted",
+        "tweet": "FedEx logistics infrastructure in 2025:\n\nProcesses 15 million packages daily across 220 countries.\n\nOn-time delivery rate: 99.2%.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
