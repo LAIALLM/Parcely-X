@@ -216,5 +216,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-29",
+        "status": "posted",
+        "tweet": "By 2025, 35% of residents in large \ud83c\uddfa\ud83c\uddf8 cities will order groceries online weekly, projected to hit 50% by 2030.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
