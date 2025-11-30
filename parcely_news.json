@@ -231,5 +231,12 @@
         "status": "posted",
         "tweet": "FedEx infrastructure handles 15 million shipments daily.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-30",
+        "status": "posted",
+        "tweet": "UPS operates 500+ sorting facilities worldwide, processing 25 million packages daily.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
