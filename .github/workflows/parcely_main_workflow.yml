@@ -30,8 +30,8 @@ jobs:
         
       - name: 📄 Initialize Log Files
         run: |
-          if [ ! -f parcely_news.json ]; then echo '[]' > parcely_news.json; fi
-          if [ ! -f replied_parcely_tweets.json ]; then echo '{}' > replied_parcely_tweets.json; fi
+          if [ ! -f parcely_news_main.json ]; then echo '[]' > parcely_news_main.json; fi
+          if [ ! -f replied_parcely_tweets_main.json ]; then echo '{}' > replied_parcely_tweets_main.json; fi
 
       - name: 🚀 Run Script
         env:
@@ -44,18 +44,18 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python parcely-news-main.py  # Runs your bot script
 
-      - name: 🔄 Commit and Push Updates (parcely_news.json & replied_parcely_tweets.json)
+      - name: 🔄 Commit and Push Updates (parcely_news_main.json & replied_parcely_tweets_main.json)
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
           # Stage both log files (if they exist)
-          git add parcely_news.json replied_parcely_tweets.json || true  # stage files
+          git add parcely_news_main.json replied_parcely_tweets_main.json || true  # stage files
       
           # Check if there is anything staged
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update parcely_news.json & replied_parcely_tweets.json [Automated]"
+            git commit -m "Update parcely_news_main.json & replied_parcely_tweets_main.json [Automated]"
             git push origin main
           fi
