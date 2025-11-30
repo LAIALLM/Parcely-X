@@ -377,6 +377,7 @@ Format:
     The tweet should:
     - Present only clear, factual data
     - **NEVER use quotes, hashtags, or generic emojis.**
+    - **Use everyday language over jargon.**
     - **Keep it strictly under 280 characters.**
     - **NEVER use generic phrases and unnecessary filler words.** Keep it sharp and data-driven.
     - **Always place country flags before a location name.**
