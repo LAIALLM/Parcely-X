@@ -1,4 +1,4 @@
-name: Auto-Post Parcely News
+name: Auto-Post Parcely Logistics
 
 on:
   schedule:
