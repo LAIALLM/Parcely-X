@@ -1,4 +1,3 @@
-
 import os
 import tweepy
 import feedparser
@@ -18,6 +17,8 @@ TWITTER_API_KEY = os.getenv("TWITTER_API_KEY")
 TWITTER_SECRET = os.getenv("TWITTER_SECRET")
 TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN")
 TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
+TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 XAI_API_KEY = os.getenv("XAI_API_KEY")
 
 # --- Updated model definitions (October 2025) ---
@@ -29,18 +30,24 @@ XAI_MODEL = "grok-4-fast-reasoning"        # Replaces Grok-2-1212
 # =========================================================
 
 # Authenticate Twitter API (Using API v2)
+bearer_client = tweepy.Client(
+    bearer_token=TWITTER_BEARER_TOKEN
+)  # For reads (OAuth 2.0 app-only)
+
+# Authenticate Twitter API (Using API v2)
 twitter_client = tweepy.Client(
     consumer_key=TWITTER_API_KEY,
     consumer_secret=TWITTER_SECRET,
     access_token=TWITTER_ACCESS_TOKEN,
     access_token_secret=TWITTER_ACCESS_SECRET
-)
+)   # For writes (OAuth 1.0a user context)
 
 # **Accounts to Follow** You can look up IDs with the X API or tools like tweeterid.com. https://twiteridfinder.com/
 TARGET_ACCOUNTS = {
     "sama": "1605",        # Replace with actual user IDs
     "elonmusk": "44196397",    # Replace with actual user IDs
     "stats_feed": "1335132884278108161",   # Replace with actual user IDs
+    "VitalikButerin": "295218901",
     "balajis": "2178012643"
 }
 
@@ -71,15 +78,15 @@ RSS_FEEDS = [
 
 # Log file to track posted and filtered news
 LOG_FILE = "parcely_news.json"
+REPLY_LOG_FILE = "replied_parcely_tweets.json"
 RETENTION_DAYS = 10  # Remove news older than 10 days
 TWEET_THRESHOLD = 9 # Define score threshold for tweets
-REPLY_LOG_FILE = "replied_parcely_tweets.json"
 
 # Random tweets probabilities (Parcely)
 RANDOM_NEWS = 0.2
 RANDOM_STATISTIC = 0.2
 RANDOM_INFRASTRUCTURE = 0.2
-RANDOM_REPLY = 0.2
+RANDOM_REPLY = 0.2 
 RANDOM_NONE = 0.2
 
 # Daily tweet limits
@@ -169,30 +176,10 @@ def save_processed_articles(processed):
         print(f"❌ Error writing to JSON: {e}")
         return  # Stop execution if writing fails
 
-    # Ensure GitHub Actions commits & pushes changes
-    if os.getenv("GITHUB_ACTIONS"):
-        print("🔄 Committing changes to GitHub...")
-        os.system("git config --global user.email 'github-actions@github.com'")
-        os.system("git config --global user.name 'GitHub Actions'")
-        os.system("git add parcely_news.json")
-        commit_result = os.system("git commit -m 'Update parcely_news.json [Automated]'")
-        
-        if commit_result != 0:
-            print("⚠️ No changes to commit. Skipping push.")
-            return
-
-        push_result = os.system("git push origin main")
-        if push_result != 0:
-            print("❌ Push failed, check GitHub Actions permissions.")
-        else:
-            print("✅ Changes committed to GitHub.")
 
 # Consolidated randomness function for post type
 def select_tweet_type():
-    return random.choices(
-        ["news", "statistical", "infrastructure", "reply", "none"],
-        [RANDOM_NEWS, RANDOM_STATISTIC, RANDOM_INFRASTRUCTURE, RANDOM_REPLY, RANDOM_NONE]
-    )[0]
+    return random.choices(["news", "statistical", "infrastructure", "reply", "none"], [RANDOM_NEWS, RANDOM_STATISTIC, RANDOM_INFRASTRUCTURE, RANDOM_REPLY, RANDOM_NONE])[0]
 
 # Count how many news tweets were posted today.
 def count_news_tweets_today(processed_articles):
@@ -208,6 +195,7 @@ def count_stat_tweets_today(processed_articles):
 def count_infra_tweets_today(processed_articles):
     today = datetime.utcnow().strftime("%Y-%m-%d")
     return sum(1 for article in processed_articles if article.get("date") == today and article.get("type") == "infrastructure")
+
 
 # =========================================================
 #                   NEWS FETCH + SCORING
@@ -275,7 +263,6 @@ def get_news_relevance_score(title, summary):
     Title: {title}
     Summary: {summary}
     """
-
 
     response = client.chat.completions.create(
         model=XAI_MODEL,  # Changed to Grok-2-1212
@@ -349,6 +336,7 @@ STATISTICAL_CATEGORIES = [
     "CO2 emissions from last-mile logistics versus building-integrated networks",
 ]
 
+
 def generate_statistical_tweet(selected_category):
     """Generate a statistical tweet dynamically using GPT-4."""
     tweet_formats = {
@@ -384,17 +372,12 @@ Format:
     - **Use proper line breaks for readability.** If the tweet contains multiple paragraphs, insert a blank line between them.
     """
 
-    client = openai.OpenAI(
-        api_key=XAI_API_KEY,
-        base_url="https://api.x.ai/v1"
-    )
+    client = openai.OpenAI(api_key=OPENAI_API_KEY)
     response = client.chat.completions.create(
-        model=XAI_MODEL,
+        model=OPENAI_MODEL,
         messages=[{"role": "user", "content": prompt}]
     )
-
-    tweet = response.choices[0].message.content.strip()
-    return tweet[:280]  # safety: hard cap at 280 chars
+    return response.choices[0].message.content.strip()
 
 # =========================================================
 #      AI: INFRASTRUCTURE TWEET GENERATORS
@@ -408,7 +391,7 @@ def generate_infrastructure_tweet():
     )
     
     prompt = """
-    The current year is 2025. Write a concise social media post from an external perspective about a logistics focused company that highlights a single key quantitative infrastructure metric. Focus strictly on presenting data with minimal wording.
+    Assume the current year is 2025. Write a concise social media post from an external perspective about a logistics focused company that highlights a single key quantitative infrastructure metric. Focus strictly on presenting data with minimal wording.
 
     The tweet should:
     - Present only clear, factual data (e.g., daily data volumes, production figures, energy consumption, or efficiency ratings)
@@ -430,7 +413,6 @@ def generate_infrastructure_tweet():
     tweet = response.choices[0].message.content.strip()
     return tweet
 
-
 # =========================================================
 #                       REPLIES
 # =========================================================
@@ -444,18 +426,22 @@ def load_reply_log():
 
 def save_reply_log(log_data):
     """ Save replied tweets to prevent duplicate replies. """
-    with open(REPLY_LOG_FILE, "w") as file:
-        json.dump(log_data, file, indent=4)
+    print("💾 Writing to replied_parcely_tweets.json...")
+    try:
+        with open(REPLY_LOG_FILE, "w") as file:
+            json.dump(log_data, file, indent=4)
+        print("✅ Successfully wrote to replied_parcely_tweets.json!")
+    except Exception as e:
+        print(f"❌ Error writing to replied_parcely_tweets.json: {e}")
 
 def count_replies_today(reply_log):
-    """ Count today's replies to ensure we stay under the daily limit. """
     today = datetime.utcnow().strftime("%Y-%m-%d")
     return sum(1 for entry in reply_log.values() if entry["date"] == today)
 
-def fetch_latest_tweets(user_id, max_results=5):
+def fetch_latest_tweets(user_id, max_results=5):  # prior 5 but takes a lot of resources from free X API
     """ Fetch the latest tweets from a specific user. (Limit: 1 request per 15 min) """
     try:
-        tweets = twitter_client.get_users_tweets(
+        tweets = bearer_client.get_users_tweets(  # Use Bearer for reads
             id=user_id,
             max_results=max_results,
             tweet_fields=["id", "text", "created_at"],
@@ -466,15 +452,6 @@ def fetch_latest_tweets(user_id, max_results=5):
         print(f"❌ Error fetching tweets for user {user_id}: {e}")
         return []
 
-def pick_most_recent_tweet(all_tweets, reply_log):
-    """ Select the most recent new tweet that hasn't been replied to yet. """
-    new_tweets = [tweet for tweet in all_tweets if str(tweet.id) not in reply_log]
-    
-    if not new_tweets:
-        print("🔍 No new tweets available to reply to.")
-        return None
-
-    return new_tweets[0]  # Pick the most recent tweet
 
 def generate_grok_reply(tweet_text, username):
     """ Use Grok-2-1212 to generate a smart, relevant reply based on the tweet. """
@@ -485,6 +462,7 @@ def generate_grok_reply(tweet_text, username):
     - Ensure the response is **engaging, contextually relevant, and under 280 characters.**
     - The reply should **enhance the conversation** by providing a valuable insight related to the tweet's topic.
     - **Maintain a professional yet conversational tone.**
+    - **DO NOT mention or @ the username to keep it natural.**
     - **DO NOT use hashtags, emojis, or generic phrases.**
     - If no suitable statistic is available, provide a **thoughtful industry insight, preferably related to one of @{username}'s companies.**
 
@@ -506,8 +484,11 @@ def generate_grok_reply(tweet_text, username):
     return response.choices[0].message.content.strip()
 
 def reply_to_random_tweet():
-    """ Randomly select a user, fetch their latest tweet, and reply. """
-    if count_replies_today(load_reply_log()) >= REPLY_TWEETS_LIMIT:
+    """ Randomly select a user, fetch their latest tweet, and reply once per tweet. """
+    reply_log = load_reply_log()
+
+    # Daily limit check (using already loaded log)
+    if count_replies_today(reply_log) >= REPLY_TWEETS_LIMIT:
         print(f"🚫 Reached daily reply limit ({REPLY_TWEETS_LIMIT}). Exiting.")
         return
 
@@ -527,12 +508,18 @@ def reply_to_random_tweet():
         print(f"🔍 No tweets found for @{user_to_fetch}.")
         return
 
-    # **Step 3: Pick the most recent tweet**
-    reply_log = load_reply_log()
-    selected_tweet = pick_most_recent_tweet(all_tweets, reply_log)
-    if not selected_tweet:
+    # Build set of tweet IDs we've already replied to
+    replied_ids = set(reply_log.keys())
+
+    # **Step 3: Filter out tweets we've already replied to**
+    new_tweets = [t for t in all_tweets if str(t.id) not in replied_ids]
+
+    if not new_tweets:
+        print(f"🔁 All recent tweets from @{user_to_fetch} already replied to. Skipping this run.")
         return
 
+    # Pick the most recent new tweet
+    selected_tweet = new_tweets[0]
     tweet_id = selected_tweet.id
     tweet_text = selected_tweet.text
     username = user_to_fetch  # Using stored username
@@ -546,16 +533,18 @@ def reply_to_random_tweet():
     # **Step 5: Post the reply**
     try:
         twitter_client.create_tweet(
-            text=f"@{username} {reply_text}",
+            text=reply_text,  # No @{username} prefix to keep it natural
             in_reply_to_tweet_id=tweet_id
         )
         print(f"✅ Replied to @{username}: {reply_text}")
 
-        # **Step 6: Log replied tweet**
+        # **Step 6: Log replied tweet (now with full texts)**
         reply_log[str(tweet_id)] = {
             "date": datetime.utcnow().strftime("%Y-%m-%d"),
             "username": username,
-            "tweet_id": tweet_id
+            "tweet_id": tweet_id,
+            "source_text": tweet_text,
+            "reply_text": reply_text
         }
         save_reply_log(reply_log)
 
@@ -622,14 +611,6 @@ if __name__ == "__main__":
     elif tweet_type == "reply" and today_reply_count >= REPLY_TWEETS_LIMIT:
         print(f"🚫 Reached daily reply tweet limit ({REPLY_TWEETS_LIMIT}). Exiting to save resources.")
         exit(0)
-
-    # Reply tweet
-    elif tweet_type == "reply":
-        if today_reply_count >= REPLY_TWEETS_LIMIT:
-            print(f"🚫 Reached daily reply limit ({REPLY_TWEETS_LIMIT}). Exiting.")
-        else:
-            reply_to_random_tweet()  # ✅ Reply function executes
-        exit(0)  # ✅ Ensure the script stops after replying
 
     # Tweet types
     if tweet_type == "news":
@@ -757,6 +738,8 @@ if __name__ == "__main__":
                     "type": "infrastructure"
                 })
 
+    elif tweet_type == "reply":
+        reply_to_random_tweet()
 
     else:
         print("🤖 No tweet posted in this run to simulate human-like activity.")
