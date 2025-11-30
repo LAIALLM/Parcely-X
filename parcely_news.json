@@ -238,5 +238,13 @@
         "status": "posted",
         "tweet": "UPS operates 500+ sorting facilities worldwide, processing 25 million packages daily.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-30",
+        "status": "posted",
+        "tweet": "By 2025, EV and e-bike delivery fleets in \ud83c\uddfa\ud83c\uddf8 US cities will handle 25% of urban parcels, slashing emissions by 2 million metric tons yearly compared to gas vehicles.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
