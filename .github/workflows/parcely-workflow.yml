@@ -1,4 +1,4 @@
-name: Auto-Post Parcely Logistics
+name: Auto-Post LAIA Logistics
 
 on:
   schedule:
