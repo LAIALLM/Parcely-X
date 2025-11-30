@@ -77,8 +77,8 @@ RSS_FEEDS = [
 # =========================================================
 
 # Log file to track posted and filtered news
-LOG_FILE = "parcely_news.json"
-REPLY_LOG_FILE = "replied_parcely_tweets.json"
+LOG_FILE = "parcely_news_main.json"
+REPLY_LOG_FILE = "replied_parcely_tweets_main.json"
 RETENTION_DAYS = 10  # Remove news older than 10 days
 TWEET_THRESHOLD = 9 # Define score threshold for tweets
 
