@@ -170,12 +170,12 @@ def cleanup_old_articles(processed_articles):
 
 # Save processed articles (ensuring correct update & GitHub push)
 def save_processed_articles(processed):
-    print("💾 Writing to parcely_news.json...")
+    print("💾 Writing to replied_parcely_tweets.json...")
     try:
         # Always write the entire list, including both new and previously processed entries
         with open(LOG_FILE, "w") as file:
             json.dump(processed, file, indent=4)
-        print("✅ Successfully wrote to parcely_news.json!")
+        print("✅ Successfully wrote to replied_parcely_tweets.json!")
     except Exception as e:
         print(f"❌ Error writing to JSON: {e}")
         return  # Stop execution if writing fails
