@@ -256,5 +256,26 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzhfWHFDZF9QYUI1aENvRmptVTdfZ3F6ZTgwcDAzLUNYZC1pZU1HY0hkWFQ2eW5ZTThEblhqT21vOC1zZmNiMG91MU5hTG9YYlZUaXVSRk5fYnNaTUdVUW5GWGNUWHA3TFh3MjlpRjI4dWFGMnREWXZtMG9DUVA3cUl2aHA0VEhTanowSE84bE9sWGF3UVZtaGlxMA?oc=5",
+        "date": "2025-12-01",
+        "title": "Shopify and Australia Post Unite to Transform Business Shipping - channelnews.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzhfWHFDZF9QYUI1aENvRmptVTdfZ3F6ZTgwcDAzLUNYZC1pZU1HY0hkWFQ2eW5ZTThEblhqT21vOC1zZmNiMG91MU5hTG9YYlZUaXVSRk5fYnNaTUdVUW5GWGNUWHA3TFh3MjlpRjI4dWFGMnREWXZtMG9DUVA3cUl2aHA0VEhTanowSE84bE9sWGF3UVZtaGlxMA?oc=5\" target=\"_blank\">Shopify and Australia Post Unite to Transform Business Shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">channelnews.com.au</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Shopify $SHOP and Australia Post partner to streamline shipping for online businesses"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzhfWHFDZF9QYUI1aENvRmptVTdfZ3F6ZTgwcDAzLUNYZC1pZU1HY0hkWFQ2eW5ZTThEblhqT21vOC1zZmNiMG91MU5hTG9YYlZUaXVSRk5fYnNaTUdVUW5GWGNUWHA3TFh3MjlpRjI4dWFGMnREWXZtMG9DUVA3cUl2aHA0VEhTanowSE84bE9sWGF3UVZtaGlxMA?oc=5",
+        "date": "2025-12-01",
+        "title": "Shopify and Australia Post Unite to Transform Business Shipping - channelnews.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzhfWHFDZF9QYUI1aENvRmptVTdfZ3F6ZTgwcDAzLUNYZC1pZU1HY0hkWFQ2eW5ZTThEblhqT21vOC1zZmNiMG91MU5hTG9YYlZUaXVSRk5fYnNaTUdVUW5GWGNUWHA3TFh3MjlpRjI4dWFGMnREWXZtMG9DUVA3cUl2aHA0VEhTanowSE84bE9sWGF3UVZtaGlxMA?oc=5\" target=\"_blank\">Shopify and Australia Post Unite to Transform Business Shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">channelnews.com.au</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Shopify $SHOP and Australia Post unite to transform business shipping.",
+        "type": "news"
     }
 ]
