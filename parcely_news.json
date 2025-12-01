@@ -277,5 +277,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Shopify $SHOP and Australia Post unite to transform business shipping.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US large metros: last-mile delivery costs $13 per parcel in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Indian metros: $3 per parcel.\n\nThat's 4x higher in the US due to labor and fuel pressures.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
