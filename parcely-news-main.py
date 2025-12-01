@@ -407,9 +407,6 @@ def generate_infrastructure_tweet():
     - **Always place country flags before a location name.**
     - **Use proper line breaks for readability.** If the tweet contains multiple paragraphs, insert a blank line between them.     
     
-    - **Only add a stock ticker $TICKER if:**
-      1. The company is **publicly traded**.
-      2. The **correct** ticker symbol is available.  
     """
 
     response = client.chat.completions.create(
