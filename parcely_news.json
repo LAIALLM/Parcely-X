@@ -292,5 +292,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS Worldport, Louisville: Sorts 2 million packages nightly. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2M5S1poaHNmRDVqTlRMcnNLYUdtZHJ5VzdLbXYwUVZBTGJxN0c2WHdZNDdVWTdVNWN4dlNnQ2xHQk05eVZfdEtzM0NwZ1RBVXRkaVNJTG1YQS1nLW83VUhuOFFkNWVkVjQ5TE1zM0x3Q0hSLXRacktHRU1yLVhfLVJlbW5ib1RRdGZHdWRPU21USm82MTRnTA?oc=5",
+        "date": "2025-12-01",
+        "title": "China delivers its 180 billionth ecommerce parcel this year - Momentum Works",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2M5S1poaHNmRDVqTlRMcnNLYUdtZHJ5VzdLbXYwUVZBTGJxN0c2WHdZNDdVWTdVNWN4dlNnQ2xHQk05eVZfdEtzM0NwZ1RBVXRkaVNJTG1YQS1nLW83VUhuOFFkNWVkVjQ5TE1zM0x3Q0hSLXRacktHRU1yLVhfLVJlbW5ib1RRdGZHdWRPU21USm82MTRnTA?oc=5\" target=\"_blank\">China delivers its 180 billionth ecommerce parcel this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Momentum Works</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160751/news/sustainability/royal-mail-introducing-electric-hgvs-into-our-network-is-a-major-milestone/",
+        "date": "2025-12-01",
+        "title": "Royal Mail: Introducing electric HGVs into our network is a major milestone",
+        "summary": "Royal Mail has rolled out its first fleet of eight electric Heavy Goods Vehicles (eHGVs) at its Midlands and North West Parcel Hubs. The launch is a major step forward in reducing the company\u2019s carbon emissions by replacing diesel-powered 42-tonne trucks with zero-emission alternatives.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160748/news/retail/scurri-shoppers-are-sending-retailers-a-clear-message-on-ai/",
+        "date": "2025-12-01",
+        "title": "Scurri: Shoppers are sending retailers a clear message on AI",
+        "summary": "New consumer research commissioned by delivery management and post-purchase experience provider\u00a0Scurri\u00a0reveals that while 60% believe AI enhances the shopping experience, a striking 81% say they would feel uneasy if AI replaced human jobs in retail and logistics.",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
