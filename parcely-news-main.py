@@ -97,7 +97,7 @@ RANDOM_NONE = 0.6
 NEWS_TWEETS_LIMIT = 2  # Max news tweets per day
 STAT_TWEETS_LIMIT = 1  # Max statistical tweets per day
 INFRA_TWEETS_LIMIT= 1
-REPLY_TWEETS_LIMIT = 3
+REPLY_TWEETS_LIMIT = 1
 
 # =========================================================
 #                        HELPERS
