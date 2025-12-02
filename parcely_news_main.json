@@ -88,5 +88,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse processes 750,000 parcels daily in 2025, boosting North American supply chain efficiency by 22%.",
+        "type": "infrastructure"
     }
 ]
