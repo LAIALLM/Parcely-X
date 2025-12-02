@@ -370,5 +370,12 @@
         "tweet": "Global e-commerce packaging waste reaches 200 million tons in 2025,  \ndoubling the 100 million tons from 2023.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "UPS logistics infrastructure in 2025 processes 32 million packages daily across 220 countries.\n\nEfficiency metric: 98.7% automated sorting rate.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
