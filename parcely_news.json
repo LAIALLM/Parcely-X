@@ -362,5 +362,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "Global e-commerce packaging waste reaches 200 million tons in 2025,  \ndoubling the 100 million tons from 2023.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
