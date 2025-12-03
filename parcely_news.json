@@ -492,5 +492,36 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlVcDNMWTVFQjNSTGtSYVlwbkhhbnNaVHNLU0lyZ3hYc1MwRUZDa0FTRDMySXlIU2hBRWpHMGdOUW9LTURCTUJ0cEItZWxjdElSMmFzRGFHV1lsQTAyRTRBeHNLUl92c25DQldBQVZjLXRtUWU3MFVHdlQ4aE0zdWFicTN5bjQ0WTVpSUNObnA4cFdqTGdKTG00YWphdw?oc=5",
+        "date": "2025-12-03",
+        "title": "Amazon tests 30-minute delivery close to home with North Seattle pilot - The Spokesman-Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlVcDNMWTVFQjNSTGtSYVlwbkhhbnNaVHNLU0lyZ3hYc1MwRUZDa0FTRDMySXlIU2hBRWpHMGdOUW9LTURCTUJ0cEItZWxjdElSMmFzRGFHV1lsQTAyRTRBeHNLUl92c25DQldBQVZjLXRtUWU3MFVHdlQ4aE0zdWFicTN5bjQ0WTVpSUNObnA4cFdqTGdKTG00YWphdw?oc=5\" target=\"_blank\">Amazon tests 30-minute delivery close to home with North Seattle pilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Spokesman-Review</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon $AMZN tests 30-minute delivery from nearby hubs in North Seattle pilot"
+    },
+    {
+        "link": "https://theloadstar.com/cma-cgm-and-ocean-alliance-double-down-on-backhaul-suez-transits/",
+        "date": "2025-12-03",
+        "title": "CMA CGM and Ocean Alliance double down on backhaul Suez transits",
+        "summary": "<p>Europe-Asia shippers were today informed that a second Ocean Alliance service would resume Suez Canal transits on its backhaul leg to Asia.<br />\nFreight forwarders and shippers today received a customer advisory from Ocean Alliance member OOCL that what it terms the LL4 service \u2013 known as NEU4 by the Ocean Alliance and FAL1 by tonnage provider CMA CGM \u2013 would return to Asia via the Suez Canal and transit the Red ...</p>\n<p>The post <a href=\"https://theloadstar.com/cma-cgm-and-ocean-alliance-double-down-on-backhaul-suez-transits/\">CMA CGM and Ocean Alliance double down on backhaul Suez transits</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlVcDNMWTVFQjNSTGtSYVlwbkhhbnNaVHNLU0lyZ3hYc1MwRUZDa0FTRDMySXlIU2hBRWpHMGdOUW9LTURCTUJ0cEItZWxjdElSMmFzRGFHV1lsQTAyRTRBeHNLUl92c25DQldBQVZjLXRtUWU3MFVHdlQ4aE0zdWFicTN5bjQ0WTVpSUNObnA4cFdqTGdKTG00YWphdw?oc=5",
+        "date": "2025-12-03",
+        "title": "Amazon tests 30-minute delivery close to home with North Seattle pilot - The Spokesman-Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlVcDNMWTVFQjNSTGtSYVlwbkhhbnNaVHNLU0lyZ3hYc1MwRUZDa0FTRDMySXlIU2hBRWpHMGdOUW9LTURCTUJ0cEItZWxjdElSMmFzRGFHV1lsQTAyRTRBeHNLUl92c25DQldBQVZjLXRtUWU3MFVHdlQ4aE0zdWFicTN5bjQ0WTVpSUNObnA4cFdqTGdKTG00YWphdw?oc=5\" target=\"_blank\">Amazon tests 30-minute delivery close to home with North Seattle pilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Spokesman-Review</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon tests 30-minute deliveries for nearby customers in North Seattle pilot $AMZN",
+        "type": "news"
     }
 ]
