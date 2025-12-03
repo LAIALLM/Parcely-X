@@ -432,5 +432,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTdzZktqaDlBbFhrNTktZkV1MVJKWlU1YnY5cHRZTWZFMnktQzc5ZUhJMGpuSExYMUVoa2N4bU9aUVgzX2UzMDVqb3NEMnVJdEZxZW1EcjFGQVhKdmVkRWNDVFdPMWxoS1BiMW1NQzZZMHdDZkV4cEppY1ZPZnZETEZJV1F6ZXI3STBZd3JUeVFMM1NJY0xJb2tFOGZiQ2pTS09KSjJPdTlwQQ?oc=5",
+        "date": "2025-12-03",
+        "title": "Takealot tests instant delivery with Mr D in major cities - ITWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTdzZktqaDlBbFhrNTktZkV1MVJKWlU1YnY5cHRZTWZFMnktQzc5ZUhJMGpuSExYMUVoa2N4bU9aUVgzX2UzMDVqb3NEMnVJdEZxZW1EcjFGQVhKdmVkRWNDVFdPMWxoS1BiMW1NQzZZMHdDZkV4cEppY1ZPZnZETEZJV1F6ZXI3STBZd3JUeVFMM1NJY0xJb2tFOGZiQ2pTS09KSjJPdTlwQQ?oc=5\" target=\"_blank\">Takealot tests instant delivery with Mr D in major cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITWeb</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/construction-development/fidelity-fulfilment-opens-salt-lake-city-facility.html",
+        "date": "2025-12-03",
+        "title": "Fidelity Fulfilment opens Salt Lake City facility",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/construction-development/fidelity-fulfilment-opens-salt-lake-city-facility.html\"><img align=\"left\" alt=\"Fidelity Fulfilment opens Salt Lake City facility\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2025/12/We-have-keys-for-the-new-site-e1764753855564-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Fidelity Fulfilment has opened a new 8,175m2 facility in Salt Lake City, Utah, as the company aims to meet growing demand in the USA.</p>\n<p>An additional facility is set to open in Kentucky in 2026, with the two locations together providing nationwide coverage. Fidelity says this will enable retailers to meet delivery expectations for customers from coast to coast.</p>\n<p>\u201cOur Salt Lake City facility is more than just additional space, it reflects how the fulfillment landscape is changing,\u201d said Stephen Williams, director and co-founder of Fidelity Fulfilment.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/construction-development/fidelity-fulfilment-opens-salt-lake-city-facility.html\" rel=\"nofollow\">Continue reading Fidelity Fulfilment opens Salt Lake City facility at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
