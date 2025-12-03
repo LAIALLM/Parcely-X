@@ -148,5 +148,15 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas distribution center processed 750,000 parcels daily in Q2 2025, achieving 98.5% automation efficiency.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTZRTHNNckg2M1g4c0lIYXRmcHk0OWZwMVE3d0RfVDdpM3BoSnBYeWV5cGw2M3U1R015WXBYOGRMbFIySEVjN3l3cW45QnAyZXM1ZlFSYVB2ZHpSd2Voa0lNZXpUcUtMZFVMTnJnbVBBR0IwdXN6SWdEMzhwY0dOa18wQ2V5UXRiekZjUmdTN0pIc21QbkNnWUpzamlZX0U3NEJ6TVZxX1R0LXkxN2p3?oc=5",
+        "date": "2025-12-03",
+        "title": "Instacart sues NYC over grocery delivery worker laws - Grocery Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTZRTHNNckg2M1g4c0lIYXRmcHk0OWZwMVE3d0RfVDdpM3BoSnBYeWV5cGw2M3U1R015WXBYOGRMbFIySEVjN3l3cW45QnAyZXM1ZlFSYVB2ZHpSd2Voa0lNZXpUcUtMZFVMTnJnbVBBR0IwdXN6SWdEMzhwY0dOa18wQ2V5UXRiekZjUmdTN0pIc21QbkNnWUpzamlZX0U3NEJ6TVZxX1R0LXkxN2p3?oc=5\" target=\"_blank\">Instacart sues NYC over grocery delivery worker laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grocery Dive</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
