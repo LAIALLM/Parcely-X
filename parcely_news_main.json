@@ -166,5 +166,12 @@
         "tweet": "By 2025, porch piracy in major US \ud83c\uddfa\ud83c\uddf8 cities will hit 120 million packages stolen annually, costing $19 billion \u2013 up 28% from 2023 trends.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2025-12-04",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Chicago distribution center handles 500,000 parcels daily in 2025, achieving 98% on-time delivery via AI routing.\n\nEfficiency metric: 15% reduction in fuel use per shipment compared to 2024 baselines.",
+        "type": "infrastructure"
     }
 ]
