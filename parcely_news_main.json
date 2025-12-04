@@ -158,5 +158,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-04",
+        "status": "posted",
+        "tweet": "By 2025, porch piracy in major US \ud83c\uddfa\ud83c\uddf8 cities will hit 120 million packages stolen annually, costing $19 billion \u2013 up 28% from 2023 trends.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
