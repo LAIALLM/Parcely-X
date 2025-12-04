@@ -224,5 +224,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon eyes ditching USPS partnership to develop its own nationwide delivery system",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHNNRjhBMi1jMndiUUhVdVRHRC1HU1d5aVZTU2tIZjF6aDdMT2RMREFoVUxfenhlZ3VBeDBXUFktMUdkSjJrbFVoWUVicnpVejVIYWxBc2Zmb1ByX2EyeTJfeWhMQkpWQjBJTGF4SktfbVByTVJFblE3eFA4eWVpZmUzVHVaeUVn?oc=5",
+        "date": "2025-12-04",
+        "title": "SpeedX opens e-commerce and freight hub near Chicago Airport - Cargo Airports & Airline Services",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHNNRjhBMi1jMndiUUhVdVRHRC1HU1d5aVZTU2tIZjF6aDdMT2RMREFoVUxfenhlZ3VBeDBXUFktMUdkSjJrbFVoWUVicnpVejVIYWxBc2Zmb1ByX2EyeTJfeWhMQkpWQjBJTGF4SktfbVByTVJFblE3eFA4eWVpZmUzVHVaeUVn?oc=5\" target=\"_blank\">SpeedX opens e-commerce and freight hub near Chicago Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cargo Airports & Airline Services</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGZ0NMYW1OZV9GdGJZLTRXYzFzNUhXMHJ5OXpwZ0k5MGN4YVdzajVzQXhkcFExR3ZBYTF1ZkZfalluOTJCbTJGLWxTNzZjY0Y5VFdKemNMaDRkc3k3ekFDSXZxQWNYbk5nQXoxZ3pEc184RlJRYXJvdU1LQXA2QQ?oc=5",
+        "date": "2025-12-04",
+        "title": "Denmark says goodbye to letter delivery - FreightWaves",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBGZ0NMYW1OZV9GdGJZLTRXYzFzNUhXMHJ5OXpwZ0k5MGN4YVdzajVzQXhkcFExR3ZBYTF1ZkZfalluOTJCbTJGLWxTNzZjY0Y5VFdKemNMaDRkc3k3ekFDSXZxQWNYbk5nQXoxZ3pEc184RlJRYXJvdU1LQXA2QQ?oc=5\" target=\"_blank\">Denmark says goodbye to letter delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pVVNMem5uMEdzaWNTN2dnUjJzUHdfNG1Pb1plUmJ3ampmdG9WZWtRMWo2aFpBYUZuOWFGQVkyM0g2dWc3aUZnYzlxbjh2U283VERPYXV2ZUtSa0hKR1RaSFM0ajdxUUw3aGUtUUllZGRfZVZhRHJ3?oc=5",
+        "date": "2025-12-04",
+        "title": "Amazon Considering Major Change to Prime Delivery: Report - Newsweek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1pVVNMem5uMEdzaWNTN2dnUjJzUHdfNG1Pb1plUmJ3ampmdG9WZWtRMWo2aFpBYUZuOWFGQVkyM0g2dWc3aUZnYzlxbjh2U283VERPYXV2ZUtSa0hKR1RaSFM0ajdxUUw3aGUtUUllZGRfZVZhRHJ3?oc=5\" target=\"_blank\">Amazon Considering Major Change to Prime Delivery: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
