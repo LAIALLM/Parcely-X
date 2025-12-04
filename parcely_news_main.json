@@ -173,5 +173,56 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Chicago distribution center handles 500,000 parcels daily in 2025, achieving 98% on-time delivery via AI routing.\n\nEfficiency metric: 15% reduction in fuel use per shipment compared to 2024 baselines.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5",
+        "date": "2025-12-04",
+        "title": "Amazon explores cutting ties with USPS, building its own delivery network - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5\" target=\"_blank\">Amazon explores cutting ties with USPS, building its own delivery network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon explores cutting ties with USPS to build its own delivery network"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXdzUlJfMGpaQkJCU0JGTGhzbnRSVURPblBFdUd5S2xQZFo1WTlPeVdWWDBYREM3T21lS3U4R0tVc3hSQWR0d0hVY1BGQkJuSzJ5cUt5QU0yTFJhNTcyZzg0c19UeXZKTnRVQUF0b0QydHJZTUlTLU5XMjJMN3FfeWw5VUtqUDgyVGF6TWpJR1o2ODJ5bnlGaUtNM3JuRjk3Qm9qdTlqQWppVFZJVnVWUzhqdjdqNENWTjMyUGFQQmVqdjBkbzNxaTZ5U2hVVmk0NGFGZXNRdTl1Z0ZQaEZWMHF6TEQzSGt00gHwAUFVX3lxTE91NDFhS2JpNnJmamxIS1VESFZ3UUtSeXlIaGR4Q20xZVRyeWFrQ3dkUHJrb1IxdldTRWtIaFRqNk51M0VDazlEOGJLV2I0TFlNRVA1Uy0xNGl0eFlOOEdWNmxXRk53UVFDa3BmT3JBNDlZVVc3di05U0ItY3pfbUQ3b3k3VFBYaXFzeVE0bVpPLXJycHdTQUNhMERNLW95eVVDajhGQnlGVWRMRElpU2xYZlRfdXBtNDFXRU16V2JWSGt6bkJzZi1iZE5mMzNuQ1ZBY1NBa3ZZX1lqbGk2WUVKZlJqc0tNd1lTel9OUlJVQQ?oc=5",
+        "date": "2025-12-04",
+        "title": "Amazon\u2019s is Exploring a Plan to End USPS Deliveries, A Move That Could Threaten The Future of The United States Postal Service - | Cord Cutters News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXdzUlJfMGpaQkJCU0JGTGhzbnRSVURPblBFdUd5S2xQZFo1WTlPeVdWWDBYREM3T21lS3U4R0tVc3hSQWR0d0hVY1BGQkJuSzJ5cUt5QU0yTFJhNTcyZzg0c19UeXZKTnRVQUF0b0QydHJZTUlTLU5XMjJMN3FfeWw5VUtqUDgyVGF6TWpJR1o2ODJ5bnlGaUtNM3JuRjk3Qm9qdTlqQWppVFZJVnVWUzhqdjdqNENWTjMyUGFQQmVqdjBkbzNxaTZ5U2hVVmk0NGFGZXNRdTl1Z0ZQaEZWMHF6TEQzSGt00gHwAUFVX3lxTE91NDFhS2JpNnJmamxIS1VESFZ3UUtSeXlIaGR4Q20xZVRyeWFrQ3dkUHJrb1IxdldTRWtIaFRqNk51M0VDazlEOGJLV2I0TFlNRVA1Uy0xNGl0eFlOOEdWNmxXRk53UVFDa3BmT3JBNDlZVVc3di05U0ItY3pfbUQ3b3k3VFBYaXFzeVE0bVpPLXJycHdTQUNhMERNLW95eVVDajhGQnlGVWRMRElpU2xYZlRfdXBtNDFXRU16V2JWSGt6bkJzZi1iZE5mMzNuQ1ZBY1NBa3ZZX1lqbGk2WUVKZlJqc0tNd1lTel9OUlJVQQ?oc=5\" target=\"_blank\">Amazon\u2019s is Exploring a Plan to End USPS Deliveries, A Move That Could Threaten The Future of The United States Postal Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| Cord Cutters News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/comment-red-sea-threat-is-to-vessels-not-cargo-so-insurers-will-dictate-return/",
+        "date": "2025-12-04",
+        "title": "Comment: Red Sea threat is to vessels not cargo, so insurers will dictate return",
+        "summary": "<p>\u201cNice of carriers to think of shippers\u201d, a source mockingly said after The Loadstar suggested the Ocean Alliance\u2019s decision to only run through Suez on backhaul routes could be to protect the cargo that would be travelling on headhaul transits.<br />\nAs we reported yesterday, a customer advisory from Ocean Alliance member OOCL stated that, what it terms the LL4 service \u2013 known as NEU4 by the Ocean Alliance and FAL1 by ...</p>\n<p>The post <a href=\"https://theloadstar.com/comment-red-sea-threat-is-to-vessels-not-cargo-so-insurers-will-dictate-return/\">Comment: Red Sea threat is to vessels not cargo, so insurers will dictate return</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/ceasefire-and-release-of-crew-held-hostage-but-full-suez-return-still-tentative/",
+        "date": "2025-12-04",
+        "title": "Ceasefire and release of crew held hostage, but full Suez return still \u2018tentative\u2019",
+        "summary": "<p>Following the news that a second Ocean Alliance service is to resume Suez Canal transits on its backhaul leg to Asia, stakeholders have been given further hope that a full return to the Red Sea region could be on the horizon. \u00a0<br />\nThe Yemeni Houthi militia has released nine\u00a0Filipino seafarers from the Greek bulk vessel attacked in the Red Sea in July. \u00a0<br />\nAfter mediation with Oman and the Philippines Department of ...</p>\n<p>The post <a href=\"https://theloadstar.com/ceasefire-and-release-of-crew-held-hostage-but-full-suez-return-still-tentative/\">Ceasefire and release of crew held hostage, but full Suez return still &#8216;tentative&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5",
+        "date": "2025-12-04",
+        "title": "Amazon explores cutting ties with USPS, building its own delivery network - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5\" target=\"_blank\">Amazon explores cutting ties with USPS, building its own delivery network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon eyes ditching USPS partnership to develop its own nationwide delivery system",
+        "type": "news"
     }
 ]
