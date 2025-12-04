@@ -619,5 +619,36 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon $AMZN considering major change to Prime delivery, potentially allowing third-party sellers to offer same-day shipping",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5",
+        "date": "2025-12-04",
+        "title": "Amazon explores building its own delivery network to replace USPS deal - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5\" target=\"_blank\">Amazon explores building its own delivery network to replace USPS deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon explores building its own delivery network to replace USPS deal $AMZN"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2tFNTdXc0gxSldqanpwT2FqaEdLczZ6LXNYUUltZUZSRW9kS1NTbzI1Vzk0ZS1McVJ5bS1DeFA5TXpuQ3VnblhNTmx6ZTVwQWcxdG8tYTNIRS0ydkFxNF9SVE9NN3FfS052cTJXRE81UjJWX3cwaURoNFpYTGgwZFVyOWxDM2FENWN6UThn?oc=5",
+        "date": "2025-12-04",
+        "title": "Foodora launches McDonald\u2019s robot deliveries in Prague - Zag Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2tFNTdXc0gxSldqanpwT2FqaEdLczZ6LXNYUUltZUZSRW9kS1NTbzI1Vzk0ZS1McVJ5bS1DeFA5TXpuQ3VnblhNTmx6ZTVwQWcxdG8tYTNIRS0ydkFxNF9SVE9NN3FfS052cTJXRE81UjJWX3cwaURoNFpYTGgwZFVyOWxDM2FENWN6UThn?oc=5\" target=\"_blank\">Foodora launches McDonald\u2019s robot deliveries in Prague</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5",
+        "date": "2025-12-04",
+        "title": "Amazon explores building its own delivery network to replace USPS deal - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5\" target=\"_blank\">Amazon explores building its own delivery network to replace USPS deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon explores building its own last-mile delivery network to potentially replace USPS $AMZN",
+        "type": "news"
     }
 ]
