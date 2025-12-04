@@ -523,5 +523,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon tests 30-minute deliveries for nearby customers in North Seattle pilot $AMZN",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-04",
+        "status": "posted",
+        "tweet": "UPS global network delivers 28 million packages daily, supported by 500+ sorting facilities worldwide.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
