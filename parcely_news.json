@@ -657,5 +657,13 @@
         "status": "posted",
         "tweet": "UPS processes 22 million packages daily through its 1,200+ facilities worldwide in 2025.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-05",
+        "status": "posted",
+        "tweet": "In 2025, urban residents in \ud83c\uddfa\ud83c\uddf8 large cities average 4 food deliveries per month.\n\nThat's 50% more than the 2.7 online grocery orders per month.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
