@@ -746,5 +746,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Serve Robotics $SERV expands autonomous delivery to Fort Lauderdale",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3hhc2l4OXBnWmVFUGhJb05ieEYzWktWOEVXLW50dGpjTVNVTkFEWWF5Nk9PLXlPTXc5MDdDQU11V1hydXJncF9vNktneVJqTmJEb2x2VW9BbnJqUTlvU3UtSWM2Znc0QkNrWDhQU2FtSlZsNkt0N0xqRHhBdFhGclptNDc1Q1hIaEk1R0dTNGl3b0llUnNwZm5raGllTDhudkNkZE1oTHlnUFZYczRHQnhydDFFNG5xdTMzeGFGazd1Y1k?oc=5",
+        "date": "2025-12-05",
+        "title": "The technology behind secure e-commerce deliveries in urban areas - Retail Technology Innovation Hub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3hhc2l4OXBnWmVFUGhJb05ieEYzWktWOEVXLW50dGpjTVNVTkFEWWF5Nk9PLXlPTXc5MDdDQU11V1hydXJncF9vNktneVJqTmJEb2x2VW9BbnJqUTlvU3UtSWM2Znc0QkNrWDhQU2FtSlZsNkt0N0xqRHhBdFhGclptNDc1Q1hIaEk1R0dTNGl3b0llUnNwZm5raGllTDhudkNkZE1oTHlnUFZYczRHQnhydDFFNG5xdTMzeGFGazd1Y1k?oc=5\" target=\"_blank\">The technology behind secure e-commerce deliveries in urban areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
