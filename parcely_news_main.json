@@ -261,5 +261,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics manages 500 warehouses globally, handling 2 million packages daily across its network.\n\nIn \ud83c\uddfa\ud83c\uddf8USA alone, the system processes 800,000 units per day with 99% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-05",
+        "status": "posted",
+        "tweet": "By 2025, global parcel locker networks will total 550,000 units, up 50% from 2023.\n\nProjections show 1.1 million by 2030 as e-commerce delivery demand surges.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
