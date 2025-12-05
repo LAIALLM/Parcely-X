@@ -70,7 +70,7 @@ RETENTION_DAYS = 10  # Remove news older than 10 days
 
 NEWS_MIN_SCORE = 9 # Define score threshold for tweets
 REPLY_MIN_SCORE = 2     # Minimum score to reply to a target account tweet
-QUOTE_MIN_SCORE = 6     # 6–10 → Quote with AI comment
+QUOTE_MIN_SCORE = 5     # 6–10 → Quote with AI comment
 REPOST_MIN_SCORE = 4    # 4–10 → Native repost
 LIKE_MIN_SCORE = 3 
 
