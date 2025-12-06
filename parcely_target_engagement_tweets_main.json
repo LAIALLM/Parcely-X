@@ -43,5 +43,50 @@
         "date": "2025-12-05",
         "relevance_score": 2,
         "action": null
+    },
+    "1997089868196073955": {
+        "tweet_id": "1997089868196073955",
+        "text": "How Netflix's acquisition of Warner Bros changes the media company pecking order\n\nMore charts of the week: https://t.co/OV3JEhla7L https://t.co/nA3hYR99FB",
+        "author_id": "64844802",
+        "author_handle": "a16z",
+        "date": "2025-12-06",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1997055902885859381": {
+        "tweet_id": "1997055902885859381",
+        "text": "Notes on building in the AI era (plus how a16z operates) https://t.co/gJmZdoBasV https://t.co/q6puXqVBCl",
+        "author_id": "64844802",
+        "author_handle": "a16z",
+        "date": "2025-12-06",
+        "relevance_score": 4,
+        "action": null
+    },
+    "1996976694130008151": {
+        "tweet_id": "1996976694130008151",
+        "text": "Ben Horowitz says AI video is a new medium entirely.\n\nThe kinds of stories you can tell change completely when shots that once cost $200 million become trivial to create.\n\nDirectors could one day use AI to generate whole scenes, reshoot performances, or have an AI version of an https://t.co/adjecLblCD https://t.co/WcyYB1gVZn",
+        "author_id": "64844802",
+        "author_handle": "a16z",
+        "date": "2025-12-06",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1996709184352801080": {
+        "tweet_id": "1996709184352801080",
+        "text": "David Ulevitch says that reversing America's reliance on Chinese supply chains is likely of \u201cthe utmost criticality to our national security.\u201d\n\n\u201cOur greatest adversary is our strongest economic partner at the same time, which is just an incredibly challenging situation to be in.\u201d https://t.co/ZsZzcNpGRj",
+        "author_id": "64844802",
+        "author_handle": "a16z",
+        "date": "2025-12-06",
+        "relevance_score": 4,
+        "action": null
+    },
+    "1996670913996259400": {
+        "tweet_id": "1996670913996259400",
+        "text": "&gt;100 trillion token analysis of reasoning model usage over time\n\nFull piece from @MaikaThoughts, @AnjneyMidha, @xanderatallah, and @cclark: https://t.co/5rE3yuVcuM https://t.co/Qd09yvUTLF",
+        "author_id": "64844802",
+        "author_handle": "a16z",
+        "date": "2025-12-06",
+        "relevance_score": 2,
+        "action": null
     }
 }
