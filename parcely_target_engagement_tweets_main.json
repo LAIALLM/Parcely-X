@@ -133,5 +133,23 @@
         "date": "2025-12-06",
         "relevance_score": 2,
         "action": null
+    },
+    "1997220218926780523": {
+        "tweet_id": "1997220218926780523",
+        "text": "Make Europe worth defending again. https://t.co/YeYlijCLgM",
+        "author_id": "745273",
+        "author_handle": "naval",
+        "date": "2025-12-06",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1996857209628868659": {
+        "tweet_id": "1996857209628868659",
+        "text": "If you don\u2019t commit to meaningful work, life will fill your time with busywork.",
+        "author_id": "745273",
+        "author_handle": "naval",
+        "date": "2025-12-06",
+        "relevance_score": 2,
+        "action": null
     }
 }
