@@ -331,5 +331,13 @@
         "status": "posted",
         "tweet": "LogiTech Logistics now runs 150 automated sorting centers worldwide.\n\nDaily throughput: 2.5 million packages.\n\nThis infrastructure handles 40% more volume than 2024, with zero downtime.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-07",
+        "status": "posted",
+        "tweet": "By 2030, EV and e-bike delivery fleets in \ud83c\uddfa\ud83c\uddf8 cities could handle 60% of last-mile packages, cutting urban emissions by 2.5 million tons yearly.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
