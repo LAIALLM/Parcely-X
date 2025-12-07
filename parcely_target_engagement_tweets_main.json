@@ -151,5 +151,41 @@
         "date": "2025-12-06",
         "relevance_score": 2,
         "action": null
+    },
+    "1997279838252531823": {
+        "tweet_id": "1997279838252531823",
+        "text": "We need a good trustless onchain gas futures market.\n\n(Like, a prediction market on the BASEFEE)\n\nI've heard people ask: \"today fees are low, but what about in 2 years? You say they'll stay low because of increasing gaslimit from BAL + ePBS + later ZK-EVM, but do I believe you?\"",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-07",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1996997278893044045": {
+        "tweet_id": "1996997278893044045",
+        "text": "The fact that we have political systems that do byzantine things like this instead of just charging a basic tax per litre of fuel to account for environmental costs (or even mileage * weight^4 for wear and tear) in a consistent way continues to frustrate me.\n\nWhen accounting for https://t.co/B0LjzADKAU",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-07",
+        "relevance_score": 5,
+        "action": null
+    },
+    "1996954146604204363": {
+        "tweet_id": "1996954146604204363",
+        "text": "My rough math based on average difficulty stats suggests that Bitcoin mining crossed the total 2**96 hashes milestone very recently?\n\nSeems like a good reason to insist on (close to) 128 bit security (ie. @drakefjustin was right) https://t.co/zrwtbdnan3",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-07",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1996361287748538652": {
+        "tweet_id": "1996361287748538652",
+        "text": "Always glad to see when people appreciate the protocol changes that add hard invariants, improving protocol security and future adaptability\n\n2021: EIP-2929 + 3529 (SLOAD gas cost increase, refunds nerfed)\n2024: SELFDESTRUCT nerf (Dencun)\n2025: 16,777,216 gas per tx limit\n\nAll of https://t.co/tPdaKZRCEm",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-07",
+        "relevance_score": 2,
+        "action": null
     }
 }
