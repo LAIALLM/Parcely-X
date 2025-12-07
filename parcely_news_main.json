@@ -324,5 +324,12 @@
         "status": "posted",
         "tweet": "LogiNet's infrastructure in 2025 routes 1.2 million packages daily through 45 automated hubs worldwide.\n\nThis supports a 25% rise in volume from last year.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-07",
+        "status": "posted",
+        "tweet": "LogiTech Logistics now runs 150 automated sorting centers worldwide.\n\nDaily throughput: 2.5 million packages.\n\nThis infrastructure handles 40% more volume than 2024, with zero downtime.",
+        "type": "infrastructure"
     }
 ]
