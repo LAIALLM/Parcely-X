@@ -664,5 +664,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclQxTXVHcGFaYUMxdDRtU2lyak1WVUZ6YW5sN1Q4ODNaeC1WNzhEV2pCeW9PRFgzVHJQSno5QUhCYVZ0Q3ZDNDJHTEJnWkczVDFFMUdKclF4d0pTTTlWSmMwUGRLZ2lvV2FLRjZJWl95YUFQWFBVV2ZSc1M3SkNZbjVQNFlCWUdfWXFyR0hYVm44Q0l6MXl2MVdfY3FhTWxvT25IX3A1eHd6cmV3Y25uNG1UY1E2dWZrYVFJ?oc=5",
+        "date": "2025-12-08",
+        "title": "Serve and Uber Eats Extend Sidewalk Delivery Robot Service to Fort Lauderdale - PYMNTS.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclQxTXVHcGFaYUMxdDRtU2lyak1WVUZ6YW5sN1Q4ODNaeC1WNzhEV2pCeW9PRFgzVHJQSno5QUhCYVZ0Q3ZDNDJHTEJnWkczVDFFMUdKclF4d0pTTTlWSmMwUGRLZ2lvV2FLRjZJWl95YUFQWFBVV2ZSc1M3SkNZbjVQNFlCWUdfWXFyR0hYVm44Q0l6MXl2MVdfY3FhTWxvT25IX3A1eHd6cmV3Y25uNG1UY1E2dWZrYVFJ?oc=5\" target=\"_blank\">Serve and Uber Eats Extend Sidewalk Delivery Robot Service to Fort Lauderdale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
