@@ -616,5 +616,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "In 2025, urban residents in \ud83c\uddfa\ud83c\uddf8 large cities average 3 online grocery deliveries per month.\n\nFood delivery averages 5.5 times per month\u2014nearly double\u2014as habits stick post-pandemic.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
