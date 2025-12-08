@@ -599,5 +599,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "UPS processes 25 million packages daily across 1,300 facilities in \ud83c\uddfa\ud83c\uddf8 and globally.\n\nKey metric: 500 million miles driven annually by its fleet. $UPS",
+        "type": "infrastructure"
     }
 ]
