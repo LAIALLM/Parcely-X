@@ -357,5 +357,12 @@
         "tweet": "Top 5 cities by projected smart building growth (residential/office) in 2025: 25-30% rise in installations.\n\n\ud83c\uddf8\ud83c\uddec Singapore  \n\ud83c\udde6\ud83c\uddea Dubai  \n\ud83c\uddfa\ud83c\uddf8 New York  \n\ud83c\udde8\ud83c\uddf3 Shanghai  \n\ud83c\uddec\ud83c\udde7 London",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "LogiFlow's \ud83c\uddfa\ud83c\uddf8 Texas network handles 1.8 million parcels daily across 40 automated warehouses.\n\nThis infrastructure scales to meet 2025 demand without delays.",
+        "type": "infrastructure"
     }
 ]
