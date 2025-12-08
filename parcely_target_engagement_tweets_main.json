@@ -251,5 +251,23 @@
         "date": "2025-12-08",
         "relevance_score": 4,
         "action": "repost"
+    },
+    "1997910976268849608": {
+        "tweet_id": "1997910976268849608",
+        "text": "\ud83c\udfaf https://t.co/dQzZL6Qxdt",
+        "author_id": "5943622",
+        "author_handle": "pmarca",
+        "date": "2025-12-08",
+        "relevance_score": 1,
+        "action": null
+    },
+    "1997865268689944839": {
+        "tweet_id": "1997865268689944839",
+        "text": "It's time to build. \ud83c\uddfa\ud83c\uddf8 https://t.co/AWN5hFdygW",
+        "author_id": "5943622",
+        "author_handle": "pmarca",
+        "date": "2025-12-08",
+        "relevance_score": 4,
+        "action": null
     }
 }
