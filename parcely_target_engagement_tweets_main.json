@@ -305,5 +305,32 @@
         "date": "2025-12-09",
         "relevance_score": 4,
         "action": null
+    },
+    "1998353879260344396": {
+        "tweet_id": "1998353879260344396",
+        "text": "@elonmusk I think you should consider that making X a global totem pole for Free Speech, and then turning it into a death star laser for coordinated hate sessions, is actually harmful for the cause of free speech. I'm seriously worried that huge backlashes against values I hold",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-09",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1998353131822870675": {
+        "tweet_id": "1998353131822870675",
+        "text": "The attacks on Europe I've seen here the last couple of days, including from people I've generally considered interesting and sophisticated, have been getting unhinged...\n\nI get that EU has problems - GDPR clickthroughs are dumb, Chat Control is awful, they need to be less",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-09",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1998112138364084371": {
+        "tweet_id": "1998112138364084371",
+        "text": "For years, I've complained internally at the EF that we do not have enough expertise at p2p: we think a lot about cryptoeconomics, BFT consensus and blocks, but we take the p2p networking layer for granted.\n\nI think that's no longer true, and PeerDAS shows it.\n\n@raulvk and others https://t.co/qwgXAbrYJw",
+        "author_id": "295218901",
+        "author_handle": "VitalikButerin",
+        "date": "2025-12-09",
+        "relevance_score": 2,
+        "action": null
     }
 }
