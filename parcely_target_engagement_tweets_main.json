@@ -287,5 +287,23 @@
         "date": "2025-12-09",
         "relevance_score": 2,
         "action": null
+    },
+    "1998232007776899122": {
+        "tweet_id": "1998232007776899122",
+        "text": "It\u2019s time to go on offense. https://t.co/2UYHuXRVOH",
+        "author_id": "5943622",
+        "author_handle": "pmarca",
+        "date": "2025-12-09",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1998219763160658205": {
+        "tweet_id": "1998219763160658205",
+        "text": "It\u2019s time to build a fleet. https://t.co/5ikI8jpp18",
+        "author_id": "5943622",
+        "author_handle": "pmarca",
+        "date": "2025-12-09",
+        "relevance_score": 4,
+        "action": null
     }
 }
