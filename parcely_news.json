@@ -745,5 +745,15 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Noon and Yango launch AI-powered autonomous robot delivery service in Dubai",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRmdW9xVFNUQkhwMFJxMDY4eU4yODZ1VDAtTVZhbnR3TkQtUjJWMDB5T2VlZjBMdUh0RGRsak1jaXVVZC1YbDVSdkVUMDJLczFwMW40LTk5bHlTYlJfMi12eEhHVml3SHFJVlZuR2c2R1dfbHo2dTdpYVpldHdXR3dn0gGWAUFVX3lxTE0zWGhYZUpiTGN3WTM1b3REbXlSVUhreUVIV1dSVEVQek94N3QzWjBrelZwV1ZtTU9IR1JMdjJTUE1tQjZlaG15aGxGVV9FeG1BbzFrbGE5dlFWQlpnNkNvLUtqNFlsSGJiSWI4UDg1amZTUXpKejBSNGt3TXZ3WUZTOE5VUjJXcWFrRG91b0w4MDc0b2RYQQ?oc=5",
+        "date": "2025-12-09",
+        "title": "Newbility raises 25.1 billion won to expand from delivery robots into humanoids - CHOSUNBIZ - Chosunbiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRmdW9xVFNUQkhwMFJxMDY4eU4yODZ1VDAtTVZhbnR3TkQtUjJWMDB5T2VlZjBMdUh0RGRsak1jaXVVZC1YbDVSdkVUMDJLczFwMW40LTk5bHlTYlJfMi12eEhHVml3SHFJVlZuR2c2R1dfbHo2dTdpYVpldHdXR3dn0gGWAUFVX3lxTE0zWGhYZUpiTGN3WTM1b3REbXlSVUhreUVIV1dSVEVQek94N3QzWjBrelZwV1ZtTU9IR1JMdjJTUE1tQjZlaG15aGxGVV9FeG1BbzFrbGE5dlFWQlpnNkNvLUtqNFlsSGJiSWI4UDg1amZTUXpKejBSNGt3TXZ3WUZTOE5VUjJXcWFrRG91b0w4MDc0b2RYQQ?oc=5\" target=\"_blank\">Newbility raises 25.1 billion won to expand from delivery robots into humanoids - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
