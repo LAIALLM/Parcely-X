@@ -684,5 +684,25 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMk1Ebk9MamlzbmpGYjRlTlhFaXEzNm9EcmFsWmtCbm1STUgyLUsyNVJhSXctTVlYcW9NRzhLQ2tXZ0Nwc3RiMGxDRTdaOFV2SldjX1BtMC1uN0pZdG5ldFB4WUVtWUFTdmpHUUJxLW5HMy1aeVJvUWdsQm1mRzVzakhkRE04T2w0RG1HTDFHMVpndGt4Z1hpRDZ3?oc=5",
+        "date": "2025-12-09",
+        "title": "Courier Industry Drives Economic Growth with 50% Volume Increase - Meyka",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMk1Ebk9MamlzbmpGYjRlTlhFaXEzNm9EcmFsWmtCbm1STUgyLUsyNVJhSXctTVlYcW9NRzhLQ2tXZ0Nwc3RiMGxDRTdaOFV2SldjX1BtMC1uN0pZdG5ldFB4WUVtWUFTdmpHUUJxLW5HMy1aeVJvUWdsQm1mRzVzakhkRE04T2w0RG1HTDFHMVpndGt4Z1hpRDZ3?oc=5\" target=\"_blank\">Courier Industry Drives Economic Growth with 50% Volume Increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160819/news/e-commerce/blivakker-rolls-out-swipbox-lockers/",
+        "date": "2025-12-09",
+        "title": "Blivakker Rolls Out SwipBox Lockers",
+        "summary": "Blivakker has introduced SwipBox lockers in its Norway and Finland stores, enabling convenient in-store pickup for online orders while boosting foot traffic, reducing staff workload, and paving the way for rapid click-and-collect services.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
