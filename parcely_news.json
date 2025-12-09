@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-11-29",
-        "status": "posted",
-        "tweet": "By 2025, 35% of residents in large \ud83c\uddfa\ud83c\uddf8 cities will order groceries online weekly, projected to hit 50% by 2030.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
-        "date": "2025-11-29",
-        "status": "posted",
-        "tweet": "FedEx infrastructure handles 15 million shipments daily.\n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2025-11-30",
         "status": "posted",
         "tweet": "UPS operates 500+ sorting facilities worldwide, processing 25 million packages daily.\n\n$UPS",
@@ -674,5 +659,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-09",
+        "status": "posted",
+        "tweet": "UPS processes 28 million packages daily across 1,200+ distribution centers worldwide.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
