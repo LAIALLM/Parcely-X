@@ -530,5 +530,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkwtaU5ibW02MjB4c092c3VwSTN2RWpNSF8tN1JKUjlZS0hmZk5mUEZ5U1lwcGJrTk9zQVFGaXhUNk1XWGdxOWRqeDlORUFsUjgxeE5NRE9LWG9GeVhZV19XczJ0ZG82SGJNVE1lcVRUWDltc2ItbDVhbkN1ZFJnUEVQc2NoUGZRNEZ2YWVyS3Ewck1rRkZVMm5YMEt2NExtZXppOE1CWHgyb2FSWVU3VHlvSnhrTVFjRjd6RHJrWmQ5Zw?oc=5",
+        "date": "2025-12-09",
+        "title": "Dubai robot deliveries: Noon and Yango launch AI-powered autonomous service - Arabian Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkwtaU5ibW02MjB4c092c3VwSTN2RWpNSF8tN1JKUjlZS0hmZk5mUEZ5U1lwcGJrTk9zQVFGaXhUNk1XWGdxOWRqeDlORUFsUjgxeE5NRE9LWG9GeVhZV19XczJ0ZG82SGJNVE1lcVRUWDltc2ItbDVhbkN1ZFJnUEVQc2NoUGZRNEZ2YWVyS3Ewck1rRkZVMm5YMEt2NExtZXppOE1CWHgyb2FSWVU3VHlvSnhrTVFjRjd6RHJrWmQ5Zw?oc=5\" target=\"_blank\">Dubai robot deliveries: Noon and Yango launch AI-powered autonomous service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arabian Business</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/cross-border/evri-and-sf-international-to-strengthen-cross-border-and-logistics-collaboration.html",
+        "date": "2025-12-09",
+        "title": "Evri and SF International to strengthen cross-border and logistics collaboration",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/cross-border/evri-and-sf-international-to-strengthen-cross-border-and-logistics-collaboration.html\"><img align=\"left\" alt=\"Evri and SF International to strengthen cross-border and logistics collaboration\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2025/12/SF-International-signing-ceremony1-e1765293805679-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Evri and SF International will \u2018explore opportunities\u2019 to streamline cross-border shipping, improve service efficiency and develop joint solutions for retailers and consumers in the e-commerce market, as part of a memorandum of understanding (MoU) announced on December 8, 2025. There are also plans to assess other international markets beyond China, including the US and Australia.</p>\n<p>The agreement builds on an existing agreement between the UK parcel operator and the Chinese multinational logistics provider, and reflects the growing collaboration between the UK and China in the industry.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/cross-border/evri-and-sf-international-to-strengthen-cross-border-and-logistics-collaboration.html\" rel=\"nofollow\">Continue reading Evri and SF International to strengthen cross-border and logistics collaboration at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
