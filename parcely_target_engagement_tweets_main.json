@@ -269,5 +269,23 @@
         "date": "2025-12-08",
         "relevance_score": 4,
         "action": null
+    },
+    "1998215351746830351": {
+        "tweet_id": "1998215351746830351",
+        "text": "We didn\u2019t give up on science, we gave up on Science\u2122 https://t.co/O0mxHpPjR8",
+        "author_id": "745273",
+        "author_handle": "naval",
+        "date": "2025-12-09",
+        "relevance_score": 2,
+        "action": null
+    },
+    "1998166087536644265": {
+        "tweet_id": "1998166087536644265",
+        "text": "Democracy is a peaceful way of counting swords. \n\nIf it counts anything else, it\u2019s fragile or fake.",
+        "author_id": "745273",
+        "author_handle": "naval",
+        "date": "2025-12-09",
+        "relevance_score": 2,
+        "action": null
     }
 }
