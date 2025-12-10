@@ -737,5 +737,13 @@
         "status": "posted",
         "tweet": "UPS network processes 25 million packages daily via 1,200+ sorting facilities across \ud83c\uddfa\ud83c\uddf8USA and \ud83c\udde8\ud83c\udde6Canada.\n\nEfficiency: 99.8% on-time delivery rate in Q1 2025.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-10",
+        "status": "posted",
+        "tweet": "Top cities by smart access system adoption in buildings, 2025 projection (% of structures):\n\n\ud83c\uddf8\ud83c\uddec Singapore: 75%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 68%\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen: 65%\n\n\ud83c\uddec\ud83c\udde7 London: 62%\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 58%",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
