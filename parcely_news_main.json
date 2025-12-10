@@ -535,5 +535,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-10",
+        "status": "posted",
+        "tweet": "LogiCorp's \ud83c\uddfa\ud83c\uddf8 Dallas hub now handles 750,000 packages daily, boosting supply chain efficiency by 25% in 2025.",
+        "type": "infrastructure"
     }
 ]
