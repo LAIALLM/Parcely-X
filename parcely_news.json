@@ -750,5 +750,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnZiUVo3R21VOVRUQ2lOR19pMTdYcDczcHJ3SUNUM2dUQ09ndnAyYzRrRGFlNHBpTzQ0THlNVnIyUDZjcm1jRUN3c0Nxb19XQllNby1UMElaVG4xVzNDaW5JMFZRS0RkQjJXMGplbGJpRjMtUmlpSGRNMU8ycHlzWnFaaGhybW80M0JIdzl6bElyUQ?oc=5",
+        "date": "2025-12-11",
+        "title": "More Truck Routes Are Coming To A Street Near You - Streetsblog NYC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORnZiUVo3R21VOVRUQ2lOR19pMTdYcDczcHJ3SUNUM2dUQ09ndnAyYzRrRGFlNHBpTzQ0THlNVnIyUDZjcm1jRUN3c0Nxb19XQllNby1UMElaVG4xVzNDaW5JMFZRS0RkQjJXMGplbGJpRjMtUmlpSGRNMU8ycHlzWnFaaGhybW80M0JIdzl6bElyUQ?oc=5\" target=\"_blank\">More Truck Routes Are Coming To A Street Near You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streetsblog NYC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazBBMTdfaEFhT3hoNTdiaUFhVV80djRLdGRsR3JMLWcxeFpXcnhZUGVlaTkxbXRrdnowSkRzNkkxajBwRVpOd3BNYnJMemhtUnhoNVh1ZUF0N2dfd25MVWpJZWRQY3RxdUVnLVEzZVI5MS1VSGNlNV9tUmlzaHZ4X3VQS1QtaHI0aXBjSndHX1Nib0poY2FOTEdCOS1fLTVTOXE5MTl5SXllV2RrT1F1WFhfTEZxUWPSAbwBQVVfeXFMTmtlemJhMjJ5cHA3Q0YyQXhwOEdjOVE3dE1LZm5GOFpqNmxXUGZOaHFiaVNaVVhZbDktYnlBSDljcEF6QW1KS2wzQzZaQXpiMG9HMUZtSURlZFlXOGp2MkZaRmwtSGMxUnR0UUhRUldiT0tsTEhGOHFXbnR5d0pZcjBYMFl5MkM2eHRJYTFiMUJzYk5CNGNnUDZ3Z0Q1d0dmS0pJOWhRdUs4S1ZuV2Izd181YkRZTHBodnVNR3E?oc=5",
+        "date": "2025-12-11",
+        "title": "Amazon\u2019s 10-minute delivery push raises questions for quick-commerce rivals - madhyamamonline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNazBBMTdfaEFhT3hoNTdiaUFhVV80djRLdGRsR3JMLWcxeFpXcnhZUGVlaTkxbXRrdnowSkRzNkkxajBwRVpOd3BNYnJMemhtUnhoNVh1ZUF0N2dfd25MVWpJZWRQY3RxdUVnLVEzZVI5MS1VSGNlNV9tUmlzaHZ4X3VQS1QtaHI0aXBjSndHX1Nib0poY2FOTEdCOS1fLTVTOXE5MTl5SXllV2RrT1F1WFhfTEZxUWPSAbwBQVVfeXFMTmtlemJhMjJ5cHA3Q0YyQXhwOEdjOVE3dE1LZm5GOFpqNmxXUGZOaHFiaVNaVVhZbDktYnlBSDljcEF6QW1KS2wzQzZaQXpiMG9HMUZtSURlZFlXOGp2MkZaRmwtSGMxUnR0UUhRUldiT0tsTEhGOHFXbnR5d0pZcjBYMFl5MkM2eHRJYTFiMUJzYk5CNGNnUDZ3Z0Q1d0dmS0pJOWhRdUs4S1ZuV2Izd181YkRZTHBodnVNR3E?oc=5\" target=\"_blank\">Amazon\u2019s 10-minute delivery push raises questions for quick-commerce rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">madhyamamonline.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
