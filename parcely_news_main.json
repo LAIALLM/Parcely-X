@@ -482,5 +482,15 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 1.5 million packages daily through automated sorting lines, achieving 98% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnZiUVo3R21VOVRUQ2lOR19pMTdYcDczcHJ3SUNUM2dUQ09ndnAyYzRrRGFlNHBpTzQ0THlNVnIyUDZjcm1jRUN3c0Nxb19XQllNby1UMElaVG4xVzNDaW5JMFZRS0RkQjJXMGplbGJpRjMtUmlpSGRNMU8ycHlzWnFaaGhybW80M0JIdzl6bElyUQ?oc=5",
+        "date": "2025-12-11",
+        "title": "More Truck Routes Are Coming To A Street Near You - Streetsblog New York City",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORnZiUVo3R21VOVRUQ2lOR19pMTdYcDczcHJ3SUNUM2dUQ09ndnAyYzRrRGFlNHBpTzQ0THlNVnIyUDZjcm1jRUN3c0Nxb19XQllNby1UMElaVG4xVzNDaW5JMFZRS0RkQjJXMGplbGJpRjMtUmlpSGRNMU8ycHlzWnFaaGhybW80M0JIdzl6bElyUQ?oc=5\" target=\"_blank\">More Truck Routes Are Coming To A Street Near You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streetsblog New York City</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
