@@ -91,7 +91,7 @@ ENGAGEMENT_LIKE_WEIGHT    = 0
 NEWS_TWEETS_LIMIT = 2  # Max news tweets per day
 STAT_TWEETS_LIMIT = 1  # Max statistical tweets per day
 INFRA_TWEETS_LIMIT= 1
-REPLY_TWEETS_LIMIT = 1
+REPLY_TWEETS_LIMIT = 0
 MENTIONS_REPLY_DAILY_LIMIT = 6
 
 # Daily limits for retweets/quotes/likes
