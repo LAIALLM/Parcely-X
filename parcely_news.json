@@ -807,5 +807,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "Global parcel locker networks reach 850,000 units in 2025.\n\nPickup-point networks expand to 4.5 million locations worldwide.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
