@@ -581,5 +581,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWpQZUN3cFFYWlBBenZqV3lKSHBBb2M5bE1iMzd1OUI0Qm1CNmlMRW1wYkxYN19udmlkTV9qbjZSbnhuNTBfaUpNTi1uano2TDM0Yzl5aHZlLURVYUtuZjlvWjgzZXBjRG5yd29ONGE0cFdoak1FZlFSekg1VmFmT3gtdDFTcDA?oc=5",
+        "date": "2025-12-11",
+        "title": "Thoughtful solutions to seasonal stressors - reminetwork.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWpQZUN3cFFYWlBBenZqV3lKSHBBb2M5bE1iMzd1OUI0Qm1CNmlMRW1wYkxYN19udmlkTV9qbjZSbnhuNTBfaUpNTi1uano2TDM0Yzl5aHZlLURVYUtuZjlvWjgzZXBjRG5yd29ONGE0cFdoak1FZlFSekg1VmFmT3gtdDFTcDA?oc=5\" target=\"_blank\">Thoughtful solutions to seasonal stressors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reminetwork.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
