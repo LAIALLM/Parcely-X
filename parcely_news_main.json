@@ -543,5 +543,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Yango launches first commercial rollout of autonomous robots partnering with noon Minutes in Dubai",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "By 2025, smart access systems will secure 55% of urban commercial buildings globally, driven by rising demand for keyless entry and remote monitoring.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
