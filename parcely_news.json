@@ -770,5 +770,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXlNLV85MlNWUVRBTDI0ZnN0dmtCcWg2T3RhTlRzQ1hCaHpZOWpSRGczN0swSTdicWN0eENuV1o4RmJ0VmNGc2xZRUZfMkY5VWlwRkNQNDlGYVM0N0dEQmdzSWFfcjJaZ3hRTGFReWRhUHhocHR2TDVXUXdvcHdhcTlsWlpQaTZfQ3NwRWFXV2p6cVhzekdkZTJKWTNwMmVzU0hhb1FoMnk?oc=5",
+        "date": "2025-12-11",
+        "title": "Amazon Unveils $35 Bn India Investment Plan to Boost E-Commerce and Cloud - Indian Retailer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXlNLV85MlNWUVRBTDI0ZnN0dmtCcWg2T3RhTlRzQ1hCaHpZOWpSRGczN0swSTdicWN0eENuV1o4RmJ0VmNGc2xZRUZfMkY5VWlwRkNQNDlGYVM0N0dEQmdzSWFfcjJaZ3hRTGFReWRhUHhocHR2TDVXUXdvcHdhcTlsWlpQaTZfQ3NwRWFXV2p6cVhzekdkZTJKWTNwMmVzU0hhb1FoMnk?oc=5\" target=\"_blank\">Amazon Unveils $35 Bn India Investment Plan to Boost E-Commerce and Cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
