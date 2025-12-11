@@ -1,81 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-01",
-        "status": "posted",
-        "tweet": "UPS's \ud83c\uddfa\ud83c\uddf8 Louisville Worldport processes 416,000 packages per hour.\n\nThis infrastructure hub handles 24 million daily shipments globally in 2025.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-12-01",
-        "status": "posted",
-        "tweet": "2025 projection: Global parcel lockers reach 1.4 million units.\n\n\ud83c\udde8\ud83c\uddf3 China leads with 550,000 (39%), vs. \ud83c\uddfa\ud83c\uddf8 US at 70,000 (5%).",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": "https://postandparcel.info/160751/news/sustainability/royal-mail-introducing-electric-hgvs-into-our-network-is-a-major-milestone/",
-        "date": "2025-12-01",
-        "title": "Royal Mail: Introducing electric HGVs into our network is a major milestone",
-        "summary": "Royal Mail has rolled out its first fleet of eight electric Heavy Goods Vehicles (eHGVs) at its Midlands and North West Parcel Hubs. The launch is a major step forward in reducing the company\u2019s carbon emissions by replacing diesel-powered 42-tonne trucks with zero-emission alternatives.",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://postandparcel.info/160748/news/retail/scurri-shoppers-are-sending-retailers-a-clear-message-on-ai/",
-        "date": "2025-12-01",
-        "title": "Scurri: Shoppers are sending retailers a clear message on AI",
-        "summary": "New consumer research commissioned by delivery management and post-purchase experience provider\u00a0Scurri\u00a0reveals that while 60% believe AI enhances the shopping experience, a striking 81% say they would feel uneasy if AI replaced human jobs in retail and logistics.",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNenUtcUdPR2Q4bFlGMFg3WFh2aTZVdFNuWGs1VGZWZVkxWXZXUkZnVWVoUkdHb3g4MmpDVzUzM2p0OC1UVG1XMHFNM2hVRm5EU0Fleng1eklVR3B5YUdPQUpNNnctRk5LRUI5TVc1dTlKVkdpUWNDYkh6andHSC1WRmdqOV9HNnh6VFZiR3pYV2hvbkVfLTRRM3RJb2hWUnJ5bU0zd25lRHRwTVoxZThtUGlySQ?oc=5",
-        "date": "2025-12-01",
-        "title": "Consumers want flexibility, reliability in online purchase shipping - Retail Customer Experience",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNenUtcUdPR2Q4bFlGMFg3WFh2aTZVdFNuWGs1VGZWZVkxWXZXUkZnVWVoUkdHb3g4MmpDVzUzM2p0OC1UVG1XMHFNM2hVRm5EU0Fleng1eklVR3B5YUdPQUpNNnctRk5LRUI5TVc1dTlKVkdpUWNDYkh6andHSC1WRmdqOV9HNnh6VFZiR3pYV2hvbkVfLTRRM3RJb2hWUnJ5bU0zd25lRHRwTVoxZThtUGlySQ?oc=5\" target=\"_blank\">Consumers want flexibility, reliability in online purchase shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Customer Experience</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/low-cost-car-exports-driving-market-share-growth-for-china/",
-        "date": "2025-12-01",
-        "title": "Low-cost car exports driving market share growth for China",
-        "summary": "<p>Chinese car exports have beaten challenges from tariffs imposed by the US and EU and are set to hit 6m units this year, a new record, beating more than 5m overseas sales in 2024.<br />\nClarksons Research shows Chinese carmakers have increased sales in the Middle East, and to circumvent EU tariffs on electric vehicles (EVs), they have pivoted towards hybrid models not subject to these tariffs.<br />\nClarksons analyst Yan Zhang said: \u201cBroadly, ...</p>\n<p>The post <a href=\"https://theloadstar.com/low-cost-car-exports-driving-market-share-growth-for-china/\">Low-cost car exports driving market share growth for China</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQNHVUY1ktcEl0ZEJRT05KVUgwM0N4bUlpYTNSaElzODVMYktoa0xuWmpFTzlCX0NVS0ZTSWVXN1VpeFhpR3h1ZXZLa2d0V1lONFF3Sm1CSXZsRS16Z2Znem9UWVJVWXFrVFJ5M25Ldk5EemFndzZkbUZTRlk2ZGtzUmNNNlAwRG1NRzdTcTFUSmhOdFlZUml6bEdnWEp5Skt3MmpzWUhJYUE1T0NSNzJ3VDU0VEZZc19rQzBSUTZsV2lwWGFvd3ZxZUVsc0FUdzhnbldneFFoV09HQURHeWYwWkJVU3p3MFBUMzNwWWRoU1pHN05RUEdNalNsWGstOEZiTDg3V01XcDlyRUJHYVlGY1F2UEpKcFU1OTI2R3FSSFRPUWF6RXBnUkpLMGw4QmZFb0VBQXBpQVZzWV9KQVJleVAzQ2FuQzNxVmRkbw?oc=5",
-        "date": "2025-12-01",
-        "title": "Fresh Food E-commerce Market to Reach USD 600 Billion by 2033 Driven by Digital Grocery Adoption and Evolving Consumer Trends - Market Research Intellect - WV News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQNHVUY1ktcEl0ZEJRT05KVUgwM0N4bUlpYTNSaElzODVMYktoa0xuWmpFTzlCX0NVS0ZTSWVXN1VpeFhpR3h1ZXZLa2d0V1lONFF3Sm1CSXZsRS16Z2Znem9UWVJVWXFrVFJ5M25Ldk5EemFndzZkbUZTRlk2ZGtzUmNNNlAwRG1NRzdTcTFUSmhOdFlZUml6bEdnWEp5Skt3MmpzWUhJYUE1T0NSNzJ3VDU0VEZZc19rQzBSUTZsV2lwWGFvd3ZxZUVsc0FUdzhnbldneFFoV09HQURHeWYwWkJVU3p3MFBUMzNwWWRoU1pHN05RUEdNalNsWGstOEZiTDg3V01XcDlyRUJHYVlGY1F2UEpKcFU1OTI2R3FSSFRPUWF6RXBnUkpLMGw4QmZFb0VBQXBpQVZzWV9KQVJleVAzQ2FuQzNxVmRkbw?oc=5\" target=\"_blank\">Fresh Food E-commerce Market to Reach USD 600 Billion by 2033 Driven by Digital Grocery Adoption and Evolving Consumer Trends - Market Research Intellect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/royal-mail-rolls-out-first-electric-hgv-fleet-at-parcel-hubs.html",
-        "date": "2025-12-01",
-        "title": "Royal Mail rolls out first electric HGV fleet at parcel hubs",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/royal-mail-rolls-out-first-electric-hgv-fleet-at-parcel-hubs.html\"><img align=\"left\" alt=\"Royal Mail rolls out first electric HGV fleet at parcel hubs\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2025/12/eHGV1.JPG-scaled-e1764601085249-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Royal Mail has deployed its first fleet of electric heavy goods vehicles (eHGVs) as part of its plan to cut emissions across its national logistics network and progress toward its 2040 net zero target.</p>\n<p>Eight 42 metric ton DAF XD 350E trucks have entered service at the company\u2019s Midlands Parcel Hub in Daventry and its North West Parcel Hub in Warrington. The vehicles will operate on middle-mile routes between parcel hubs and mail centers, running continuously throughout the day.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/royal-mail-rolls-out-first-electric-hgv-fleet-at-parcel-hubs.html\" rel=\"nofollow\">Continue reading Royal Mail rolls out first electric HGV fleet at parcel hubs at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-02",
         "status": "posted",
         "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse processes 750,000 parcels daily in 2025, boosting North American supply chain efficiency by 22%.",
@@ -550,5 +475,12 @@
         "tweet": "In 2025, global smart residential buildings total 659 million units.\n\nBy 2030, projections show this doubling to 1.3 billion units.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 1.5 million packages daily through automated sorting lines, achieving 98% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
