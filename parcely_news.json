@@ -825,5 +825,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dvcjl4M2VWMkF3WVZPNjg0LXduVEczUHFpQkppVjZaclR0aDFWR0NrYVhrWGJhQnMyaVZsOFZjcThCZUlkVko0WHdBZnVxT2pOMTZJMzBkRW1RZm5PWldQLTZ6cDVJUUpWdVlKVndDdlYzc19oTVlNYm9PaElTR3ByZWNJTUlLUDYzcDA0OUlqa3ljemdlS2t1MmNpMFpF?oc=5",
+        "date": "2025-12-11",
+        "title": "Consumers want fast and cheap delivery. What does that mean for Singapore's parcel delivery workers? - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dvcjl4M2VWMkF3WVZPNjg0LXduVEczUHFpQkppVjZaclR0aDFWR0NrYVhrWGJhQnMyaVZsOFZjcThCZUlkVko0WHdBZnVxT2pOMTZJMzBkRW1RZm5PWldQLTZ6cDVJUUpWdVlKVndDdlYzc19oTVlNYm9PaElTR3ByZWNJTUlLUDYzcDA0OUlqa3ljemdlS2t1MmNpMFpF?oc=5\" target=\"_blank\">Consumers want fast and cheap delivery. What does that mean for Singapore's parcel delivery workers?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
