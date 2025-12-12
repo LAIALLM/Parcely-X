@@ -667,5 +667,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Serve Robotics builds 2,000 autonomous delivery robots, creating the largest sidewalk delivery fleet in the US.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-12",
+        "status": "posted",
+        "tweet": "Porch piracy surges in \ud83c\uddfa\ud83c\uddf8 cities: 2025 projections show 320 million stolen packages nationwide, up 23% from 2023, costing $12 billion.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
