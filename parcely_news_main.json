@@ -626,5 +626,46 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEdIWmltR1N5bGZZU3ZnN2JNNkNPbUhmSjRsT3diRzZTS0xlWkZaYjdQNkRwYW1BNW5yNTVmRjNvNVJ3bTNnZ3VIdmE5SHNuRzd1bEJyRnpESlRORXZpb2lXbzhBeEtGdW5mczktS051MmpNbENtR2RBTGNjMjJPRkNFelJMR3BsckxzX0lNZ3JoeFpsT1M2dVBzVGd0QlRRUkRrLTF0WERZLTVodXJvaFJsb19Hd2VVdi1La2V5aTlWdmR2MmZvRjBIZ3prZWVjRm4wSW9SNHVzOTNIN1JkWnRQc0xIdWpva0gtNGVLNmJUSTYzYzBldG1XdUFaMWtpeW8wTWRwVG4yZw?oc=5",
+        "date": "2025-12-12",
+        "title": "Serve Robotics Builds 2,000 Autonomous Delivery Robots, Creating Largest Sidewalk Delivery Fleet in the U.S. - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEdIWmltR1N5bGZZU3ZnN2JNNkNPbUhmSjRsT3diRzZTS0xlWkZaYjdQNkRwYW1BNW5yNTVmRjNvNVJ3bTNnZ3VIdmE5SHNuRzd1bEJyRnpESlRORXZpb2lXbzhBeEtGdW5mczktS051MmpNbENtR2RBTGNjMjJPRkNFelJMR3BsckxzX0lNZ3JoeFpsT1M2dVBzVGd0QlRRUkRrLTF0WERZLTVodXJvaFJsb19Hd2VVdi1La2V5aTlWdmR2MmZvRjBIZ3prZWVjRm4wSW9SNHVzOTNIN1JkWnRQc0xIdWpva0gtNGVLNmJUSTYzYzBldG1XdUFaMWtpeW8wTWRwVG4yZw?oc=5\" target=\"_blank\">Serve Robotics Builds 2,000 Autonomous Delivery Robots, Creating Largest Sidewalk Delivery Fleet in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Serve Robotics builds 2,000 autonomous delivery robots, creating the largest sidewalk delivery fleet in the US."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFNueE9kS3dfZ1NwR3ZFZVdsT3B4aWJjT2FIb2ZJcTZvdm5yNlIxNHJHbEM2S0pxRkVld3BCQ2tIUG1scF91dlpRVUtYcHpEQ2FKY0R5cy03TWQ3VG5GWkFoaERkbHUwcmJfVzJ5R1Q1VXJZdU4zeFNiUWJQYVNjeVVVbHZhZkR2RlJsT0pvVWFqY1ExbDU1QTBrNEtPMHY0UUhzM0V1eU16UkF6bVlHd0dyODlRaXNCVnc?oc=5",
+        "date": "2025-12-12",
+        "title": "Serve Robotics (NASDAQ: SERV) grows fleet twentyfold to 2,000 U.S. delivery robots - Stock Titan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFNueE9kS3dfZ1NwR3ZFZVdsT3B4aWJjT2FIb2ZJcTZvdm5yNlIxNHJHbEM2S0pxRkVld3BCQ2tIUG1scF91dlpRVUtYcHpEQ2FKY0R5cy03TWQ3VG5GWkFoaERkbHUwcmJfVzJ5R1Q1VXJZdU4zeFNiUWJQYVNjeVVVbHZhZkR2RlJsT0pvVWFqY1ExbDU1QTBrNEtPMHY0UUhzM0V1eU16UkF6bVlHd0dyODlRaXNCVnc?oc=5\" target=\"_blank\">Serve Robotics (NASDAQ: SERV) grows fleet twentyfold to 2,000 U.S. delivery robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/cma-cgms-nhava-sheva-terminal-tackles-landside-congestion/",
+        "date": "2025-12-12",
+        "title": "CMA CGM\u2019s Nhava Sheva terminal tackles landside congestion",
+        "summary": "<p>The pace of container trucks into India&#8217;s Nhava Sheva port (JNPA) remains a trade concern, as volumes swing for any terminal.<br />\nIn the past few weeks, Nhava Sheva Freeport Terminal (NSFT) \u2014 a joint-venture between CMA CGM (CMA Terminals) and local partner JM Baxi Group, now part of Hanseatic Global Terminals, for concession rights won in 2022 \u2014 has incurred the wrath of truck owners over long turnaround delays for vehicles.<br />\nThe ...</p>\n<p>The post <a href=\"https://theloadstar.com/cma-cgms-nhava-sheva-terminal-tackles-landside-congestion/\">CMA CGM&#8217;s Nhava Sheva terminal tackles landside congestion</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEdIWmltR1N5bGZZU3ZnN2JNNkNPbUhmSjRsT3diRzZTS0xlWkZaYjdQNkRwYW1BNW5yNTVmRjNvNVJ3bTNnZ3VIdmE5SHNuRzd1bEJyRnpESlRORXZpb2lXbzhBeEtGdW5mczktS051MmpNbENtR2RBTGNjMjJPRkNFelJMR3BsckxzX0lNZ3JoeFpsT1M2dVBzVGd0QlRRUkRrLTF0WERZLTVodXJvaFJsb19Hd2VVdi1La2V5aTlWdmR2MmZvRjBIZ3prZWVjRm4wSW9SNHVzOTNIN1JkWnRQc0xIdWpva0gtNGVLNmJUSTYzYzBldG1XdUFaMWtpeW8wTWRwVG4yZw?oc=5",
+        "date": "2025-12-12",
+        "title": "Serve Robotics Builds 2,000 Autonomous Delivery Robots, Creating Largest Sidewalk Delivery Fleet in the U.S. - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEdIWmltR1N5bGZZU3ZnN2JNNkNPbUhmSjRsT3diRzZTS0xlWkZaYjdQNkRwYW1BNW5yNTVmRjNvNVJ3bTNnZ3VIdmE5SHNuRzd1bEJyRnpESlRORXZpb2lXbzhBeEtGdW5mczktS051MmpNbENtR2RBTGNjMjJPRkNFelJMR3BsckxzX0lNZ3JoeFpsT1M2dVBzVGd0QlRRUkRrLTF0WERZLTVodXJvaFJsb19Hd2VVdi1La2V5aTlWdmR2MmZvRjBIZ3prZWVjRm4wSW9SNHVzOTNIN1JkWnRQc0xIdWpva0gtNGVLNmJUSTYzYzBldG1XdUFaMWtpeW8wTWRwVG4yZw?oc=5\" target=\"_blank\">Serve Robotics Builds 2,000 Autonomous Delivery Robots, Creating Largest Sidewalk Delivery Fleet in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Serve Robotics builds 2,000 autonomous delivery robots, creating the largest sidewalk delivery fleet in the US.",
+        "type": "news"
     }
 ]
