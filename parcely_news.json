@@ -865,5 +865,25 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHNRQk56emNqWkRPajF0UkpLMUd5aFBvU2hWWXJLVS1rWnEtVmFSUUJEV2NPdXE0UHR6WUxPZTZfMWRrYXlrX1BqZWhLaDE3UjdRMlVPSmxRX2dSdlEzU1M1SFJhSExrNlp4MTEyaFk0M2VpUUxmRDl2c21HdUpFZml3?oc=5",
+        "date": "2025-12-12",
+        "title": "Customers discover pitfalls of quick commerce - Media India Group",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHNRQk56emNqWkRPajF0UkpLMUd5aFBvU2hWWXJLVS1rWnEtVmFSUUJEV2NPdXE0UHR6WUxPZTZfMWRrYXlrX1BqZWhLaDE3UjdRMlVPSmxRX2dSdlEzU1M1SFJhSExrNlp4MTEyaFk0M2VpUUxmRDl2c21HdUpFZml3?oc=5\" target=\"_blank\">Customers discover pitfalls of quick commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Media India Group</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/big-restructure-underway-at-prominent-private-forwarder-in-germany/",
+        "date": "2025-12-12",
+        "title": "Big restructure underway at prominent private forwarder in Germany",
+        "summary": "<p>&#8220;It&#8217;s a shit show out there.&#8221;<br />\nEverywhere.<br />\nHappy Fridays?<br />\nThose recent remarks from senior sources perfectly sum up a week of extensive talk at my end about freight forwarding and the power of people (or the lack thereof, nowadays), once the most valuable asset in the asset-light subset of transport and logistics (T&#38;L).<br />\nSeveral market leaders in their fields from east to west, from across the time time zones have shared their concern, just ...</p>\n<p>The post <a href=\"https://theloadstar.com/big-restructure-underway-at-prominent-private-forwarder-in-germany/\">Big restructure underway at prominent private forwarder in Germany</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
