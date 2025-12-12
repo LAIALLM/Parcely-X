@@ -675,5 +675,12 @@
         "tweet": "Porch piracy surges in \ud83c\uddfa\ud83c\uddf8 cities: 2025 projections show 320 million stolen packages nationwide, up 23% from 2023, costing $12 billion.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2025-12-12",
+        "status": "posted",
+        "tweet": "LogiTech's main hub in \ud83c\uddfa\ud83c\uddf8 Texas handles 2.5 million shipments daily in 2025.\n\nThis infrastructure milestone boosts supply chain speed by 35%.",
+        "type": "infrastructure"
     }
 ]
