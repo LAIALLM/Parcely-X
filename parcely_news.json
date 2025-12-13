@@ -840,5 +840,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHNoUS1icldOUFpoNU5pa0E2RTJQWEw5Nmc3dVJlTF90a2p5SDEyNHY2dmtkUEY4SGszT2xxTFZaVC1nUmRBVmxZNHlnNTFybEJFd0kyekhvR3c2Q2NENmRTTjlMV1dLR3hSbDZrUnp5TkxpUnVIV2xMMEdhR1FOYl9PZExhZTJYb0J3TmJQQTVmVGxEMmlZ?oc=5",
+        "date": "2025-12-13",
+        "title": "Serve Robotics Reaches 2K Robots in its Delivery Fleet - AI Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHNoUS1icldOUFpoNU5pa0E2RTJQWEw5Nmc3dVJlTF90a2p5SDEyNHY2dmtkUEY4SGszT2xxTFZaVC1nUmRBVmxZNHlnNTFybEJFd0kyekhvR3c2Q2NENmRTTjlMV1dLR3hSbDZrUnp5TkxpUnVIV2xMMEdhR1FOYl9PZExhZTJYb0J3TmJQQTVmVGxEMmlZ?oc=5\" target=\"_blank\">Serve Robotics Reaches 2K Robots in its Delivery Fleet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
