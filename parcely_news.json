@@ -850,5 +850,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-13",
+        "status": "posted",
+        "tweet": "FedEx logistics infrastructure handles 15 million packages daily across 220 countries.\n\nKey metric: 99.8% on-time delivery rate globally.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
