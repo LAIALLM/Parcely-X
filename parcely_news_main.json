@@ -657,5 +657,13 @@
         "status": "posted",
         "tweet": "LogiTech's main hub in \ud83c\uddfa\ud83c\uddf8 Texas handles 2.5 million shipments daily in 2025.\n\nThis infrastructure milestone boosts supply chain speed by 35%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-13",
+        "status": "posted",
+        "tweet": "Delivery vans in dense cities like \ud83c\uddfa\ud83c\uddf8 New York now account for 18% of road traffic in 2025, up from 12% in 2023.\n\nThis growth is projected to add 25% more congestion by 2030.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
