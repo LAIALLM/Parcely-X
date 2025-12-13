@@ -672,5 +672,26 @@
         "status": "posted",
         "tweet": "LogiFreight's global network hit 150 million daily parcel scans in 2025, powering seamless deliveries across 50 countries. Infrastructure uptime: 99.7%.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm1SNWNqUWpsRFlUczU3MHNkZ19YV0N4OUNwVDRab3hONEItOEQzMmd2X2cxaGljZmdGNnp2dHdScWtXRkZuaEtUSW84YWx0RGExTEtBT0wxUXpiMkZSVUs3U3U4elVEa3oyVzV2WnJXRzNuN0hjbGktWUJvMDZOYk9WNzI0M0ZGMjFPWDZZUXJvTnhscU5QbW9DRHZZdHdKbFRxQnluQ24?oc=5",
+        "date": "2025-12-13",
+        "title": "Walmart expands drone delivery to Atlanta, ramps up US rollout - newskarnataka.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm1SNWNqUWpsRFlUczU3MHNkZ19YV0N4OUNwVDRab3hONEItOEQzMmd2X2cxaGljZmdGNnp2dHdScWtXRkZuaEtUSW84YWx0RGExTEtBT0wxUXpiMkZSVUs3U3U4elVEa3oyVzV2WnJXRzNuN0hjbGktWUJvMDZOYk9WNzI0M0ZGMjFPWDZZUXJvTnhscU5QbW9DRHZZdHdKbFRxQnluQ24?oc=5\" target=\"_blank\">Walmart expands drone delivery to Atlanta, ramps up US rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newskarnataka.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Walmart expands drone delivery to Atlanta, accelerating nationwide US rollout"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm1SNWNqUWpsRFlUczU3MHNkZ19YV0N4OUNwVDRab3hONEItOEQzMmd2X2cxaGljZmdGNnp2dHdScWtXRkZuaEtUSW84YWx0RGExTEtBT0wxUXpiMkZSVUs3U3U4elVEa3oyVzV2WnJXRzNuN0hjbGktWUJvMDZOYk9WNzI0M0ZGMjFPWDZZUXJvTnhscU5QbW9DRHZZdHdKbFRxQnluQ24?oc=5",
+        "date": "2025-12-13",
+        "title": "Walmart expands drone delivery to Atlanta, ramps up US rollout - newskarnataka.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm1SNWNqUWpsRFlUczU3MHNkZ19YV0N4OUNwVDRab3hONEItOEQzMmd2X2cxaGljZmdGNnp2dHdScWtXRkZuaEtUSW84YWx0RGExTEtBT0wxUXpiMkZSVUs3U3U4elVEa3oyVzV2WnJXRzNuN0hjbGktWUJvMDZOYk9WNzI0M0ZGMjFPWDZZUXJvTnhscU5QbW9DRHZZdHdKbFRxQnluQ24?oc=5\" target=\"_blank\">Walmart expands drone delivery to Atlanta, ramps up US rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newskarnataka.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Walmart expands drone delivery to Atlanta, ramps up US rollout",
+        "type": "news"
     }
 ]
