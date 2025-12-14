@@ -605,5 +605,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC last-mile delivery costs $14 per parcel in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai averages $3 per parcel.\n\nThis $11 gap highlights urban logistics challenges worldwide.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2025-12-14",
+        "status": "posted",
+        "tweet": "LogiTrans handles 1.5 million packages daily through its \ud83c\uddfa\ud83c\uddf8 US network.\n\nThis infrastructure supports 98% on-time delivery across 50 states.",
+        "type": "infrastructure"
     }
 ]
