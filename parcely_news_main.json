@@ -1,102 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-04",
-        "status": "posted",
-        "tweet": "By 2025, porch piracy in major US \ud83c\uddfa\ud83c\uddf8 cities will hit 120 million packages stolen annually, costing $19 billion \u2013 up 28% from 2023 trends.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": null,
-        "date": "2025-12-04",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Chicago distribution center handles 500,000 parcels daily in 2025, achieving 98% on-time delivery via AI routing.\n\nEfficiency metric: 15% reduction in fuel use per shipment compared to 2024 baselines.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5",
-        "date": "2025-12-04",
-        "title": "Amazon explores cutting ties with USPS, building its own delivery network - The Washington Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5\" target=\"_blank\">Amazon explores cutting ties with USPS, building its own delivery network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon explores cutting ties with USPS to build its own delivery network"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXdzUlJfMGpaQkJCU0JGTGhzbnRSVURPblBFdUd5S2xQZFo1WTlPeVdWWDBYREM3T21lS3U4R0tVc3hSQWR0d0hVY1BGQkJuSzJ5cUt5QU0yTFJhNTcyZzg0c19UeXZKTnRVQUF0b0QydHJZTUlTLU5XMjJMN3FfeWw5VUtqUDgyVGF6TWpJR1o2ODJ5bnlGaUtNM3JuRjk3Qm9qdTlqQWppVFZJVnVWUzhqdjdqNENWTjMyUGFQQmVqdjBkbzNxaTZ5U2hVVmk0NGFGZXNRdTl1Z0ZQaEZWMHF6TEQzSGt00gHwAUFVX3lxTE91NDFhS2JpNnJmamxIS1VESFZ3UUtSeXlIaGR4Q20xZVRyeWFrQ3dkUHJrb1IxdldTRWtIaFRqNk51M0VDazlEOGJLV2I0TFlNRVA1Uy0xNGl0eFlOOEdWNmxXRk53UVFDa3BmT3JBNDlZVVc3di05U0ItY3pfbUQ3b3k3VFBYaXFzeVE0bVpPLXJycHdTQUNhMERNLW95eVVDajhGQnlGVWRMRElpU2xYZlRfdXBtNDFXRU16V2JWSGt6bkJzZi1iZE5mMzNuQ1ZBY1NBa3ZZX1lqbGk2WUVKZlJqc0tNd1lTel9OUlJVQQ?oc=5",
-        "date": "2025-12-04",
-        "title": "Amazon\u2019s is Exploring a Plan to End USPS Deliveries, A Move That Could Threaten The Future of The United States Postal Service - | Cord Cutters News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXdzUlJfMGpaQkJCU0JGTGhzbnRSVURPblBFdUd5S2xQZFo1WTlPeVdWWDBYREM3T21lS3U4R0tVc3hSQWR0d0hVY1BGQkJuSzJ5cUt5QU0yTFJhNTcyZzg0c19UeXZKTnRVQUF0b0QydHJZTUlTLU5XMjJMN3FfeWw5VUtqUDgyVGF6TWpJR1o2ODJ5bnlGaUtNM3JuRjk3Qm9qdTlqQWppVFZJVnVWUzhqdjdqNENWTjMyUGFQQmVqdjBkbzNxaTZ5U2hVVmk0NGFGZXNRdTl1Z0ZQaEZWMHF6TEQzSGt00gHwAUFVX3lxTE91NDFhS2JpNnJmamxIS1VESFZ3UUtSeXlIaGR4Q20xZVRyeWFrQ3dkUHJrb1IxdldTRWtIaFRqNk51M0VDazlEOGJLV2I0TFlNRVA1Uy0xNGl0eFlOOEdWNmxXRk53UVFDa3BmT3JBNDlZVVc3di05U0ItY3pfbUQ3b3k3VFBYaXFzeVE0bVpPLXJycHdTQUNhMERNLW95eVVDajhGQnlGVWRMRElpU2xYZlRfdXBtNDFXRU16V2JWSGt6bkJzZi1iZE5mMzNuQ1ZBY1NBa3ZZX1lqbGk2WUVKZlJqc0tNd1lTel9OUlJVQQ?oc=5\" target=\"_blank\">Amazon\u2019s is Exploring a Plan to End USPS Deliveries, A Move That Could Threaten The Future of The United States Postal Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| Cord Cutters News</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/comment-red-sea-threat-is-to-vessels-not-cargo-so-insurers-will-dictate-return/",
-        "date": "2025-12-04",
-        "title": "Comment: Red Sea threat is to vessels not cargo, so insurers will dictate return",
-        "summary": "<p>\u201cNice of carriers to think of shippers\u201d, a source mockingly said after The Loadstar suggested the Ocean Alliance\u2019s decision to only run through Suez on backhaul routes could be to protect the cargo that would be travelling on headhaul transits.<br />\nAs we reported yesterday, a customer advisory from Ocean Alliance member OOCL stated that, what it terms the LL4 service \u2013 known as NEU4 by the Ocean Alliance and FAL1 by ...</p>\n<p>The post <a href=\"https://theloadstar.com/comment-red-sea-threat-is-to-vessels-not-cargo-so-insurers-will-dictate-return/\">Comment: Red Sea threat is to vessels not cargo, so insurers will dictate return</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/ceasefire-and-release-of-crew-held-hostage-but-full-suez-return-still-tentative/",
-        "date": "2025-12-04",
-        "title": "Ceasefire and release of crew held hostage, but full Suez return still \u2018tentative\u2019",
-        "summary": "<p>Following the news that a second Ocean Alliance service is to resume Suez Canal transits on its backhaul leg to Asia, stakeholders have been given further hope that a full return to the Red Sea region could be on the horizon. \u00a0<br />\nThe Yemeni Houthi militia has released nine\u00a0Filipino seafarers from the Greek bulk vessel attacked in the Red Sea in July. \u00a0<br />\nAfter mediation with Oman and the Philippines Department of ...</p>\n<p>The post <a href=\"https://theloadstar.com/ceasefire-and-release-of-crew-held-hostage-but-full-suez-return-still-tentative/\">Ceasefire and release of crew held hostage, but full Suez return still &#8216;tentative&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5",
-        "date": "2025-12-04",
-        "title": "Amazon explores cutting ties with USPS, building its own delivery network - The Washington Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5VYWlJNDg4Q3FxREFUSWUwVGRjQlhjSUN1Y2Z4aXR5ZWE0eWZodER4QlNtX0NtcTJ1QkEtTFlLZ29xaTlQRFd3SHNNVjJNVHVBVkxoX2Z4UGhCQ1FHc1F6UmFMOS15a2MyQnptWVM5UVItQmthTDVtU2s2aUE?oc=5\" target=\"_blank\">Amazon explores cutting ties with USPS, building its own delivery network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon eyes ditching USPS partnership to develop its own nationwide delivery system",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHNNRjhBMi1jMndiUUhVdVRHRC1HU1d5aVZTU2tIZjF6aDdMT2RMREFoVUxfenhlZ3VBeDBXUFktMUdkSjJrbFVoWUVicnpVejVIYWxBc2Zmb1ByX2EyeTJfeWhMQkpWQjBJTGF4SktfbVByTVJFblE3eFA4eWVpZmUzVHVaeUVn?oc=5",
-        "date": "2025-12-04",
-        "title": "SpeedX opens e-commerce and freight hub near Chicago Airport - Cargo Airports & Airline Services",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHNNRjhBMi1jMndiUUhVdVRHRC1HU1d5aVZTU2tIZjF6aDdMT2RMREFoVUxfenhlZ3VBeDBXUFktMUdkSjJrbFVoWUVicnpVejVIYWxBc2Zmb1ByX2EyeTJfeWhMQkpWQjBJTGF4SktfbVByTVJFblE3eFA4eWVpZmUzVHVaeUVn?oc=5\" target=\"_blank\">SpeedX opens e-commerce and freight hub near Chicago Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cargo Airports & Airline Services</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGZ0NMYW1OZV9GdGJZLTRXYzFzNUhXMHJ5OXpwZ0k5MGN4YVdzajVzQXhkcFExR3ZBYTF1ZkZfalluOTJCbTJGLWxTNzZjY0Y5VFdKemNMaDRkc3k3ekFDSXZxQWNYbk5nQXoxZ3pEc184RlJRYXJvdU1LQXA2QQ?oc=5",
-        "date": "2025-12-04",
-        "title": "Denmark says goodbye to letter delivery - FreightWaves",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBGZ0NMYW1OZV9GdGJZLTRXYzFzNUhXMHJ5OXpwZ0k5MGN4YVdzajVzQXhkcFExR3ZBYTF1ZkZfalluOTJCbTJGLWxTNzZjY0Y5VFdKemNMaDRkc3k3ekFDSXZxQWNYbk5nQXoxZ3pEc184RlJRYXJvdU1LQXA2QQ?oc=5\" target=\"_blank\">Denmark says goodbye to letter delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pVVNMem5uMEdzaWNTN2dnUjJzUHdfNG1Pb1plUmJ3ampmdG9WZWtRMWo2aFpBYUZuOWFGQVkyM0g2dWc3aUZnYzlxbjh2U283VERPYXV2ZUtSa0hKR1RaSFM0ajdxUUw3aGUtUUllZGRfZVZhRHJ3?oc=5",
-        "date": "2025-12-04",
-        "title": "Amazon Considering Major Change to Prime Delivery: Report - Newsweek",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1pVVNMem5uMEdzaWNTN2dnUjJzUHdfNG1Pb1plUmJ3ampmdG9WZWtRMWo2aFpBYUZuOWFGQVkyM0g2dWc3aUZnYzlxbjh2U283VERPYXV2ZUtSa0hKR1RaSFM0ajdxUUw3aGUtUUllZGRfZVZhRHJ3?oc=5\" target=\"_blank\">Amazon Considering Major Change to Prime Delivery: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-05",
         "status": "posted",
         "tweet": "SwiftLogistics manages 500 warehouses globally, handling 2 million packages daily across its network.\n\nIn \ud83c\uddfa\ud83c\uddf8USA alone, the system processes 800,000 units per day with 99% on-time delivery.",
@@ -693,5 +597,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Walmart expands drone delivery to Atlanta, ramps up US rollout",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC last-mile delivery costs $14 per parcel in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai averages $3 per parcel.\n\nThis $11 gap highlights urban logistics challenges worldwide.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
