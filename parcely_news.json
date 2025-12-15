@@ -664,5 +664,13 @@
         "status": "posted",
         "tweet": "FedEx $FDX infrastructure metric:\n\n\ud83c\uddfa\ud83c\uddf8 Memphis Superhub handles 1.4 million packages daily in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-15",
+        "status": "posted",
+        "tweet": "By 2025, global smart residential buildings will total 577 million units,  \ncompared to just 250 million smart office buildings.  \n\nThis gap highlights residential adoption leading the charge into 2030.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
