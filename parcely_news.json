@@ -682,5 +682,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG9kRkI3c3VoQ2FibjljeXZIcVBnZUZzWXl0WW5JNmFCZjJhUXEyU2N2bVpqTXN4MEdYamk0ZF9RZlpjZk45eHpwS0M4cEN0SzVEMk8yeFdId1hsN3JKUkV0WFMzUmMxNFhldlQ2UkdqTWlxaEwyb1BQdGdKVW9OazYweElKMGpoTWIxRVdfWm1jZFk?oc=5",
+        "date": "2025-12-15",
+        "title": "LoveLocal launches its own dedicated delivery partner network - MarcaMoney",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG9kRkI3c3VoQ2FibjljeXZIcVBnZUZzWXl0WW5JNmFCZjJhUXEyU2N2bVpqTXN4MEdYamk0ZF9RZlpjZk45eHpwS0M4cEN0SzVEMk8yeFdId1hsN3JKUkV0WFMzUmMxNFhldlQ2UkdqTWlxaEwyb1BQdGdKVW9OazYweElKMGpoTWIxRVdfWm1jZFk?oc=5\" target=\"_blank\">LoveLocal launches its own dedicated delivery partner network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarcaMoney</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/a-letter-to-hong-kong-seeing-clearly-through-the-fog/",
+        "date": "2025-12-15",
+        "title": "A Letter to Hong Kong: Seeing Clearly Through the Fog",
+        "summary": "<p>Our Adam Clermont writes:<br />\nToday, the Court of Final Appeal delivered its verdict in the case of Jimmy Lai. By tonight, the world will be full of reaction. Some will call it justice. Others will call it persecution. Social media will overflow with outrage, vindication, grief, and triumph. And Hong Kong will feel, once again, like a city at war with itself. Before you react, I ask you to pause. Just ...</p>\n<p>The post <a href=\"https://theloadstar.com/a-letter-to-hong-kong-seeing-clearly-through-the-fog/\">A Letter to Hong Kong: Seeing Clearly Through the Fog</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
