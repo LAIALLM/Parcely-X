@@ -574,5 +574,13 @@
         "status": "posted",
         "tweet": "LogiCore Logistics hit 1.5 million daily package scans in 2025.\n\nIts central hub in \ud83c\uddfa\ud83c\uddf8 Chicago handles 40% of North American volume, boosting on-time delivery to 98%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-15",
+        "status": "posted",
+        "tweet": "By 2025, 35% of urban buildings in \ud83c\uddfa\ud83c\uddf8 will have smart access systems like app-controlled doors.\n\nThat's double the 18% adoption rate seen in 2024, with projections hitting 60% by 2030.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
