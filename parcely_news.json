@@ -1,112 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-05",
-        "status": "posted",
-        "tweet": "UPS processes 22 million packages daily through its 1,200+ facilities worldwide in 2025.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-12-05",
-        "status": "posted",
-        "tweet": "In 2025, urban residents in \ud83c\uddfa\ud83c\uddf8 large cities average 4 food deliveries per month.\n\nThat's 50% more than the 2.7 online grocery orders per month.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": "https://theloadstar.com/reuters-amazon-pays-italy-e180m-euros-to-end-tax-labour-probe-sources-say/",
-        "date": "2025-12-05",
-        "title": "REUTERS: Amazon pays Italy \u20ac180m euros to end tax, labour probe, sources say",
-        "summary": "<p>REUTERS reports:<br />\nAn Italian unit of e-commerce giant Amazon has paid compensation and scrapped a monitoring system for delivery staff, ending a probe into alleged tax fraud and illegal labour practices, sources with knowledge of the matter said on Friday.<br />\nIn July 2024 the group&#8217;s logistics services unit was accused of circumventing labour and tax laws, relying on cooperatives or limited liability companies that supplied it with workers, avoiding VAT tax and ...</p>\n<p>The post <a href=\"https://theloadstar.com/reuters-amazon-pays-italy-e180m-euros-to-end-tax-labour-probe-sources-say/\">REUTERS: Amazon pays Italy \u20ac180m euros to end tax, labour probe, sources say</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWxVc3B2VDBKYVlPX3FqWTNjNlBXYWxYQm9FUHBfX3M1eVZwN21XS0FtVXdrOVBLRnNnS0RaS3FYWExyQVhrN2pPUm8tb3ZrbFhZUEdTLXQ1em9SNXJkM3packhzLTFyN09KMlp1aEU1UWJBOUlMZ21MZllRRzEzWS1ESmJyLXFLN1lQYVBJbEVPUWx2UHluOW9rbmFXOUlyVVZTbWduREhMaGVxdlNUaXhWTkh6N0s1cFE?oc=5",
-        "date": "2025-12-05",
-        "title": "Serve Robotics expands autonomous delivery to Fort Lauderdale - Investing.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWxVc3B2VDBKYVlPX3FqWTNjNlBXYWxYQm9FUHBfX3M1eVZwN21XS0FtVXdrOVBLRnNnS0RaS3FYWExyQVhrN2pPUm8tb3ZrbFhZUEdTLXQ1em9SNXJkM3packhzLTFyN09KMlp1aEU1UWJBOUlMZ21MZllRRzEzWS1ESmJyLXFLN1lQYVBJbEVPUWx2UHluOW9rbmFXOUlyVVZTbWduREhMaGVxdlNUaXhWTkh6N0s1cFE?oc=5\" target=\"_blank\">Serve Robotics expands autonomous delivery to Fort Lauderdale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Serve Robotics $SERV expands autonomous delivery to Fort Lauderdale"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEY2WHo0eEdSQnJnZk8yb1ltWUFHNGRCN1BlclAtS3NJTk9BMHJoem5kZ21YN2VmSnhmTFlva0FUV2FjUHBxM0xjR1pYak1fbzN4dHZlaTlubDJBR19KYnpXUTRUV0hjbmJtYnJzdDdSSE1fWnJoUEE1MUwtSVpqQWxyXzB3S3hYdktxSjZzc2NBZjJxam1jTkdvQTNKUGh4cFdQSklVaU9CWktUOFRmak1pT0RBUQ?oc=5",
-        "date": "2025-12-05",
-        "title": "Serve Robotics (Nasdaq: SERV) expands in South Florida, targets 2,000 delivery robots - Stock Titan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEY2WHo0eEdSQnJnZk8yb1ltWUFHNGRCN1BlclAtS3NJTk9BMHJoem5kZ21YN2VmSnhmTFlva0FUV2FjUHBxM0xjR1pYak1fbzN4dHZlaTlubDJBR19KYnpXUTRUV0hjbmJtYnJzdDdSSE1fWnJoUEE1MUwtSVpqQWxyXzB3S3hYdktxSjZzc2NBZjJxam1jTkdvQTNKUGh4cFdQSklVaU9CWktUOFRmak1pT0RBUQ?oc=5\" target=\"_blank\">Serve Robotics (Nasdaq: SERV) expands in South Florida, targets 2,000 delivery robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/court-action-halts-dp-world-takeover-of-chittagongs-key-box-terminal/",
-        "date": "2025-12-05",
-        "title": "Court action halts DP World takeover of Chittagong\u2019s key box terminal",
-        "summary": "<p>A Bangladeshi high court has thrown the future of Chittagong port\u2019s largest container terminal into uncertainty, issuing a split verdict that effectively suspends the government plan to hand operations of the New Mooring Container Terminal (NCT) to DP World.<br />\nTwo justices reached opposing conclusions on the legality of the process, forcing the matter to be sent to the chief justice, who will assign a third bench to deliver the final judgment.<br />\nThe ...</p>\n<p>The post <a href=\"https://theloadstar.com/court-action-halts-dp-world-takeover-of-chittagongs-key-box-terminal/\">Court action halts DP World takeover of Chittagong\u2019s key box terminal</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/dhl-gf-rejects-market-share-buying-to-cut-rates-as-forwarders-brace-for-2026/",
-        "date": "2025-12-05",
-        "title": "DHL GF rejects market share-buying to cut rates, as forwarders brace for soft 2026",
-        "summary": "<p>Large freight forwarders\u00a0could\u00a0need to pivot next year, with\u00a0low airfreight rates expected to dampen their results.\u00a0<br />\nPredicting air cargo demand growth of just 2% to 3% in 2026, Niall van de Wouw, chief airfreight officer for Xeneta, explained: \u201cWe expect supply to grow more than demand in 2026, and that will have an impact on rates.\u00a0\u00a0<br />\n\u201cI also do not think low, single-digit demand growth will satisfy the appetite and ambition of freight ...</p>\n<p>The post <a href=\"https://theloadstar.com/dhl-gf-rejects-market-share-buying-to-cut-rates-as-forwarders-brace-for-2026/\">DHL GF rejects market share-buying to cut rates, as forwarders brace for soft 2026</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/landmark-uk-us-pharma-agreement-deal-or-no-deal/",
-        "date": "2025-12-05",
-        "title": "\u2018Landmark\u2019 UK-US pharma agreement \u2013 \u2018Deal or No Deal?\u2019",
-        "summary": "<p>We weren\u2019t late to this; we were simply awaiting confirmation from both parties that the Whitehall-announced \u201clandmark UK-US pharmaceuticals deal to safeguard medicines access and drive vital investment\u202ffor UK patients and businesses\u201d was, in fact, a go.<br />\nYes, US commerce secretary Howard Lutnick came out calling it a major win, adding it was \u201cstrengthening supply chains, creating high-quality jobs, and reinforcing America as the world\u2019s premier hub for life-sciences investment\u201d.<br />\nBritain&#8217;s business ...</p>\n<p>The post <a href=\"https://theloadstar.com/landmark-uk-us-pharma-agreement-deal-or-no-deal/\">&#8216;Landmark&#8217; UK-US pharma agreement \u2013 &#8216;Deal or No Deal?&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/vizhinjam-finishes-year-one-on-a-high-and-launches-1bn-expansion/",
-        "date": "2025-12-05",
-        "title": "Vizhinjam finishes year one on a high and launches $1bn expansion",
-        "summary": "<p>Vizhinjam Port &#8211; India&#8217;s newest container transhipment hub \u2013 ended its first year of operations on a solid note, thanks to growing relay volumes from lone mainline customer MSC.<br />\nThe deepwater terminal reached full capacity, claimed to be a rare feat in the industry, handling some 1.3m teu from 615 ship calls, including some 41 ultra-large containerships (ULCVs), according to the latest data.<br />\n\u201cThis performance reflects an exceptional 116% capacity utilisation, a ...</p>\n<p>The post <a href=\"https://theloadstar.com/vizhinjam-finishes-year-one-on-a-high-and-launches-1bn-expansion/\">Vizhinjam finishes year one on a high and launches $1bn expansion</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWxVc3B2VDBKYVlPX3FqWTNjNlBXYWxYQm9FUHBfX3M1eVZwN21XS0FtVXdrOVBLRnNnS0RaS3FYWExyQVhrN2pPUm8tb3ZrbFhZUEdTLXQ1em9SNXJkM3packhzLTFyN09KMlp1aEU1UWJBOUlMZ21MZllRRzEzWS1ESmJyLXFLN1lQYVBJbEVPUWx2UHluOW9rbmFXOUlyVVZTbWduREhMaGVxdlNUaXhWTkh6N0s1cFE?oc=5",
-        "date": "2025-12-05",
-        "title": "Serve Robotics expands autonomous delivery to Fort Lauderdale - Investing.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWxVc3B2VDBKYVlPX3FqWTNjNlBXYWxYQm9FUHBfX3M1eVZwN21XS0FtVXdrOVBLRnNnS0RaS3FYWExyQVhrN2pPUm8tb3ZrbFhZUEdTLXQ1em9SNXJkM3packhzLTFyN09KMlp1aEU1UWJBOUlMZ21MZllRRzEzWS1ESmJyLXFLN1lQYVBJbEVPUWx2UHluOW9rbmFXOUlyVVZTbWduREhMaGVxdlNUaXhWTkh6N0s1cFE?oc=5\" target=\"_blank\">Serve Robotics expands autonomous delivery to Fort Lauderdale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Serve Robotics $SERV expands autonomous delivery to Fort Lauderdale",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3hhc2l4OXBnWmVFUGhJb05ieEYzWktWOEVXLW50dGpjTVNVTkFEWWF5Nk9PLXlPTXc5MDdDQU11V1hydXJncF9vNktneVJqTmJEb2x2VW9BbnJqUTlvU3UtSWM2Znc0QkNrWDhQU2FtSlZsNkt0N0xqRHhBdFhGclptNDc1Q1hIaEk1R0dTNGl3b0llUnNwZm5raGllTDhudkNkZE1oTHlnUFZYczRHQnhydDFFNG5xdTMzeGFGazd1Y1k?oc=5",
-        "date": "2025-12-05",
-        "title": "The technology behind secure e-commerce deliveries in urban areas - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3hhc2l4OXBnWmVFUGhJb05ieEYzWktWOEVXLW50dGpjTVNVTkFEWWF5Nk9PLXlPTXc5MDdDQU11V1hydXJncF9vNktneVJqTmJEb2x2VW9BbnJqUTlvU3UtSWM2Znc0QkNrWDhQU2FtSlZsNkt0N0xqRHhBdFhGclptNDc1Q1hIaEk1R0dTNGl3b0llUnNwZm5raGllTDhudkNkZE1oTHlnUFZYczRHQnhydDFFNG5xdTMzeGFGazd1Y1k?oc=5\" target=\"_blank\">The technology behind secure e-commerce deliveries in urban areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-06",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS Worldport in Louisville sorts 416,000 packages per hour.\n\n$UPS",
@@ -763,5 +657,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-15",
+        "status": "posted",
+        "tweet": "FedEx $FDX infrastructure metric:\n\n\ud83c\uddfa\ud83c\uddf8 Memphis Superhub handles 1.4 million packages daily in 2025.",
+        "type": "infrastructure"
     }
 ]
