@@ -626,5 +626,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Porch piracy in major cities like New York and Los Angeles is projected to exceed 500,000 stolen packages each in 2025, a 25% rise from 2023 levels due to surging online deliveries.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2025-12-16",
+        "status": "posted",
+        "tweet": "FreightLink's \ud83c\uddfa\ud83c\uddf8 Dallas hub manages 750,000 packages daily through its automated sorting system, boosting throughput by 25% year-over-year.",
+        "type": "infrastructure"
     }
 ]
