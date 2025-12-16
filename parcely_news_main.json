@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-06",
-        "status": "posted",
-        "tweet": "Top 5 cities with highest failed first-attempt e-commerce delivery rates in 2025 (projections: 8-15% global average).\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India (18%)\n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo, Brazil (16%)\n\ud83c\udde8\ud83c\uddf3 Shanghai, China (15%)\n\ud83c\uddfa\ud83c\uddf8 New York, USA (14%)\n\ud83c\uddee\ud83c\udde9 Jakarta, Indonesia (13%)",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
-        "link": null,
-        "date": "2025-12-06",
-        "status": "posted",
-        "tweet": "LogiNet's infrastructure in 2025 routes 1.2 million packages daily through 45 automated hubs worldwide.\n\nThis supports a 25% rise in volume from last year.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2025-12-07",
         "status": "posted",
         "tweet": "LogiTech Logistics now runs 150 automated sorting centers worldwide.\n\nDaily throughput: 2.5 million packages.\n\nThis infrastructure handles 40% more volume than 2024, with zero downtime.",
@@ -633,5 +618,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EU Member States approve \u20ac3 customs duty per item on e-commerce parcels valued below \u20ac150, effective July 2026",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Porch piracy in major cities like New York and Los Angeles is projected to exceed 500,000 stolen packages each in 2025, a 25% rise from 2023 levels due to surging online deliveries.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
