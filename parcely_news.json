@@ -814,5 +814,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-16",
+        "status": "posted",
+        "tweet": "By 2025, EV delivery fleets in \ud83c\uddfa\ud83c\uddf8 cities total 300,000 vehicles, cutting emissions 25% from 2023 levels.\n\nMicro-mobility fleets reach 800,000 e-bikes and scooters globally, handling 40% of urban last-mile deliveries.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
