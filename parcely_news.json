@@ -825,5 +825,12 @@
         "tweet": "In 2025, last-mile deliveries worldwide will emit 2 billion metric tons of CO2 annually\u2014equal to 25% of all urban transport emissions.\n\nBuilding-integrated networks could cut that by 40% by 2030 through on-site automation and reduced vehicle trips.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2025-12-17",
+        "status": "posted",
+        "tweet": "FedEx $FDX maintains 650 million sq ft of warehouse infrastructure globally.\n\nIn 2025, this network processes 22 million packages daily across 5,000 facilities.",
+        "type": "infrastructure"
     }
 ]
