@@ -832,5 +832,25 @@
         "status": "posted",
         "tweet": "FedEx $FDX maintains 650 million sq ft of warehouse infrastructure globally.\n\nIn 2025, this network processes 22 million packages daily across 5,000 facilities.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVdEbm9tVTVEY0RwbVpkWlNLZ2d3Z09wMFp0ek9kbG91Y2xJSXBXbDFRb2phZUk4aDZyYkkxamZ3UzRhTnhXTnNQdFBwNzlsZE9CTGlyc3p5T2ZrQzJ4VGZEU09YdkdqbW5GTkVFb1g4ODJGQnRJdDIwS0tWalRfQ2JjTTJfVWJ2UkV5d3poRXJiWktlampMRg?oc=5",
+        "date": "2025-12-17",
+        "title": "Why Ahold Delhaize USA Is Closing Centralized Fulfillment Centers - abasto.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVdEbm9tVTVEY0RwbVpkWlNLZ2d3Z09wMFp0ek9kbG91Y2xJSXBXbDFRb2phZUk4aDZyYkkxamZ3UzRhTnhXTnNQdFBwNzlsZE9CTGlyc3p5T2ZrQzJ4VGZEU09YdkdqbW5GTkVFb1g4ODJGQnRJdDIwS0tWalRfQ2JjTTJfVWJ2UkV5d3poRXJiWktlampMRg?oc=5\" target=\"_blank\">Why Ahold Delhaize USA Is Closing Centralized Fulfillment Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abasto.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG1naE1ybWoxdjhKdDlUOGpab0paZjhGdEh6dGtmbTZpeThwVUtwSGVMMmlYOU51bjF6dlVaeHhfc1lhbUVGU3lWVUdpTFN0dy05T1c4VU1MQmxqOVlOV0wyX2Fkb3pJa05oMmh1clR0anMtS0paZDBmSlRqTjYxS0RXakZUSWppWlJnTWJiRzVaRUdqOTlMZXRRcU1XY3E5eVJlb2U3dTBZbm5P?oc=5",
+        "date": "2025-12-17",
+        "title": "USPS looks to assist with last-mile deliveries in low-population areas (FDX:NYSE) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG1naE1ybWoxdjhKdDlUOGpab0paZjhGdEh6dGtmbTZpeThwVUtwSGVMMmlYOU51bjF6dlVaeHhfc1lhbUVGU3lWVUdpTFN0dy05T1c4VU1MQmxqOVlOV0wyX2Fkb3pJa05oMmh1clR0anMtS0paZDBmSlRqTjYxS0RXakZUSWppWlJnTWJiRzVaRUdqOTlMZXRRcU1XY3E5eVJlb2U3dTBZbm5P?oc=5\" target=\"_blank\">USPS looks to assist with last-mile deliveries in low-population areas (FDX:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
