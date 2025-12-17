@@ -626,5 +626,12 @@
         "tweet": "Smart residential buildings worldwide: 600 million units in 2025, projected to double to 1.2 billion by 2030.\n\nSmart office spaces: 800 million square meters in 2025, expected to reach 1.6 billion by 2030.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2025-12-17",
+        "status": "posted",
+        "tweet": "LogiCore's \ud83c\udde8\ud83c\uddf3 Shanghai hub now handles 1.2 million containers yearly, up 25% from 2024.\n\nThis boosts Asia-Pacific shipping capacity to 15% of global volume.",
+        "type": "infrastructure"
     }
 ]
