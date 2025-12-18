@@ -676,5 +676,13 @@
         "status": "posted",
         "tweet": "LogiFreight's global network spans 150 warehouses, handling 750,000 shipments daily with 99.8% on-time delivery.\n\nIn \ud83c\uddfa\ud83c\uddf8 alone, their hubs process 300,000 tons of cargo yearly.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-18",
+        "status": "posted",
+        "tweet": "By 2025, global parcel locker networks will exceed 700,000 units, streamlining last-mile delivery for e-commerce surges expected to hit $8 trillion annually.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
