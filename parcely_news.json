@@ -805,5 +805,13 @@
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis superhub processed 1.8 million packages daily in Q1 2025, achieving 99.7% on-time delivery rate.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-18",
+        "status": "posted",
+        "tweet": "Global e-commerce packaging waste:\n\n170 million tons in 2025\n\nvs.\n\n250 million tons projected for 2030\n\nA 47% surge in five years.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
