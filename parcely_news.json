@@ -823,5 +823,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDlzWW1raW44dE12cS1yS2cydl9IWU05V1JqcFRFWnZzM3ZuZGZIVk1FZWE4ejFzMnhQYUdPLTRYLUV5WTFfbXBMTVJablNJcE41eWk1aWtfTi13ZDdfeUF2S1NpdThETDVwdm1UcVVUYkZucHJfY0lMTXdCSnEtVFg0RVBIUm9sTkdPZ3JrRVlqZEZYZUV6YUloQWpQU0wyX2JReA?oc=5",
+        "date": "2025-12-18",
+        "title": "US Postal Services wants retailers to compete for last-mile delivery - FreightWaves",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDlzWW1raW44dE12cS1yS2cydl9IWU05V1JqcFRFWnZzM3ZuZGZIVk1FZWE4ejFzMnhQYUdPLTRYLUV5WTFfbXBMTVJablNJcE41eWk1aWtfTi13ZDdfeUF2S1NpdThETDVwdm1UcVVUYkZucHJfY0lMTXdCSnEtVFg0RVBIUm9sTkdPZ3JrRVlqZEZYZUV6YUloQWpQU0wyX2JReA?oc=5\" target=\"_blank\">US Postal Services wants retailers to compete for last-mile delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
