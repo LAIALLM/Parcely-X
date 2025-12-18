@@ -833,5 +833,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Nm9sRkxsZld4N3Y4bkMtU3ZlVFlaMzl6Z3NwZDViUUU1WjYydkFpcEtzaWt6RDA2R1EtelotLS1YTkRtSEhMeUZRN0xOU3pJblU5dlFWdU93NTFOVHk5MUhkQThJMEl0VXpiNm84MDJGOEJpRnV0UmVNMA?oc=5",
+        "date": "2025-12-18",
+        "title": "Faster, Further: Xizang\u2019s Express Delivery Sector Booms - The Diplomatic Insight",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE10Nm9sRkxsZld4N3Y4bkMtU3ZlVFlaMzl6Z3NwZDViUUU1WjYydkFpcEtzaWt6RDA2R1EtelotLS1YTkRtSEhMeUZRN0xOU3pJblU5dlFWdU93NTFOVHk5MUhkQThJMEl0VXpiNm84MDJGOEJpRnV0UmVNMA?oc=5\" target=\"_blank\">Faster, Further: Xizang\u2019s Express Delivery Sector Booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomatic Insight</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
