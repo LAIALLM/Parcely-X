@@ -1,90 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVZZSmFsUzFSR1dUN1ctRmpoWFFEWldOSm1FM1ZfTnNMU1Z1U212aldxZEN2Y0w1dWpQSWVsMHVqN3pqY2M1SWkzdnhJV29OMURESjVTUEtGR2laOE1nQ1NyLVdwVXZqYmJEUmxySlg0MXVwaTg4dzkwcUZ0eUFNYVNpLXlGaUFpcnV1WDhtSlA?oc=5",
-        "date": "2025-12-08",
-        "title": "Australia Post campaign boosts Parcel Locker rewards - ecommercenews.com.au",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVZZSmFsUzFSR1dUN1ctRmpoWFFEWldOSm1FM1ZfTnNMU1Z1U212aldxZEN2Y0w1dWpQSWVsMHVqN3pqY2M1SWkzdnhJV29OMURESjVTUEtGR2laOE1nQ1NyLVdwVXZqYmJEUmxySlg0MXVwaTg4dzkwcUZ0eUFNYVNpLXlGaUFpcnV1WDhtSlA?oc=5\" target=\"_blank\">Australia Post campaign boosts Parcel Locker rewards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecommercenews.com.au</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-12-08",
-        "status": "posted",
-        "tweet": "UPS processes 25 million packages daily across 1,300 facilities in \ud83c\uddfa\ud83c\uddf8 and globally.\n\nKey metric: 500 million miles driven annually by its fleet. $UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3hiU0xPN3I0Qlo5MGhsS1RLUWpuMmtSQjJCU0VNSG5va1NDUE5vdTZpQTlOZDBmZnpJQ21DbHIzR18tT3ZvcHhLWVlpOTBHRnowdXFXcUtwUjZfR21VaHk3WkN0bmZXNzhNWC1oeXNwcnBINGNWSUtXczZIWEFjZ3pIMlJrTFExMTZQQmdPM2N3VnUzTmtrUl9FbVdsTG1QOVU2QjBiaVE2ZWZxV1E?oc=5",
-        "date": "2025-12-08",
-        "title": "FedEx: E-Commerce Festivals Fuel Malaysia\u2019s Year-End Spending Boom - BusinessToday Malaysia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3hiU0xPN3I0Qlo5MGhsS1RLUWpuMmtSQjJCU0VNSG5va1NDUE5vdTZpQTlOZDBmZnpJQ21DbHIzR18tT3ZvcHhLWVlpOTBHRnowdXFXcUtwUjZfR21VaHk3WkN0bmZXNzhNWC1oeXNwcnBINGNWSUtXczZIWEFjZ3pIMlJrTFExMTZQQmdPM2N3VnUzTmtrUl9FbVdsTG1QOVU2QjBiaVE2ZWZxV1E?oc=5\" target=\"_blank\">FedEx: E-Commerce Festivals Fuel Malaysia\u2019s Year-End Spending Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessToday Malaysia</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-12-08",
-        "status": "posted",
-        "tweet": "In 2025, urban residents in \ud83c\uddfa\ud83c\uddf8 large cities average 3 online grocery deliveries per month.\n\nFood delivery averages 5.5 times per month\u2014nearly double\u2014as habits stick post-pandemic.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNFdtNlI5UlZnZFhQSm1JWTJtYlBuX0ZmSWhHUmhDR3B3RlFKUEl3ZGVQVW5PcThUX0dvSU1tNnBQZTBLdlZiblJ6bVZTblViS1hz?oc=5",
-        "date": "2025-12-08",
-        "title": "Has the Logic of Doing Cross-Border E-commerce Changed in 2025? - 36Kr",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNFdtNlI5UlZnZFhQSm1JWTJtYlBuX0ZmSWhHUmhDR3B3RlFKUEl3ZGVQVW5PcThUX0dvSU1tNnBQZTBLdlZiblJ6bVZTblViS1hz?oc=5\" target=\"_blank\">Has the Logic of Doing Cross-Border E-commerce Changed in 2025?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/global-container-liftings-up-but-far-east-europe-trade-losing-momentum/",
-        "date": "2025-12-08",
-        "title": "Global container liftings up, but Far East-Europe trade losing momentum",
-        "summary": "<p>New Container Trade Statistics (CTS) data and Sea-Intelligence analysis has revealed the Global Price Index has reached this year\u2019s nadir, and the Far East-Europe trade has begun to lose momentum.\u00a0<br />\nAccording to CTS, November global container liftings rose 2.8% month on month, to reach 16.3m teu. October volumes were also up, 2% year on year, helping push year-to-date growth to 4%, compared with the same period in 2024.\u00a0<br />\nThis marks the sixth ...</p>\n<p>The post <a href=\"https://theloadstar.com/global-container-liftings-up-but-far-east-europe-trade-losing-momentum/\">Global container liftings up, but Far East-Europe trade losing momentum</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/fragmented-ecommerce-fees-in-eu-could-provoke-shake-up-air-cargo/",
-        "date": "2025-12-08",
-        "title": "Fragmented ecommerce fees in EU could provoke shake up air cargo",
-        "summary": "<p>Moves by four European countries to implement handling fees on inbound\u00a0ecommerce\u00a0has\u00a0attracted criticism from\u00a0logistics\u00a0groups.\u00a0<br />\nThe Netherlands has proposed a fee of $2 per item worth under \u20ac150, which would typically be \u20ac6 per parcel, as the average parcel contains three items. Fees would be charged to carriers, which are expected to pass it on to consumers. The country plans to implement it early next year, giving very little time for importers to ...</p>\n<p>The post <a href=\"https://theloadstar.com/fragmented-ecommerce-fees-in-eu-could-provoke-shake-up-air-cargo/\">Fragmented ecommerce fees in EU could provoke shake up air cargo</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/how-can-the-logistics-industry-manage-the-risks-of-litigation/",
-        "date": "2025-12-08",
-        "title": "How can the logistics industry manage the risks of litigation?",
-        "summary": "<p>The threat of disruption to supply chains is a major concern for all logistics businesses, especially as that threat has increased and diversified in recent times.<br />\nFor instance, extreme weather events are becoming more common and are causing more severe damage; cyber-attacks are now more sophisticated, more frequent and more targeted than ever before; and groups such as climate change protesters have been targeting the logistics sector seeking to disrupt services ...</p>\n<p>The post <a href=\"https://theloadstar.com/how-can-the-logistics-industry-manage-the-risks-of-litigation/\">How can the logistics industry manage the risks of litigation?</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclQxTXVHcGFaYUMxdDRtU2lyak1WVUZ6YW5sN1Q4ODNaeC1WNzhEV2pCeW9PRFgzVHJQSno5QUhCYVZ0Q3ZDNDJHTEJnWkczVDFFMUdKclF4d0pTTTlWSmMwUGRLZ2lvV2FLRjZJWl95YUFQWFBVV2ZSc1M3SkNZbjVQNFlCWUdfWXFyR0hYVm44Q0l6MXl2MVdfY3FhTWxvT25IX3A1eHd6cmV3Y25uNG1UY1E2dWZrYVFJ?oc=5",
-        "date": "2025-12-08",
-        "title": "Serve and Uber Eats Extend Sidewalk Delivery Robot Service to Fort Lauderdale - PYMNTS.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclQxTXVHcGFaYUMxdDRtU2lyak1WVUZ6YW5sN1Q4ODNaeC1WNzhEV2pCeW9PRFgzVHJQSno5QUhCYVZ0Q3ZDNDJHTEJnWkczVDFFMUdKclF4d0pTTTlWSmMwUGRLZ2lvV2FLRjZJWl95YUFQWFBVV2ZSc1M3SkNZbjVQNFlCWUdfWXFyR0hYVm44Q0l6MXl2MVdfY3FhTWxvT25IX3A1eHd6cmV3Y25uNG1UY1E2dWZrYVFJ?oc=5\" target=\"_blank\">Serve and Uber Eats Extend Sidewalk Delivery Robot Service to Fort Lauderdale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
         "link": null,
         "date": "2025-12-09",
         "status": "posted",
@@ -883,5 +798,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Postal Service launching bid process for last-mile facility access to boost delivery efficiency.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-18",
+        "status": "posted",
+        "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis superhub processed 1.8 million packages daily in Q1 2025, achieving 99.7% on-time delivery rate.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
