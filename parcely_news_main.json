@@ -545,5 +545,13 @@
         "status": "posted",
         "tweet": "LogiCorp's \ud83c\uddfa\ud83c\uddf8 Dallas hub\n\nhandles 750,000 packages daily\n\nwith 98% on-time delivery rate.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-19",
+        "status": "posted",
+        "tweet": "Top cities leading in EV and micro-mobility delivery fleets by 2025 (projected % zero-emission):\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam, Netherlands - 70%\n\n\ud83c\udde9\ud83c\uddf0 Copenhagen, Denmark - 65%\n\n\ud83c\uddeb\ud83c\uddf7 Paris, France - 60%\n\n\ud83c\uddf3\ud83c\uddf4 Oslo, Norway - 55%\n\n\ud83c\udde9\ud83c\uddea Berlin, Germany - 50%",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
