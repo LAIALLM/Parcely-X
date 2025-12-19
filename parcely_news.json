@@ -822,5 +822,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160921/news/e-commerce/inpost-welcomes-courts-decision-over-yodel/",
+        "date": "2025-12-19",
+        "title": "InPost \u201cwelcomes Court\u2019s decision\u201d over Yodel",
+        "summary": "Yodel, the British delivery company acquired by InPost in April 2024, has defeated a legal action by Yodel\u2019s former owner that sought to regain control of the company.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
