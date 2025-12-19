@@ -754,5 +754,13 @@
         "status": "posted",
         "tweet": "UPS fleet operates 120,000 vehicles, delivering 22 million packages daily across its North American network in 2025.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-19",
+        "status": "posted",
+        "tweet": "Delivery vans in \ud83c\uddfa\ud83c\uddf8 New York City drove 12% of urban vehicle miles in 2023.\n\nBy 2025, that's projected to hit 18%\u2014a 50% jump in delivery-related traffic.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
