@@ -1,121 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2025-12-11",
-        "status": "posted",
-        "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 1.5 million packages daily through automated sorting lines, achieving 98% on-time delivery.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnZiUVo3R21VOVRUQ2lOR19pMTdYcDczcHJ3SUNUM2dUQ09ndnAyYzRrRGFlNHBpTzQ0THlNVnIyUDZjcm1jRUN3c0Nxb19XQllNby1UMElaVG4xVzNDaW5JMFZRS0RkQjJXMGplbGJpRjMtUmlpSGRNMU8ycHlzWnFaaGhybW80M0JIdzl6bElyUQ?oc=5",
-        "date": "2025-12-11",
-        "title": "More Truck Routes Are Coming To A Street Near You - Streetsblog New York City",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORnZiUVo3R21VOVRUQ2lOR19pMTdYcDczcHJ3SUNUM2dUQ09ndnAyYzRrRGFlNHBpTzQ0THlNVnIyUDZjcm1jRUN3c0Nxb19XQllNby1UMElaVG4xVzNDaW5JMFZRS0RkQjJXMGplbGJpRjMtUmlpSGRNMU8ycHlzWnFaaGhybW80M0JIdzl6bElyUQ?oc=5\" target=\"_blank\">More Truck Routes Are Coming To A Street Near You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streetsblog New York City</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejJURXhuQ0FKUGNudnA4dkJlZkhxcDJUTnFYZGtLOWRRdHZRUElnZjN1UnBERjlFUjNNcnRob2VidFc1bTF5Q3FDOTUxWEFvU2lKYmhsTG4wYzRkVDZJZHFjMHgzRmlKVmJ3UVVHODA4bVoyYnNkRWpnZWNOc1RlRjZjXy1IcGo4U2RDVzBTQXU?oc=5",
-        "date": "2025-12-11",
-        "title": "South Africa E-commerce Market Size & Forecast 2025\u20132033 - vocal.media",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPejJURXhuQ0FKUGNudnA4dkJlZkhxcDJUTnFYZGtLOWRRdHZRUElnZjN1UnBERjlFUjNNcnRob2VidFc1bTF5Q3FDOTUxWEFvU2lKYmhsTG4wYzRkVDZJZHFjMHgzRmlKVmJ3UVVHODA4bVoyYnNkRWpnZWNOc1RlRjZjXy1IcGo4U2RDVzBTQXU?oc=5\" target=\"_blank\">South Africa E-commerce Market Size & Forecast 2025\u20132033</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjFCOWdVcHJYSGRodUZrVmNiUFAtX3l5aWJCdWZKcHBQaDJyaWg1TmdkV2RDRXNNT0hxUHdGSDF1OEQxYlZfeDN5ZkhKMzAyM0JLM0xoUXFTSGNaTFlINTgyb1VhY252VWdJS2QzajZqWkRZNW82a0VVZWhWS1AzcHg2REppZDNDenE5LXlHU01QajBYTmlwdkdGU1llOG5hX0NJY29xbw?oc=5",
-        "date": "2025-12-11",
-        "title": "AutoID connects the dots in the e-commerce supply chain - ITWeb",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjFCOWdVcHJYSGRodUZrVmNiUFAtX3l5aWJCdWZKcHBQaDJyaWg1TmdkV2RDRXNNT0hxUHdGSDF1OEQxYlZfeDN5ZkhKMzAyM0JLM0xoUXFTSGNaTFlINTgyb1VhY252VWdJS2QzajZqWkRZNW82a0VVZWhWS1AzcHg2REppZDNDenE5LXlHU01QajBYTmlwdkdGU1llOG5hX0NJY29xbw?oc=5\" target=\"_blank\">AutoID connects the dots in the e-commerce supply chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITWeb</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzhucE8yVHJjY1hhcUVLbVZSWHAwd0tkZkdNTy1URHJhdVNGOEsxa1dVOG5tS0ZPU2s1RmJqSXZMUWVQTWtKN1FFcHBjMkFwc3BnNjRhWk5pZGppczN2Sk01M1ZmOFpNWjJTWjB6clBaMklCVVN4UktlS0JxQnhzTDN1dVVnemFkYkE2d2NRbko2Uks1d3c?oc=5",
-        "date": "2025-12-11",
-        "title": "Shippo unveils AI shipping platform for agentic commerce - ecommercenews.com.au",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxORzhucE8yVHJjY1hhcUVLbVZSWHAwd0tkZkdNTy1URHJhdVNGOEsxa1dVOG5tS0ZPU2s1RmJqSXZMUWVQTWtKN1FFcHBjMkFwc3BnNjRhWk5pZGppczN2Sk01M1ZmOFpNWjJTWjB6clBaMklCVVN4UktlS0JxQnhzTDN1dVVnemFkYkE2d2NRbko2Uks1d3c?oc=5\" target=\"_blank\">Shippo unveils AI shipping platform for agentic commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecommercenews.com.au</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb243eFhmeXdUV0pQWl93M2VyN3lpNHhCd3NpdE91bi1DUzNONkZOaVdvNzBMYWEyb3ZpX0lPNkU0YVk0eDV1Y0QzaEhDWk8tRDUxQ1FXNFMzcXF3Xzg4NlZmb3R5aGkxNUZrdjVhbHdOSzNsWlFkcWRveUkyOVNlZnNIdkI1SGJWdVVJby1Va1F3Njd3RVY5c0JwbW1MSnJMTmVJQTUwY1RoU3FTNmczUzloTXBFTUcxMGNWM1BJUXU2SHp3cHlzSNIBzgFBVV95cUxQOS1BMkdfLWlfNExaN3hOYmRsaFFPZV9KZzFyX3ctMkhwY2xXRGFIMDZzTlM1R0E3cURhYXV2UGpKNHRzWUl2a19UVk5kX05NeVFpQVZQVndoNTZOZjZoLTRNcWZHOGF3SWhyMjZhMUNsS0o4VkU4MzJkM3dzYU1FS296cWhKWHlGSEdxN204MDh4NnJMeE9Xckp0S2RtQlFEVUFneWh4YThjbHhYSkRaMmk0QmpFUFZYaTNBYnRLVGlLaG5UVWVidTlGSDl4UQ?oc=5",
-        "date": "2025-12-11",
-        "title": "Dubai: Yango Launches First Commercial Rollout Of Autonomous Robots With noon Minutes! - curlytales.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb243eFhmeXdUV0pQWl93M2VyN3lpNHhCd3NpdE91bi1DUzNONkZOaVdvNzBMYWEyb3ZpX0lPNkU0YVk0eDV1Y0QzaEhDWk8tRDUxQ1FXNFMzcXF3Xzg4NlZmb3R5aGkxNUZrdjVhbHdOSzNsWlFkcWRveUkyOVNlZnNIdkI1SGJWdVVJby1Va1F3Njd3RVY5c0JwbW1MSnJMTmVJQTUwY1RoU3FTNmczUzloTXBFTUcxMGNWM1BJUXU2SHp3cHlzSNIBzgFBVV95cUxQOS1BMkdfLWlfNExaN3hOYmRsaFFPZV9KZzFyX3ctMkhwY2xXRGFIMDZzTlM1R0E3cURhYXV2UGpKNHRzWUl2a19UVk5kX05NeVFpQVZQVndoNTZOZjZoLTRNcWZHOGF3SWhyMjZhMUNsS0o4VkU4MzJkM3dzYU1FS296cWhKWHlGSEdxN204MDh4NnJMeE9Xckp0S2RtQlFEVUFneWh4YThjbHhYSkRaMmk0QmpFUFZYaTNBYnRLVGlLaG5UVWVidTlGSDl4UQ?oc=5\" target=\"_blank\">Dubai: Yango Launches First Commercial Rollout Of Autonomous Robots With noon Minutes!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">curlytales.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Yango launches first commercial rollout of autonomous robots partnering with noon Minutes in Dubai"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb243eFhmeXdUV0pQWl93M2VyN3lpNHhCd3NpdE91bi1DUzNONkZOaVdvNzBMYWEyb3ZpX0lPNkU0YVk0eDV1Y0QzaEhDWk8tRDUxQ1FXNFMzcXF3Xzg4NlZmb3R5aGkxNUZrdjVhbHdOSzNsWlFkcWRveUkyOVNlZnNIdkI1SGJWdVVJby1Va1F3Njd3RVY5c0JwbW1MSnJMTmVJQTUwY1RoU3FTNmczUzloTXBFTUcxMGNWM1BJUXU2SHp3cHlzSNIBzgFBVV95cUxQOS1BMkdfLWlfNExaN3hOYmRsaFFPZV9KZzFyX3ctMkhwY2xXRGFIMDZzTlM1R0E3cURhYXV2UGpKNHRzWUl2a19UVk5kX05NeVFpQVZQVndoNTZOZjZoLTRNcWZHOGF3SWhyMjZhMUNsS0o4VkU4MzJkM3dzYU1FS296cWhKWHlGSEdxN204MDh4NnJMeE9Xckp0S2RtQlFEVUFneWh4YThjbHhYSkRaMmk0QmpFUFZYaTNBYnRLVGlLaG5UVWVidTlGSDl4UQ?oc=5",
-        "date": "2025-12-11",
-        "title": "Dubai: Yango Launches First Commercial Rollout Of Autonomous Robots With noon Minutes! - curlytales.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb243eFhmeXdUV0pQWl93M2VyN3lpNHhCd3NpdE91bi1DUzNONkZOaVdvNzBMYWEyb3ZpX0lPNkU0YVk0eDV1Y0QzaEhDWk8tRDUxQ1FXNFMzcXF3Xzg4NlZmb3R5aGkxNUZrdjVhbHdOSzNsWlFkcWRveUkyOVNlZnNIdkI1SGJWdVVJby1Va1F3Njd3RVY5c0JwbW1MSnJMTmVJQTUwY1RoU3FTNmczUzloTXBFTUcxMGNWM1BJUXU2SHp3cHlzSNIBzgFBVV95cUxQOS1BMkdfLWlfNExaN3hOYmRsaFFPZV9KZzFyX3ctMkhwY2xXRGFIMDZzTlM1R0E3cURhYXV2UGpKNHRzWUl2a19UVk5kX05NeVFpQVZQVndoNTZOZjZoLTRNcWZHOGF3SWhyMjZhMUNsS0o4VkU4MzJkM3dzYU1FS296cWhKWHlGSEdxN204MDh4NnJMeE9Xckp0S2RtQlFEVUFneWh4YThjbHhYSkRaMmk0QmpFUFZYaTNBYnRLVGlLaG5UVWVidTlGSDl4UQ?oc=5\" target=\"_blank\">Dubai: Yango Launches First Commercial Rollout Of Autonomous Robots With noon Minutes!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">curlytales.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Yango launches first commercial rollout of autonomous robots partnering with noon Minutes in Dubai",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2025-12-11",
-        "status": "posted",
-        "tweet": "By 2025, smart access systems will secure 55% of urban commercial buildings globally, driven by rising demand for keyless entry and remote monitoring.",
-        "type": "statistical",
-        "category": "adoption of smart access systems for buildings"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUF9NOWJDdnJZdXVab19TVld6WDA5NF9HUFQ0TE5TYmIwanB0UkI4M1R6UERuNHQ3MlJZRmkxZFhtV19EdXNleV8zZW9EWGFfRm90NTBxejFyLUszLV9uOUJGV1lPd2k5Sl96dXFwNmN4REJ2aDBNcFBoNWtRU1lqQVVtTlgxQmtCSTBkR196Z2VSdUNwOEhiYk5QZHd6UGFzMmE4TDcydGs0OWFKMTlpN3V2bG9vTXNfUEE?oc=5",
-        "date": "2025-12-11",
-        "title": "Delivery Intelligence Enhances Last-Mile Pharmaceutical Logistics with Technology and Data - geneonline.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUF9NOWJDdnJZdXVab19TVld6WDA5NF9HUFQ0TE5TYmIwanB0UkI4M1R6UERuNHQ3MlJZRmkxZFhtV19EdXNleV8zZW9EWGFfRm90NTBxejFyLUszLV9uOUJGV1lPd2k5Sl96dXFwNmN4REJ2aDBNcFBoNWtRU1lqQVVtTlgxQmtCSTBkR196Z2VSdUNwOEhiYk5QZHd6UGFzMmE4TDcydGs0OWFKMTlpN3V2bG9vTXNfUEE?oc=5\" target=\"_blank\">Delivery Intelligence Enhances Last-Mile Pharmaceutical Logistics with Technology and Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">geneonline.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFZiZ21Pc05obW81Z0lUanQxV2J1MlI3Y1JqdlJ6WF9qQnQ0T2JZLVk1OEtJLXlidHB0Z29HMW4wbnNNMm0tVTZIVTZRMEo5RGp1TXhUd2EwdlVLTENsQ2VVaDduOXN1X3lhV3Y1UkVUb0c4Tk5sN2RScy13X1dlNy14djFyTHRNWWhpd3RDRkJqR0JneS1Bdkg3eVBNWGJ2Rm9QWHZIUE9JU05QMlBhb1NoTzd2X3NfM1FPeWVVRm4wNDdmd3c?oc=5",
-        "date": "2025-12-11",
-        "title": "Kroger delivery rejects robots, embraces AI. How will your shopping experience change? - WCPO 9 Cincinnati",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFZiZ21Pc05obW81Z0lUanQxV2J1MlI3Y1JqdlJ6WF9qQnQ0T2JZLVk1OEtJLXlidHB0Z29HMW4wbnNNMm0tVTZIVTZRMEo5RGp1TXhUd2EwdlVLTENsQ2VVaDduOXN1X3lhV3Y1UkVUb0c4Tk5sN2RScy13X1dlNy14djFyTHRNWWhpd3RDRkJqR0JneS1Bdkg3eVBNWGJ2Rm9QWHZIUE9JU05QMlBhb1NoTzd2X3NfM1FPeWVVRm4wNDdmd3c?oc=5\" target=\"_blank\">Kroger delivery rejects robots, embraces AI. How will your shopping experience change?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCPO 9 Cincinnati</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUhrNkJUSm1UZF9UazFnNlBDWmVuSDI0aHBPQmt6SUE1LXB0czlDSDlyU1R2OWdrQkdveENBZlZZZzc1NTJuekd4MGk2OUZ0Z0dpWGEyWHd4RjEzNWtfSGVkeUxyZVZLX0JDa0hqVUdUeDl1dzJkQTdSdXhCZjRETk1lRlJaYy1wY0g4enhVazFMcjlFbDdYbVM3R3JZOWVVVEt3aXkwY0VVemtuVUhYc01QTmVVUdIBuwFBVV95cUxPYmtJWnIwRVBjY1NSaWsyTGNZeVY0Q2QtekJrcXcxUGR3dW1mcmRVaF91VUpLWEo2NVE4dldEV2NreG9RdjZwcW1NSXVzVmdWazlGQmc2MUNfMlFrOGt1NUtLT0lOSTJ2NDJHYUJoZ0p6VWEzNTBJV0MxZUNyejB2VXh1UjZDZUljZXNiVDR4amR3bGlvTTlpdHNBbUV4aGVCeThCY0oxWUNWbjZ3TGp6ak1LajhJUE9EY2Nv?oc=5",
-        "date": "2025-12-11",
-        "title": "Dealshare rolls out 2-hour delivery model - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUhrNkJUSm1UZF9UazFnNlBDWmVuSDI0aHBPQmt6SUE1LXB0czlDSDlyU1R2OWdrQkdveENBZlZZZzc1NTJuekd4MGk2OUZ0Z0dpWGEyWHd4RjEzNWtfSGVkeUxyZVZLX0JDa0hqVUdUeDl1dzJkQTdSdXhCZjRETk1lRlJaYy1wY0g4enhVazFMcjlFbDdYbVM3R3JZOWVVVEt3aXkwY0VVemtuVUhYc01QTmVVUdIBuwFBVV95cUxPYmtJWnIwRVBjY1NSaWsyTGNZeVY0Q2QtekJrcXcxUGR3dW1mcmRVaF91VUpLWEo2NVE4dldEV2NreG9RdjZwcW1NSXVzVmdWazlGQmc2MUNfMlFrOGt1NUtLT0lOSTJ2NDJHYUJoZ0p6VWEzNTBJV0MxZUNyejB2VXh1UjZDZUljZXNiVDR4amR3bGlvTTlpdHNBbUV4aGVCeThCY0oxWUNWbjZ3TGp6ak1LajhJUE9EY2Nv?oc=5\" target=\"_blank\">Dealshare rolls out 2-hour delivery model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWpQZUN3cFFYWlBBenZqV3lKSHBBb2M5bE1iMzd1OUI0Qm1CNmlMRW1wYkxYN19udmlkTV9qbjZSbnhuNTBfaUpNTi1uano2TDM0Yzl5aHZlLURVYUtuZjlvWjgzZXBjRG5yd29ONGE0cFdoak1FZlFSekg1VmFmT3gtdDFTcDA?oc=5",
-        "date": "2025-12-11",
-        "title": "Thoughtful solutions to seasonal stressors - reminetwork.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWpQZUN3cFFYWlBBenZqV3lKSHBBb2M5bE1iMzd1OUI0Qm1CNmlMRW1wYkxYN19udmlkTV9qbjZSbnhuNTBfaUpNTi1uano2TDM0Yzl5aHZlLURVYUtuZjlvWjgzZXBjRG5yd29ONGE0cFdoak1FZlFSekg1VmFmT3gtdDFTcDA?oc=5\" target=\"_blank\">Thoughtful solutions to seasonal stressors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reminetwork.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGg5NG0wVV82UTV2OU1JYWdKMzM3RGFRNVVhSDFNLXJBbUprd2pLMUZnckZXSVhsbVdxS192Z3dBZlQ2MnBYVlNuTW05ZnZTdmJYZjVWYjYzWnRoS1JOR1pqakN1YWs2UkVZT0RFcUk5Nkc4LTRZWTlRUXVwY2FJU1ZHV2g1YzdLQ1EyZGVyaTZfUDA0aGFzWU5VNkhRMkxWYlQ0eDBVLXY?oc=5",
         "date": "2025-12-12",
         "title": "Australia\u2019s E-Commerce Logistics Market: Speed, Tech & the Last-Mile Advantage - vocal.media",
@@ -622,6 +506,13 @@
         "date": "2025-12-20",
         "status": "posted",
         "tweet": "LogiFreight's global network processes 1.5 million packages daily across 450 hubs, up 20% from 2024.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-21",
+        "status": "posted",
+        "tweet": "LogiTech's global network now spans 15,000 miles of automated conveyor belts, handling 2.5 million parcels daily across key hubs.\n\nThis infrastructure upgrade in 2025 cuts delivery times by 15% on average.",
         "type": "infrastructure"
     }
 ]
