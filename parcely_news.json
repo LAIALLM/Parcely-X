@@ -644,5 +644,12 @@
         "tweet": "In 2025, porch pirates in \ud83c\uddfa\ud83c\uddf8 New York stole 1.8 million packages, compared to 1.2 million in \ud83c\uddfa\ud83c\uddf8 Los Angeles\u2014a 50% higher rate in the Big Apple.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2025-12-21",
+        "status": "posted",
+        "tweet": "UPS handles 28 million packages daily via its automated sorting network in 2025.\n\nEfficiency: 99.8% on-time delivery rate across 220 countries.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
