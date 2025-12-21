@@ -514,5 +514,13 @@
         "status": "posted",
         "tweet": "LogiTech's global network now spans 15,000 miles of automated conveyor belts, handling 2.5 million parcels daily across key hubs.\n\nThis infrastructure upgrade in 2025 cuts delivery times by 15% on average.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Large metros: $9.20 per parcel last-mile cost in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Large metros: $1.90 per parcel.\n\nUrban density slashes expenses by 80% in India vs. US sprawl.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
