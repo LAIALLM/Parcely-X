@@ -492,5 +492,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure processes 24.7 million packages daily in 2025, leveraging automated sorting hubs for 99.8% on-time delivery accuracy.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC last-mile delivery costs $16 per parcel in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: $3 per parcel.\n\n5x difference driven by labor and urban density.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
