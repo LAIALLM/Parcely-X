@@ -375,5 +375,13 @@
         "tweet": "Projections for 2025 show e-commerce deliveries generating 400 million tons of packaging waste worldwide annually.\n\nThat's equivalent to burying the planet under a layer of cardboard 1 meter thick every year.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2025-12-23",
+        "status": "posted",
+        "tweet": "By 2025, residents in large \ud83c\uddfa\ud83c\uddf8 cities will place online grocery orders every 4 days on average, hitting 28% of total grocery sales. \n\nFood delivery frequency? Up to 5 times weekly in urban hubs like New York and Los Angeles.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
