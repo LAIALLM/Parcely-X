@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-14",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC last-mile delivery costs $14 per parcel in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai averages $3 per parcel.\n\nThis $11 gap highlights urban logistics challenges worldwide.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2025-12-14",
-        "status": "posted",
-        "tweet": "LogiTrans handles 1.5 million packages daily through its \ud83c\uddfa\ud83c\uddf8 US network.\n\nThis infrastructure supports 98% on-time delivery across 50 states.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3dhN2FfMFdYNG43c2oxcnV1aldXQkV5QUNHWGE3OE9uMTdWdV9CTWk0c3JFQ1VkaVdmQUl0ZHA4NUVqVnJWZlYxQlFFLWNiWmtJejBDckRWVWZPeHZ5Y1djY1ZpOG85RVhJSmdQZTRQWTZ3OF94S054cEhpczJFTEw2eVc?oc=5",
-        "date": "2025-12-14",
-        "title": "AI, automation support Singapore\u2019s delivery surge - Borneo Bulletin",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON3dhN2FfMFdYNG43c2oxcnV1aldXQkV5QUNHWGE3OE9uMTdWdV9CTWk0c3JFQ1VkaVdmQUl0ZHA4NUVqVnJWZlYxQlFFLWNiWmtJejBDckRWVWZPeHZ5Y1djY1ZpOG85RVhJSmdQZTRQWTZ3OF94S054cEhpczJFTEw2eVc?oc=5\" target=\"_blank\">AI, automation support Singapore\u2019s delivery surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Borneo Bulletin</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-15",
         "status": "posted",
         "tweet": "LogiCore Logistics hit 1.5 million daily package scans in 2025.\n\nIts central hub in \ud83c\uddfa\ud83c\uddf8 Chicago handles 40% of North American volume, boosting on-time delivery to 98%.",
