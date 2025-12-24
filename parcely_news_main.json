@@ -416,5 +416,12 @@
         "status": "posted",
         "tweet": "LogiTech's core infrastructure spans 15,000 miles of automated conveyor systems.\n\nThis setup moves 3.2 million packages daily across global hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-24",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 packages daily in 2025, boosting efficiency by 15% year-over-year.",
+        "type": "infrastructure"
     }
 ]
