@@ -423,5 +423,13 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 packages daily in 2025, boosting efficiency by 15% year-over-year.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-24",
+        "status": "posted",
+        "tweet": "Smart homes worldwide: 572 million units by 2025.\n\nSmart offices: 148 million units by 2025.\n\nResidential smart tech adoption now outpaces offices by nearly 4:1, driving a $200B+ global market surge through 2030.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
