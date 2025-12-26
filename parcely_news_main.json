@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-16",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Porch piracy in major cities like New York and Los Angeles is projected to exceed 500,000 stolen packages each in 2025, a 25% rise from 2023 levels due to surging online deliveries.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": null,
-        "date": "2025-12-16",
-        "status": "posted",
-        "tweet": "FreightLink's \ud83c\uddfa\ud83c\uddf8 Dallas hub manages 750,000 packages daily through its automated sorting system, boosting throughput by 25% year-over-year.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2025-12-17",
         "status": "posted",
         "tweet": "Smart residential buildings worldwide: 600 million units in 2025, projected to double to 1.2 billion by 2030.\n\nSmart office spaces: 800 million square meters in 2025, expected to reach 1.6 billion by 2030.",
@@ -429,6 +414,13 @@
         "date": "2025-12-25",
         "status": "posted",
         "tweet": "TransPort Inc. infrastructure: \ud83c\udde8\ud83c\uddf3 Shanghai terminal processes 1.5 million containers monthly in 2025, up 20% from 2024.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-26",
+        "status": "posted",
+        "tweet": "LogiTech Solutions operates 1,200 automated sorting hubs worldwide.\n\nDaily throughput: 3.5 million packages processed with 99.8% accuracy.\n\nThis infrastructure supports seamless global supply chains in 2025.",
         "type": "infrastructure"
     }
 ]
