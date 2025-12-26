@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-16",
-        "status": "posted",
-        "tweet": "UPS operates 1,800+ distribution centers worldwide, processing 25 million packages daily across its infrastructure network.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://theloadstar.com/border-clashes-halt-thailand-cambodia-trucking/",
-        "date": "2025-12-16",
-        "title": "Border clashes halt Thailand-Cambodia trucking",
-        "summary": "<p>The flare-up on the border between Cambodia and Thailand has led to closures, severely disrupting cross-border trucking in the region, said Kuehne + Nagel.<br />\nCambodian authorities confirmed that all crossings with Thailand will remain shut until further notice, with only humanitarian cargo allowed to pass. Transport companies are diverting shipments through Laos and Vietnam, which will increase transit times and costs.</p>\n<p>The post <a href=\"https://theloadstar.com/border-clashes-halt-thailand-cambodia-trucking/\">Border clashes halt Thailand-Cambodia trucking</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-12-16",
-        "status": "posted",
-        "tweet": "By 2025, EV delivery fleets in \ud83c\uddfa\ud83c\uddf8 cities total 300,000 vehicles, cutting emissions 25% from 2023 levels.\n\nMicro-mobility fleets reach 800,000 e-bikes and scooters globally, handling 40% of urban last-mile deliveries.",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": "https://theloadstar.com/premier-alliance-unveils-major-port-changes-in-2026-asia-europe-network/",
-        "date": "2025-12-16",
-        "title": "Premier Alliance unveils major port changes in 2026 Asia-Europe network",
-        "summary": "<p>The Premier Alliance is set to considerably revamp its Asia-Europe network next year, according to its newly published 2026 schedules.<br />\nCustomers have reported deteriorating service levels in recent months, as the alliance&#8217;s services, into North Europe especially, have been afflicted by port congestion<br />\nOne UK freight forwarder told The Loadstar: \u201cI have heard there is a bit of a storm and noise around poor service levels, particularly around the Premier Alliance.<br />\n\u201cFrom a ...</p>\n<p>The post <a href=\"https://theloadstar.com/premier-alliance-unveils-major-port-changes-in-2026-asia-europe-network/\">Premier Alliance unveils major port changes in 2026 Asia-Europe network</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-17",
         "status": "posted",
         "tweet": "In 2025, last-mile deliveries worldwide will emit 2 billion metric tons of CO2 annually\u2014equal to 25% of all urban transport emissions.\n\nBuilding-integrated networks could cut that by 40% by 2030 through on-site automation and reduced vehicle trips.",
