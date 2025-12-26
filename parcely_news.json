@@ -372,5 +372,12 @@
         "tweet": "2025 data: Last-mile delivery in \ud83c\uddfa\ud83c\uddf8 large metros costs $10.80 per parcel on average.\n\nProjections show this rising to $12.50 by 2027 due to urban traffic and wage hikes.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2025-12-26",
+        "status": "posted",
+        "tweet": "FedEx infrastructure update 2025:\n\n\ud83c\uddfa\ud83c\uddf8 Memphis Superhub capacity: 1.8 million packages processed hourly.\n\nGlobal network: 220+ sorting facilities handling 18 million daily shipments.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
