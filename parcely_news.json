@@ -364,5 +364,13 @@
         "status": "posted",
         "tweet": "FedEx handles 18 million packages daily through its 500+ global facilities in 2025.\n\nEfficiency: 99.2% on-time delivery rate.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-26",
+        "status": "posted",
+        "tweet": "2025 data: Last-mile delivery in \ud83c\uddfa\ud83c\uddf8 large metros costs $10.80 per parcel on average.\n\nProjections show this rising to $12.50 by 2027 due to urban traffic and wage hikes.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
