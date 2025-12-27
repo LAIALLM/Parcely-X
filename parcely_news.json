@@ -331,5 +331,12 @@
         "tweet": "By 2025, smart access systems are used in 52% of commercial buildings worldwide.\n\nThis is set to climb to 78% by 2030, driven by rising security needs.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "UPS fleet logs 1.8 billion miles annually across global routes in 2025.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
