@@ -332,5 +332,12 @@
         "tweet": "In 2025, last-mile logistics emit 1.8 kg of CO2 per urban package delivery worldwide.\n\nBuilding-integrated networks cut that to 0.5 kg per package by minimizing vehicle trips.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 USA warehouse network now totals 1.2 million square meters.\n\nIt processes 750,000 packages daily with 98% automation.",
+        "type": "infrastructure"
     }
 ]
