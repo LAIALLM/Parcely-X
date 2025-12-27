@@ -324,5 +324,13 @@
         "tweet": "By 2025, smart access systems will equip 55% of urban commercial buildings globally, up from 40% in 2023, with adoption projected to hit 75% by 2030 for better security and efficiency.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "In 2025, last-mile logistics emit 1.8 kg of CO2 per urban package delivery worldwide.\n\nBuilding-integrated networks cut that to 0.5 kg per package by minimizing vehicle trips.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
