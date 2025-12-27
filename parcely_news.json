@@ -1,72 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-17",
-        "status": "posted",
-        "tweet": "In 2025, last-mile deliveries worldwide will emit 2 billion metric tons of CO2 annually\u2014equal to 25% of all urban transport emissions.\n\nBuilding-integrated networks could cut that by 40% by 2030 through on-site automation and reduced vehicle trips.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
-        "date": "2025-12-17",
-        "status": "posted",
-        "tweet": "FedEx $FDX maintains 650 million sq ft of warehouse infrastructure globally.\n\nIn 2025, this network processes 22 million packages daily across 5,000 facilities.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVdEbm9tVTVEY0RwbVpkWlNLZ2d3Z09wMFp0ek9kbG91Y2xJSXBXbDFRb2phZUk4aDZyYkkxamZ3UzRhTnhXTnNQdFBwNzlsZE9CTGlyc3p5T2ZrQzJ4VGZEU09YdkdqbW5GTkVFb1g4ODJGQnRJdDIwS0tWalRfQ2JjTTJfVWJ2UkV5d3poRXJiWktlampMRg?oc=5",
-        "date": "2025-12-17",
-        "title": "Why Ahold Delhaize USA Is Closing Centralized Fulfillment Centers - abasto.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVdEbm9tVTVEY0RwbVpkWlNLZ2d3Z09wMFp0ek9kbG91Y2xJSXBXbDFRb2phZUk4aDZyYkkxamZ3UzRhTnhXTnNQdFBwNzlsZE9CTGlyc3p5T2ZrQzJ4VGZEU09YdkdqbW5GTkVFb1g4ODJGQnRJdDIwS0tWalRfQ2JjTTJfVWJ2UkV5d3poRXJiWktlampMRg?oc=5\" target=\"_blank\">Why Ahold Delhaize USA Is Closing Centralized Fulfillment Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abasto.com</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG1naE1ybWoxdjhKdDlUOGpab0paZjhGdEh6dGtmbTZpeThwVUtwSGVMMmlYOU51bjF6dlVaeHhfc1lhbUVGU3lWVUdpTFN0dy05T1c4VU1MQmxqOVlOV0wyX2Fkb3pJa05oMmh1clR0anMtS0paZDBmSlRqTjYxS0RXakZUSWppWlJnTWJiRzVaRUdqOTlMZXRRcU1XY3E5eVJlb2U3dTBZbm5P?oc=5",
-        "date": "2025-12-17",
-        "title": "USPS looks to assist with last-mile deliveries in low-population areas (FDX:NYSE) - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG1naE1ybWoxdjhKdDlUOGpab0paZjhGdEh6dGtmbTZpeThwVUtwSGVMMmlYOU51bjF6dlVaeHhfc1lhbUVGU3lWVUdpTFN0dy05T1c4VU1MQmxqOVlOV0wyX2Fkb3pJa05oMmh1clR0anMtS0paZDBmSlRqTjYxS0RXakZUSWppWlJnTWJiRzVaRUdqOTlMZXRRcU1XY3E5eVJlb2U3dTBZbm5P?oc=5\" target=\"_blank\">USPS looks to assist with last-mile deliveries in low-population areas (FDX:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRENiR2M0ZUNZTEUtMkNSVm45Mml5UVdGNVpoOWtEUm9TMmJNalVpNjh3XzRTdEFWOExvZ0QtRnBDcWVjUGZxRzE2VmRDRDVEdTZJWjg4NllFSUJkUUswdU92MEVYeGRxa1FsdTVEcjMzNG5ydG50RG41TUNzR3R5WmppN2QxQjU3?oc=5",
-        "date": "2025-12-17",
-        "title": "Postal Service to launch bid process for last-mile facility access - Supply Chain Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRENiR2M0ZUNZTEUtMkNSVm45Mml5UVdGNVpoOWtEUm9TMmJNalVpNjh3XzRTdEFWOExvZ0QtRnBDcWVjUGZxRzE2VmRDRDVEdTZJWjg4NllFSUJkUUswdU92MEVYeGRxa1FsdTVEcjMzNG5ydG50RG41TUNzR3R5WmppN2QxQjU3?oc=5\" target=\"_blank\">Postal Service to launch bid process for last-mile facility access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Postal Service launching bid process for last-mile facility access"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUkhlYjVtQmVEdnc4ZU9nbzRkcWwxQTd3VjhQbmhmamY2dF9EMEZScHFQV0R6dHRXUmxlWW5QLTd4ZGFndlJiS3NaZWwtVjNLdGdUbnZHemVnLXpOWGpiYnNfZ3dVSWg1WlRKdWk1eGIwTzlqOThiT1NpSGVQVEVhTDJhSVF2ZkJUeEhEWXIwNE1FWkE3TTYwX2hpWlQ0X3UwUkhwYzE1Zmk1eGJMMjY2d2lNdGxiRm5tWVEzZEZrTlhVczlkaFVFSlJjTTJ0WGNSUVdPNVd2WUxqZFNLQ2xKQU01ZjM?oc=5",
-        "date": "2025-12-17",
-        "title": "Postal Service hopes selling access to its final-leg delivery network will provide much-needed revenue - Government Executive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUkhlYjVtQmVEdnc4ZU9nbzRkcWwxQTd3VjhQbmhmamY2dF9EMEZScHFQV0R6dHRXUmxlWW5QLTd4ZGFndlJiS3NaZWwtVjNLdGdUbnZHemVnLXpOWGpiYnNfZ3dVSWg1WlRKdWk1eGIwTzlqOThiT1NpSGVQVEVhTDJhSVF2ZkJUeEhEWXIwNE1FWkE3TTYwX2hpWlQ0X3UwUkhwYzE1Zmk1eGJMMjY2d2lNdGxiRm5tWVEzZEZrTlhVczlkaFVFSlJjTTJ0WGNSUVdPNVd2WUxqZFNLQ2xKQU01ZjM?oc=5\" target=\"_blank\">Postal Service hopes selling access to its final-leg delivery network will provide much-needed revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government Executive</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRENiR2M0ZUNZTEUtMkNSVm45Mml5UVdGNVpoOWtEUm9TMmJNalVpNjh3XzRTdEFWOExvZ0QtRnBDcWVjUGZxRzE2VmRDRDVEdTZJWjg4NllFSUJkUUswdU92MEVYeGRxa1FsdTVEcjMzNG5ydG50RG41TUNzR3R5WmppN2QxQjU3?oc=5",
-        "date": "2025-12-17",
-        "title": "Postal Service to launch bid process for last-mile facility access - Supply Chain Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRENiR2M0ZUNZTEUtMkNSVm45Mml5UVdGNVpoOWtEUm9TMmJNalVpNjh3XzRTdEFWOExvZ0QtRnBDcWVjUGZxRzE2VmRDRDVEdTZJWjg4NllFSUJkUUswdU92MEVYeGRxa1FsdTVEcjMzNG5ydG50RG41TUNzR3R5WmppN2QxQjU3?oc=5\" target=\"_blank\">Postal Service to launch bid process for last-mile facility access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Postal Service launching bid process for last-mile facility access to boost delivery efficiency.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-12-18",
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis superhub processed 1.8 million packages daily in Q1 2025, achieving 99.7% on-time delivery rate.\n\n$FDX",
@@ -389,5 +323,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "By 2025, smart access systems are used in 52% of commercial buildings worldwide.\n\nThis is set to climb to 78% by 2030, driven by rising security needs.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
