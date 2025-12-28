@@ -1,51 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-18",
-        "status": "posted",
-        "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis superhub processed 1.8 million packages daily in Q1 2025, achieving 99.7% on-time delivery rate.\n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-12-18",
-        "status": "posted",
-        "tweet": "Global e-commerce packaging waste:\n\n170 million tons in 2025\n\nvs.\n\n250 million tons projected for 2030\n\nA 47% surge in five years.",
-        "type": "statistical",
-        "category": "packaging waste from e-commerce deliveries worldwide"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkV1RDSUg0RE9JSjBwajBEZVZDLTBIWHVrMk5tWC03TC1FQVN2STlMbnB6OWJON1NUVXNWOUh4M3dVT1Y1dkV4YWVzOTlwaXZsbFVsRVVfY3JRdG85NTZjYUk1RE5Xbk1jbGc0c2tmY0JjT2RZ?oc=5",
-        "date": "2025-12-18",
-        "title": "Problems at Serve Robotics (SERV) - The Bear Cave | Edwin Dorsey",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkV1RDSUg0RE9JSjBwajBEZVZDLTBIWHVrMk5tWC03TC1FQVN2STlMbnB6OWJON1NUVXNWOUh4M3dVT1Y1dkV4YWVzOTlwaXZsbFVsRVVfY3JRdG85NTZjYUk1RE5Xbk1jbGc0c2tmY0JjT2RZ?oc=5\" target=\"_blank\">Problems at Serve Robotics (SERV)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Bear Cave | Edwin Dorsey</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDlzWW1raW44dE12cS1yS2cydl9IWU05V1JqcFRFWnZzM3ZuZGZIVk1FZWE4ejFzMnhQYUdPLTRYLUV5WTFfbXBMTVJablNJcE41eWk1aWtfTi13ZDdfeUF2S1NpdThETDVwdm1UcVVUYkZucHJfY0lMTXdCSnEtVFg0RVBIUm9sTkdPZ3JrRVlqZEZYZUV6YUloQWpQU0wyX2JReA?oc=5",
-        "date": "2025-12-18",
-        "title": "US Postal Services wants retailers to compete for last-mile delivery - FreightWaves",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDlzWW1raW44dE12cS1yS2cydl9IWU05V1JqcFRFWnZzM3ZuZGZIVk1FZWE4ejFzMnhQYUdPLTRYLUV5WTFfbXBMTVJablNJcE41eWk1aWtfTi13ZDdfeUF2S1NpdThETDVwdm1UcVVUYkZucHJfY0lMTXdCSnEtVFg0RVBIUm9sTkdPZ3JrRVlqZEZYZUV6YUloQWpQU0wyX2JReA?oc=5\" target=\"_blank\">US Postal Services wants retailers to compete for last-mile delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Nm9sRkxsZld4N3Y4bkMtU3ZlVFlaMzl6Z3NwZDViUUU1WjYydkFpcEtzaWt6RDA2R1EtelotLS1YTkRtSEhMeUZRN0xOU3pJblU5dlFWdU93NTFOVHk5MUhkQThJMEl0VXpiNm84MDJGOEJpRnV0UmVNMA?oc=5",
-        "date": "2025-12-18",
-        "title": "Faster, Further: Xizang\u2019s Express Delivery Sector Booms - The Diplomatic Insight",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE10Nm9sRkxsZld4N3Y4bkMtU3ZlVFlaMzl6Z3NwZDViUUU1WjYydkFpcEtzaWt6RDA2R1EtelotLS1YTkRtSEhMeUZRN0xOU3pJblU5dlFWdU93NTFOVHk5MUhkQThJMEl0VXpiNm84MDJGOEJpRnV0UmVNMA?oc=5\" target=\"_blank\">Faster, Further: Xizang\u2019s Express Delivery Sector Booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomatic Insight</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-19",
         "status": "posted",
         "tweet": "UPS fleet operates 120,000 vehicles, delivering 22 million packages daily across its North American network in 2025.\n\n$UPS",
