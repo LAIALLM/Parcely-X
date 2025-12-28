@@ -332,5 +332,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-28",
+        "status": "posted",
+        "tweet": "LogiFreight's global network processes 1.5 million shipments daily in 2025.\n\nKey infrastructure stat: 2.8 million square meters of automated warehouse space across \ud83c\uddfa\ud83c\uddf8 USA, \ud83c\udde9\ud83c\uddea Germany, and \ud83c\udde8\ud83c\uddf3 China.",
+        "type": "infrastructure"
     }
 ]
