@@ -322,5 +322,15 @@
         "tweet": "In 2025, global e-commerce will see 12% of first-attempt deliveries fail, wasting $25 billion on redeliveries and returns.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbjhabTgxNXF0eGRlUW43SUhoaHRhSHJIbGgzMUFHQ3VPNjZIRElkMGtCcUl4bGdQdXpCeFFkMTdoREhGTkEtUUdLa1pWaGlV?oc=5",
+        "date": "2025-12-28",
+        "title": "Trends: Moving into the next phase of e-commerce - The Edge Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbjhabTgxNXF0eGRlUW43SUhoaHRhSHJIbGgzMUFHQ3VPNjZIRElkMGtCcUl4bGdQdXpCeFFkMTdoREhGTkEtUUdLa1pWaGlV?oc=5\" target=\"_blank\">Trends: Moving into the next phase of e-commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
