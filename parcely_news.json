@@ -301,5 +301,15 @@
         "tweet": "By 2025, EV delivery fleets in major cities like \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddec\ud83c\udde7 London are projected to cover 30% of last-mile routes, cutting CO2 emissions by 500,000 tons yearly.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbjhabTgxNXF0eGRlUW43SUhoaHRhSHJIbGgzMUFHQ3VPNjZIRElkMGtCcUl4bGdQdXpCeFFkMTdoREhGTkEtUUdLa1pWaGlV?oc=5",
+        "date": "2025-12-28",
+        "title": "Trends: Moving into the next phase of e-commerce - The Edge Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbjhabTgxNXF0eGRlUW43SUhoaHRhSHJIbGgzMUFHQ3VPNjZIRElkMGtCcUl4bGdQdXpCeFFkMTdoREhGTkEtUUdLa1pWaGlV?oc=5\" target=\"_blank\">Trends: Moving into the next phase of e-commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
