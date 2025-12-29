@@ -272,5 +272,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLV9JYXc4OGxhT3Z4VkFNYkhUNjhXa2lrTUs4TFFtd21oQ1NSUW5HR0VoSVBBOWNheWxFa3pfelpiTlRrV3U3S2d4Z0hSdW51cEdSQTJKMXB5aWRIU1lRRDlWbjRfdV94UmxCZk96YTV0STY1TzVrckJkZ3hiVm80T0pTMXd3R2N2a0F6cVRrS25NWTA?oc=5",
+        "date": "2025-12-29",
+        "title": "\u2018BS\u2019 delivery guarantee promise sparks outrage as Amazon orders arrive late for Christmas - The US Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPLV9JYXc4OGxhT3Z4VkFNYkhUNjhXa2lrTUs4TFFtd21oQ1NSUW5HR0VoSVBBOWNheWxFa3pfelpiTlRrV3U3S2d4Z0hSdW51cEdSQTJKMXB5aWRIU1lRRDlWbjRfdV94UmxCZk96YTV0STY1TzVrckJkZ3hiVm80T0pTMXd3R2N2a0F6cVRrS25NWTA?oc=5\" target=\"_blank\">\u2018BS\u2019 delivery guarantee promise sparks outrage as Amazon orders arrive late for Christmas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
