@@ -281,5 +281,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Atlanta hub processes 1.5 million packages daily in 2025, with 99% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-29",
+        "status": "posted",
+        "tweet": "In 2025, last-mile delivery in \ud83c\uddfa\ud83c\uddf8 large metros costs $11 per parcel on average, a 22% rise from 2023 due to urban congestion and labor expenses.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
