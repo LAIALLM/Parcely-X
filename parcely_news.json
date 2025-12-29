@@ -247,5 +247,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: 10-minute delivery is emerging as an essential utility in India",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Porch piracy in major cities is projected to cost $19 billion in 2025, with over 260 million packages stolen nationwide\u2014up 20% from 2024 due to surging online deliveries.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
