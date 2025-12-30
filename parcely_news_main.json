@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-20",
-        "status": "posted",
-        "tweet": "By 2025, global last-mile deliveries will emit 250 million metric tons of CO2 yearly.\n\nBuilding-integrated networks could cut that by 40% by 2030, keeping goods local and reducing truck trips.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
-        "date": "2025-12-20",
-        "status": "posted",
-        "tweet": "LogiFreight's global network processes 1.5 million packages daily across 450 hubs, up 20% from 2024.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2025-12-21",
         "status": "posted",
         "tweet": "LogiTech's global network now spans 15,000 miles of automated conveyor belts, handling 2.5 million parcels daily across key hubs.\n\nThis infrastructure upgrade in 2025 cuts delivery times by 15% on average.",
@@ -289,5 +274,13 @@
         "tweet": "In 2025, last-mile delivery in \ud83c\uddfa\ud83c\uddf8 large metros costs $11 per parcel on average, a 22% rise from 2023 due to urban congestion and labor expenses.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2025-12-30",
+        "status": "posted",
+        "tweet": "Top 5 countries by parcel locker networks in 2025 (projected units):\n\n\ud83c\udde8\ud83c\uddf3 China: 650,000\n\n\ud83c\uddfa\ud83c\uddf8 United States: 280,000\n\n\ud83c\udde9\ud83c\uddea Germany: 70,000\n\n\ud83c\uddeb\ud83c\uddf7 France: 50,000\n\n\ud83c\uddec\ud83c\udde7 United Kingdom: 45,000",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
