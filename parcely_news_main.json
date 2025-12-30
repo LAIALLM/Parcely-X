@@ -282,5 +282,12 @@
         "tweet": "Top 5 countries by parcel locker networks in 2025 (projected units):\n\n\ud83c\udde8\ud83c\uddf3 China: 650,000\n\n\ud83c\uddfa\ud83c\uddf8 United States: 280,000\n\n\ud83c\udde9\ud83c\uddea Germany: 70,000\n\n\ud83c\uddeb\ud83c\uddf7 France: 50,000\n\n\ud83c\uddec\ud83c\udde7 United Kingdom: 45,000",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2025-12-30",
+        "status": "posted",
+        "tweet": "SwiftLogistics' global network spans 1,200 warehouses.\n\nTotal capacity: 8 million packages daily.\n\nEnergy use: 25% lower than 2024 average.",
+        "type": "infrastructure"
     }
 ]
