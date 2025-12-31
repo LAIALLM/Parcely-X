@@ -364,5 +364,26 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVY0aWt5MVJFVy1UUmFwcFJGelhCT1hINXpHQ0J5TFVHYy1yUEstdllWanNVOWhhcmFKbHY2cy0tMHlHNGYzdVJsUXpFdTQ5anAwOTB5OG5GTlBObi1SaXFNMWl2bEswVDRzLUVZbjlRY0NmVzZ6cXhqN0lXb1drWmV3T1p2dlRQ?oc=5",
+        "date": "2025-12-31",
+        "title": "Delivery of the future begins in aspiring smart city Minami-Osawa - The Japan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVY0aWt5MVJFVy1UUmFwcFJGelhCT1hINXpHQ0J5TFVHYy1yUEstdllWanNVOWhhcmFKbHY2cy0tMHlHNGYzdVJsUXpFdTQ5anAwOTB5OG5GTlBObi1SaXFNMWl2bEswVDRzLUVZbjlRY0NmVzZ6cXhqN0lXb1drWmV3T1p2dlRQ?oc=5\" target=\"_blank\">Delivery of the future begins in aspiring smart city Minami-Osawa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddef\ud83c\uddf5 NEWS: Delivery of the future kicks off in aspiring smart city Minami-Osawa"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVY0aWt5MVJFVy1UUmFwcFJGelhCT1hINXpHQ0J5TFVHYy1yUEstdllWanNVOWhhcmFKbHY2cy0tMHlHNGYzdVJsUXpFdTQ5anAwOTB5OG5GTlBObi1SaXFNMWl2bEswVDRzLUVZbjlRY0NmVzZ6cXhqN0lXb1drWmV3T1p2dlRQ?oc=5",
+        "date": "2025-12-31",
+        "title": "Delivery of the future begins in aspiring smart city Minami-Osawa - The Japan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVY0aWt5MVJFVy1UUmFwcFJGelhCT1hINXpHQ0J5TFVHYy1yUEstdllWanNVOWhhcmFKbHY2cy0tMHlHNGYzdVJsUXpFdTQ5anAwOTB5OG5GTlBObi1SaXFNMWl2bEswVDRzLUVZbjlRY0NmVzZ6cXhqN0lXb1drWmV3T1p2dlRQ?oc=5\" target=\"_blank\">Delivery of the future begins in aspiring smart city Minami-Osawa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "(\ud83c\uddef\ud83c\uddf5) NEWS: Delivery of the future begins in aspiring smart city Minami-Osawa",
+        "type": "news"
     }
 ]
