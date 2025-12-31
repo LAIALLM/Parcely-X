@@ -321,5 +321,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-31",
+        "status": "posted",
+        "tweet": "Global smart residential buildings hit 35% adoption in new constructions this year.\n\nSmart office buildings? 50%\u2014a 15-point lead in efficiency upgrades.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
