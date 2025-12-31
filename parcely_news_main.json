@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-21",
-        "status": "posted",
-        "tweet": "LogiTech's global network now spans 15,000 miles of automated conveyor belts, handling 2.5 million parcels daily across key hubs.\n\nThis infrastructure upgrade in 2025 cuts delivery times by 15% on average.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-12-21",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Large metros: $9.20 per parcel last-mile cost in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Large metros: $1.90 per parcel.\n\nUrban density slashes expenses by 80% in India vs. US sprawl.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
         "date": "2025-12-22",
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse network now handles 750,000 parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 30% across 20 states.",
@@ -288,6 +273,13 @@
         "date": "2025-12-30",
         "status": "posted",
         "tweet": "SwiftLogistics' global network spans 1,200 warehouses.\n\nTotal capacity: 8 million packages daily.\n\nEnergy use: 25% lower than 2024 average.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-31",
+        "status": "posted",
+        "tweet": "LogiTech's global network spans 2,500 km of automated conveyor belts, moving 1.2 million packages daily in 2025. \n\nKey hub in \ud83c\uddfa\ud83c\uddf8 Chicago handles 40% of volume with 99.8% uptime.",
         "type": "infrastructure"
     }
 ]
