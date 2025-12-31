@@ -327,5 +327,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-31",
+        "status": "posted",
+        "tweet": "UPS $UPS infrastructure: 1,200+ facilities worldwide, handling 22 million packages daily across 220 countries.",
+        "type": "infrastructure"
     }
 ]
