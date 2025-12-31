@@ -334,5 +334,15 @@
         "status": "posted",
         "tweet": "UPS $UPS infrastructure: 1,200+ facilities worldwide, handling 22 million packages daily across 220 countries.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2J6QmJHZ0hudVRCUXVMRlhGbUFUd2E5VUpGTm9lX1FBb0FEUFdjSjZBVEFERXhRT1NjdFR0dUtxbHBZZzk4Z1lIbExPU1BDZmxkUjFILUY5RDV3QmY1Mm5sb2RFcXg1SmEyZ29yUnk3c004ZXdSZFBMUV9hdzNkZXFSODdBa2k0UXNWQjBOZC1MWkJfSkgwRWJ4WXNQUnJ2bWc?oc=5",
+        "date": "2025-12-31",
+        "title": "Delivery Workers Call For New Year's Eve Strike Across India - MediaNama",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2J6QmJHZ0hudVRCUXVMRlhGbUFUd2E5VUpGTm9lX1FBb0FEUFdjSjZBVEFERXhRT1NjdFR0dUtxbHBZZzk4Z1lIbExPU1BDZmxkUjFILUY5RDV3QmY1Mm5sb2RFcXg1SmEyZ29yUnk3c004ZXdSZFBMUV9hdzNkZXFSODdBa2k0UXNWQjBOZC1MWkJfSkgwRWJ4WXNQUnJ2bWc?oc=5\" target=\"_blank\">Delivery Workers Call For New Year's Eve Strike Across India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaNama</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
