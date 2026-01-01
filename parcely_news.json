@@ -368,5 +368,12 @@
         "tweet": "Top 5 cities by projected 2025 CO2 savings (Mt) from building-integrated networks vs last-mile logistics\n\n1. \ud83c\udde8\ud83c\uddf3 Beijing (3.2)\n2. \ud83c\uddee\ud83c\uddf3 Mumbai (2.8)\n3. \ud83c\uddfa\ud83c\uddf8 New York (2.5)\n4. \ud83c\uddef\ud83c\uddf5 Tokyo (2.3)\n5. \ud83c\udde9\ud83c\uddea Berlin (2.1)",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "FedEx $FDX logistics infrastructure:\n\n220 aircraft\n500,000+ vehicles\n15 million packages processed daily\n\nGlobal network spans 220 countries.",
+        "type": "infrastructure"
     }
 ]
