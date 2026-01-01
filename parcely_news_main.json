@@ -314,5 +314,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "LogiCore's \ud83c\uddfa\ud83c\uddf8 Chicago hub manages 1.5 million truck routes daily, cutting fuel use by 25% through AI optimization.",
+        "type": "infrastructure"
     }
 ]
