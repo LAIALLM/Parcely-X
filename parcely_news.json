@@ -385,5 +385,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "In 2025, urban residents in \ud83c\uddfa\ud83c\uddf8 New York order online groceries or food delivery 3 times weekly on average\u2014double the 2023 rate.  \n\nProjections show this hitting 4 times by 2030 as services expand.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
