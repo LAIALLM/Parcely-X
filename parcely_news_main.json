@@ -321,5 +321,13 @@
         "status": "posted",
         "tweet": "LogiCore's \ud83c\uddfa\ud83c\uddf8 Chicago hub manages 1.5 million truck routes daily, cutting fuel use by 25% through AI optimization.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "Global e-commerce packaging waste reaches 280 million tons in 2026.\n\nThat's 3 times the 93 million tons from traditional retail.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
