@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-22",
-        "status": "posted",
-        "tweet": "UPS infrastructure processes 24.7 million packages daily in 2025, leveraging automated sorting hubs for 99.8% on-time delivery accuracy.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-12-22",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC last-mile delivery costs $16 per parcel in 2025.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: $3 per parcel.\n\n5x difference driven by labor and urban density.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": "https://theloadstar.com/kkr-launches-european-rail-leasing-platform-with-green-mobility-partners/",
-        "date": "2025-12-22",
-        "title": "KKR launches European rail leasing platform with Green Mobility Partners",
-        "summary": "<p>PRESS RELEASE</p>\n<p>KKR Launches European Rail Leasing Platform with Green Mobility Partners<br />\nDec 22, 2025 3:00 AM Eastern Standard Time</p>\n<p>Strategic partnership to scale newly established locomotive and train leasing company into a leading European rail leasing platform</p>\n<p>FRANKFURT, Germany&#8211;(BUSINESS WIRE)&#8211;Green Mobility Partners (\u201cGMP\u201d), a Vienna-based electric locomotive leasing company, and KKR, a leading global investment firm, today announced a strategic partnership to create a leading European rail leasing platform to meet growing demand ...</p>\n<p>The post <a href=\"https://theloadstar.com/kkr-launches-european-rail-leasing-platform-with-green-mobility-partners/\">KKR launches European rail leasing platform with Green Mobility Partners</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/oceanx-top-3-of-2025/",
-        "date": "2025-12-22",
-        "title": "OceanX: Top 3 of 2025",
-        "summary": "<p>The last few days before the holidays are here.<br />\nSo, in closing, here are the top three themes of 2025.<br />\n(It&#8217;s not the time to name and shame, rather let&#8217;s abide by a top-down approach&#8230;)<br />\n1) Liberation Day &#38; the unstoppable globalisation of trade\u00a0<br />\nIn April this year, the new US administration took a wrecking ball to global trade and started an aggressive tariff policy, as you are all fully aware \u2013 that was ...</p>\n<p>The post <a href=\"https://theloadstar.com/oceanx-top-3-of-2025/\">OceanX: Top 3 of 2025</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-12-23",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Large metros: $12.80 last-mile delivery cost per parcel in 2025.\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: $3.20 per parcel.\n\nDensity slashes Asian costs by 75%.",
