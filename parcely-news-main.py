@@ -21,7 +21,7 @@ TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN_MAIN")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 XAI_API_KEY = os.getenv("XAI_API_KEY")
 
-# --- Updated model definitions (October 2025) ---
+# --- Updated model definitions (October 2026) ---
 OPENAI_MODEL = "gpt-5"                     # Replaces GPT-4
 XAI_MODEL = "grok-4-fast-reasoning"        # Replaces Grok-2-1212
 
@@ -455,7 +455,7 @@ Format:
     selected_format = tweet_formats[selected_format_key]
     
     prompt = f"""
-    Assume the current year is 2025. Generate a concise, direct, factual, and impactful statistical tweet about {selected_category} that uses current data or realistic projections for 2025 and beyond. Avoid using outdated statistics from before 2023.
+    Assume the current year is 2026. Generate a concise, direct, factual, and impactful statistical tweet about {selected_category} that uses current data or realistic projections for 2026 and beyond. Avoid using outdated statistics from before 2023.
 
     {selected_format}
 
@@ -493,7 +493,7 @@ def generate_infrastructure_tweet():
     )
     
     prompt = """
-    Assume the current year is 2025. Write a concise social media post from an external perspective about a logistics focused company that highlights a single key quantitative infrastructure metric. Focus strictly on presenting data with minimal wording.
+    Assume the current year is 2026. Write a concise social media post from an external perspective about a logistics focused company that highlights a single key quantitative infrastructure metric. Focus strictly on presenting data with minimal wording.
 
     The tweet should:
     - Present only clear, factual data (e.g., daily data volumes, production figures, energy consumption, or efficiency ratings)
@@ -700,7 +700,7 @@ def classify_mention_relevance(text):
     
     prompt = f"""
     Score this tweet 0–10 for Parcely — an account obsessed with how last-mile logistics, parcel lockers,
-    automated building networks, and smart urban delivery reshape cities between 2025–2050.
+    automated building networks, and smart urban delivery reshape cities between 2026–2050.
 
     10 = Concrete last-mile / parcel / smart-building logistics being built (large-scale pilots, networks, regulations)
     9  = Major deals, policies, or deployments in urban logistics, delivery robots, lockers, EV fleets
