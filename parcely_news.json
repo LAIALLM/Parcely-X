@@ -348,5 +348,13 @@
         "tweet": "In 2025, urban residents in \ud83c\uddfa\ud83c\uddf8 New York order online groceries or food delivery 3 times weekly on average\u2014double the 2023 rate.  \n\nProjections show this hitting 4 times by 2030 as services expand.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "Projected porch piracy incidents in major US cities for 2026, based on e-commerce growth trends.\n\n\ud83c\uddfa\ud83c\uddf8 New York City: 280,000 cases  \n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 220,000 cases  \n\ud83c\uddfa\ud83c\uddf8 Chicago: 180,000 cases  \n\ud83c\uddfa\ud83c\uddf8 Houston: 150,000 cases  \n\ud83c\uddfa\ud83c\uddf8 Phoenix: 120,000 cases",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
