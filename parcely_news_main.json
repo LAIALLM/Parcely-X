@@ -291,5 +291,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Chicago hub manages 1.2 million packages daily in 2026.\n\nCapacity expanded 25% from 2025, cutting delivery times to 48 hours nationwide.",
+        "type": "infrastructure"
     }
 ]
