@@ -241,5 +241,12 @@
         "tweet": "Projected top 5 cities for EV and micro-mobility delivery fleet size in 2026.\n\n1. \ud83c\udde8\ud83c\uddf3 Shenzhen: 45,000 vehicles  \n2. \ud83c\uddf3\ud83c\uddf1 Amsterdam: 28,000 vehicles  \n3. \ud83c\uddf8\ud83c\uddec Singapore: 22,000 vehicles  \n4. \ud83c\uddfa\ud83c\uddf8 Los Angeles: 19,000 vehicles  \n5. \ud83c\udde9\ud83c\uddea Berlin: 17,000 vehicles",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-01-03",
+        "status": "posted",
+        "tweet": "GlobalFreight Logistics expanded its \ud83c\uddfa\ud83c\uddf8 Texas network in 2026.\n\nKey metric: 1.5 million packages handled daily across 50 hubs, up 25% from 2025.",
+        "type": "infrastructure"
     }
 ]
