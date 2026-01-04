@@ -325,5 +325,13 @@
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 4.5 million packages daily in 2026.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-04",
+        "status": "posted",
+        "tweet": "Top 5 cities for smart access system adoption in buildings by 2026 (projected % of commercial structures):\n\n\ud83c\uddf8\ud83c\uddec Singapore: 78%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 72%\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 65%\n\n\ud83c\uddf0\ud83c\uddf7 Seoul: 61%\n\n\ud83c\udde9\ud83c\uddea Berlin: 58%",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
