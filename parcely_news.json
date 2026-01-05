@@ -384,5 +384,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGxpanRlRzRkcFd1eHppYlBxS19qSDlib2tjQzd0bnpSQU1XcWhWTkxUZW5nU2lxVU9CZEdxSnVuQk1CaGVkVENQRjRETXlXeDc5OVZnb3g1NkUwd0lrS05TTkFVT3AzZ19HUjVGRktpMTRoTXpOZ3lHQ3ZOOHNNVW1HY2p6MHl4NGxrSnQ3eVpiajg?oc=5",
+        "date": "2026-01-05",
+        "title": "Click, shop, celebrate: E-commerce has transformed the holidays - Manila Bulletin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGxpanRlRzRkcFd1eHppYlBxS19qSDlib2tjQzd0bnpSQU1XcWhWTkxUZW5nU2lxVU9CZEdxSnVuQk1CaGVkVENQRjRETXlXeDc5OVZnb3g1NkUwd0lrS05TTkFVT3AzZ19HUjVGRktpMTRoTXpOZ3lHQ3ZOOHNNVW1HY2p6MHl4NGxrSnQ3eVpiajg?oc=5\" target=\"_blank\">Click, shop, celebrate: E-commerce has transformed the holidays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manila Bulletin</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSEI2LW5zXzc1N1FuTnI2a3dZdG1UYmZyV2hiVU1OOVNKOFE5Z0lhZ0xXa0hPMHBjZ0FwY3BWZk9BOHdvcUU4b2VGZnp6bnUzaDFXMTZwMml0UkV3T1ZwSFlOclJ1OW9Da05ueWdIQVlXWG5uZmhWeElCT25XVEtsWVVMQTV0TmhvS2tTY1YxYWN5ZFAtc0JBUmdJOGtxMUREQ2I5Zkl5Q3pjTUJQ?oc=5",
+        "date": "2026-01-05",
+        "title": "HCM City pilots UAVs for delivery services - DTiNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSEI2LW5zXzc1N1FuTnI2a3dZdG1UYmZyV2hiVU1OOVNKOFE5Z0lhZ0xXa0hPMHBjZ0FwY3BWZk9BOHdvcUU4b2VGZnp6bnUzaDFXMTZwMml0UkV3T1ZwSFlOclJ1OW9Da05ueWdIQVlXWG5uZmhWeElCT25XVEtsWVVMQTV0TmhvS2tTY1YxYWN5ZFAtc0JBUmdJOGtxMUREQ2I5Zkl5Q3pjTUJQ?oc=5\" target=\"_blank\">HCM City pilots UAVs for delivery services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DTiNews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
