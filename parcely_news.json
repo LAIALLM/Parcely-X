@@ -308,5 +308,13 @@
         "tweet": "Top 5 cities for smart access system adoption in buildings by 2026 (projected % of commercial structures):\n\n\ud83c\uddf8\ud83c\uddec Singapore: 78%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 72%\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 65%\n\n\ud83c\uddf0\ud83c\uddf7 Seoul: 61%\n\n\ud83c\udde9\ud83c\uddea Berlin: 58%",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-01-05",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker networks will hit 3 million units, up 150% from 2024's 1.2 million. \n\n\ud83c\udde8\ud83c\uddf3 China leads with 1.2 million, while \ud83c\uddfa\ud83c\uddf8 US trails at 400,000\u2014driving 70% of worldwide expansion.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
