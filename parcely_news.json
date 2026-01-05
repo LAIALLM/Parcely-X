@@ -344,5 +344,25 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Atlanta hub processes 18 million packages daily through 1,200 automated sorting lines, achieving 99.8% on-time delivery.\n\n$LTCH",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUZ0FWejIxXzZQb2tVTFpsWUQzOVJsNExBdU4teGdaMXpxMDRxTHBIYnp4NTJFbk5wNUR3cDRvUFIwQXhqM1hsanhCTQ?oc=5",
+        "date": "2026-01-05",
+        "title": "E-commerce Key to Business Survival \u2013 Meest Shareholder Vyacheslav Lysenko Says - Kyiv Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUZ0FWejIxXzZQb2tVTFpsWUQzOVJsNExBdU4teGdaMXpxMDRxTHBIYnp4NTJFbk5wNUR3cDRvUFIwQXhqM1hsanhCTQ?oc=5\" target=\"_blank\">E-commerce Key to Business Survival \u2013 Meest Shareholder Vyacheslav Lysenko Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/alliances-vs-independent-carriers-market-share-on-major-box-trades/",
+        "date": "2026-01-05",
+        "title": "Alliances vs independent carriers: market share on major box trades",
+        "summary": "<p>As the new year gets under way, the market share of independent carriers on the transpacific container shipping trade route stands at 15%.<br />\nAccording to new research from liner analysts at Sea Intelligence, although this is well below the 35% achieved by independent carriers at the height of the pandemic, it is well above the 5% they enjoyed in 2012, indicating that, given certain market conditions, independent carriers are able to ...</p>\n<p>The post <a href=\"https://theloadstar.com/alliances-vs-independent-carriers-market-share-on-major-box-trades/\">Alliances vs independent carriers: market share on major box trades</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
