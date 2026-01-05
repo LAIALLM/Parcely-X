@@ -364,5 +364,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160951/news/e-commerce/royal-mail-we-know-customers-want-returns-to-be-quick-simple-and-on-their-terms/",
+        "date": "2026-01-05",
+        "title": "Royal Mail: We know customers want returns to be quick, simple and on their terms",
+        "summary": "Royal Mail is reminding customers of new, more convenient ways to return parcels ahead of\u00a0Takeback Tuesday\u00a0\u2014 the busiest day of the year for sending back online purchases following the busy Christmas shopping season.",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/returns/royal-mail-signposts-new-return-options-ahead-of-takeback-tuesday.html",
+        "date": "2026-01-05",
+        "title": "Royal Mail signposts new return options ahead of \u2018Takeback Tuesday\u2019",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/returns/royal-mail-signposts-new-return-options-ahead-of-takeback-tuesday.html\"><img align=\"left\" alt=\"Royal Mail signposts new return options ahead of \u2018Takeback Tuesday\u2019\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/01/LockerReturns50.jpg-scaled-e1767610446645-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Royal Mail is preparing for half a million gifts to be returned this week ahead of \u2018Takeback Tuesday\u2019 \u2013 the busiest day of the year for sending back online purchases following the Christmas season.</p>\n<p>According to Royal Mail data, the number of returns is expected to rise by about 25%, with Tuesday set to be the peak day.</p>\n<p>This year will be the first where customers will have access to Royal Mail\u2019s new convenient drop-off options, including proof of postage at any of the 115,000 postboxes; 3,500 solar-powered \u2018postboxes of the future\u2019 allowing for the return of larger parcels; 8,000 convenience stores across the UK which have become Royal Mail Shop outlets; and 2,600 parcel lockers available in high\u2011footfall locations such as Sainsbury\u2019s stores and other major retailers.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/returns/royal-mail-signposts-new-return-options-ahead-of-takeback-tuesday.html\" rel=\"nofollow\">Continue reading Royal Mail signposts new return options ahead of \u2018Takeback Tuesday\u2019 at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
