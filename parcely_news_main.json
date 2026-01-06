@@ -226,5 +226,12 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub now manages 750,000 shipments daily,\n\nup 25% from last year.\n\nThis cuts delivery times to under 24 hours nationwide.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "LogiTech's core warehouse in \ud83c\uddfa\ud83c\uddf8Chicago handles 1.8 million packages daily in 2026, boosting delivery speeds by 25%.",
+        "type": "infrastructure"
     }
 ]
