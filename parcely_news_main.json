@@ -243,5 +243,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "In 2026, 28% of global e-commerce deliveries fail on first attempt, wasting $11 billion yearly.\n\n\ud83c\uddfa\ud83c\uddf8 US rate: 35%.  \n\ud83c\udde8\ud83c\uddf3 China: 18%.  \n\nBetter routing tech could close this gap by 2030.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
