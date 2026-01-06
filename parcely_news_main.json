@@ -233,5 +233,15 @@
         "status": "posted",
         "tweet": "LogiTech's core warehouse in \ud83c\uddfa\ud83c\uddf8Chicago handles 1.8 million packages daily in 2026, boosting delivery speeds by 25%.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFdhTUlZbzQtdEJVY3hHTVdoTjMzS3Fmd1ZITExaWVNCUi0yd3k4WG9MSkdsQ0k0ZHpyUzdfUG1aVnVDcDBLeDh6RHJtSmZMQ245ZDI2VVpsUW5sUVM5dEdNTkR4UWt5elExRmIwNWxKVVZ2UGNTcG9PZG5taGdVUnpSZVdUYVRp?oc=5",
+        "date": "2026-01-06",
+        "title": "Naver\u2019s New Year Promotion: Daily 90,000 Won Coupons for Plus Members - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFdhTUlZbzQtdEJVY3hHTVdoTjMzS3Fmd1ZITExaWVNCUi0yd3k4WG9MSkdsQ0k0ZHpyUzdfUG1aVnVDcDBLeDh6RHJtSmZMQ245ZDI2VVpsUW5sUVM5dEdNTkR4UWt5elExRmIwNWxKVVZ2UGNTcG9PZG5taGdVUnpSZVdUYVRp?oc=5\" target=\"_blank\">Naver\u2019s New Year Promotion: Daily 90,000 Won Coupons for Plus Members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
