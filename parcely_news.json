@@ -406,5 +406,13 @@
         "status": "posted",
         "tweet": "In 2026, UPS manages 1,200 distribution centers globally, handling 28 million packages daily with 98% on-time delivery.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "By 2026, last-mile delivery trucks worldwide will emit 180 million metric tons of CO2 yearly\u2014more than aviation's total.\n\nBuilding-integrated networks, like rooftop hubs and vertical conveyors, could cut emissions 65% by localizing drops.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
