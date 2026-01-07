@@ -266,5 +266,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-07",
+        "status": "posted",
+        "tweet": "LogiFreight Inc. handles 1.5 million packages daily across 800 warehouses in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\uddf2\ud83c\uddfdMexico.\n\nAnnual throughput: 550 million units in 2026.",
+        "type": "infrastructure"
     }
 ]
