@@ -611,5 +611,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeE9kbE03a2FVQmFZUTc3U2pVeHZQbU5OcTd1YVllNzlZRk9aN1BIdllzQV9MbF9xSGNOb3dPLUFUSm9xcHNHVDBxUkh2OW9pU0VrTDFfMEJkY2dZeFFPWlloVmROYmtMNmx2ZzFlWTJzaTczTndJVEh4UUtpUENFekZmRlJEWi1LY2ZZX0FUcDZzZEx0V0pv?oc=5",
+        "date": "2026-01-07",
+        "title": "Top seven online e-commerce apps in Nigeria - Business News Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOeE9kbE03a2FVQmFZUTc3U2pVeHZQbU5OcTd1YVllNzlZRk9aN1BIdllzQV9MbF9xSGNOb3dPLUFUSm9xcHNHVDBxUkh2OW9pU0VrTDFfMEJkY2dZeFFPWlloVmROYmtMNmx2ZzFlWTJzaTczTndJVEh4UUtpUENFekZmRlJEWi1LY2ZZX0FUcDZzZEx0V0pv?oc=5\" target=\"_blank\">Top seven online e-commerce apps in Nigeria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Nigeria</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/rival-north-american-railroads-join-line-of-objectors-to-up-ns-merger/",
+        "date": "2026-01-07",
+        "title": "Rival North American railroads join line of objectors to UP-NS merger",
+        "summary": "<p>After US unions and politicians, now the competition is getting attacks in against the looming Union Pacific-Norfolk Southern railway merger.<br />\nBNSF, Canadian Pacific Kansas City (CPKC), Canadian National (CN), and CSX claim the merger filing has serious omissions.<br />\nIn separate, but broadly aligned, filings with the US Surface Transportation Board (STB), the Class 1 operators urge rejection of the merger on the basis the filing was incomplete \u2013 CPKC\u2019s letter points to ...</p>\n<p>The post <a href=\"https://theloadstar.com/rival-north-american-railroads-join-line-of-objectors-to-up-ns-merger/\">Rival North American railroads join line of objectors to UP-NS merger</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
