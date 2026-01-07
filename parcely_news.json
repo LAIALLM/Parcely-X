@@ -506,5 +506,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1bmd1STlad0YwWHRSeUpva3Bwcm1HYTR6MVFpZU0zTjVGNEQ2emowOVEyVWotcjY0TEI0YVNTcjVHOGhtN1kzUUxWVjZWZnVLNEhV?oc=5",
+        "date": "2026-01-07",
+        "title": "RoboSense Unveils World's First AI Robot \"Delivery Guy\", Demonstrates On - site Autonomous Packing and Unpacking Operations | Latest Frontline - 36Kr",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1bmd1STlad0YwWHRSeUpva3Bwcm1HYTR6MVFpZU0zTjVGNEQ2emowOVEyVWotcjY0TEI0YVNTcjVHOGhtN1kzUUxWVjZWZnVLNEhV?oc=5\" target=\"_blank\">RoboSense Unveils World's First AI Robot \"Delivery Guy\", Demonstrates On - site Autonomous Packing and Unpacking Operations | Latest Frontline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
