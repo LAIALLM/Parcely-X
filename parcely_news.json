@@ -641,5 +641,26 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160958/news/e-commerce/advent-international-reportedly-behind-takeover-bid-for-inpost/",
+        "date": "2026-01-07",
+        "title": "Advent International reportedly\u00a0 behind takeover bid for InPost",
+        "summary": "InPost has announced it has received an indicative proposal for all shares.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf5\ud83c\uddf1 NEWS: Advent International reportedly behind takeover bid for InPost $INPST, which announced receiving an indicative proposal for all shares"
+    },
+    {
+        "link": "https://postandparcel.info/160958/news/e-commerce/advent-international-reportedly-behind-takeover-bid-for-inpost/",
+        "date": "2026-01-07",
+        "title": "Advent International reportedly\u00a0 behind takeover bid for InPost",
+        "summary": "InPost has announced it has received an indicative proposal for all shares.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\uddf1 NEWS: Advent International reportedly behind takeover bid for InPost $INPST, which has received an indicative proposal for all shares",
+        "type": "news"
     }
 ]
