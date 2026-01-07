@@ -662,5 +662,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\uddf1 NEWS: Advent International reportedly behind takeover bid for InPost $INPST, which has received an indicative proposal for all shares",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalhVMUphMUMwWDZJR1cxXzBUVjNxek1wT0ZUN1ptaFZidDl2eEMxZHBrMjl3YU94MXNlTmR6QWtEOGhwMWpteHVGTHJVREFQQUJOMGwtZlRuZjVXeE5aTWhfazR6ZkhHb3dyVzVnQ3hmeEYyUmtITEg4RmM3Q3RJWHZ4dkRzaUpXVndLZjQtOE1Qalo5dGRyeVNOOVJiOVdkOGUxTGZTRQ?oc=5",
+        "date": "2026-01-07",
+        "title": "India\u2019s 10-Minute Delivery Model Is Under Pressure - Bloomberg.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNalhVMUphMUMwWDZJR1cxXzBUVjNxek1wT0ZUN1ptaFZidDl2eEMxZHBrMjl3YU94MXNlTmR6QWtEOGhwMWpteHVGTHJVREFQQUJOMGwtZlRuZjVXeE5aTWhfazR6ZkhHb3dyVzVnQ3hmeEYyUmtITEg4RmM3Q3RJWHZ4dkRzaUpXVndLZjQtOE1Qalo5dGRyeVNOOVJiOVdkOGUxTGZTRQ?oc=5\" target=\"_blank\">India\u2019s 10-Minute Delivery Model Is Under Pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
