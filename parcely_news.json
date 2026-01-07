@@ -496,5 +496,15 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0NDSVpBV0tuOWRaaTVVVDJlb3FySzZpekhMc3BfdEkzZ3VYeDZmRDc2UE5YVjJEZmd0T2UyWEdwY3Y5eXRUa21fYjA5Wl9zU2xHSWlDYS1hbnRYd2Ftck53Tjc4VTU1THV6RWlwM1Z4cjBWcUNfSVRDZVk1YkVHQjdPaTVBX0FuaGJjSlZ5N1NSZw?oc=5",
+        "date": "2026-01-07",
+        "title": "JET Charge powers IKEA\u2019s national EV delivery rollout - ecommercenews.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxON0NDSVpBV0tuOWRaaTVVVDJlb3FySzZpekhMc3BfdEkzZ3VYeDZmRDc2UE5YVjJEZmd0T2UyWEdwY3Y5eXRUa21fYjA5Wl9zU2xHSWlDYS1hbnRYd2Ftck53Tjc4VTU1THV6RWlwM1Z4cjBWcUNfSVRDZVk1YkVHQjdPaTVBX0FuaGJjSlZ5N1NSZw?oc=5\" target=\"_blank\">JET Charge powers IKEA\u2019s national EV delivery rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ecommercenews.com.au</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
