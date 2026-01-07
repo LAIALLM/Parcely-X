@@ -273,5 +273,13 @@
         "status": "posted",
         "tweet": "LogiFreight Inc. handles 1.5 million packages daily across 800 warehouses in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\uddf2\ud83c\uddfdMexico.\n\nAnnual throughput: 550 million units in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-07",
+        "status": "posted",
+        "tweet": "Delivery vans driving urban gridlock: Projected 2026-2030 traffic growth from last-mile deliveries in dense cities.\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai/India - 62% rise  \n2. \ud83c\uddfa\ud83c\uddf8 New York/USA - 55% rise  \n3. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo/Brazil - 52% rise  \n4. \ud83c\uddec\ud83c\udde7 London/UK - 48% rise  \n5. \ud83c\uddef\ud83c\uddf5 Tokyo/Japan - 45% rise",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
