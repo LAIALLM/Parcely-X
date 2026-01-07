@@ -523,5 +523,13 @@
         "status": "posted",
         "tweet": "UPS logistics infrastructure processed 24 million packages daily across 220 facilities in 2026, achieving 99.8% on-time delivery rate.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-07",
+        "status": "posted",
+        "tweet": "Global e-commerce packaging waste:\n\n2026: 200 million tons annually\n\n2030 projection: 300 million tons\n\nThat's a 50% rise in just 4 years, driven by surging online deliveries.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
