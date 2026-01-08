@@ -331,5 +331,25 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse handles 1.2 million parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 25% across the Southwest.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://postandparcel.info/160964/news/freight/pall-ex-group-launches-carbon-reporting-tool/",
+        "date": "2026-01-08",
+        "title": "Pall-Ex Group launches carbon reporting tool",
+        "summary": "UK pallet network, Pall-Ex Group, has announced the latest development in its journey to achieving net zero, NexusCO2.",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/logistics/dhl-supply-chain-to-manage-waitroses-newest-distribution-center.html",
+        "date": "2026-01-08",
+        "title": "DHL Supply Chain to manage Waitrose\u2019s newest distribution center",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/logistics/dhl-supply-chain-to-manage-waitroses-newest-distribution-center.html\"><img align=\"left\" alt=\"DHL Supply Chain to manage Waitrose\u2019s newest distribution center\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/01/rsz_1waitrose-e1767865208401-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">DHL Supply Chain has announced it will operate food retailer Waitrose\u2019s new regional distribution center at the Mountpark Bristol 360 development.</p>\n<p style=\"font-weight: 400;\">The 360,000ft2 (33,445m2) site, which is the retailer\u2019s first in the UK southwest, will open in early 2027, creating 550 new jobs, including 480 warehouse roles and more than 80 driver positions.</p>\n<p style=\"font-weight: 400;\">DHL will manage warehousing and transportation operations and will support deliveries to around 50 existing Waitrose shops, with the flexibility to serve additional stores as the retailer expands across the southwest.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/logistics/dhl-supply-chain-to-manage-waitroses-newest-distribution-center.html\" rel=\"nofollow\">Continue reading DHL Supply Chain to manage Waitrose\u2019s newest distribution center at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
