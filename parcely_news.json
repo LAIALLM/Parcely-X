@@ -732,5 +732,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNkpVR2wxSG00RnBIMzFmdWl6d2pENmpYbHJraWhiYlpSVjY3eExtclFTMF9IcVdKNE5JaVVPNm43QW9JdWpJQzlJaTNmS2NENjg5OExHYXNkR3BZTDJrc1dpVlg5UUdLUEp5NE9MMTM3aFJ5cnJrbUx1d3hWbE94UkhqY2lqYlpIcUd4X0pHQVJNT3duSjRQaVdTb3RkdGdzMWdPbi12QU83ejFFMldjZVp3SmJ5a09mSThHZlM3VHd4b2pPUFNSM0JMOHZaUDlFWHByUQ?oc=5",
+        "date": "2026-01-08",
+        "title": "OnTrac and ShipStation expand partnership to deliver faster, seven-day e-commerce shipping nationwide - logisticsmgmt.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNkpVR2wxSG00RnBIMzFmdWl6d2pENmpYbHJraWhiYlpSVjY3eExtclFTMF9IcVdKNE5JaVVPNm43QW9JdWpJQzlJaTNmS2NENjg5OExHYXNkR3BZTDJrc1dpVlg5UUdLUEp5NE9MMTM3aFJ5cnJrbUx1d3hWbE94UkhqY2lqYlpIcUd4X0pHQVJNT3duSjRQaVdTb3RkdGdzMWdPbi12QU83ejFFMldjZVp3SmJ5a09mSThHZlM3VHd4b2pPUFNSM0JMOHZaUDlFWHByUQ?oc=5\" target=\"_blank\">OnTrac and ShipStation expand partnership to deliver faster, seven-day e-commerce shipping nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">logisticsmgmt.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
