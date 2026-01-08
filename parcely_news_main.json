@@ -324,5 +324,12 @@
         "tweet": "\ud83c\uddea\ud83c\uddfa In 2026, last-mile logistics emit 18 million metric tons of CO2 yearly across Europe.\n\nBuilding-integrated networks project emissions at 7 million metric tons\u201461% less by embedding deliveries into urban structures.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-01-08",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse handles 1.2 million parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 25% across the Southwest.",
+        "type": "infrastructure"
     }
 ]
