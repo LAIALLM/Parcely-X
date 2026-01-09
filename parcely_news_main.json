@@ -354,5 +354,12 @@
         "tweet": "By 2026, delivery vans will drive 25% of urban vehicle miles in dense cities like \ud83c\uddfa\ud83c\uddf8New York and \ud83c\uddec\ud83c\udde7London, up from 18% in 2023, intensifying traffic congestion.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2026-01-09",
+        "status": "posted",
+        "tweet": "LogiCorp's \ud83c\uddfa\ud83c\uddf8 Dallas facility handles 1.2 million shipments daily.\n\nThis infrastructure milestone supports seamless North American logistics in 2026.",
+        "type": "infrastructure"
     }
 ]
