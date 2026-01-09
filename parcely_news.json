@@ -704,5 +704,13 @@
         "status": "posted",
         "tweet": "UPS handles 24 million packages daily via its 1,200 automated sorting facilities in 2026, achieving 99.8% on-time delivery rate.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-09",
+        "status": "posted",
+        "tweet": "In 2026, 28% of global e-commerce deliveries fail on the first attempt, adding $45 billion in extra logistics costs worldwide.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
