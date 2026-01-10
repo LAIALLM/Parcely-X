@@ -624,5 +624,12 @@
         "tweet": "By 2026, global parcel locker networks will exceed 1.2 million units, handling 18% of all e-commerce deliveries and cutting urban traffic by 25%.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "UPS logistics infrastructure processes 32 million packages daily across 1,200 sorting facilities worldwide.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
