@@ -314,5 +314,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse network processes 750,000 parcels daily in 2026.",
+        "type": "infrastructure"
     }
 ]
