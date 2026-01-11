@@ -313,5 +313,13 @@
         "status": "posted",
         "tweet": "SwiftLogix's \ud83c\uddfa\ud83c\uddf8 Atlanta distribution center now manages 750,000 shipments daily.\n\nThis infrastructure upgrade cuts regional delivery times to under 24 hours.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-11",
+        "status": "posted",
+        "tweet": "Leading cities by share of EV and micro-mobility in urban delivery fleets, 2026 projections (% of total).\n\n\ud83c\uddf3\ud83c\uddf4 Oslo, Norway: 88%\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam, Netherlands: 85%\n\n\ud83c\uddf8\ud83c\uddea Stockholm, Sweden: 82%\n\n\ud83c\udde8\ud83c\udde6 Vancouver, Canada: 79%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco, USA: 76%",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
