@@ -306,5 +306,12 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse network processes 750,000 parcels daily in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-11",
+        "status": "posted",
+        "tweet": "SwiftLogix's \ud83c\uddfa\ud83c\uddf8 Atlanta distribution center now manages 750,000 shipments daily.\n\nThis infrastructure upgrade cuts regional delivery times to under 24 hours.",
+        "type": "infrastructure"
     }
 ]
