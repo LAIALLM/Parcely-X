@@ -651,5 +651,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTV4TUtFajRWQXJicnZCVmYzYTV0VlFzd2lNWkwxb3AyMU15cllTSnllWlM4LWhqUi1YS1AxS0pCckNYbkN0NU12Y1l4akNaM1JrTGJUdXUzd1ZhNU1TalB3U2VHZkpMVnhKbzlIY2YtQm5ISmxrb2NXeFZ5RktPMWQwdE1SMWhvZm94Y3NKYlFRZmxpUHo5MURxLUhtTUUwcnRCSFBwN01mMU50MzNBdXRZNnM?oc=5",
+        "date": "2026-01-11",
+        "title": "Last Mile Platform Automates Delivery Network - Logistics Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTV4TUtFajRWQXJicnZCVmYzYTV0VlFzd2lNWkwxb3AyMU15cllTSnllWlM4LWhqUi1YS1AxS0pCckNYbkN0NU12Y1l4akNaM1JrTGJUdXUzd1ZhNU1TalB3U2VHZkpMVnhKbzlIY2YtQm5ISmxrb2NXeFZ5RktPMWQwdE1SMWhvZm94Y3NKYlFRZmxpUHo5MURxLUhtTUUwcnRCSFBwN01mMU50MzNBdXRZNnM?oc=5\" target=\"_blank\">Last Mile Platform Automates Delivery Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Logistics Business</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
