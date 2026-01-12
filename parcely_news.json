@@ -831,5 +831,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVpjZXdmX1V4YzZKMWRXLVR4eEJpN1VLbHU2X25aQ09Sd3dIT1BQWEtBZ1JUTV9zSms5anVmNU1IRHFlcW9LZlhtTnU4UjV5MDRhWS1oU040bHUyRmFhQ0hFNWNITVhORVRRZlFPVHhtV0ZtTWlWdTZCUlBLN1NjMk9Ja0E1T1FOekpTdlAyZ1lFZzRGMlFXeU5FOA?oc=5",
+        "date": "2026-01-12",
+        "title": "Sendle, ACI Logistix and FirstMile parent Fast Group to close - Supply Chain Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVpjZXdmX1V4YzZKMWRXLVR4eEJpN1VLbHU2X25aQ09Sd3dIT1BQWEtBZ1JUTV9zSms5anVmNU1IRHFlcW9LZlhtTnU4UjV5MDRhWS1oU040bHUyRmFhQ0hFNWNITVhORVRRZlFPVHhtV0ZtTWlWdTZCUlBLN1NjMk9Ja0E1T1FOekpTdlAyZ1lFZzRGMlFXeU5FOA?oc=5\" target=\"_blank\">Sendle, ACI Logistix and FirstMile parent Fast Group to close</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
