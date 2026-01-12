@@ -721,5 +721,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160985/news/e-commerce/posta-romanas-transformation-recognised-by-ipc/",
+        "date": "2026-01-12",
+        "title": "Po\u0219ta Rom\u00e2n\u0103\u2019s transformation recognised by IPC",
+        "summary": "Po\u0219ta Rom\u00e2n\u0103 has become a member of International Post Corporation.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
