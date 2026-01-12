@@ -731,5 +731,35 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzVYZ3A4U0YxWjR1bUNGcXMtT3ZkTzZKNDFTV0w2N0JCUkZmT2xDTTFYdmdIblZWLXVlWVdyVFlBWDBJZDA5MEstejc4WEFFZnplWEh1bWQ1eTRydVh1dTU4cGRSNGpCVmJUZmZTV0J5R0h6dWMwbnhQaFFLd3JoaGtiUVVPWjJpN080MVVmeUtobU5jelE4Tw?oc=5",
+        "date": "2026-01-12",
+        "title": "Flash Group to cease Malaysia operations - Bangkok Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzVYZ3A4U0YxWjR1bUNGcXMtT3ZkTzZKNDFTV0w2N0JCUkZmT2xDTTFYdmdIblZWLXVlWVdyVFlBWDBJZDA5MEstejc4WEFFZnplWEh1bWQ1eTRydVh1dTU4cGRSNGpCVmJUZmZTV0J5R0h6dWMwbnhQaFFLd3JoaGtiUVVPWjJpN080MVVmeUtobU5jelE4Tw?oc=5\" target=\"_blank\">Flash Group to cease Malaysia operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangkok Post</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/protests-in-iran-may-hinder-or-help-shippings-return-to-the-red-sea/",
+        "date": "2026-01-12",
+        "title": "Protests in Iran may hinder or help shipping\u2019s return to the Red Sea",
+        "summary": "<p>Container shipping has yet another flashpoint to contend with, after civil protests across Iran led to a flurry of tit-for-tat threats from Washington and Tehran over the weekend \u2013 although this could expedite a return to Red Sea services.<br />\nPresident Trump weighed in and warned Iran that lethal force against the \u201cpeaceful protests\u201d would be met by a US military response. This provoked a reciprocal threat to regional US and Israeli ...</p>\n<p>The post <a href=\"https://theloadstar.com/protests-in-iran-may-hinder-or-help-shippings-return-to-the-red-sea/\">Protests in Iran may hinder or help shipping&#8217;s return to the Red Sea</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/atlas-air-sale-more-aircraft-needed-to-justify-ambitious-price-tag/",
+        "date": "2026-01-12",
+        "title": "Atlas Air sale: more aircraft needed to justify ambitious price tag?",
+        "summary": "<p>Last month\u2019s news that Apollo Global Management is looking to shed Atlas Air, via a potential $12bn sale, will necessitate some changes at the carrier, according to industry observers.\u00a0<br />\nThe $12bn price tag seems quite ambitious for a carrier that was acquired in March 2023\u00a0by Apollo\u00a0for about $3.2bn\u00a0for the equity, at\u00a0an enterprise value of\u00a0some\u00a0$5.2bn.\u00a0<br />\nSince then, according to aircraft data sites, Atlas Air has acquired seven 777Fs, four of which were new, ...</p>\n<p>The post <a href=\"https://theloadstar.com/atlas-air-sale-more-aircraft-needed-to-justify-ambitious-price-tag/\">Atlas Air sale: more aircraft needed to justify ambitious price tag?</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
