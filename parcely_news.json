@@ -691,5 +691,35 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkhTR2xLM3RvaHMySXB0cWRyZ2NYcWF0QUh5TXAyZEk0dklSTlpxd291di1iTjZRRkFSNmtVbGRCV2NRaWwwLUxrUG0zdTM5U1ZHeXNGZk9hSjk3OWVSN05VMHpScDNuWmRtbUQyYWN2c09hMGZBWkpFN1g2cFI0MXVscTNIUkFPa0luUFhudHdUcUstdXNRYmZKYVBoM1pCT1JhNE53UXRobzg5TW5fdW04cWlNSXVnRHJ0dFBnSQ?oc=5",
+        "date": "2026-01-12",
+        "title": "FedEx and Zabka Offers Convenient Package Drop-off and Pickup Solutions - FedEx newsroom",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkhTR2xLM3RvaHMySXB0cWRyZ2NYcWF0QUh5TXAyZEk0dklSTlpxd291di1iTjZRRkFSNmtVbGRCV2NRaWwwLUxrUG0zdTM5U1ZHeXNGZk9hSjk3OWVSN05VMHpScDNuWmRtbUQyYWN2c09hMGZBWkpFN1g2cFI0MXVscTNIUkFPa0luUFhudHdUcUstdXNRYmZKYVBoM1pCT1JhNE53UXRobzg5TW5fdW04cWlNSXVnRHJ0dFBnSQ?oc=5\" target=\"_blank\">FedEx and Zabka Offers Convenient Package Drop-off and Pickup Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FedEx newsroom</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160982/news/e-commerce/austrian-post-in-2025-more-than-half-a-billion-parcels-were-transported-in-13-countries/",
+        "date": "2026-01-12",
+        "title": "Austrian Post: In 2025, more than half a billion parcels were transported in 13 countries",
+        "summary": "Austrian Post transported 232 million parcels in Austria last year, which means volume growth of 3.5 percent compared to the previous year.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/160979/news/e-commerce/an-post-stamp-increases-to-cover-cost-inflation-and-impact-of-falling-letter-revenue/",
+        "date": "2026-01-12",
+        "title": "An Post: stamp increases to cover cost inflation and impact of falling letter revenue",
+        "summary": "An Post is taking action to safeguard national delivery services and equal access to letter services nationwide, for uniform prices, despite more European postal companies stepping back letter services due to falling volumes and rising costs.",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
