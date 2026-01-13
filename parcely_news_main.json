@@ -331,5 +331,15 @@
         "status": "posted",
         "tweet": "GlobalFreight Logistics hit a milestone in 2026: \n\nTheir network now moves 2.5 million parcels daily via 120 automated warehouses worldwide. \n\nEfficiency up 35% year-over-year, cutting delivery times to under 48 hours on average.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDNGUjdpRk1BRVRzTXJHVnI3bUNpRUdZRFNVUWp6bUo0SWFrZ29qTmxId3BuQWwxbThCLXY5NHhTQWRuWTZBcmFTNmt5d1lsVDVWRkRGcDdsRVVzd25NamdPLWRNR1ZXR1R6WFM4dTVDamZ3dDlrQVR0NE1tRUZGSDhNamhfNHNXYTUxVkhNZ2pwQU5TQW9pamItMUJpRHN5OTRnZXE3bGlJejdqNXlRckJWSVdZYkNLYTJ0Z29ybFprOEFMR0VHZGhB?oc=5",
+        "date": "2026-01-13",
+        "title": "Major delivery aggregators agree to remove 10 minute delivery deadline after govt intervention: Sources - The Indian Awaaz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDNGUjdpRk1BRVRzTXJHVnI3bUNpRUdZRFNVUWp6bUo0SWFrZ29qTmxId3BuQWwxbThCLXY5NHhTQWRuWTZBcmFTNmt5d1lsVDVWRkRGcDdsRVVzd25NamdPLWRNR1ZXR1R6WFM4dTVDamZ3dDlrQVR0NE1tRUZGSDhNamhfNHNXYTUxVkhNZ2pwQU5TQW9pamItMUJpRHN5OTRnZXE3bGlJejdqNXlRckJWSVdZYkNLYTJ0Z29ybFprOEFMR0VHZGhB?oc=5\" target=\"_blank\">Major delivery aggregators agree to remove 10 minute delivery deadline after govt intervention: Sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Awaaz</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
