@@ -841,5 +841,26 @@
         "status": "posted",
         "tweet": "UPS logistics network in 2026 processes 24 million packages daily across 500 global facilities.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://postandparcel.info/160993/news/e-commerce/royal-mail-and-post-office-join-forces-to-meet-customer-needs/",
+        "date": "2026-01-13",
+        "title": "Royal Mail and Post Office join forces to meet customer needs",
+        "summary": "Royal Mail and Post Office will partner to introduce parcel lockers at Post Office branches across the UK. The six-month trial will see parcel lockers installed outside stores, allowing customers to access them at their convenience, including outside of branch opening hours.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Royal Mail $RMG and Post Office partner to introduce parcel lockers at UK branches for convenient access anytime in a six-month trial"
+    },
+    {
+        "link": "https://postandparcel.info/160993/news/e-commerce/royal-mail-and-post-office-join-forces-to-meet-customer-needs/",
+        "date": "2026-01-13",
+        "title": "Royal Mail and Post Office join forces to meet customer needs",
+        "summary": "Royal Mail and Post Office will partner to introduce parcel lockers at Post Office branches across the UK. The six-month trial will see parcel lockers installed outside stores, allowing customers to access them at their convenience, including outside of branch opening hours.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Royal Mail $RMG and Post Office partner to introduce parcel lockers at UK branches, enabling convenient access outside store hours in a six-month trial",
+        "type": "news"
     }
 ]
