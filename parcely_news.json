@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-03",
-        "status": "posted",
-        "tweet": "By 2026, 48% of new residential buildings worldwide include smart tech, up from 32% in 2023.\n\nSmart office buildings hit 72% adoption, but residential growth outpaces at 22% yearly through 2030.",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": null,
-        "date": "2026-01-03",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS logistics network handles 24 million packages daily across 1,050 facilities in 2026.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-01-04",
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 4.5 million packages daily in 2026.\n\n$FDX",
@@ -841,5 +826,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Last-mile delivery costs in large metros hit $14 per parcel in 2026, up 18% from 2024 due to urban traffic and wage hikes. Projections show $16 by 2028 without efficiency gains.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
