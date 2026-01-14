@@ -926,5 +926,12 @@
         "tweet": "Last-mile deliveries worldwide: 450 million metric tons of CO2 in 2026.\n\nBuilding-integrated networks: 30% cut possible, saving 135 million tons yearly.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-01-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS infrastructure in 2026: 500 distribution centers process 22 million packages daily. $UPS",
+        "type": "infrastructure"
     }
 ]
