@@ -943,5 +943,36 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalZyRURSeXpyNUpibnFRZGI5M2duTll2ZkdNYU5JcmhueDNFYkdFT25KY28zRzNQU2hlTXE0OGFNS1FodUk3NUxJa18yR3R2NUNsblF1YVpLbmhnQ0NDNmVUOXNWTlRWX3BLZkVrNHlkTW9KaFRTRk5BSlpfMTNockhiVU1kcjc5aWxvV3NCRmhuZW5YZm5jd3pWZl9GRjlvRnotajdUNEpwUzNSd3hjaG9hTUg0RlVLRjFuU1Zn?oc=5",
+        "date": "2026-01-14",
+        "title": "Amazon to add new same-day delivery facility in Memphis - Daily Memphian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQalZyRURSeXpyNUpibnFRZGI5M2duTll2ZkdNYU5JcmhueDNFYkdFT25KY28zRzNQU2hlTXE0OGFNS1FodUk3NUxJa18yR3R2NUNsblF1YVpLbmhnQ0NDNmVUOXNWTlRWX3BLZkVrNHlkTW9KaFRTRk5BSlpfMTNockhiVU1kcjc5aWxvV3NCRmhuZW5YZm5jd3pWZl9GRjlvRnotajdUNEpwUzNSd3hjaG9hTUg0RlVLRjFuU1Zn?oc=5\" target=\"_blank\">Amazon to add new same-day delivery facility in Memphis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Memphian</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2EzanE3ODl0T0w2c0hRRGdmTW41Q0RXVzNON3dnVkx5REQ1RTV1cTBYSFc2ak1oUzNqSFotZDlKWE00Ry05RDZFTXgyRDE5RW5RUGRWZDJzNXdtWC1VNVAtNDdlY2FJbXpuNU91MXk1UmNVQnhiZzRUT1hmNHNDOFRKYVUwMmZjWlpyaGlSdnYzWlhUc0hpbG9QcVJxMXhRZ0JUSmdyV3d4QQ?oc=5",
+        "date": "2026-01-14",
+        "title": "India Urges Quick-Commerce Firms to Abandon 10-Minute Deliveries - India News Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2EzanE3ODl0T0w2c0hRRGdmTW41Q0RXVzNON3dnVkx5REQ1RTV1cTBYSFc2ak1oUzNqSFotZDlKWE00Ry05RDZFTXgyRDE5RW5RUGRWZDJzNXdtWC1VNVAtNDdlY2FJbXpuNU91MXk1UmNVQnhiZzRUT1hmNHNDOFRKYVUwMmZjWlpyaGlSdnYzWlhUc0hpbG9QcVJxMXhRZ0JUSmdyV3d4QQ?oc=5\" target=\"_blank\">India Urges Quick-Commerce Firms to Abandon 10-Minute Deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India News Network</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India urges quick-commerce firms to abandon 10-minute delivery promises amid safety concerns."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2EzanE3ODl0T0w2c0hRRGdmTW41Q0RXVzNON3dnVkx5REQ1RTV1cTBYSFc2ak1oUzNqSFotZDlKWE00Ry05RDZFTXgyRDE5RW5RUGRWZDJzNXdtWC1VNVAtNDdlY2FJbXpuNU91MXk1UmNVQnhiZzRUT1hmNHNDOFRKYVUwMmZjWlpyaGlSdnYzWlhUc0hpbG9QcVJxMXhRZ0JUSmdyV3d4QQ?oc=5",
+        "date": "2026-01-14",
+        "title": "India Urges Quick-Commerce Firms to Abandon 10-Minute Deliveries - India News Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2EzanE3ODl0T0w2c0hRRGdmTW41Q0RXVzNON3dnVkx5REQ1RTV1cTBYSFc2ak1oUzNqSFotZDlKWE00Ry05RDZFTXgyRDE5RW5RUGRWZDJzNXdtWC1VNVAtNDdlY2FJbXpuNU91MXk1UmNVQnhiZzRUT1hmNHNDOFRKYVUwMmZjWlpyaGlSdnYzWlhUc0hpbG9QcVJxMXhRZ0JUSmdyV3d4QQ?oc=5\" target=\"_blank\">India Urges Quick-Commerce Firms to Abandon 10-Minute Deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India News Network</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India urges quick-commerce firms to drop 10-minute delivery promises for worker safety.",
+        "type": "news"
     }
 ]
