@@ -340,5 +340,13 @@
         "status": "posted",
         "tweet": "LogiFreight's \ud83c\udde8\ud83c\uddf3 Shanghai warehouse now processes 1.5 million parcels daily, up 30% from 2025.\n\nThis supports seamless Asia-Pacific routes with zero downtime.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC saw 2.1 million porch thefts in 2026, while \ud83c\uddfa\ud83c\uddf8 LA reported 1.8 million\u2014 a 17% higher rate in the East Coast hub amid surging e-commerce deliveries.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
