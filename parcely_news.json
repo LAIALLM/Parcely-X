@@ -893,5 +893,46 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Large metros: Last-mile delivery costs $11.20 per parcel in 2026, up 8% from 2025 due to traffic and wage hikes.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": "https://postandparcel.info/161018/news/e-commerce/sf-holding-we-believe-this-is-a-win-win-partnership/",
+        "date": "2026-01-15",
+        "title": "SF Holding: We believe this is a win-win partnership",
+        "summary": "S.F. Holding Co., Ltd.,\u00a0 and J&#038;T Global Express\u00a0 jointly announced today that they have entered into a strategic cross-shareholding agreement involving the mutual issuance of new shares, with a total investment amount of approximately HKD 8.3 billion.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: SF Holding and J&T Global Express enter strategic cross-shareholding pact via mutual share issuance worth HKD 8.3B, calling it a win-win partnership"
+    },
+    {
+        "link": "https://postandparcel.info/161015/news/e-commerce/dx-and-rhenus-logistics-agree-strategic-partnership/",
+        "date": "2026-01-15",
+        "title": "DX and Rhenus Logistics agree strategic partnership",
+        "summary": "DX and Rhenus Logistics have agreed a strategic partnership that will see DX assume responsibility for Rhenus\u2019s two-person home delivery services in the UK and Ireland.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161012/news/e-commerce/margit-waldau-takes-over-the-management-of-shopping-at/",
+        "date": "2026-01-15",
+        "title": "MARGIT WALDAU TAKES OVER THE MANAGEMENT OF SH\u00d6PPING. AT",
+        "summary": "Margit Waldau is taking over the management of sh\u00f6pping.at, the online marketplace of Austrian Post.",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161018/news/e-commerce/sf-holding-we-believe-this-is-a-win-win-partnership/",
+        "date": "2026-01-15",
+        "title": "SF Holding: We believe this is a win-win partnership",
+        "summary": "S.F. Holding Co., Ltd.,\u00a0 and J&#038;T Global Express\u00a0 jointly announced today that they have entered into a strategic cross-shareholding agreement involving the mutual issuance of new shares, with a total investment amount of approximately HKD 8.3 billion.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: SF Holding and J&T Global Express announce strategic cross-shareholding agreement with HKD 8.3B mutual investment, calling it a win-win partnership",
+        "type": "news"
     }
 ]
