@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-05",
-        "status": "posted",
-        "tweet": "By 2026, top cities by EV and micro-mobility delivery fleet size (projected units in operation).\n\n\ud83c\udde8\ud83c\uddf3 Beijing: 120,000\n\n\ud83c\uddfa\ud83c\uddf8 New York: 45,000\n\n\ud83c\uddec\ud83c\udde7 London: 38,000\n\n\ud83c\uddeb\ud83c\uddf7 Paris: 32,000\n\n\ud83c\uddf8\ud83c\uddec Singapore: 28,000",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": null,
-        "date": "2026-01-05",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub now manages 750,000 shipments daily,\n\nup 25% from last year.\n\nThis cuts delivery times to under 24 hours nationwide.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-01-06",
         "status": "posted",
         "tweet": "LogiTech's core warehouse in \ud83c\uddfa\ud83c\uddf8Chicago handles 1.8 million packages daily in 2026, boosting delivery speeds by 25%.",
@@ -410,5 +395,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Chinas autonomous last-mile delivery market set for major growth by 2032, fueled by AI, robotics, and surging e-commerce.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-15",
+        "status": "posted",
+        "tweet": "2026 projection: 25% of global e-commerce deliveries fail on first attempt.\n\n\ud83c\uddfa\ud83c\uddf8 US rate: 18% \u2013 yet retries cost the industry $60 billion yearly worldwide.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
