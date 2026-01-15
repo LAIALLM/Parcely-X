@@ -934,5 +934,46 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: SF Holding and J&T Global Express announce strategic cross-shareholding agreement with HKD 8.3B mutual investment, calling it a win-win partnership",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDJtcTFDY1ZFaXFMMTlzc3RBeDNVZ3VPdUt6ZVo1TVBuZU84TmZxQ3pYRFc0QUxMLUFGZEptVTd4aWdyMDhCRFJMUTlVYjJWbHMteEVicGVwSngzLTIwNDZydDJuMmNaNUdlTUFaZTVZQzItS0JOMTVWUWpWVmZOUzF0S0k0TkFRNWE5R196c1F2T2lkOUU2Y3FxcVQ5N1RsdFJrTUpSWmhvTk01UzN3cWRLN3FKc0RSalRlbWtuUTNKX0VnN3RDaA?oc=5",
+        "date": "2026-01-15",
+        "title": "Indiana\u2019s National Drone Site Elevates Arrive AI at the Center of Autonomous Delivery Scale - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDJtcTFDY1ZFaXFMMTlzc3RBeDNVZ3VPdUt6ZVo1TVBuZU84TmZxQ3pYRFc0QUxMLUFGZEptVTd4aWdyMDhCRFJMUTlVYjJWbHMteEVicGVwSngzLTIwNDZydDJuMmNaNUdlTUFaZTVZQzItS0JOMTVWUWpWVmZOUzF0S0k0TkFRNWE5R196c1F2T2lkOUU2Y3FxcVQ5N1RsdFJrTUpSWmhvTk01UzN3cWRLN3FKc0RSalRlbWtuUTNKX0VnN3RDaA?oc=5\" target=\"_blank\">Indiana\u2019s National Drone Site Elevates Arrive AI at the Center of Autonomous Delivery Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "(\ud83c\uddfa\ud83c\uddf8) NEWS: Indianas national drone site elevates Arrive AI as key to scaling autonomous delivery"
+    },
+    {
+        "link": "https://postandparcel.info/161023/news/e-commerce/zigzag-shoppers-are-savvy-to-what-a-return-should-cost-and-wont-put-up-with-courier-problems/",
+        "date": "2026-01-15",
+        "title": "ZigZag: shoppers are savvy to what a return should cost and won\u2019t put up with courier problems",
+        "summary": "Nearly half (45%) of returns made between Black Friday and 6th January were paid for, according to new data from the world\u2019s most connected returns and post-purchase network\u00a0ZigZag.",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161021/news/e-commerce/usps-these-results-reflect-the-tenacity-of-our-workforce/",
+        "date": "2026-01-15",
+        "title": "USPS: These results reflect the tenacity of our workforce",
+        "summary": "Through large investments in new technology and new logistics planning and execution, the U.S. Postal Service (USPS) significantly improved its delivery performance during this past holiday season.",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDJtcTFDY1ZFaXFMMTlzc3RBeDNVZ3VPdUt6ZVo1TVBuZU84TmZxQ3pYRFc0QUxMLUFGZEptVTd4aWdyMDhCRFJMUTlVYjJWbHMteEVicGVwSngzLTIwNDZydDJuMmNaNUdlTUFaZTVZQzItS0JOMTVWUWpWVmZOUzF0S0k0TkFRNWE5R196c1F2T2lkOUU2Y3FxcVQ5N1RsdFJrTUpSWmhvTk01UzN3cWRLN3FKc0RSalRlbWtuUTNKX0VnN3RDaA?oc=5",
+        "date": "2026-01-15",
+        "title": "Indiana\u2019s National Drone Site Elevates Arrive AI at the Center of Autonomous Delivery Scale - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDJtcTFDY1ZFaXFMMTlzc3RBeDNVZ3VPdUt6ZVo1TVBuZU84TmZxQ3pYRFc0QUxMLUFGZEptVTd4aWdyMDhCRFJMUTlVYjJWbHMteEVicGVwSngzLTIwNDZydDJuMmNaNUdlTUFaZTVZQzItS0JOMTVWUWpWVmZOUzF0S0k0TkFRNWE5R196c1F2T2lkOUU2Y3FxcVQ5N1RsdFJrTUpSWmhvTk01UzN3cWRLN3FKc0RSalRlbWtuUTNKX0VnN3RDaA?oc=5\" target=\"_blank\">Indiana\u2019s National Drone Site Elevates Arrive AI at the Center of Autonomous Delivery Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Indianas National Drone Site positions Arrive AI at the forefront of scaling autonomous delivery.",
+        "type": "news"
     }
 ]
