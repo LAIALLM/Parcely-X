@@ -868,5 +868,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India urges quick-commerce firms to drop 10-minute delivery promises for worker safety.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV25wU2hQdXZoQVhvQUtQQVVEM0hzRWJPdi1HcnJad3pyLXJ4VHVmQzlmZFhvb1k5YWQ5Q2p3ZXBsMmZMc0M4R1g0RlRpN3N4Z3J3WU5PWnd4UUI1YW1yVm15aTd2enBEMmlnSUhZX3JhMlRkaGtZYW80bjFuUVg5bWd2NGZrcU0?oc=5",
+        "date": "2026-01-15",
+        "title": "AI in eCommerce delivery to headline London TDC 2026 - IT Brief New Zealand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPV25wU2hQdXZoQVhvQUtQQVVEM0hzRWJPdi1HcnJad3pyLXJ4VHVmQzlmZFhvb1k5YWQ5Q2p3ZXBsMmZMc0M4R1g0RlRpN3N4Z3J3WU5PWnd4UUI1YW1yVm15aTd2enBEMmlnSUhZX3JhMlRkaGtZYW80bjFuUVg5bWd2NGZrcU0?oc=5\" target=\"_blank\">AI in eCommerce delivery to headline London TDC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Brief New Zealand</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
