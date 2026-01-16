@@ -895,5 +895,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMV9CRWxDVVJGR0x5Y1luSjVuLW91cFUxYU82MGViWkZtUlZTZnlGSl9HMmF4S291bFduWVQ5dFJFRHFGRHpIMXFfazdPUWRsUXkyTE41Tm5lbXh6VVktUU1XZGlyTkIxa2pabjRXa0FrR3ZuUEFCTHh6NVpDeVphbjNMNXRFeklJendUOEtXT2MxajNwX3lfUGkxVV9MX09vNUZFaU5JTnRRbmxzQWdyOGFSeEx5XzZhZG52SFo5ejRpQy1VcklsUm15M241TlpPUW0yd2ZqUjI0RkdvanR5eHhvNm4?oc=5",
+        "date": "2026-01-16",
+        "title": "A $450 Billion Opportunity: Is Serve Robotics Stock a Buy in 2026? - The Globe and Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMV9CRWxDVVJGR0x5Y1luSjVuLW91cFUxYU82MGViWkZtUlZTZnlGSl9HMmF4S291bFduWVQ5dFJFRHFGRHpIMXFfazdPUWRsUXkyTE41Tm5lbXh6VVktUU1XZGlyTkIxa2pabjRXa0FrR3ZuUEFCTHh6NVpDeVphbjNMNXRFeklJendUOEtXT2MxajNwX3lfUGkxVV9MX09vNUZFaU5JTnRRbmxzQWdyOGFSeEx5XzZhZG52SFo5ejRpQy1VcklsUm15M241TlpPUW0yd2ZqUjI0RkdvanR5eHhvNm4?oc=5\" target=\"_blank\">A $450 Billion Opportunity: Is Serve Robotics Stock a Buy in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161032/news/e-commerce/bnode-all-teams-now-have-a-clear-roadmap-for-the-years-ahead/",
+        "date": "2026-01-16",
+        "title": "bnode: All teams now have a clear roadmap for the years ahead",
+        "summary": "bnode\u2019s (formerly bpostgroup) commitment to climate action has reached a new milestone.",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
