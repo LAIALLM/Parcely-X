@@ -860,5 +860,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Indianas National Drone Site positions Arrive AI at the forefront of scaling autonomous delivery.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-16",
+        "status": "posted",
+        "tweet": "Porch piracy in \ud83c\uddfa\ud83c\uddf8 major cities surges: By 2026, over 2 million packages stolen annually in \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddfa\ud83c\uddf8 Los Angeles alone, up 25% from 2023 levels.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
