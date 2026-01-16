@@ -868,5 +868,12 @@
         "tweet": "Porch piracy in \ud83c\uddfa\ud83c\uddf8 major cities surges: By 2026, over 2 million packages stolen annually in \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddfa\ud83c\uddf8 Los Angeles alone, up 25% from 2023 levels.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-01-16",
+        "status": "posted",
+        "tweet": "UPS processes 25 million packages daily through its 1,200+ \ud83c\uddfa\ud83c\uddf8 sorting hubs.\n\nEfficiency: 99.8% on-time delivery rate in Q1 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
