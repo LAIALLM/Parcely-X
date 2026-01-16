@@ -382,5 +382,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOam5DY19BQnh5ZXNHeF9EQzl1LW9vcXZYb045eWxCNDBXQmpYY1hHMEI2dDhhOTVVOUxiWEk4bkFhTDVNc1JqM2pxdTJ4NXFVXzdVUV82T1BSZU9yR2NpbXFhcXpwSjZOMGg4SDFadVV3U3l4ZlFMdVlma0N0QlNES1FNc0FwZngxRk81bktjYV92aE8zSF9GZ1NkeGdKMEFPaTd6c1lqNWk5Z2VpNkQxc0dSTndoempOR0JrTVV0SGZmRFhIbzhr?oc=5",
+        "date": "2026-01-16",
+        "title": "DHL Packstation: Why Everyone in Germany Is Obsessed With These Yellow Parcel Lockers - AD HOC NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOam5DY19BQnh5ZXNHeF9EQzl1LW9vcXZYb045eWxCNDBXQmpYY1hHMEI2dDhhOTVVOUxiWEk4bkFhTDVNc1JqM2pxdTJ4NXFVXzdVUV82T1BSZU9yR2NpbXFhcXpwSjZOMGg4SDFadVV3U3l4ZlFMdVlma0N0QlNES1FNc0FwZngxRk81bktjYV92aE8zSF9GZ1NkeGdKMEFPaTd6c1lqNWk5Z2VpNkQxc0dSTndoempOR0JrTVV0SGZmRFhIbzhr?oc=5\" target=\"_blank\">DHL Packstation: Why Everyone in Germany Is Obsessed With These Yellow Parcel Lockers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
