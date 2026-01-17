@@ -851,5 +851,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea NEWS: Germans are hooked on DHLs yellow Packstation lockers for their 24/7 convenience and easy parcel pickup.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-17",
+        "status": "posted",
+        "tweet": "By 2026, 65% of urban office buildings worldwide use smart access systems for secure entry.\n\nProjections show this rising to 85% by 2030 as costs drop 40%.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
