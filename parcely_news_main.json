@@ -322,5 +322,13 @@
         "status": "posted",
         "tweet": "FreightLogix expanded its \ud83c\uddfa\ud83c\uddf8 USA network to 450 distribution centers in 2026.\n\nDaily processing: 1.2 million shipments.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-17",
+        "status": "posted",
+        "tweet": "By 2028, 40% of residents in large \ud83c\uddfa\ud83c\uddf8 cities like New York and Chicago will order groceries online at least twice a month, driven by app convenience and urban density.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
