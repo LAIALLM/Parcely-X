@@ -859,5 +859,12 @@
         "tweet": "By 2026, 65% of urban office buildings worldwide use smart access systems for secure entry.\n\nProjections show this rising to 85% by 2030 as costs drop 40%.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-01-17",
+        "status": "posted",
+        "tweet": "UPS infrastructure in 2026 spans 1,200 distribution centers globally, handling 30 million packages daily with 99.5% on-time delivery efficiency.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
