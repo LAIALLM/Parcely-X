@@ -323,5 +323,12 @@
         "tweet": "Global parcel lockers surge: Top 5 cities by projected number of units in 2026 (millions).\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 1.2\n\n\ud83c\udde8\ud83c\uddf3 Beijing, China: 0.95\n\n\ud83c\uddfa\ud83c\uddf8 New York, USA: 0.4\n\n\ud83c\udde9\ud83c\uddea Berlin, Germany: 0.35\n\n\ud83c\uddec\ud83c\udde7 London, UK: 0.3",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Dallas hub in 2026 handles 750,000 packages daily through its automated sorting system, boosting efficiency by 35% over 2025 levels.",
+        "type": "infrastructure"
     }
 ]
