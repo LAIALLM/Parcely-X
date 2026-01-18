@@ -808,5 +808,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QSER3b0VFd0ZiaTU1QUYyWWtQb1BRQnhRdHNCdzZLLWh2d1hpdHlObXBQQ3VncktjUVh2XzVydWRySGFnVzVtakhmbFc5YldqN242ajF5cTNWUW1EQ1pyRm5YbHc0UHdhN21XNWZPZlJSbFNxSkNKYg?oc=5",
+        "date": "2026-01-18",
+        "title": "Uber Eats Delivery Robot Hit by Train in the US - DM News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1QSER3b0VFd0ZiaTU1QUYyWWtQb1BRQnhRdHNCdzZLLWh2d1hpdHlObXBQQ3VncktjUVh2XzVydWRySGFnVzVtakhmbFc5YldqN242ajF5cTNWUW1EQ1pyRm5YbHc0UHdhN21XNWZPZlJSbFNxSkNKYg?oc=5\" target=\"_blank\">Uber Eats Delivery Robot Hit by Train in the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DM News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
