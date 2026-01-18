@@ -798,5 +798,15 @@
         "status": "posted",
         "tweet": "UPS global logistics network processed 24 million packages daily in 2026, supported by 1,200 aircraft and 125,000 vehicles across 220 countries.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/stb-finds-up-ns-merger-application-is-incomplete/",
+        "date": "2026-01-18",
+        "title": "STB finds UP-NS merger application is incomplete",
+        "summary": "<p>The STB announcement reads:<br />\nThe Surface Transportation Board (STB or Board) today announced a unanimous decision finding that the major merger application filed by Union Pacific (UP) and Norfolk Southern (NS) (together, Applicants) with the Board on December 19, 2025, is incomplete because it does not contain certain information required by the Board\u2019s regulations. \u00a0Under the law, the Board therefore must reject the application, and does so without prejudice to Applicants ...</p>\n<p>The post <a href=\"https://theloadstar.com/stb-finds-up-ns-merger-application-is-incomplete/\">STB finds UP-NS merger application is incomplete</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
