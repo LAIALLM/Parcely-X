@@ -818,5 +818,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "Worldwide e-commerce packaging waste hits 220 million tons in 2026.\n\nUp 30% from 170 million tons in 2023.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
