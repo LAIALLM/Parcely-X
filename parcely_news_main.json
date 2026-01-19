@@ -315,5 +315,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "By 2026, 55% of new commercial buildings worldwide will feature smart access systems.\n\nThat's double the 2023 adoption rate of 28%.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
