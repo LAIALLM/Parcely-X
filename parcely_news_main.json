@@ -323,5 +323,12 @@
         "tweet": "By 2026, 55% of new commercial buildings worldwide will feature smart access systems.\n\nThat's double the 2023 adoption rate of 28%.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 1.2 million packages daily through its automated sorting system.\n\nThis infrastructure upgrade supports 25% more volume than in 2025.",
+        "type": "infrastructure"
     }
 ]
