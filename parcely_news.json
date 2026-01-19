@@ -848,5 +848,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "In 2026, urban dwellers in \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddec\ud83c\udde7 London average 3 online grocery deliveries per week, projected to rise to 4 by 2030 as services expand.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
