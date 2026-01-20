@@ -343,5 +343,25 @@
         "status": "posted",
         "tweet": "LogiCore's 2026 infrastructure milestone: 750,000 packages processed daily at its \ud83c\uddfa\ud83c\uddf8 US central hub.\n\nThis handles 15% of North American e-commerce volume with 99.8% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNnhmUzFWYzFFWUNIRFdPVEJLc3dRRDdUM18tODJzbFhLNkFZZjc1MlRzZzk1QXBTcTdrMzg4UzgySTlKQm1WWEowUW85c0Rua3owcXRodFBTaTdBRGFraHpEazBJekhIZno5TWFvR21taWhBVWk4MW9velUta18tc0wwTUtmNW9IWGM3WW91QWFLVHoxTEZfRjVXTXVSYXBlV3N6T094VndMMk1CNUZZaVRJZUhSZm1tOF84QVNSTGxfaG1WVlo3TVFQNktabVE?oc=5",
+        "date": "2026-01-20",
+        "title": "VIDEO: The Amazon effect: Gen Z now expect super-fast online deliveries - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNNnhmUzFWYzFFWUNIRFdPVEJLc3dRRDdUM18tODJzbFhLNkFZZjc1MlRzZzk1QXBTcTdrMzg4UzgySTlKQm1WWEowUW85c0Rua3owcXRodFBTaTdBRGFraHpEazBJekhIZno5TWFvR21taWhBVWk4MW9velUta18tc0wwTUtmNW9IWGM3WW91QWFLVHoxTEZfRjVXTXVSYXBlV3N6T094VndMMk1CNUZZaVRJZUhSZm1tOF84QVNSTGxfaG1WVlo3TVFQNktabVE?oc=5\" target=\"_blank\">VIDEO: The Amazon effect: Gen Z now expect super-fast online deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNUFMWFRqMWhsdkY0RzBZQ2V2aTAzQjJfdU5SWk5VMUhIODVuZENMZzZ2OUs0QUlDNDRkTUx1MmwxelpITlJmZkMyN3RsYURaZ0hyZzBJbzdGaWQ5RzByTGh3dmVIZHZrNmo4TWI2WHJDZkNfVm9sMTZrNV9wSmU3cTBPanYzUzJHZHBXTDFocGRkNENyWElQekVWdGNodkptOUwwVlFfZEhJb051WHoyMzYtdjFhQWZPR0hJM3RtMEVOU1AyelZ0b1d5enhDVVBUZUJlZ3pjRU53RFRI?oc=5",
+        "date": "2026-01-20",
+        "title": "UK high street fights back amid rise in next-day delivery and round the clock online shopping - Retail Technology Innovation Hub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNUFMWFRqMWhsdkY0RzBZQ2V2aTAzQjJfdU5SWk5VMUhIODVuZENMZzZ2OUs0QUlDNDRkTUx1MmwxelpITlJmZkMyN3RsYURaZ0hyZzBJbzdGaWQ5RzByTGh3dmVIZHZrNmo4TWI2WHJDZkNfVm9sMTZrNV9wSmU3cTBPanYzUzJHZHBXTDFocGRkNENyWElQekVWdGNodkptOUwwVlFfZEhJb051WHoyMzYtdjFhQWZPR0hJM3RtMEVOU1AyelZ0b1d5enhDVVBUZUJlZ3pjRU53RFRI?oc=5\" target=\"_blank\">UK high street fights back amid rise in next-day delivery and round the clock online shopping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
