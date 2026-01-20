@@ -336,5 +336,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3\ud83c\uddee\ud83c\udde9 NEWS: J&T Express and SF Holding agree on cross-shareholding, set to reshape the global logistics landscape",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-20",
+        "status": "posted",
+        "tweet": "LogiCore's 2026 infrastructure milestone: 750,000 packages processed daily at its \ud83c\uddfa\ud83c\uddf8 US central hub.\n\nThis handles 15% of North American e-commerce volume with 99.8% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
