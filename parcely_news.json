@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-10",
-        "status": "posted",
-        "tweet": "By 2026, global parcel locker networks will exceed 1.2 million units, handling 18% of all e-commerce deliveries and cutting urban traffic by 25%.",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
-        "date": "2026-01-10",
-        "status": "posted",
-        "tweet": "UPS logistics infrastructure processes 32 million packages daily across 1,200 sorting facilities worldwide.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY21kSXEwS0pPOXZkLVE1SjZNMTZQM2JjUWVhczI4c3RPQzJLUHJGbHRYVnFteWtRcm1acEVDMlZvcEpMZnZDMjBTeEpGRWdQcXczdTBJZWhxOW1rM3c5a2R5MldqSmZXZ2NkTS1ZMmJfSEl0SDM3TWpoeEJVazl5MnlQeVlPbnowOTZERTRaOVd4cEh1b0Rsb1V3ZTNMRHBPaXFaMjFMV2J2TmtsRWdDSjFGR2RuekttU3UxSQ?oc=5",
-        "date": "2026-01-10",
-        "title": "Cainiao Launches US-Mexico Cross-Border Parcel Service at 60% Cost - Asia Business Outlook",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOY21kSXEwS0pPOXZkLVE1SjZNMTZQM2JjUWVhczI4c3RPQzJLUHJGbHRYVnFteWtRcm1acEVDMlZvcEpMZnZDMjBTeEpGRWdQcXczdTBJZWhxOW1rM3c5a2R5MldqSmZXZ2NkTS1ZMmJfSEl0SDM3TWpoeEJVazl5MnlQeVlPbnowOTZERTRaOVd4cEh1b0Rsb1V3ZTNMRHBPaXFaMjFMV2J2TmtsRWdDSjFGR2RuekttU3UxSQ?oc=5\" target=\"_blank\">Cainiao Launches US-Mexico Cross-Border Parcel Service at 60% Cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asia Business Outlook</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnVxMkR5UkR4TDVjREVMUEM4QlNqSDRPcHJHU0ZORHF5dmhqRHpseWdEaVZCV285TDV4emRDUG41YmRfc20yRjRRZmRBVGhjQ0lNMFg4dUI1Smh2N3J2N3pKUHkzOFE4Qm5jWWlfYVlvTkdETFRTekZhNHlIRXhEd3J1dHBzSkpBMXJBMDJhLWVIcTNiYkIxWVdoeGZtOWlxeVNTOE1IMkk0bHE3bWQwMWQwNFBGUU40cmVDS09ISWlBbnM?oc=5",
-        "date": "2026-01-10",
-        "title": "FedEx Corp.: How a Legacy Logistics Giant Is Rebuilding the Next?Gen Delivery Machine - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnVxMkR5UkR4TDVjREVMUEM4QlNqSDRPcHJHU0ZORHF5dmhqRHpseWdEaVZCV285TDV4emRDUG41YmRfc20yRjRRZmRBVGhjQ0lNMFg4dUI1Smh2N3J2N3pKUHkzOFE4Qm5jWWlfYVlvTkdETFRTekZhNHlIRXhEd3J1dHBzSkpBMXJBMDJhLWVIcTNiYkIxWVdoeGZtOWlxeVNTOE1IMkk0bHE3bWQwMWQwNFBGUU40cmVDS09ISWlBbnM?oc=5\" target=\"_blank\">FedEx Corp.: How a Legacy Logistics Giant Is Rebuilding the Next?Gen Delivery Machine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-01-11",
         "status": "posted",
         "tweet": "Smart buildings surge: Top 5 cities by projected share of smart residential/office buildings in 2026.\n\n1. \ud83c\uddf8\ud83c\uddec Singapore (62%)\n2. \ud83c\udde8\ud83c\uddf3 Shanghai (58%)\n3. \ud83c\uddfa\ud83c\uddf8 New York (54%)\n4. \ud83c\udde6\ud83c\uddea Dubai (51%)\n5. \ud83c\udde9\ud83c\uddea Berlin (48%)",
@@ -927,5 +892,12 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS's Worldport facility in Louisville processed 416,000 packages per hour in 2026, supporting 25 million daily shipments globally.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
