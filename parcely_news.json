@@ -899,5 +899,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS's Worldport facility in Louisville processed 416,000 packages per hour in 2026, supporting 25 million daily shipments globally.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-20",
+        "status": "posted",
+        "tweet": "By 2026, worldwide e-commerce deliveries will generate 230 million metric tons of packaging waste annually\u2014a 40% rise from 2023.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
