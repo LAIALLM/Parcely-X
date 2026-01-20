@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-10",
-        "status": "posted",
-        "tweet": "Last-mile delivery costs per parcel in major metros, 2026 projections (USD):\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $12.50\n2. \ud83c\uddec\ud83c\udde7 London: $11.20\n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $10.80\n4. \ud83c\uddeb\ud83c\uddf7 Paris: $10.50\n5. \ud83c\udde9\ud83c\uddea Berlin: $9.80",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": "https://theloadstar.com/dsv-divests-usa-truck/",
-        "date": "2026-01-10",
-        "title": "DSV divests USA Truck",
-        "summary": "<p>USA Truck \u2013 previously owned by DB Schenker (now part of DSV) \u2013 announced &#8220;a significant and strategic transition to private, Arkansas-based ownership, marking a pivotal new chapter in the company\u2019s more than 40-year history&#8221;.<br />\nDeal terms and size undisclosed.<br />\nFollowing the successful execution of an agreement for DSV to divest 100% of the shares in USA Truck to UTAC LLC, a private entity based in Arkansas, &#8220;USA Truck officially returns to ...</p>\n<p>The post <a href=\"https://theloadstar.com/dsv-divests-usa-truck/\">DSV divests USA Truck</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-01-10",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse network processes 750,000 parcels daily in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-01-11",
         "status": "posted",
         "tweet": "SwiftLogix's \ud83c\uddfa\ud83c\uddf8 Atlanta distribution center now manages 750,000 shipments daily.\n\nThis infrastructure upgrade cuts regional delivery times to under 24 hours.",
