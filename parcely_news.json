@@ -987,5 +987,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0R4T29xSTZCNldtWUNQUi1OYWctNmVoX2U3MWFBb1JSLTYzRmFYVXZBc1RrWW1XNmYtbFIzYkZFcUQ4Ny1QWnBNZ1BnazhlQ2t3TVRWNDRnalRiaXV6MkFpZmFPRXVLQzNSU1oxdDNOY3NER0ZmMmhoMHNRbEg2UENMZXhVdGtZcGx0OEpCTWtQN1RLajM4NVB6czk?oc=5",
+        "date": "2026-01-20",
+        "title": "USPS solicits retailers to reserve last-mile delivery capacity - FreightWaves",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0R4T29xSTZCNldtWUNQUi1OYWctNmVoX2U3MWFBb1JSLTYzRmFYVXZBc1RrWW1XNmYtbFIzYkZFcUQ4Ny1QWnBNZ1BnazhlQ2t3TVRWNDRnalRiaXV6MkFpZmFPRXVLQzNSU1oxdDNOY3NER0ZmMmhoMHNRbEg2UENMZXhVdGtZcGx0OEpCTWtQN1RLajM4NVB6czk?oc=5\" target=\"_blank\">USPS solicits retailers to reserve last-mile delivery capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvZnRjN3k0V2lIbWhVd3laTnV2UEsxc1ZIcjNWLVBMX0d2aGhWWjNoRGpxQXRHT3h1ZE5Mblg3dHZuaTNZQ1Z0dElYNmhlbVFZTUlrRXE5Z3NfZ04xbkx1RzVheFI?oc=5",
+        "date": "2026-01-20",
+        "title": "Coco is getting ready to take over Jersey City, NJ, check out this delivery robot - 94.3 The Point",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvZnRjN3k0V2lIbWhVd3laTnV2UEsxc1ZIcjNWLVBMX0d2aGhWWjNoRGpxQXRHT3h1ZE5Mblg3dHZuaTNZQ1Z0dElYNmhlbVFZTUlrRXE5Z3NfZ04xbkx1RzVheFI?oc=5\" target=\"_blank\">Coco is getting ready to take over Jersey City, NJ, check out this delivery robot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">94.3 The Point</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
