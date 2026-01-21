@@ -373,5 +373,13 @@
         "status": "posted",
         "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Chicago warehouse processes 800,000 packages daily in 2026, with 95% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-21",
+        "status": "posted",
+        "tweet": "In 2026, last-mile truck deliveries emit 1.5 billion tons of CO2 globally each year.\n\nBuilding-integrated networks\u2014like rooftop hubs\u2014could cut that by 40% by 2030 through fewer trips.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
