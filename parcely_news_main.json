@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-11",
-        "status": "posted",
-        "tweet": "SwiftLogix's \ud83c\uddfa\ud83c\uddf8 Atlanta distribution center now manages 750,000 shipments daily.\n\nThis infrastructure upgrade cuts regional delivery times to under 24 hours.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-01-11",
-        "status": "posted",
-        "tweet": "Leading cities by share of EV and micro-mobility in urban delivery fleets, 2026 projections (% of total).\n\n\ud83c\uddf3\ud83c\uddf4 Oslo, Norway: 88%\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam, Netherlands: 85%\n\n\ud83c\uddf8\ud83c\uddea Stockholm, Sweden: 82%\n\n\ud83c\udde8\ud83c\udde6 Vancouver, Canada: 79%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco, USA: 76%",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": null,
         "date": "2026-01-12",
         "status": "posted",
         "tweet": "Delivery vans are set to boost urban traffic by 25-40% in dense cities by 2026, per e-commerce growth projections.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 40% surge  \n\ud83c\uddec\ud83c\udde7 London: 37% surge  \n\ud83c\uddef\ud83c\uddf5 Tokyo: 35% surge  \n\ud83c\uddeb\ud83c\uddf7 Paris: 32% surge  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 30% surge",
@@ -381,5 +366,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-21",
+        "status": "posted",
+        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Chicago warehouse processes 800,000 packages daily in 2026, with 95% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
