@@ -909,5 +909,47 @@
         "status": "posted",
         "tweet": "LogiTech Inc. operates 1,200 automated warehouses worldwide.\n\nDaily throughput: 2.5 million packages.\n\nEfficiency: 98% on-time delivery rate.\n\n\ud83c\uddfa\ud83c\uddf8 Atlanta hub leads with 450,000 sq ft capacity.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://postandparcel.info/161068/news/e-commerce/charles-brewer-we-are-launching-malaysia-into-a-new-era-of-logistics/",
+        "date": "2026-01-22",
+        "title": "Charles Brewer: we are launching Malaysia into a new era of logistics",
+        "summary": "Pos Malaysia Berhad, the national postal and parcel service provider, has launched\u00a0 Malaysia\u2019s first-ever autonomous vehicle (AV).",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia launches the countrys first autonomous vehicle, ushering in a new era of logistics $POS"
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html",
+        "date": "2026-01-22",
+        "title": "Pos Malaysia launches country\u2019s first autonomous delivery vehicle",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\"><img align=\"left\" alt=\"Pos Malaysia launches country\u2019s first autonomous delivery vehicle\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/01/rsz_pos_malaysia_av-e1769073202742-400x224.png\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">Pos Malaysia is rolling out the country\u2019s first ever autonomous vehicle as part of its wider ambition to become a digitally enabled, sustainability-driven logistics leader.</p>\n<p style=\"font-weight: 400;\">The national postal operator will trial the Zelos fully driverless, 100% electric, zero-emission autonomous logistics vehicle for six months in partnership with Autonomous Logistic Solutions Sdn. Bhd (ALS) following the signing of a collaborative agreement between the two companies on January 21.</p>\n<p style=\"font-weight: 400;\">Speaking at the signing, Charles Brewer, group chief executive officer of Pos Malaysia said, \u201cToday, we are not just launching an autonomous vehicle, we are launching Malaysia into a new era of logistics.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\" rel=\"nofollow\">Continue reading Pos Malaysia launches country\u2019s first autonomous delivery vehicle at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia $POS launches countrys first autonomous delivery vehicle \u2013 a fully driverless, 100% electric, zero-emission model for a 6-month trial."
+    },
+    {
+        "link": "https://postandparcel.info/161068/news/e-commerce/charles-brewer-we-are-launching-malaysia-into-a-new-era-of-logistics/",
+        "date": "2026-01-22",
+        "title": "Charles Brewer: we are launching Malaysia into a new era of logistics",
+        "summary": "Pos Malaysia Berhad, the national postal and parcel service provider, has launched\u00a0 Malaysia\u2019s first-ever autonomous vehicle (AV).",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "(\ud83c\uddf2\ud83c\uddfe) NEWS: Pos Malaysia launches nations first autonomous vehicle, propelling the country into a new era of logistics $POS",
+        "type": "news"
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html",
+        "date": "2026-01-22",
+        "title": "Pos Malaysia launches country\u2019s first autonomous delivery vehicle",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\"><img align=\"left\" alt=\"Pos Malaysia launches country\u2019s first autonomous delivery vehicle\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/01/rsz_pos_malaysia_av-e1769073202742-400x224.png\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">Pos Malaysia is rolling out the country\u2019s first ever autonomous vehicle as part of its wider ambition to become a digitally enabled, sustainability-driven logistics leader.</p>\n<p style=\"font-weight: 400;\">The national postal operator will trial the Zelos fully driverless, 100% electric, zero-emission autonomous logistics vehicle for six months in partnership with Autonomous Logistic Solutions Sdn. Bhd (ALS) following the signing of a collaborative agreement between the two companies on January 21.</p>\n<p style=\"font-weight: 400;\">Speaking at the signing, Charles Brewer, group chief executive officer of Pos Malaysia said, \u201cToday, we are not just launching an autonomous vehicle, we are launching Malaysia into a new era of logistics.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\" rel=\"nofollow\">Continue reading Pos Malaysia launches country\u2019s first autonomous delivery vehicle at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia launches countrys first autonomous delivery vehicle, a fully electric zero-emission model trialed for six months to drive sustainable logistics.",
+        "type": "news"
     }
 ]
