@@ -344,5 +344,12 @@
         "tweet": "Top 5 cities by parcel locker count in 2026 (projections):\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai/China: 65,000\n2. \ud83c\udde8\ud83c\uddf3 Beijing/China: 58,000\n3. \ud83c\udde8\ud83c\uddf3 Shenzhen/China: 48,000\n4. \ud83c\udde9\ud83c\uddea Berlin/Germany: 9,500\n5. \ud83c\uddfa\ud83c\uddf8 New York/USA: 8,200",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-01-22",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse processes 1.2 million parcels daily in 2026, up 45% from last year. \n\nThis infrastructure upgrade cuts delivery times to under 24 hours for 85% of routes.",
+        "type": "infrastructure"
     }
 ]
