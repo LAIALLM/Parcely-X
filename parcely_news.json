@@ -851,5 +851,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure: 1,200 sorting hubs worldwide process 28 million packages daily in 2026.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-23",
+        "status": "posted",
+        "tweet": "By 2026, smart residential buildings worldwide will number 450 million, projected to reach 1 billion by 2030 amid rising demand for energy-efficient homes.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
