@@ -326,5 +326,12 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse processes 1.2 million parcels daily in 2026, up 45% from last year. \n\nThis infrastructure upgrade cuts delivery times to under 24 hours for 85% of routes.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-23",
+        "status": "posted",
+        "tweet": "GlobalLink Logistics processes 1.8 million packages daily across its global network in 2026.\n\nAutomated warehouses in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\udde9\ud83c\uddeaGermany handle 95% of volume with zero downtime.",
+        "type": "infrastructure"
     }
 ]
