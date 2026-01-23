@@ -844,5 +844,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia launches countrys first autonomous delivery vehicle, a fully electric zero-emission model trialed for six months to drive sustainable logistics.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-23",
+        "status": "posted",
+        "tweet": "UPS infrastructure: 1,200 sorting hubs worldwide process 28 million packages daily in 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
