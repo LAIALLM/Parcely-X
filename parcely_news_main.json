@@ -274,5 +274,12 @@
         "tweet": "By 2026, 58% of residents in large \ud83c\uddfa\ud83c\uddf8 cities order food delivery weekly.\n\nJust 32% do the same for online groceries.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-01-24",
+        "status": "posted",
+        "tweet": "LogiTech's main warehouse in \ud83c\uddfa\ud83c\uddf8 Texas now spans 2 million square feet.\n\nThis infrastructure handles 1.2 million parcels daily, with 98% on-time sorting efficiency.",
+        "type": "infrastructure"
     }
 ]
