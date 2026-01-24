@@ -884,5 +884,12 @@
         "tweet": "Top 5 cities by projected adoption rate of smart access systems in buildings, 2026 (over 80% equipped).\n\n\ud83c\uddf8\ud83c\uddec Singapore\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen\n\n\ud83c\uddf0\ud83c\uddf7 Seoul\n\n\ud83c\uddee\ud83c\uddf1 Tel Aviv",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-01-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS Atlanta hub processes 1.5 million packages hourly in 2026, up 20% from 2025.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
