@@ -281,5 +281,13 @@
         "status": "posted",
         "tweet": "LogiTech's main warehouse in \ud83c\uddfa\ud83c\uddf8 Texas now spans 2 million square feet.\n\nThis infrastructure handles 1.2 million parcels daily, with 98% on-time sorting efficiency.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-24",
+        "status": "posted",
+        "tweet": "In \ud83c\uddfa\ud83c\uddf8 New York, delivery vans now make up 18% of urban traffic volume, up from 9% in 2023.  \n\nBy 2030, projections show this hitting 25%, worsening congestion in dense cities worldwide.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
