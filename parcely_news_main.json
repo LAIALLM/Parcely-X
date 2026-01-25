@@ -292,5 +292,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Large metros: $11 per parcel for last-mile delivery in 2026.\n\n\ud83c\uddee\ud83c\uddf3 Large metros: $4 per parcel.\n\nLabor and traffic costs double the US expense.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-01-25",
+        "status": "posted",
+        "tweet": "LogiCore Inc. operates 250 automated warehouses worldwide, handling 1.2 million packages daily with 99.8% on-time delivery.\n\nKey infrastructure stat: 500 km of conveyor belts integrated across sites in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\udde9\ud83c\uddeaGermany.",
+        "type": "infrastructure"
     }
 ]
