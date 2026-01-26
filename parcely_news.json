@@ -632,5 +632,12 @@
         "status": "posted",
         "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 Louisville Worldport sorts 416,000 packages per hour in 2026, up 15% from 2025 peak capacity.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-26",
+        "status": "posted",
+        "tweet": "FedEx $FDX processes 18 million packages daily in 2026.\n\n\ud83c\uddfa\ud83c\uddf8Memphis hub efficiency: 1.5 million parcels per day at 99.2% on-time rate.",
+        "type": "infrastructure"
     }
 ]
