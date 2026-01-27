@@ -251,5 +251,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 main warehouse now handles 750,000 packages daily.\n\nThis supports 25% faster nationwide delivery in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-27",
+        "status": "posted",
+        "tweet": "Last-mile delivery costs average $11 per parcel in \ud83c\uddfa\ud83c\uddf8 large metros in 2026.\n\nThat's double the $5.50 in \ud83c\uddee\ud83c\uddf3 large metros, driven by urban congestion and labor rates.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
