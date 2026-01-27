@@ -244,5 +244,12 @@
         "status": "posted",
         "tweet": "LogiCore's \ud83c\uddfa\ud83c\uddf8 Chicago hub processes 1.5 million parcels daily.\n\nThis infrastructure upgrade supports 25% more volume than 2025, with 99% accuracy in sorting.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-27",
+        "status": "posted",
+        "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 main warehouse now handles 750,000 packages daily.\n\nThis supports 25% faster nationwide delivery in 2026.",
+        "type": "infrastructure"
     }
 ]
