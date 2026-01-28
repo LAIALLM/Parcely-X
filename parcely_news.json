@@ -689,5 +689,15 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161119/news/e-commerce/fedexs-new-coo-for-u-s-and-canada-surface-operations-to-create-long-term-value-for-customers/",
+        "date": "2026-01-28",
+        "title": "FedEx\u2019s new COO for U.S. and Canada Surface Operations to create \u201clong-term value\u201d for customers",
+        "summary": "FedEx Corp.has announced the appointment of Scott Ray as chief operating officer for U.S. and Canada Surface Operations, effective June 1.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
