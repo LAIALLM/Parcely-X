@@ -631,5 +631,13 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "By 2026, EV delivery fleets in \ud83c\uddfa\ud83c\uddf8 major US cities will total 250,000 vehicles.\n\nMicro-mobility fleets, like e-bikes for last-mile, will handle 35% of urban packages globally.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
