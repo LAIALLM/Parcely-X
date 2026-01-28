@@ -699,5 +699,12 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "LogiTech Solutions' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 parcels daily across 120 automated lines, achieving 98.7% on-time delivery.\n\n$LTS",
+        "type": "infrastructure"
     }
 ]
