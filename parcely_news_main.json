@@ -264,5 +264,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "LogiTech Logistics expands infrastructure in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 USA network processes 750,000 packages daily across 200 automated warehouses.\n\nThroughput efficiency reaches 98%.",
+        "type": "infrastructure"
     }
 ]
