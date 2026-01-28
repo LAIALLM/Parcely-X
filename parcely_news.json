@@ -706,5 +706,25 @@
         "status": "posted",
         "tweet": "LogiTech Solutions' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 parcels daily across 120 automated lines, achieving 98.7% on-time delivery.\n\n$LTS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeEttbC00d0ZWVVVhRW5zOFhjZ1p1eVF0eElXUGZ0ZDMwaENNNmh0RHVPSkJCeGlGdWd4MjBod1lCSm1YdzlaN1pRbW9uU0kyRVdSVnl2dDNmX2FyMTYwdHk5cG56OHJqQVEzeFlrSnBSTGQ4ZnlWaGRlNWVscVNNRjBUNDRtMzU5ckEtZjh1cHpOc3dSU3hObGtCTXktb19WMDAwUGRJNjNaY0NfcVpZWg?oc=5",
+        "date": "2026-01-28",
+        "title": "Sobeys parent to close Voil\u00e0 e-commerce facilities in Alberta - The Globe and Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNeEttbC00d0ZWVVVhRW5zOFhjZ1p1eVF0eElXUGZ0ZDMwaENNNmh0RHVPSkJCeGlGdWd4MjBod1lCSm1YdzlaN1pRbW9uU0kyRVdSVnl2dDNmX2FyMTYwdHk5cG56OHJqQVEzeFlrSnBSTGQ4ZnlWaGRlNWVscVNNRjBUNDRtMzU5ckEtZjh1cHpOc3dSU3hObGtCTXktb19WMDAwUGRJNjNaY0NfcVpZWg?oc=5\" target=\"_blank\">Sobeys parent to close Voil\u00e0 e-commerce facilities in Alberta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0c1dlBRWVZLNklHS1NGYm9CZzRFQ1BvYjhxQW1WUTY4RkZ6WUFvei1TekIwbV9EbDdPa0ZfckQ0ZmIyVi00Uy1MbHQ0cTVNcTB3SXNVVzJaeWdsRkJTdmdZVW84MUZQZ1lOczR2SXNpSlFfVlRIYXV6NThvTm9zM2h3SjVDOEJmc25vT0k2ZE5zZDZSWENzYg?oc=5",
+        "date": "2026-01-28",
+        "title": "Empire reshapes e-commerce strategy, closes Alberta facilities - Grocery Business Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0c1dlBRWVZLNklHS1NGYm9CZzRFQ1BvYjhxQW1WUTY4RkZ6WUFvei1TekIwbV9EbDdPa0ZfckQ0ZmIyVi00Uy1MbHQ0cTVNcTB3SXNVVzJaeWdsRkJTdmdZVW84MUZQZ1lOczR2SXNpSlFfVlRIYXV6NThvTm9zM2h3SjVDOEJmc25vT0k2ZE5zZDZSWENzYg?oc=5\" target=\"_blank\">Empire reshapes e-commerce strategy, closes Alberta facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grocery Business Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
