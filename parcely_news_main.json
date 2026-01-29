@@ -300,5 +300,15 @@
         "status": "posted",
         "tweet": "LogiNet's infrastructure milestone in 2026: 5,000 km of automated rail lines moving 2 million tons of freight annually.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/the-singapore-supply-chain-blueprint-lessons-from-the-amazon-ups-great-de-coupling/",
+        "date": "2026-01-29",
+        "title": "The Singapore Supply Chain Blueprint: Lessons from the Amazon-UPS \u201cGreat De-Coupling\u201d",
+        "summary": "<p>The post <a href=\"https://theloadstar.com/the-singapore-supply-chain-blueprint-lessons-from-the-amazon-ups-great-de-coupling/\">The Singapore Supply Chain Blueprint: Lessons from the Amazon-UPS &#8220;Great De-Coupling&#8221;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
