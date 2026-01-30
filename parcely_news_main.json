@@ -283,5 +283,12 @@
         "tweet": "In 2026, top 5 cities by EV and micro-mobility delivery fleet size (projected units).\n\n1. \ud83c\uddf3\ud83c\uddf1 Amsterdam: 15,000\n2. \ud83c\udde9\ud83c\uddf0 Copenhagen: 12,500\n3. \ud83c\uddeb\ud83c\uddf7 Paris: 11,000\n4. \ud83c\uddf3\ud83c\uddf4 Oslo: 9,800\n5. \ud83c\uddf8\ud83c\uddec Singapore: 8,200",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-01-30",
+        "status": "posted",
+        "tweet": "SwiftLogistics' main warehouse in \ud83c\uddfa\ud83c\uddf8 Texas processes 2.5 million parcels daily in 2026.\n\nThis infrastructure supports 15% faster delivery times nationwide.",
+        "type": "infrastructure"
     }
 ]
