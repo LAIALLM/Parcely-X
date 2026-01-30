@@ -290,5 +290,25 @@
         "status": "posted",
         "tweet": "SwiftLogistics' main warehouse in \ud83c\uddfa\ud83c\uddf8 Texas processes 2.5 million parcels daily in 2026.\n\nThis infrastructure supports 15% faster delivery times nationwide.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/market-turning-in-favour-of-shippers-as-ocean-spots-soften/",
+        "date": "2026-01-30",
+        "title": "Market turning in favour of shippers as ocean spots soften",
+        "summary": "<p>Container spot freight rates on the Asia-Europe and transpacific trades experienced another week of persistent declines, as pre-Chinese New Year demand continues to weaken.<br />\nHowever, the declines seen this week were flatter than the week before, indicating that carriers have begun to withdraw capacity as late January/early February volumes fail to live up to expectation.<br />\nThis week\u2019s World Container Index (WCI) from Drewry saw the Shanghai-Rotterdam leg drop 5% week on week, ...</p>\n<p>The post <a href=\"https://theloadstar.com/market-turning-in-favour-of-shippers-as-ocean-spots-soften/\">Market turning in favour of shippers as ocean spots soften</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/air-cargo-demand-eases-on-approach-to-cny/",
+        "date": "2026-01-30",
+        "title": "Air cargo demand eases on approach to CNY",
+        "summary": "<p>Asia-Pacific air cargo demand is easing as February looms, with only limited pre-Chinese New Year uplift expected, and pricing on the main long-haul lanes likely to remain stable, or soften slightly.<br />\nDimerco\u2019s February 2026 Asia Pacific report says demand from Asia to the US and Europe is \u201ceasing slightly as February begins\u201d, with \u201conly a modest pre-Chinese New Year uplift expected\u201d, adding that a \u201ccontinued slowdown in ecommerce volumes since January ...</p>\n<p>The post <a href=\"https://theloadstar.com/air-cargo-demand-eases-on-approach-to-cny/\">Air cargo demand eases on approach to CNY</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
