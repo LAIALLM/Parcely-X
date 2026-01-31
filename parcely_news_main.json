@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-21",
-        "status": "posted",
-        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Chicago warehouse processes 800,000 packages daily in 2026, with 95% on-time delivery.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-01-21",
-        "status": "posted",
-        "tweet": "In 2026, last-mile truck deliveries emit 1.5 billion tons of CO2 globally each year.\n\nBuilding-integrated networks\u2014like rooftop hubs\u2014could cut that by 40% by 2030 through fewer trips.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-01-22",
         "status": "posted",
         "tweet": "Top 5 cities by parcel locker count in 2026 (projections):\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai/China: 65,000\n2. \ud83c\udde8\ud83c\uddf3 Beijing/China: 58,000\n3. \ud83c\udde8\ud83c\uddf3 Shenzhen/China: 48,000\n4. \ud83c\udde9\ud83c\uddea Berlin/Germany: 9,500\n5. \ud83c\uddfa\ud83c\uddf8 New York/USA: 8,200",
@@ -310,5 +295,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-31",
+        "status": "posted",
+        "tweet": "LogiFreight's upgraded hub in \ud83c\uddfa\ud83c\uddf8 USA now handles 750,000 shipments daily.\n\nThis infrastructure lift cuts delivery times by 18% across North America.",
+        "type": "infrastructure"
     }
 ]
