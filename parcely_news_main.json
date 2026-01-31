@@ -302,5 +302,13 @@
         "status": "posted",
         "tweet": "LogiFreight's upgraded hub in \ud83c\uddfa\ud83c\uddf8 USA now handles 750,000 shipments daily.\n\nThis infrastructure lift cuts delivery times by 18% across North America.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-31",
+        "status": "posted",
+        "tweet": "Top 5 cities by parcel locker networks in 2026 (projected units):\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 150,000\n\n\ud83c\uddfa\ud83c\uddf8 New York: 80,000\n\n\ud83c\udde9\ud83c\uddea Berlin: 65,000\n\n\ud83c\uddec\ud83c\udde7 London: 55,000\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 50,000",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
