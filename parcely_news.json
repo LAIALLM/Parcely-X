@@ -1,63 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-22",
-        "status": "posted",
-        "tweet": "Last-mile delivery costs per parcel in large metros, 2026 projections (USD):\n\n1. \ud83c\uddfa\ud83c\uddf8 Los Angeles: $14.20\n2. \ud83c\uddfa\ud83c\uddf8 New York: $13.80\n3. \ud83c\udde8\ud83c\udde6 Toronto: $13.50\n4. \ud83c\uddec\ud83c\udde7 London: $12.90\n5. \ud83c\uddeb\ud83c\uddf7 Paris: $12.60",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2026-01-22",
-        "status": "posted",
-        "tweet": "LogiTech Inc. operates 1,200 automated warehouses worldwide.\n\nDaily throughput: 2.5 million packages.\n\nEfficiency: 98% on-time delivery rate.\n\n\ud83c\uddfa\ud83c\uddf8 Atlanta hub leads with 450,000 sq ft capacity.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://postandparcel.info/161068/news/e-commerce/charles-brewer-we-are-launching-malaysia-into-a-new-era-of-logistics/",
-        "date": "2026-01-22",
-        "title": "Charles Brewer: we are launching Malaysia into a new era of logistics",
-        "summary": "Pos Malaysia Berhad, the national postal and parcel service provider, has launched\u00a0 Malaysia\u2019s first-ever autonomous vehicle (AV).",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia launches the countrys first autonomous vehicle, ushering in a new era of logistics $POS"
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html",
-        "date": "2026-01-22",
-        "title": "Pos Malaysia launches country\u2019s first autonomous delivery vehicle",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\"><img align=\"left\" alt=\"Pos Malaysia launches country\u2019s first autonomous delivery vehicle\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/01/rsz_pos_malaysia_av-e1769073202742-400x224.png\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">Pos Malaysia is rolling out the country\u2019s first ever autonomous vehicle as part of its wider ambition to become a digitally enabled, sustainability-driven logistics leader.</p>\n<p style=\"font-weight: 400;\">The national postal operator will trial the Zelos fully driverless, 100% electric, zero-emission autonomous logistics vehicle for six months in partnership with Autonomous Logistic Solutions Sdn. Bhd (ALS) following the signing of a collaborative agreement between the two companies on January 21.</p>\n<p style=\"font-weight: 400;\">Speaking at the signing, Charles Brewer, group chief executive officer of Pos Malaysia said, \u201cToday, we are not just launching an autonomous vehicle, we are launching Malaysia into a new era of logistics.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\" rel=\"nofollow\">Continue reading Pos Malaysia launches country\u2019s first autonomous delivery vehicle at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia $POS launches countrys first autonomous delivery vehicle \u2013 a fully driverless, 100% electric, zero-emission model for a 6-month trial."
-    },
-    {
-        "link": "https://postandparcel.info/161068/news/e-commerce/charles-brewer-we-are-launching-malaysia-into-a-new-era-of-logistics/",
-        "date": "2026-01-22",
-        "title": "Charles Brewer: we are launching Malaysia into a new era of logistics",
-        "summary": "Pos Malaysia Berhad, the national postal and parcel service provider, has launched\u00a0 Malaysia\u2019s first-ever autonomous vehicle (AV).",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "(\ud83c\uddf2\ud83c\uddfe) NEWS: Pos Malaysia launches nations first autonomous vehicle, propelling the country into a new era of logistics $POS",
-        "type": "news"
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html",
-        "date": "2026-01-22",
-        "title": "Pos Malaysia launches country\u2019s first autonomous delivery vehicle",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\"><img align=\"left\" alt=\"Pos Malaysia launches country\u2019s first autonomous delivery vehicle\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/01/rsz_pos_malaysia_av-e1769073202742-400x224.png\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">Pos Malaysia is rolling out the country\u2019s first ever autonomous vehicle as part of its wider ambition to become a digitally enabled, sustainability-driven logistics leader.</p>\n<p style=\"font-weight: 400;\">The national postal operator will trial the Zelos fully driverless, 100% electric, zero-emission autonomous logistics vehicle for six months in partnership with Autonomous Logistic Solutions Sdn. Bhd (ALS) following the signing of a collaborative agreement between the two companies on January 21.</p>\n<p style=\"font-weight: 400;\">Speaking at the signing, Charles Brewer, group chief executive officer of Pos Malaysia said, \u201cToday, we are not just launching an autonomous vehicle, we are launching Malaysia into a new era of logistics.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/pos-malaysia-launches-countrys-first-autonomous-delivery-vehicle.html\" rel=\"nofollow\">Continue reading Pos Malaysia launches country\u2019s first autonomous delivery vehicle at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Pos Malaysia launches countrys first autonomous delivery vehicle, a fully electric zero-emission model trialed for six months to drive sustainable logistics.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2026-01-23",
         "status": "posted",
         "tweet": "UPS infrastructure: 1,200 sorting hubs worldwide process 28 million packages daily in 2026.\n\n$UPS",
@@ -453,5 +396,12 @@
         "tweet": "Top cities by average monthly online grocery and food deliveries per household, 2026 projections.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 14\n\n\ud83c\uddec\ud83c\udde7 London: 12\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 11\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: 10\n\n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 9",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 logistics infrastructure processes 28 million packages daily across 1,200 facilities in 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
