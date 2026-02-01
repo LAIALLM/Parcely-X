@@ -303,5 +303,12 @@
         "tweet": "By 2026, urban dwellers in \ud83c\uddfa\ud83c\uddf8 New York order groceries online weekly at a 35% rate, up from 20% in 2023\u2014driven by faster delivery tech.  \n\nProjections show this hitting 50% in major \ud83c\udde8\ud83c\udde6 and \ud83c\uddec\ud83c\udde7 cities by 2030.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse handles 1.2 million parcels daily in 2026.\n\nThis infrastructure upgrade cuts delivery times by 25% across the Southeast.",
+        "type": "infrastructure"
     }
 ]
