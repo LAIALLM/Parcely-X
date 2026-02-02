@@ -1,94 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-23",
-        "status": "posted",
-        "tweet": "UPS infrastructure: 1,200 sorting hubs worldwide process 28 million packages daily in 2026.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-01-23",
-        "status": "posted",
-        "tweet": "By 2026, smart residential buildings worldwide will number 450 million, projected to reach 1 billion by 2030 amid rising demand for energy-efficient homes.",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZ29ZVFJjcVd4Y2thTGxGSkVMdUFyd243YlgtMzM0TzdmMnZ2bWZaejJDVGNSekI4Yko5MXUyZFZja2pBZDFhRzJPNDRLaDE0S2EwMUk2T3I3WUNIellvb3hBVTBYSF9qNnpfTmliRmJPR1dHOUYtZ2kwdkkxMkJiNUdmSGZOd1RZeTZtQjVFOEZnOG5OdWR4dGQ0TkdkdEt6bnhhdGdVNDJRVmNfVXl4X1djUXJfTnpDcXFYdXFaT21LRUR2ZHZQNUdGdkFvcVdXSGoxQkdDb1ZncXZVZTZXcFZGR2hwcC1BWTVUZmRIaXRWTVZZSTlwYWdFUld0WWZTLXhWcS1POFRnZXU4SW5SeUdNeWlmNlRSYmk3T2tsN3BHYm5SOVlOdHZLS3dJczdGanpuc29zZEN5ZzBDektRVlhmTVNrZFFYejRBTGNNY1pzNnd4VG8tSVU4cWRGdHQ2ZVpVMjFTSnc?oc=5",
-        "date": "2026-01-23",
-        "title": "Delivery Drones Analysis Report 2026: Market to Reach $27.5 - GlobeNewswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZ29ZVFJjcVd4Y2thTGxGSkVMdUFyd243YlgtMzM0TzdmMnZ2bWZaejJDVGNSekI4Yko5MXUyZFZja2pBZDFhRzJPNDRLaDE0S2EwMUk2T3I3WUNIellvb3hBVTBYSF9qNnpfTmliRmJPR1dHOUYtZ2kwdkkxMkJiNUdmSGZOd1RZeTZtQjVFOEZnOG5OdWR4dGQ0TkdkdEt6bnhhdGdVNDJRVmNfVXl4X1djUXJfTnpDcXFYdXFaT21LRUR2ZHZQNUdGdkFvcVdXSGoxQkdDb1ZncXZVZTZXcFZGR2hwcC1BWTVUZmRIaXRWTVZZSTlwYWdFUld0WWZTLXhWcS1POFRnZXU4SW5SeUdNeWlmNlRSYmk3T2tsN3BHYm5SOVlOdHZLS3dJczdGanpuc29zZEN5ZzBDektRVlhmTVNrZFFYejRBTGNNY1pzNnd4VG8tSVU4cWRGdHQ2ZVpVMjFTSnc?oc=5\" target=\"_blank\">Delivery Drones Analysis Report 2026: Market to Reach $27.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "NEWS: Delivery drones market set to soar to $27.5B by 2026 per new analysis report."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWi1WRE1YLWItb2xFUGxmMUhxVTY3WHRJRTQ2eDFqd1JnZ09fUkZrNDdwRGVFSnNKNEwzU3dLYVk0TWJkN3VuUlJ2Sno1S0cyOTdDZEkybGVMUlJ0T1BZeVhoRnBXSldWaVF0bk50V1dybEF6ZDBqZjZ1eFBRVGFpUXZTWTh0MnFHd29UU1VQbDVwcXBSd3g5S0hTLTVhdw?oc=5",
-        "date": "2026-01-23",
-        "title": "Canada Post\u2019s tentative contracts scrap some delivery operations changes - Supply Chain Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWi1WRE1YLWItb2xFUGxmMUhxVTY3WHRJRTQ2eDFqd1JnZ09fUkZrNDdwRGVFSnNKNEwzU3dLYVk0TWJkN3VuUlJ2Sno1S0cyOTdDZEkybGVMUlJ0T1BZeVhoRnBXSldWaVF0bk50V1dybEF6ZDBqZjZ1eFBRVGFpUXZTWTh0MnFHd29UU1VQbDVwcXBSd3g5S0hTLTVhdw?oc=5\" target=\"_blank\">Canada Post\u2019s tentative contracts scrap some delivery operations changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3Z3YWNiZUcyRVUtRG9lSTJNYmhHRHY4ZkxjSUs1RUlzdVBucTJ2X19VQ2VzOHg4WGlOd2tfTm9hZVZnc0gybEJrVk5aTFJOT0tYbldSZkpVclNMd2RXb3JuUlQ2WkUwYUh3MXRWVmpoczFIWGE3TnBESnBRcEhTQ2ctY1F2N1JmNXhzV3ZObkZhSVpfN29UV1NVdFFHcXViS0doMjl4TXAtOHdJZWpFdGVPNDBCZlJaNTBwdjdqS0NLNG9B?oc=5",
-        "date": "2026-01-23",
-        "title": "LP Express delivers record parcel locker volumes - Parcel and Postal Technology International",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3Z3YWNiZUcyRVUtRG9lSTJNYmhHRHY4ZkxjSUs1RUlzdVBucTJ2X19VQ2VzOHg4WGlOd2tfTm9hZVZnc0gybEJrVk5aTFJOT0tYbldSZkpVclNMd2RXb3JuUlQ2WkUwYUh3MXRWVmpoczFIWGE3TnBESnBRcEhTQ2ctY1F2N1JmNXhzV3ZObkZhSVpfN29UV1NVdFFHcXViS0doMjl4TXAtOHdJZWpFdGVPNDBCZlJaNTBwdjdqS0NLNG9B?oc=5\" target=\"_blank\">LP Express delivers record parcel locker volumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parcel and Postal Technology International</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf5\ud83c\uddf1 NEWS: LP Express achieves record-high parcel locker volumes in Poland"
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/lp-express-delivers-record-parcel-locker-volumes.html",
-        "date": "2026-01-23",
-        "title": "LP Express delivers record parcel locker volumes",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/lp-express-delivers-record-parcel-locker-volumes.html\"><img align=\"left\" alt=\"LP Express delivers record parcel locker volumes\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2023/11/LP-EXPRESS-parcel-locker-in-Vilnius-scaled-e1769169779662-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">Lithuanian Post\u2019s parcel locker delivery network, LP Express, handled more than three million parcels between the beginning of November and December 31, 2025 \u2013 a third more than during the same period in 2024.</p>\n<p style=\"font-weight: 400;\">According to the post, more than 1.1 million parcels were delivered to parcel lockers in Latvia and Estonia during the peak period \u2013 four times more than in 2024 \u2013 and the company handled a total 21 million parcels\u00a0through its locker networks in Lithuania, Latvia and Estonia last year.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/lp-express-delivers-record-parcel-locker-volumes.html\" rel=\"nofollow\">Continue reading LP Express delivers record parcel locker volumes at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf1\ud83c\uddf9 NEWS: LP Express handles over 3M parcels via lockers from Nov to Dec 2025, a third more than in 2024"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZ29ZVFJjcVd4Y2thTGxGSkVMdUFyd243YlgtMzM0TzdmMnZ2bWZaejJDVGNSekI4Yko5MXUyZFZja2pBZDFhRzJPNDRLaDE0S2EwMUk2T3I3WUNIellvb3hBVTBYSF9qNnpfTmliRmJPR1dHOUYtZ2kwdkkxMkJiNUdmSGZOd1RZeTZtQjVFOEZnOG5OdWR4dGQ0TkdkdEt6bnhhdGdVNDJRVmNfVXl4X1djUXJfTnpDcXFYdXFaT21LRUR2ZHZQNUdGdkFvcVdXSGoxQkdDb1ZncXZVZTZXcFZGR2hwcC1BWTVUZmRIaXRWTVZZSTlwYWdFUld0WWZTLXhWcS1POFRnZXU4SW5SeUdNeWlmNlRSYmk3T2tsN3BHYm5SOVlOdHZLS3dJczdGanpuc29zZEN5ZzBDektRVlhmTVNrZFFYejRBTGNNY1pzNnd4VG8tSVU4cWRGdHQ2ZVpVMjFTSnc?oc=5",
-        "date": "2026-01-23",
-        "title": "Delivery Drones Analysis Report 2026: Market to Reach $27.5 - GlobeNewswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZ29ZVFJjcVd4Y2thTGxGSkVMdUFyd243YlgtMzM0TzdmMnZ2bWZaejJDVGNSekI4Yko5MXUyZFZja2pBZDFhRzJPNDRLaDE0S2EwMUk2T3I3WUNIellvb3hBVTBYSF9qNnpfTmliRmJPR1dHOUYtZ2kwdkkxMkJiNUdmSGZOd1RZeTZtQjVFOEZnOG5OdWR4dGQ0TkdkdEt6bnhhdGdVNDJRVmNfVXl4X1djUXJfTnpDcXFYdXFaT21LRUR2ZHZQNUdGdkFvcVdXSGoxQkdDb1ZncXZVZTZXcFZGR2hwcC1BWTVUZmRIaXRWTVZZSTlwYWdFUld0WWZTLXhWcS1POFRnZXU4SW5SeUdNeWlmNlRSYmk3T2tsN3BHYm5SOVlOdHZLS3dJczdGanpuc29zZEN5ZzBDektRVlhmTVNrZFFYejRBTGNNY1pzNnd4VG8tSVU4cWRGdHQ2ZVpVMjFTSnc?oc=5\" target=\"_blank\">Delivery Drones Analysis Report 2026: Market to Reach $27.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "NEWS: Delivery drones market projected to reach $27.5B by 2026, according to new analysis report.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3Z3YWNiZUcyRVUtRG9lSTJNYmhHRHY4ZkxjSUs1RUlzdVBucTJ2X19VQ2VzOHg4WGlOd2tfTm9hZVZnc0gybEJrVk5aTFJOT0tYbldSZkpVclNMd2RXb3JuUlQ2WkUwYUh3MXRWVmpoczFIWGE3TnBESnBRcEhTQ2ctY1F2N1JmNXhzV3ZObkZhSVpfN29UV1NVdFFHcXViS0doMjl4TXAtOHdJZWpFdGVPNDBCZlJaNTBwdjdqS0NLNG9B?oc=5",
-        "date": "2026-01-23",
-        "title": "LP Express delivers record parcel locker volumes - Parcel and Postal Technology International",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3Z3YWNiZUcyRVUtRG9lSTJNYmhHRHY4ZkxjSUs1RUlzdVBucTJ2X19VQ2VzOHg4WGlOd2tfTm9hZVZnc0gybEJrVk5aTFJOT0tYbldSZkpVclNMd2RXb3JuUlQ2WkUwYUh3MXRWVmpoczFIWGE3TnBESnBRcEhTQ2ctY1F2N1JmNXhzV3ZObkZhSVpfN29UV1NVdFFHcXViS0doMjl4TXAtOHdJZWpFdGVPNDBCZlJaNTBwdjdqS0NLNG9B?oc=5\" target=\"_blank\">LP Express delivers record parcel locker volumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parcel and Postal Technology International</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf5\ud83c\uddf1 NEWS: LP Express achieves record-high parcel locker volumes",
-        "type": "news"
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/lp-express-delivers-record-parcel-locker-volumes.html",
-        "date": "2026-01-23",
-        "title": "LP Express delivers record parcel locker volumes",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/lp-express-delivers-record-parcel-locker-volumes.html\"><img align=\"left\" alt=\"LP Express delivers record parcel locker volumes\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2023/11/LP-EXPRESS-parcel-locker-in-Vilnius-scaled-e1769169779662-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p style=\"font-weight: 400;\">Lithuanian Post\u2019s parcel locker delivery network, LP Express, handled more than three million parcels between the beginning of November and December 31, 2025 \u2013 a third more than during the same period in 2024.</p>\n<p style=\"font-weight: 400;\">According to the post, more than 1.1 million parcels were delivered to parcel lockers in Latvia and Estonia during the peak period \u2013 four times more than in 2024 \u2013 and the company handled a total 21 million parcels\u00a0through its locker networks in Lithuania, Latvia and Estonia last year.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/lp-express-delivers-record-parcel-locker-volumes.html\" rel=\"nofollow\">Continue reading LP Express delivers record parcel locker volumes at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf1\ud83c\uddf9 NEWS: LP Express smashes records with over 3 million parcels delivered via lockers from Nov to Dec 2025, a third more than 2024.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2026-01-24",
         "status": "posted",
         "tweet": "Top 5 cities by projected adoption rate of smart access systems in buildings, 2026 (over 80% equipped).\n\n\ud83c\uddf8\ud83c\uddec Singapore\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen\n\n\ud83c\uddf0\ud83c\uddf7 Seoul\n\n\ud83c\uddee\ud83c\uddf1 Tel Aviv",
@@ -411,5 +323,12 @@
         "tweet": "Worldwide e-commerce deliveries generate 250 billion packages in 2026,  \nup from 180 billion in 2023.  \n\nThis surge adds over 1 billion tons of packaging waste annually,  \nfueling a 40% rise in global landfill contributions.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-02-02",
+        "status": "posted",
+        "tweet": "XPO Logistics infrastructure in 2026: 300 million square feet of warehouse space across 600+ global facilities.\n\nDaily throughput: 2 million pallets processed.\n\n$XPO",
+        "type": "infrastructure"
     }
 ]
