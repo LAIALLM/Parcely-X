@@ -350,5 +350,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-02",
+        "status": "posted",
+        "tweet": "Delivery vans in dense \ud83c\uddfa\ud83c\uddf8 cities like NYC now account for 28% of peak-hour traffic.\n\nThis marks a 40% rise from 2023 levels, with projections hitting 36% by 2030 amid e-commerce growth.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
