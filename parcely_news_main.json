@@ -285,5 +285,13 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Atlanta warehouse handles 1.2 million parcels daily in 2026.\n\nThis infrastructure upgrade cuts delivery times by 25% across the Southeast.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-02",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected 2026 CO2 emissions from home deliveries (millions of tons), with potential cuts from building-integrated pickup networks.\n\n1. \ud83c\uddfa\ud83c\uddf8 Los Angeles: 2.8 (45% cut)\n2. \ud83c\udde8\ud83c\uddf3 Shanghai: 2.4 (50% cut)\n3. \ud83c\uddee\ud83c\uddf3 Mumbai: 2.1 (55% cut)\n4. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 1.9 (40% cut)\n5. \ud83c\udde9\ud83c\uddea Ber",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
