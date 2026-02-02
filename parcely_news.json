@@ -340,5 +340,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161155/news/e-commerce/scurri-delivery-is-a-front-line-experience-shaping-conversion-trust-and-repeat-purchase/",
+        "date": "2026-02-02",
+        "title": "Scurri: delivery is a front-line experience shaping conversion, trust and repeat purchase",
+        "summary": "UK ecommerce growth in Q4 2025 was driven by strong demand in pet care, beauty and expedited delivery, which offset steep declines in fashion and homewares, according to Scurri Unpacked data.",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
