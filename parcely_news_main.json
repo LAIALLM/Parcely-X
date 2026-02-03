@@ -303,5 +303,12 @@
         "tweet": "In 2026, worldwide e-commerce deliveries produce 200 billion packages, generating 100 million tons of packaging waste annually.\n\nTraditional retail worldwide: 50 million tons from half the volume.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-02-03",
+        "status": "posted",
+        "tweet": "GlobalFreight Inc. moved 2.5 million containers through its \ud83c\uddfa\ud83c\uddf8 West Coast ports in 2026, up 15% from last year.",
+        "type": "infrastructure"
     }
 ]
