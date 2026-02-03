@@ -295,5 +295,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-03",
+        "status": "posted",
+        "tweet": "In 2026, worldwide e-commerce deliveries produce 200 billion packages, generating 100 million tons of packaging waste annually.\n\nTraditional retail worldwide: 50 million tons from half the volume.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
