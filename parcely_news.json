@@ -370,5 +370,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-03",
+        "status": "posted",
+        "tweet": "By 2030, 75% of new urban buildings worldwide will integrate smart keyless entry systems, boosting security and convenience for billions.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
