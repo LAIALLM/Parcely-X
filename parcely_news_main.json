@@ -285,5 +285,15 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub now handles 1.2 million packages daily.\n\nThis boosts their network capacity by 25% year-over-year.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnJwOVFXdVRWcW9nQ0N4WTdXMGFxTm5EV21qY2RMSEt0a2liU2ZOdkV2elQ2WkRxbjVRemFLN3M2OTNfSG9sa19yUkJWWVExd091ZWoxMTVGU2hxZ2lTVEhfenhYV29zNHZwZWk0SlJXYUNmaHZlMTBXazNBNWlFRHJpSQ?oc=5",
+        "date": "2026-02-03",
+        "title": "Shopee Cuts Delivery Times in VisMin, Supporting MSMEs Nationwide - Pinoy Metro Geek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnJwOVFXdVRWcW9nQ0N4WTdXMGFxTm5EV21qY2RMSEt0a2liU2ZOdkV2elQ2WkRxbjVRemFLN3M2OTNfSG9sa19yUkJWWVExd091ZWoxMTVGU2hxZ2lTVEhfenhYV29zNHZwZWk0SlJXYUNmaHZlMTBXazNBNWlFRHJpSQ?oc=5\" target=\"_blank\">Shopee Cuts Delivery Times in VisMin, Supporting MSMEs Nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pinoy Metro Geek</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
