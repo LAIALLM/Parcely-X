@@ -398,5 +398,45 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXJKOVUwbXY2QXY2a3R1S3l0TjRSZGMwb21FLTZDMXRZU0swYi1YZDJuV3NlTlJvaDZvNEQzc2FxV0toRTQzTmNQTENubnk0UXd4aHJtRmphcFVlR1lpTmh3WkxrbnIyTjFVWC0xQzRDSWZYY2c0R2RFOGMxRkxwQ3Q1SEw2Ykdy?oc=5",
+        "date": "2026-02-03",
+        "title": "Amazon is ratcheting up fast delivery and raising the stakes for rivals like Walmart - Business Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXJKOVUwbXY2QXY2a3R1S3l0TjRSZGMwb21FLTZDMXRZU0swYi1YZDJuV3NlTlJvaDZvNEQzc2FxV0toRTQzTmNQTENubnk0UXd4aHJtRmphcFVlR1lpTmh3WkxrbnIyTjFVWC0xQzRDSWZYY2c0R2RFOGMxRkxwQ3Q1SEw2Ykdy?oc=5\" target=\"_blank\">Amazon is ratcheting up fast delivery and raising the stakes for rivals like Walmart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161174/news/e-commerce/inpost-two-thirds-of-uk-shoppers-have-actively-chosen-how-to-return-parcels-purely-to-avoid-queues/",
+        "date": "2026-02-03",
+        "title": "InPost: two-thirds of UK shoppers have actively chosen how to return parcels purely to avoid queues",
+        "summary": "New research from InPost UK confirms a clear shift in consumer behaviour: shoppers now expect returns to save them time and fit seamlessly around everyday life.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161170/news/e-commerce/whistl-announces-new-role/",
+        "date": "2026-02-03",
+        "title": "Whistl announces new senior role",
+        "summary": "Whistl as promoted Dave Twiddle to the newly created role of Group Operations Director covering its Mail, Parcels, International and Fulfilment operations.",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/cfo-vaida-kojaliene-quits-chapman-freeborn/",
+        "date": "2026-02-03",
+        "title": "CFO Vaida Kojaliene quits Chapman Freeborn",
+        "summary": "<p>Amid intrigue over Avia Solutions Group\u2019s (ASG) financial situation, perhaps the biggest name in its stable, Chapman Freeborn, is waving goodbye to its CFO of four years, Vaida Kojaliene.<br />\nWhile no formal announcement has been made, and she remains listed as CFO on CF\u2019s website, Ms Kojaliene has amended her LinkedIn profile to list February 2026 as the date she left the company.<br />\nSome sources told The Loadstar the move was \u201cquite ...</p>\n<p>The post <a href=\"https://theloadstar.com/cfo-vaida-kojaliene-quits-chapman-freeborn/\">CFO Vaida Kojaliene quits Chapman Freeborn</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
