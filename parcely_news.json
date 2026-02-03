@@ -438,5 +438,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2k4Rnc4NTdTYUxtS0RhMW50V001bHVkS01scE5hWGFySjdWaTFkclVwMl9xRGxqRWtMNkEtTm9DamMzWXhLMHB2dHRSZ3hKZHlhTmNncURqdE5hTU9hOE9GZEViMEFHSXBmMHIwZDZPUEdiVHZIX29OckFqdzI5djRiTGlyMENxTXRUSA?oc=5",
+        "date": "2026-02-03",
+        "title": "Life Events, Affordability Are Redefining The E-grocery Landscape - Store Brands",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2k4Rnc4NTdTYUxtS0RhMW50V001bHVkS01scE5hWGFySjdWaTFkclVwMl9xRGxqRWtMNkEtTm9DamMzWXhLMHB2dHRSZ3hKZHlhTmNncURqdE5hTU9hOE9GZEViMEFHSXBmMHIwZDZPUEdiVHZIX29OckFqdzI5djRiTGlyMENxTXRUSA?oc=5\" target=\"_blank\">Life Events, Affordability Are Redefining The E-grocery Landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Store Brands</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaW9XVXdmSmZhOVZ0dDhKZEgxOTJhaHVUMFZpTXJwTmhZWFBfTjdQMFU2OFR2Z2hMYmpjN1JLbXMxWEtVck83M3VMbHFvRVF0d2hDM25PT3c0Y21rZVdiN3hCWlNLTTI3eWo5T2FKUTNua0VraGYyeDFjcV9CN04xSk9BLU14VUpIb0htQVJKeVhJZ1lpakNITG9JSThnTnVjTlB5T2RBY2hWek12Xzk4bzFIT0VxeERBaF9qbGNKeDJjVmlaUEYzYS1vMTBoTnZYeG9B?oc=5",
+        "date": "2026-02-03",
+        "title": "New Yale and Master Lock Professional-Grade Smart Lock Solutions Now Available - markets.businessinsider.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaW9XVXdmSmZhOVZ0dDhKZEgxOTJhaHVUMFZpTXJwTmhZWFBfTjdQMFU2OFR2Z2hMYmpjN1JLbXMxWEtVck83M3VMbHFvRVF0d2hDM25PT3c0Y21rZVdiN3hCWlNLTTI3eWo5T2FKUTNua0VraGYyeDFjcV9CN04xSk9BLU14VUpIb0htQVJKeVhJZ1lpakNITG9JSThnTnVjTlB5T2RBY2hWek12Xzk4bzFIT0VxeERBaF9qbGNKeDJjVmlaUEYzYS1vMTBoTnZYeG9B?oc=5\" target=\"_blank\">New Yale and Master Lock Professional-Grade Smart Lock Solutions Now Available</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161177/news/e-commerce/amazon-w-members-dont-have-to-choose-between-speed-selection-and-savings/",
+        "date": "2026-02-03",
+        "title": "Amazon: members don\u2019t have to choose between speed, selection, and savings",
+        "summary": "Amazon.com, Inc. today announced it delivered to Prime members around the world at its fastest speeds ever in 2025 for a third consecutive year.",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
