@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-25",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Large metros: $11 per parcel for last-mile delivery in 2026.\n\n\ud83c\uddee\ud83c\uddf3 Large metros: $4 per parcel.\n\nLabor and traffic costs double the US expense.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2026-01-25",
-        "status": "posted",
-        "tweet": "LogiCore Inc. operates 250 automated warehouses worldwide, handling 1.2 million packages daily with 99.8% on-time delivery.\n\nKey infrastructure stat: 500 km of conveyor belts integrated across sites in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\udde9\ud83c\uddeaGermany.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-01-26",
         "status": "posted",
         "tweet": "Projected top 5 cities for smart access system adoption in buildings by 2026 (urban residential/commercial penetration):\n\n\ud83c\uddf8\ud83c\uddec Singapore - 68%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco - 62%\n\n\ud83c\uddef\ud83c\uddf5 Tokyo - 59%\n\n\ud83c\uddf0\ud83c\uddf7 Seoul - 57%\n\n\ud83c\uddec\ud83c\udde7 London - 55%",
@@ -309,6 +294,13 @@
         "date": "2026-02-03",
         "status": "posted",
         "tweet": "GlobalFreight Inc. moved 2.5 million containers through its \ud83c\uddfa\ud83c\uddf8 West Coast ports in 2026, up 15% from last year.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-04",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 distribution centers managed 2.5 million tons of cargo in Q1 2026.\n\nDaily throughput hit 28,000 tons, up 12% from 2025.",
         "type": "infrastructure"
     }
 ]
