@@ -490,5 +490,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-04",
+        "status": "posted",
+        "tweet": "Delivery vans in \ud83c\uddfa\ud83c\uddf8 New York City accounted for 25% of urban traffic in 2023.\n\nBy 2026, projections show they'll reach 40%, fueling denser city congestion.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
