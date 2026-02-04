@@ -470,5 +470,25 @@
         "status": "posted",
         "tweet": "UPS's expanded \ud83c\uddfa\ud83c\uddf8Louisville hub now sorts 2.5 million packages hourly, boosting North American throughput by 18% in 2026.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGpZUllVdTZheTNtLTI2ZGhoTVpOZGtDekdXaVlWTV9DUnBGMXpPVnJUSm1aNWh3NXVTcjdBUEZZZXZiMVlNbk95aDJUZ1hhUVNkWE8tQVdPZ2ExT3hWcndicXZla2NVZkFOaEg4TEp4endQZkZ2b3pMMUNBNTFveG9fRjNsTUFYWFNkaVh3QUNlY09TclBHb0pTU0l0dEFxOEJ4eFdGTlhSaW9vMjVNZ1dhSDczRXVod2hV?oc=5",
+        "date": "2026-02-04",
+        "title": "Amazon Same- and Next-Day Deliveries Increased 30% in 2025 - Retail TouchPoints",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGpZUllVdTZheTNtLTI2ZGhoTVpOZGtDekdXaVlWTV9DUnBGMXpPVnJUSm1aNWh3NXVTcjdBUEZZZXZiMVlNbk95aDJUZ1hhUVNkWE8tQVdPZ2ExT3hWcndicXZla2NVZkFOaEg4TEp4endQZkZ2b3pMMUNBNTFveG9fRjNsTUFYWFNkaVh3QUNlY09TclBHb0pTU0l0dEFxOEJ4eFdGTlhSaW9vMjVNZ1dhSDczRXVod2hV?oc=5\" target=\"_blank\">Amazon Same- and Next-Day Deliveries Increased 30% in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail TouchPoints</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/tango-versus-cargowise-as-schenker-integration-forces-dsv-tech-decisions/",
+        "date": "2026-02-04",
+        "title": "Tango or CargoWise,\u00a0as Schenker integration forces DSV tech decisions",
+        "summary": "<p>As widely\u00a0anticipated\u00a0by the freight tech sector,\u00a0DSV has\u00a0signalled\u00a0that the integration of DB Schenker will require key decisions on freight forwarding technology, as it balances legacy platforms across the combined group and\u00a0seeks\u00a0to\u00a0standardise\u00a0processes.\u00a0<br />\nOn its earnings call, management acknowledged that both DSV\u2019s own forwarding system and\u00a0WiseTech\u2019s\u00a0CargoWise\u00a0remain in use across the enlarged\u00a0organisation.\u00a0<br />\nWith regard to Tango and WiseTech, DSV will keep &#8220;Tango running in certain areas, we&#8217;ll have to make a choice which platform to keep,\u201d ...</p>\n<p>The post <a href=\"https://theloadstar.com/tango-versus-cargowise-as-schenker-integration-forces-dsv-tech-decisions/\">Tango or CargoWise,\u00a0as Schenker integration forces DSV tech decisions\u00a0</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
