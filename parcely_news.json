@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-25",
-        "status": "posted",
-        "tweet": "By 2026, global parcel locker networks will total 1.4 million units.\n\n\ud83c\udde8\ud83c\uddf3 China accounts for 450,000, outpacing \ud83c\uddea\ud83c\uddfa Europe's 350,000.",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
-        "date": "2026-01-25",
-        "status": "posted",
-        "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 Louisville Worldport sorts 416,000 packages per hour in 2026, up 15% from 2025 peak capacity.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-01-26",
         "status": "posted",
         "tweet": "FedEx $FDX processes 18 million packages daily in 2026.\n\n\ud83c\uddfa\ud83c\uddf8Memphis hub efficiency: 1.5 million parcels per day at 99.2% on-time rate.",
@@ -478,5 +463,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-04",
+        "status": "posted",
+        "tweet": "UPS's expanded \ud83c\uddfa\ud83c\uddf8Louisville hub now sorts 2.5 million packages hourly, boosting North American throughput by 18% in 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
