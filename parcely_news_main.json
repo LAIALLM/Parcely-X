@@ -282,5 +282,13 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse now handles 2.5 million parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 25% across the Southwest.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-05",
+        "status": "posted",
+        "tweet": "In 2026, global last-mile logistics emit 220 million metric tons of CO2 annually from urban deliveries.\n\nBuilding-integrated networks, with on-site storage and local production, project just 66 million tons\u2014a 70% cut.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
