@@ -498,5 +498,15 @@
         "tweet": "Buildings with smart access systems will hit 40% global adoption by 2026, up from 25% in 2023.\n\nTop 5 cities by penetration rate:\n\n\ud83c\uddf8\ud83c\uddec Singapore: 82%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 76%\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 70%\n\n\ud83c\uddf0\ud83c\uddf7 Seoul: 67%\n\n\ud83c\udde9\ud83c\uddea Berlin: 64%",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": "https://postandparcel.info/161193/news/parcel/magyar-posta-this-cooperation-supports-our-efforts-to-expand-logistics-services-for-e-commerce-in-hungary/",
+        "date": "2026-02-05",
+        "title": "Magyar Posta: This cooperation supports our efforts to expand logistics services for e-commerce in Hungary",
+        "summary": "Temu, the global e-commerce marketplace, and Magyar Posta, Hungary's national postal and logistics operator, have signed a Memorandum of Understanding (MoU) to strengthen logistics cooperation and support local sellers in Europe.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
