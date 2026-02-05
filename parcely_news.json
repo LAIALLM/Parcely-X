@@ -528,5 +528,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/record-xpo-hits-200-share/",
+        "date": "2026-02-05",
+        "title": "Record XPO hits $200/share",
+        "summary": "<p>US LTL carrier XPO today announced its financial results for the fourth quarter of 2025.<br />\nIt reported diluted earnings per share of $0.50, compared with $0.63 for the same period in 2024, and adjusted diluted earnings per share of $0.88, compared with $0.89 for the same period in 2024.<br />\nQ4 25 Non-GAAP EPS of $0.88 were $0.12 higher than consensus, quarterly revenue in line. Today XPO hit a new record on results, ...</p>\n<p>The post <a href=\"https://theloadstar.com/record-xpo-hits-200-share/\">Record XPO hits $200/share</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/reuters-us-software-shares-extend-declines-on-mounting-fears-over-ai-disruption/",
+        "date": "2026-02-05",
+        "title": "REUTERS: US software shares extend declines on mounting fears over AI disruption",
+        "summary": "<p>REUTERS reports:<br />\nShares of U.S. software and data services companies extended their steep slide into a seventh session on Thursday as investors continued to pull back on fears that fast-advancing artificial intelligence tools could upend the sector.<br />\nThe S&#38;P 500 software and services index dropped 2.8% and was on track to lose more than $950 billion in market value since January 28.<br />\n(&#8230;)<br />\n&#8220;The uncertainty around the eventual impact of AI means near-term earnings ...</p>\n<p>The post <a href=\"https://theloadstar.com/reuters-us-software-shares-extend-declines-on-mounting-fears-over-ai-disruption/\">REUTERS: US software shares extend declines on mounting fears over AI disruption</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
