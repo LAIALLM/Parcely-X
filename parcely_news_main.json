@@ -265,5 +265,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-06",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1 million locations, handling 25% of e-commerce deliveries\u2014up from 12% in 2023.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
