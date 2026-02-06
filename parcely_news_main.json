@@ -245,5 +245,25 @@
         "tweet": "In 2026, global last-mile logistics emit 220 million metric tons of CO2 annually from urban deliveries.\n\nBuilding-integrated networks, with on-site storage and local production, project just 66 million tons\u2014a 70% cut.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHhqTnRybkJDbVJobnpaT1kwa2Q5bUstQldIOUZsYjdRZXZNMm9MRkw2Wl85MEtrRXRaS1hTRXNPbEhyUTlodnlwMldlcG9BeTlXT2ZJM0VzUmd3bnRzQ3hvQ3J6OXVkRWt6Q0VpMWFIa3F2MmwxcElhZ29rRE1nbkFYZkpjYjB4bThDVEtXZ0N1c2o1aWtMSmNHYUpOd28yX2lLeE10VXZGaU9pallsTExFUF8ybFlMd1lwUHJGZnU5c1RzWkF0ZUF3WkEyVXRwTm4zZGZ3?oc=5",
+        "date": "2026-02-06",
+        "title": "Lazada launches RedMart Now service with promise of groceries delivered within 30 minutes - Retail Technology Innovation Hub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHhqTnRybkJDbVJobnpaT1kwa2Q5bUstQldIOUZsYjdRZXZNMm9MRkw2Wl85MEtrRXRaS1hTRXNPbEhyUTlodnlwMldlcG9BeTlXT2ZJM0VzUmd3bnRzQ3hvQ3J6OXVkRWt6Q0VpMWFIa3F2MmwxcElhZ29rRE1nbkFYZkpjYjB4bThDVEtXZ0N1c2o1aWtMSmNHYUpOd28yX2lLeE10VXZGaU9pallsTExFUF8ybFlMd1lwUHJGZnU5c1RzWkF0ZUF3WkEyVXRwTm4zZGZ3?oc=5\" target=\"_blank\">Lazada launches RedMart Now service with promise of groceries delivered within 30 minutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE5zdzlsZjUycEp5RU5HcTBsMmJTdTlXSXVIaW1hY2RxYlpxZFdncnlXVXJiUUNCQkNBRjRmWDZTVFAtNkpjYTFZU2hmWE9udzVMRHdBWmpvbnF0anlXTUhXcGpJWVBvWEtnYWhUU285SzU5S0VDb2J4TUpDdWtPS1lmeUtKQk04M0hNZi1QaDl1WmFJOF84N2hMT2JtRjFDOUpjQjB1Y3d5UFV1X2Zj?oc=5",
+        "date": "2026-02-06",
+        "title": "Instant delivery becomes an operations priority as SuperYou retools fulfilment systems - Prittle Prattle News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE5zdzlsZjUycEp5RU5HcTBsMmJTdTlXSXVIaW1hY2RxYlpxZFdncnlXVXJiUUNCQkNBRjRmWDZTVFAtNkpjYTFZU2hmWE9udzVMRHdBWmpvbnF0anlXTUhXcGpJWVBvWEtnYWhUU285SzU5S0VDb2J4TUpDdWtPS1lmeUtKQk04M0hNZi1QaDl1WmFJOF84N2hMT2JtRjFDOUpjQjB1Y3d5UFV1X2Zj?oc=5\" target=\"_blank\">Instant delivery becomes an operations priority as SuperYou retools fulfilment systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prittle Prattle News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
