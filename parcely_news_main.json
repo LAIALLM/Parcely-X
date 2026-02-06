@@ -273,5 +273,12 @@
         "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1 million locations, handling 25% of e-commerce deliveries\u2014up from 12% in 2023.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-02-06",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Atlanta hub manages 750,000 tons of cargo annually in 2026, with 99.5% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
