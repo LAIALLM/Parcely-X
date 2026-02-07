@@ -384,5 +384,12 @@
         "tweet": "In 2026, global e-commerce first-attempt delivery failures average 11%, costing $50B yearly. Top 5 cities by rate:\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 24%\n\n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo, Brazil: 21%\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles, USA: 18%\n\n\ud83c\uddec\ud83c\udde7 London, UK: 16%\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 14%",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-02-07",
+        "status": "posted",
+        "tweet": "FedEx infrastructure milestone in 2026: 650 automated sorting facilities worldwide, handling 18M packages daily with 99.8% on-time efficiency.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
