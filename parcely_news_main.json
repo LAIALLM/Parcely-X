@@ -205,5 +205,12 @@
         "status": "posted",
         "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Atlanta hub manages 750,000 tons of cargo annually in 2026, with 99.5% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-07",
+        "status": "posted",
+        "tweet": "Apex Logistics hit 1.2 million daily package scans in 2026 across its \ud83c\uddfa\ud83c\uddf8 US and \ud83c\uddf2\ud83c\uddfd Mexico hubs, cutting delivery times by 25%.",
+        "type": "infrastructure"
     }
 ]
