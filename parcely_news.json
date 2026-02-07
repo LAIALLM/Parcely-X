@@ -376,5 +376,13 @@
         "tweet": "Top cities leading smart access system adoption in buildings, 2026 projections (% of structures):\n\n\ud83c\uddf8\ud83c\uddec Singapore: 85%\n\n\ud83c\uddf0\ud83c\uddf7 Seoul: 78%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 72%\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 68%\n\n\ud83c\udde9\ud83c\uddea Berlin: 65%",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-02-07",
+        "status": "posted",
+        "tweet": "In 2026, global e-commerce first-attempt delivery failures average 11%, costing $50B yearly. Top 5 cities by rate:\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 24%\n\n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo, Brazil: 21%\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles, USA: 18%\n\n\ud83c\uddec\ud83c\udde7 London, UK: 16%\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 14%",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
