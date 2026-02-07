@@ -212,5 +212,13 @@
         "status": "posted",
         "tweet": "Apex Logistics hit 1.2 million daily package scans in 2026 across its \ud83c\uddfa\ud83c\uddf8 US and \ud83c\uddf2\ud83c\uddfd Mexico hubs, cutting delivery times by 25%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-07",
+        "status": "posted",
+        "tweet": "Projected 2026 last-mile delivery costs per parcel in major metros (highest first):\n\n\ud83c\uddf3\ud83c\uddec Lagos/Nigeria: $15.40  \n\ud83c\uddee\ud83c\uddf3 Mumbai/India: $14.10  \n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo/Brazil: $13.70  \n\ud83c\uddf2\ud83c\uddfd Mexico City/Mexico: $13.20  \n\ud83c\uddfa\ud83c\uddf8 New York/USA: $12.50",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
