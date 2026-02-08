@@ -200,5 +200,13 @@
         "status": "posted",
         "tweet": "SwiftLogix's \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 parcels daily through automated sorting lines, handling peak loads without delays.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-08",
+        "status": "posted",
+        "tweet": "Top cities for EV and micro-mobility delivery fleets in 2026: projected % of urban deliveries using electric vehicles and e-bikes.\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam: 92%  \n\ud83c\udde9\ud83c\uddf0 Copenhagen: 88%  \n\ud83c\udde9\ud83c\uddea Berlin: 82%  \n\ud83c\uddfa\ud83c\uddf8 New York: 78%  \n\ud83c\uddec\ud83c\udde7 London: 75%",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
