@@ -364,5 +364,12 @@
         "tweet": "In 2026, porch piracy in \ud83c\uddfa\ud83c\uddf8 Los Angeles  \nreached 1.7 million incidents.  \n\nThat's nearly double the 850,000  \nin \ud83c\uddfa\ud83c\uddf8 New York City.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-08",
+        "status": "posted",
+        "tweet": "UPS logistics infrastructure in \ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\udde6\ud83c\uddf2\ud83c\uddfd handles 28 million packages daily via 1,500 automated sorting facilities, achieving 98.7% efficiency.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
