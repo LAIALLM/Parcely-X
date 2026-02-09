@@ -384,5 +384,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\uddf1 NEWS: Parcel locker firm InPost to go private in \u20ac7.8bn all-cash deal backed by FedEx and Advent, at \u20ac15.60 per share\u2014a 50% premium to shareholders $INPST",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-09",
+        "status": "posted",
+        "tweet": "Last-mile logistics worldwide release 250 million metric tons of CO2 annually in 2026.\n\nBuilding-integrated networks project a 35% drop, limiting emissions to 162 million metric tons.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
