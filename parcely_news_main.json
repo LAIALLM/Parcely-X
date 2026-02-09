@@ -180,5 +180,13 @@
         "status": "posted",
         "tweet": "LogiFlow's central warehouse in \ud83c\uddfa\ud83c\uddf8 USA handles 2.5 million packages daily with 99.8% on-time delivery accuracy.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-09",
+        "status": "posted",
+        "tweet": "Failed first-attempt e-commerce deliveries projected at 12% globally in 2026, up from 9% in 2023 due to urban growth.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 25%  \n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo, Brazil: 22%  \n\ud83c\uddf3\ud83c\uddec Lagos, Nigeria: 20%  \n\ud83c\uddfa\ud83c\uddf8 Los Angeles, USA: 18%  \n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 15%",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
