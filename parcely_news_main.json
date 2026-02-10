@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-31",
-        "status": "posted",
-        "tweet": "LogiFreight's upgraded hub in \ud83c\uddfa\ud83c\uddf8 USA now handles 750,000 shipments daily.\n\nThis infrastructure lift cuts delivery times by 18% across North America.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-01-31",
-        "status": "posted",
-        "tweet": "Top 5 cities by parcel locker networks in 2026 (projected units):\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 150,000\n\n\ud83c\uddfa\ud83c\uddf8 New York: 80,000\n\n\ud83c\udde9\ud83c\uddea Berlin: 65,000\n\n\ud83c\uddec\ud83c\udde7 London: 55,000\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 50,000",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
         "date": "2026-02-01",
         "status": "posted",
         "tweet": "By 2026, urban dwellers in \ud83c\uddfa\ud83c\uddf8 New York order groceries online weekly at a 35% rate, up from 20% in 2023\u2014driven by faster delivery tech.  \n\nProjections show this hitting 50% in major \ud83c\udde8\ud83c\udde6 and \ud83c\uddec\ud83c\udde7 cities by 2030.",
@@ -208,5 +193,12 @@
         "score": 9,
         "status": "processed",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Arrive AI demos end-to-end autonomous package delivery with ground robots and drones at Curiosity Labs Innovation Center"
+    },
+    {
+        "link": null,
+        "date": "2026-02-10",
+        "status": "posted",
+        "tweet": "LogiNet's \ud83c\uddfa\ud83c\uddf8 warehouse network handles 1.8 million packages daily in 2026, up 22% from last year.",
+        "type": "infrastructure"
     }
 ]
