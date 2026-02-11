@@ -272,5 +272,15 @@
         "status": "posted",
         "tweet": "LogiTech's global network now processes 2.5 million parcels daily across 150 warehouses.\n\nKey metric: 98% on-time delivery rate in 2026, powered by AI-optimized routes.\n\nThis cuts fuel use by 15% year-over-year.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOE5KbnFWWWsxMHBNVmFkbzNGMGZlYnFWdWRKUS1iZjQxbnRheXBJU3h5c3RlOUNmdzl2cXNPVkxLRUY5SmFOSmJSU29XejEzLXZ6Z3BzWTFIN3poNjN5NkJoRXR5TXdwS2I4dm9sSnpWa2ItSE9XMDZoNnIyNEpFR0JlbHptLU9sSWREZEZBcDVtcFVoU0hBMGVDekFnc0ZYbFZPQkJUNWg?oc=5",
+        "date": "2026-02-11",
+        "title": "Nova Poshta Expands Network and Services in January 2026 - Odessa Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOE5KbnFWWWsxMHBNVmFkbzNGMGZlYnFWdWRKUS1iZjQxbnRheXBJU3h5c3RlOUNmdzl2cXNPVkxLRUY5SmFOSmJSU29XejEzLXZ6Z3BzWTFIN3poNjN5NkJoRXR5TXdwS2I4dm9sSnpWa2ItSE9XMDZoNnIyNEpFR0JlbHptLU9sSWREZEZBcDVtcFVoU0hBMGVDekFnc0ZYbFZPQkJUNWg?oc=5\" target=\"_blank\">Nova Poshta Expands Network and Services in January 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Odessa Journal</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
