@@ -458,5 +458,12 @@
         "tweet": "By 2030, smart residential and office buildings worldwide will reach 800 million units, up 50% from 2026 levels.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-02-11",
+        "status": "posted",
+        "tweet": "FedEx $FDX: Global fleet of 700 aircraft covers 375 routes daily, transporting 16 million packages with 99.9% on-time rate.",
+        "type": "infrastructure"
     }
 ]
