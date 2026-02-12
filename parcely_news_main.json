@@ -264,5 +264,13 @@
         "status": "posted",
         "tweet": "FreightLink's \ud83c\uddfa\ud83c\uddf8 Atlanta hub in 2026 handles 1.5 million packages daily via its expanded rail network.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-12",
+        "status": "posted",
+        "tweet": "Delivery vans are set to spike city traffic: projected 30-50% growth in dense urban areas by 2030 due to e-commerce boom.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 48% rise  \n\ud83c\uddef\ud83c\uddf5 Tokyo: 45% rise  \n\ud83c\uddec\ud83c\udde7 London: 43% rise  \n\ud83c\uddeb\ud83c\uddf7 Paris: 41% rise  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 39% rise",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
