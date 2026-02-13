@@ -478,5 +478,13 @@
         "status": "posted",
         "tweet": "FedEx's global network spans 220+ countries, handling 16 million packages daily in 2026.\n\nKey infrastructure metric: 1.2 billion cubic feet of sorting capacity across 500+ facilities.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-13",
+        "status": "posted",
+        "tweet": "By 2026, 42% of commercial buildings in the \ud83c\uddfa\ud83c\uddf8 US will use smart access systems, compared to 28% in the \ud83c\uddea\ud83c\uddfa EU.  \n\nThis gap highlights faster tech integration in North America, with global adoption projected to hit 55% by 2030.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
