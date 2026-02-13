@@ -295,5 +295,12 @@
         "tweet": "In 2026, last-mile delivery costs $13 per parcel in \ud83c\uddfa\ud83c\uddf8 large metros like New York.\n\nThat's 3x higher than $4.30 in \ud83c\uddee\ud83c\uddf3 Mumbai's metros.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-02-13",
+        "status": "posted",
+        "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 120,000 packages daily in 2026, using 25% less energy than 2025 averages.",
+        "type": "infrastructure"
     }
 ]
