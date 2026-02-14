@@ -377,5 +377,12 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-14",
+        "status": "posted",
+        "tweet": "Apex Logistics' \ud83c\udde9\ud83c\uddea Berlin distribution center processes 750,000 packages daily in 2026, boosting regional supply chain efficiency by 40%.",
+        "type": "infrastructure"
     }
 ]
