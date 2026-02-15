@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-02-05",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse now handles 2.5 million parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 25% across the Southwest.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-02-05",
-        "status": "posted",
-        "tweet": "In 2026, global last-mile logistics emit 220 million metric tons of CO2 annually from urban deliveries.\n\nBuilding-integrated networks, with on-site storage and local production, project just 66 million tons\u2014a 70% cut.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHhqTnRybkJDbVJobnpaT1kwa2Q5bUstQldIOUZsYjdRZXZNMm9MRkw2Wl85MEtrRXRaS1hTRXNPbEhyUTlodnlwMldlcG9BeTlXT2ZJM0VzUmd3bnRzQ3hvQ3J6OXVkRWt6Q0VpMWFIa3F2MmwxcElhZ29rRE1nbkFYZkpjYjB4bThDVEtXZ0N1c2o1aWtMSmNHYUpOd28yX2lLeE10VXZGaU9pallsTExFUF8ybFlMd1lwUHJGZnU5c1RzWkF0ZUF3WkEyVXRwTm4zZGZ3?oc=5",
         "date": "2026-02-06",
         "title": "Lazada launches RedMart Now service with promise of groceries delivered within 30 minutes - Retail Technology Innovation Hub",
@@ -412,5 +397,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-15",
+        "status": "posted",
+        "tweet": "LogiFlow's key infrastructure stat: 2,500 automated warehouses worldwide process 8 million packages daily.\n\n\ud83c\uddfa\ud83c\uddf8 USA hubs lead with 3 million units shipped per day.",
+        "type": "infrastructure"
     }
 ]
