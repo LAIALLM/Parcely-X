@@ -404,5 +404,13 @@
         "status": "posted",
         "tweet": "LogiFlow's key infrastructure stat: 2,500 automated warehouses worldwide process 8 million packages daily.\n\n\ud83c\uddfa\ud83c\uddf8 USA hubs lead with 3 million units shipped per day.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-15",
+        "status": "posted",
+        "tweet": "By 2026, 65% of urban buildings worldwide use smart access systems like keyless entry and biometrics.\n\nTop 5 cities by adoption rate:\n\n1. \ud83c\uddf8\ud83c\uddec Singapore - 88%\n2. \ud83c\uddfa\ud83c\uddf8 San Francisco - 82%\n3. \ud83c\uddef\ud83c\uddf5 Tokyo - 79%\n4. \ud83c\uddec\ud83c\udde7 London - 76%\n5. \ud83c\udde6\ud83c\uddea Dubai - 74%",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
