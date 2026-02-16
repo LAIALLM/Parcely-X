@@ -503,5 +503,15 @@
         "status": "posted",
         "tweet": "UPS infrastructure milestone in 2026: 1,500 automated sorting hubs handling 30 million packages daily across \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde8\ud83c\udde6 networks.\n\nEfficiency: 98% on-time delivery rate.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjB0RS1NSV9ZcHZEd1poNW1YT1E0VVk3MUNHLTlxZXBXeXRkZnJaNEJTWDA5U1QyS21lNEd1cVFWMkttSWxqR2JPYU9iMFhBdFdsTFZXb2YyWWwwWmJXMFY2cFUyMHZWSTdFam9Xb0pBbHYtbDEyZmtEX3JtWEFSS0hJaVEwaGw0MkJ2c1JxUzZMOEpHNTk5WGp3NUtQX3VScjhielVOYTVJRkR3UUpqOQ?oc=5",
+        "date": "2026-02-16",
+        "title": "Americans are unleashing their anger on food-delivery robots - The Economist",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjB0RS1NSV9ZcHZEd1poNW1YT1E0VVk3MUNHLTlxZXBXeXRkZnJaNEJTWDA5U1QyS21lNEd1cVFWMkttSWxqR2JPYU9iMFhBdFdsTFZXb2YyWWwwWmJXMFY2cFUyMHZWSTdFam9Xb0pBbHYtbDEyZmtEX3JtWEFSS0hJaVEwaGw0MkJ2c1JxUzZMOEpHNTk5WGp3NUtQX3VScjhielVOYTVJRkR3UUpqOQ?oc=5\" target=\"_blank\">Americans are unleashing their anger on food-delivery robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
