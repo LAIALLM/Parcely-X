@@ -496,5 +496,12 @@
         "tweet": "In 2026, global parcel locker networks reach 950,000 units.\n\nPickup-point networks total 2.1 million worldwide.\n\nLockers now handle 18% of e-commerce deliveries, up from 12% in leading markets.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-02-16",
+        "status": "posted",
+        "tweet": "UPS infrastructure milestone in 2026: 1,500 automated sorting hubs handling 30 million packages daily across \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde8\ud83c\udde6 networks.\n\nEfficiency: 98% on-time delivery rate.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
