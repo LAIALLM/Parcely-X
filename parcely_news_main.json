@@ -416,5 +416,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde7\ud83c\uddf7 NEWS: Retail giants Assa\u00ed and Mercado Livre partner up\u2014Assa\u00ed to sell products on the platform using its logistics for delivery across Brazil, while its 312 stores buy supplies directly online.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-16",
+        "status": "posted",
+        "tweet": "SwiftLogistics' main data center in \ud83c\uddfa\ud83c\uddf8 Texas processes 15 petabytes of shipment tracking daily, supporting 10 million global deliveries.",
+        "type": "infrastructure"
     }
 ]
