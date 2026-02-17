@@ -428,5 +428,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-17",
+        "status": "posted",
+        "tweet": "By 2026, last-mile delivery trucks emit 1.1 billion metric tons of CO2 globally each year.\n\nBuilding-integrated networks cut that to 330 million tons \u2013 a 70% reduction through on-site hubs and local routing.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
