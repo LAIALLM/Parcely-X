@@ -508,5 +508,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-17",
+        "status": "posted",
+        "tweet": "UPS logistics network in 2026 spans 500 sorting facilities worldwide, handling 25 million packages daily. $UPS",
+        "type": "infrastructure"
     }
 ]
