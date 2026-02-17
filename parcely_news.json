@@ -515,5 +515,25 @@
         "status": "posted",
         "tweet": "UPS logistics network in 2026 spans 500 sorting facilities worldwide, handling 25 million packages daily. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/saas-pronounced-dead-as-ai-moves-in-but-roi-is-the-trick/",
+        "date": "2026-02-17",
+        "title": "SaaS pronounced \u2018dead\u2019 as AI moves in \u2013 but ROI is the trick",
+        "summary": "<p>\u201cSaaS is as we know it is dead\u201d, Manifest 2026 attendees last week were told \u2013 the version of the model built on standardised workflows, static user interfaces, and one-size-fits-all roadmaps is becoming obsolete. \u00a0<br />\nThe shared message from The AI Pivot panel, comprising Pablo Palafox, CEO of Happy Robot; Mathew Elenjickal, CEO of FourKites; and Krener Komoni. CEO of Tive; was that enterprise software is shifting from selling tools to ...</p>\n<p>The post <a href=\"https://theloadstar.com/saas-pronounced-dead-as-ai-moves-in-but-roi-is-the-trick/\">SaaS pronounced &#8216;dead&#8217; as AI moves in \u2013 but ROI is the trick</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/blanked-sailings-soar-as-carriers-anticipate-cny-slump/",
+        "date": "2026-02-17",
+        "title": "Blanked sailings soar as carriers anticipate CNY slump",
+        "summary": "<p>The transpacific, transatlantic and Asia-Europe trades are all set to a surge in blanked sailings as China&#8217;s new year celebrations get under way.<br />\nThe two-week holiday, which begins today and brings most shipping and logistics operations in the country to a halt, has led carriers to blank a wave of sailings for the rest of the month, anticipating a sharp contraction of volumes.<br />\nAccording to Drewry\u2019s Container Forecaster, 136 scheduled sailings have ...</p>\n<p>The post <a href=\"https://theloadstar.com/blanked-sailings-soar-as-carriers-anticipate-cny-slump/\">Blanked sailings soar as carriers anticipate CNY slump</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
