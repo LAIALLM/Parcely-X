@@ -535,5 +535,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-17",
+        "status": "posted",
+        "tweet": "2026 e-commerce projections show 28% of global deliveries fail on first attempt, costing $60 billion yearly.\n\n\ud83c\uddfa\ud83c\uddf8 sees 35% failure rate, double the efficiency of top markets like \ud83c\udde8\ud83c\uddf3 at 18%.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
