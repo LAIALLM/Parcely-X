@@ -516,5 +516,12 @@
         "tweet": "Highest last-mile delivery costs per parcel in major metros, 2026 projections:\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $14.20\n2. \ud83c\uddec\ud83c\udde7 London: $13.50\n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $12.80\n4. \ud83c\uddeb\ud83c\uddf7 Paris: $12.10\n5. \ud83c\uddee\ud83c\uddf3 Mumbai: $11.90",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-02-18",
+        "status": "posted",
+        "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 Worldport hub processes 416,000 packages per hour in 2026. $UPS",
+        "type": "infrastructure"
     }
 ]
