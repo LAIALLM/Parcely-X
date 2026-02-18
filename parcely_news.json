@@ -523,5 +523,35 @@
         "status": "posted",
         "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 Worldport hub processes 416,000 packages per hour in 2026. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://postandparcel.info/161301/news/e-commerce/posti-ai-agents-are-transforming-e-commerce-and-delivery-choices/",
+        "date": "2026-02-18",
+        "title": "Posti:\u00a0AI agents are transforming E-Commerce and delivery choices",
+        "summary": "According to a recent survey by Posti, 53 % of logistics decision-makers believe that AI based shopping agents will be part of their online store within the next five years.",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161296/news/e-commerce/nio-expands-its-reach-with-the-help-of-dhl/",
+        "date": "2026-02-18",
+        "title": "NIO expands its reach with the help of DHL",
+        "summary": "NIO, a global smart electric vehicle company, chose DHL as logistics partner for its European aftermarket services. This includes both, NIO premium models and the brand-new firefly brand, offering premium compact electric vehicles for urban mobility. From the DHL automotive campus in Holtum, The Netherlands, [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/union-pacific-norfolk-southern-now-expected-to-file-new-merger-application-on-30-april/",
+        "date": "2026-02-18",
+        "title": "Union Pacific & Norfolk Southern now expected to file new merger application on 30 April",
+        "summary": "<p>Union Pacific and Norfolk Southern are now expected to submit their revised application on 30 April, as disclosed yesterday \u2013 the original merger application was rejected by the Surface Transportation Board in mid-January (as &#8220;incomplete&#8221; because it did not &#8220;contain certain information required by the board&#8217;s regulations&#8220;).</p>\n<p>The post <a href=\"https://theloadstar.com/union-pacific-norfolk-southern-now-expected-to-file-new-merger-application-on-30-april/\">Union Pacific &#038; Norfolk Southern now expected to file new merger application on 30 April</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
