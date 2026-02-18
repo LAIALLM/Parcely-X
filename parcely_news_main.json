@@ -515,5 +515,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub handles 750,000 parcels daily through automated sorting lines.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-18",
+        "status": "posted",
+        "tweet": "In 2026, 35% of global e-commerce deliveries\u20141.8 billion packages\u2014will fail on the first attempt, driving up costs by $45 billion.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
