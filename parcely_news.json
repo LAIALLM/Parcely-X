@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-08",
-        "status": "posted",
-        "tweet": "In 2026, porch piracy in \ud83c\uddfa\ud83c\uddf8 Los Angeles  \nreached 1.7 million incidents.  \n\nThat's nearly double the 850,000  \nin \ud83c\uddfa\ud83c\uddf8 New York City.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": null,
-        "date": "2026-02-08",
-        "status": "posted",
-        "tweet": "UPS logistics infrastructure in \ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\udde6\ud83c\uddf2\ud83c\uddfd handles 28 million packages daily via 1,500 automated sorting facilities, achieving 98.7% efficiency.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1RabXd5OFJfTjdoZGtxVzJHUVVsazJILUV6c1k4WkdpdC0tb2ZpSlRFX0JGMFRySjFsQWwwZW9CWTVBYWt2elZDaUxRN2pWZUo1eVN6emdIbTdOb1hWWHlPM1puVUhZZ1o3VmNqUXA0MVRQdVNyZVdicVk0OEtENURFWUs1MkNCS2JkeEVndnlwNU9xNUhmR2c4eEgwX3VtWkVjR2tGdjVyQzJXeGtqczNDc1hWdXA3NUl0MXQxc0prdw?oc=5",
-        "date": "2026-02-08",
-        "title": "Is United Parcel Serv. Stock the Next Big Delivery Flex \u2013 Or a Total Overhype? - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1RabXd5OFJfTjdoZGtxVzJHUVVsazJILUV6c1k4WkdpdC0tb2ZpSlRFX0JGMFRySjFsQWwwZW9CWTVBYWt2elZDaUxRN2pWZUo1eVN6emdIbTdOb1hWWHlPM1puVUhZZ1o3VmNqUXA0MVRQdVNyZVdicVk0OEtENURFWUs1MkNCS2JkeEVndnlwNU9xNUhmR2c4eEgwX3VtWkVjR2tGdjVyQzJXeGtqczNDc1hWdXA3NUl0MXQxc0prdw?oc=5\" target=\"_blank\">Is United Parcel Serv. Stock the Next Big Delivery Flex \u2013 Or a Total Overhype?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVW1rQ29TYUk2aDdNaFk3Ulk2OS1rNUc5WVRlZUxUSmx5dEdhZF9BN2o4c09TcDcyR1QzcDYxQ1BOZll2aTBhR3ItbmQ2Qkt3N0MtZ3FKQlB3d2hrTGRMMUpiZ19qQ3BMdldUNTMxdUpnNjRrUlFySHRvMDRkVHQtQzQtUFZWcWp6aHJjODYyWVRzQzRQcXZj?oc=5",
-        "date": "2026-02-08",
-        "title": "Delhivery is struggling to deliver more for investors - The Morning Context",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVW1rQ29TYUk2aDdNaFk3Ulk2OS1rNUc5WVRlZUxUSmx5dEdhZF9BN2o4c09TcDcyR1QzcDYxQ1BOZll2aTBhR3ItbmQ2Qkt3N0MtZ3FKQlB3d2hrTGRMMUpiZ19qQ3BMdldUNTMxdUpnNjRrUlFySHRvMDRkVHQtQzQtUFZWcWp6aHJjODYyWVRzQzRQcXZj?oc=5\" target=\"_blank\">Delhivery is struggling to deliver more for investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning Context</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-09",
         "status": "posted",
         "tweet": "UPS infrastructure: 150 million cubic feet of automated warehouse capacity operational globally in 2026, handling 25 million daily packages. $UPS",
@@ -543,5 +508,13 @@
         "tweet": "2026 e-commerce projections show 28% of global deliveries fail on first attempt, costing $60 billion yearly.\n\n\ud83c\uddfa\ud83c\uddf8 sees 35% failure rate, double the efficiency of top markets like \ud83c\udde8\ud83c\uddf3 at 18%.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-02-18",
+        "status": "posted",
+        "tweet": "Highest last-mile delivery costs per parcel in major metros, 2026 projections:\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $14.20\n2. \ud83c\uddec\ud83c\udde7 London: $13.50\n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $12.80\n4. \ud83c\uddeb\ud83c\uddf7 Paris: $12.10\n5. \ud83c\uddee\ud83c\uddf3 Mumbai: $11.90",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
