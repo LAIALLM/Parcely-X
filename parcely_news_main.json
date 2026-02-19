@@ -506,5 +506,12 @@
         "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1 million locations, handling over 15 billion packages yearly and cutting last-mile delivery emissions by 25%.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-02-19",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub now handles 2.5 million packages daily, up 40% from 2025, powering seamless supply chains across North America.",
+        "type": "infrastructure"
     }
 ]
