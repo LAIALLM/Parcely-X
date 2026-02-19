@@ -535,5 +535,12 @@
         "tweet": "Last-mile delivery costs per parcel in major cities, projected for 2026:\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $13.20  \n2. \ud83c\uddec\ud83c\udde7 London: $12.80  \n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $11.50  \n4. \ud83c\uddeb\ud83c\uddf7 Paris: $10.90  \n5. \ud83c\uddf8\ud83c\uddec Singapore: $10.40",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-02-19",
+        "status": "posted",
+        "tweet": "FedEx ($FDX) logistics infrastructure processed 18.7 million packages daily across 5,200 facilities in \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde8\ud83c\udde6 in 2026.",
+        "type": "infrastructure"
     }
 ]
