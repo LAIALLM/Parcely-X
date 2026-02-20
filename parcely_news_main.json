@@ -486,5 +486,13 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-20",
+        "status": "posted",
+        "tweet": "In 2026, global last-mile logistics will emit 1.8 billion metric tons of CO2 yearly, rivaling aviation's total.\n\nBuilding-integrated networks \u2013 automated in-building delivery systems \u2013 project a 45% emissions cut by 2030 through reduced truck miles.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
