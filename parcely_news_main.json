@@ -555,5 +555,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Exploring smarter last-mile logistics solutions to ease urban delivery challenges in Chennai",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-20",
+        "status": "posted",
+        "tweet": "LogiFreight's main warehouse in \ud83c\uddfa\ud83c\uddf8 Texas handles 2.5 million packages daily in 2026, up 40% from last year.",
+        "type": "infrastructure"
     }
 ]
