@@ -492,5 +492,13 @@
         "status": "posted",
         "tweet": "LogiTech's global hubs process 1.2 million shipments daily in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 Atlanta center leads with 350,000 units per day, cutting delivery times by 20%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: EV delivery fleets hit 45% of total urban vehicles in 2026, cutting emissions 30% from gas models.\n\n\ud83c\udde9\ud83c\uddea Berlin: Micro-mobility fleets (e-bikes/scooters) now 60% of last-mile deliveries, reducing costs 25% vs. trucks.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
