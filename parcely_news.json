@@ -400,5 +400,13 @@
         "status": "posted",
         "tweet": "FedEx \ud83c\uddfa\ud83c\uddf8 Memphis hub handles 1.8 million packages daily in 2026.\n\nEfficiency: 98% on-time delivery rate.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-22",
+        "status": "posted",
+        "tweet": "In 2026, global last-mile logistics will release 350 million metric tons of CO2 annually.\n\nBuilding-integrated networks in urban areas cut those emissions by 40%, saving 140 million tons each year.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
