@@ -1,61 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-12",
-        "status": "posted",
-        "tweet": "FreightLink's \ud83c\uddfa\ud83c\uddf8 Atlanta hub in 2026 handles 1.5 million packages daily via its expanded rail network.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-02-12",
-        "status": "posted",
-        "tweet": "Delivery vans are set to spike city traffic: projected 30-50% growth in dense urban areas by 2030 due to e-commerce boom.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 48% rise  \n\ud83c\uddef\ud83c\uddf5 Tokyo: 45% rise  \n\ud83c\uddec\ud83c\udde7 London: 43% rise  \n\ud83c\uddeb\ud83c\uddf7 Paris: 41% rise  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 39% rise",
-        "type": "statistical",
-        "category": "urban traffic growth caused by delivery vans in dense cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qOGdyN0pwYlg2U0dHZHRnVnp2UGJYX0xfVkEzeU5FdlowRVpJV2ZnUG5OcVJHSm9XSEZqbmlqa2xUeVZNQ3ZEZUFncjFPR0JUWWRpR285RGNuRGQtai1sMm45VU5McGZjWUFKVERtR0pqVUlnVUozVmxRYw?oc=5",
-        "date": "2026-02-12",
-        "title": "India\u2019s Flipkart explores entry into food delivery segment - Verdict Food Service",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5qOGdyN0pwYlg2U0dHZHRnVnp2UGJYX0xfVkEzeU5FdlowRVpJV2ZnUG5OcVJHSm9XSEZqbmlqa2xUeVZNQ3ZEZUFncjFPR0JUWWRpR285RGNuRGQtai1sMm45VU5McGZjWUFKVERtR0pqVUlnVUozVmxRYw?oc=5\" target=\"_blank\">India\u2019s Flipkart explores entry into food delivery segment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Verdict Food Service</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb0hMdWJtNWxfcXYxaE5MbHVnQzEySGJJajJ1aTRqNmRUUzRHblBPNlZJREtUY21LWVlwQ1FJT2EtNzVrZnd6cUVXa2JkejFpcmdLZzVRQ1JoM0pHTDQxU3JneTdnTWt5a0tjVVdwUkNDQUlmdnppVzlrTWlEMjd2R2VwX0J3WlRRaWVYamNRUHA4SGx4MnQ1VDB6NFA3cmNzWm8yNXVDOHBFelBKbldIc1FnVEg3QnotZUlFRk5ibWFkMEQ0T2Vj?oc=5",
-        "date": "2026-02-12",
-        "title": "Just Eat UK delivery robots put the spark back into Valentine\u2019s takeaways in Bristol and Milton Keynes - Retail Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNb0hMdWJtNWxfcXYxaE5MbHVnQzEySGJJajJ1aTRqNmRUUzRHblBPNlZJREtUY21LWVlwQ1FJT2EtNzVrZnd6cUVXa2JkejFpcmdLZzVRQ1JoM0pHTDQxU3JneTdnTWt5a0tjVVdwUkNDQUlmdnppVzlrTWlEMjd2R2VwX0J3WlRRaWVYamNRUHA4SGx4MnQ1VDB6NFA3cmNzWm8yNXVDOHBFelBKbldIc1FnVEg3QnotZUlFRk5ibWFkMEQ0T2Vj?oc=5\" target=\"_blank\">Just Eat UK delivery robots put the spark back into Valentine\u2019s takeaways in Bristol and Milton Keynes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Times</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://postandparcel.info/161273/news/innovation/dhl-supply-chain-to-lead-the-way-in-advancing-the-electric-vehicle-market-in-slovakia/",
-        "date": "2026-02-12",
-        "title": "DHL Supply Chain \u201cto lead the way\u201d in advancing the electric vehicle market in Slovakia",
-        "summary": "DHL Supply Chain has expanded its global network of Centers of Excellence for Electric Vehicles (EV) with a new facility in Slovakia.",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/tradelanes-more-capacity-arrives-as-ssa-far-east-volumes-grow/",
-        "date": "2026-02-12",
-        "title": "Tradelanes: More capacity arrives as SSA-Far East volumes grow",
-        "summary": "<p>Sub-Saharan Africa (SSA) is attracting all sorts of attention, with exports on the up and Far East volumes luring additional capacity and new services from the container shipping lines \u2013 although some of its traditional markets are not experiencing quite the same uptick.<br />\nLatest data from Container Trades Statistics (CTS), which provides its reports two months in arrears, shows SSA-Far East volumes up 4.1% (to 124,600 teu) year on year for ...</p>\n<p>The post <a href=\"https://theloadstar.com/tradelanes-more-capacity-arrives-as-ssa-far-east-volumes-grow/\">Tradelanes: More capacity arrives as SSA-Far East volumes grow</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-13",
         "status": "posted",
         "tweet": "In 2026, last-mile delivery costs $13 per parcel in \ud83c\uddfa\ud83c\uddf8 large metros like New York.\n\nThat's 3x higher than $4.30 in \ud83c\uddee\ud83c\uddf3 Mumbai's metros.",
