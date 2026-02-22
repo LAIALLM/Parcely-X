@@ -485,5 +485,12 @@
         "status": "posted",
         "tweet": "LogiTech's global network handles 1.5 million packages daily.\n\nIts \ud83c\uddfa\ud83c\uddf8 Texas fulfillment center runs at 98% energy efficiency, saving 20,000 kWh per month.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-22",
+        "status": "posted",
+        "tweet": "LogiTech's global hubs process 1.2 million shipments daily in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 Atlanta center leads with 350,000 units per day, cutting delivery times by 20%.",
+        "type": "infrastructure"
     }
 ]
