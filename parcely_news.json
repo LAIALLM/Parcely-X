@@ -428,5 +428,15 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEh2aGFnMU5KRWZmdkx5dC0wTGd5eGpuT0ZSWGJpWFRTRWo1QlBqNHNfb2J6Wk9zNnBoMVU0alh3eS1JNUN1dFJwRGtMdEFlbVNfVVg4OEJ3WDVfTzNDY0FQWTB1Mk56dDV5dHpjbnQzU19CVWpvYTJnWUhFQk14TTE0aDNYWF8tV213WFFvQlA2VXRmbERSTzBpbEhQZWdP?oc=5",
+        "date": "2026-02-22",
+        "title": "Tech companies are making their robots cute to try and win over humans - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEh2aGFnMU5KRWZmdkx5dC0wTGd5eGpuT0ZSWGJpWFRTRWo1QlBqNHNfb2J6Wk9zNnBoMVU0alh3eS1JNUN1dFJwRGtMdEFlbVNfVVg4OEJ3WDVfTzNDY0FQWTB1Mk56dDV5dHpjbnQzU19CVWpvYTJnWUhFQk14TTE0aDNYWF8tV213WFFvQlA2VXRmbERSTzBpbEhQZWdP?oc=5\" target=\"_blank\">Tech companies are making their robots cute to try and win over humans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
