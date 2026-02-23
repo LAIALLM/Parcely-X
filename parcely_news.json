@@ -420,5 +420,13 @@
         "status": "posted",
         "tweet": "FedEx global network handles 18 million packages daily in 2026, up 20% from 2025.\n\nEfficiency metric: 99.7% on-time delivery rate across 220 countries.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-23",
+        "status": "posted",
+        "tweet": "Top 5 countries by e-commerce first-delivery failure rate, 2026 projection (global avg. 22%):\n\n\ud83c\udde8\ud83c\uddf3 China - 31%\n\n\ud83c\uddee\ud83c\uddf3 India - 29%\n\n\ud83c\udde7\ud83c\uddf7 Brazil - 27%\n\n\ud83c\uddfa\ud83c\uddf8 United States - 25%\n\n\ud83c\uddee\ud83c\udde9 Indonesia - 24%",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
