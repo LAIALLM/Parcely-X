@@ -548,5 +548,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREpkNmFQRTFpLW1WcnBtNzZ2UktFZWVRMF9XNGJVRlQ3dFpOcUgzRkU4UEdCM0s4dFNXaU92dk1BMDMwNFpweElGbzRSaXprLWNwWFFsZHFGRjEtYU5Nclk3aXhEQ2J1eW9oMTJJS1BYZU9lbXN1cXRsc1JsTmJ0WWRjTHRLSkhjT3RkRXhXMVpXZG9tcDZjWld3b2FSSXdrQmZMQWZ0N2xHUQ?oc=5",
+        "date": "2026-02-23",
+        "title": "Food Delivery Robot Wrecked Woman's Garden, Damaged Her Fence - iHeart",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREpkNmFQRTFpLW1WcnBtNzZ2UktFZWVRMF9XNGJVRlQ3dFpOcUgzRkU4UEdCM0s4dFNXaU92dk1BMDMwNFpweElGbzRSaXprLWNwWFFsZHFGRjEtYU5Nclk3aXhEQ2J1eW9oMTJJS1BYZU9lbXN1cXRsc1JsTmJ0WWRjTHRLSkhjT3RkRXhXMVpXZG9tcDZjWld3b2FSSXdrQmZMQWZ0N2xHUQ?oc=5\" target=\"_blank\">Food Delivery Robot Wrecked Woman's Garden, Damaged Her Fence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iHeart</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
