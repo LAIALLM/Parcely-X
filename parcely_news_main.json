@@ -395,5 +395,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: EV delivery fleets hit 45% of total urban vehicles in 2026, cutting emissions 30% from gas models.\n\n\ud83c\udde9\ud83c\uddea Berlin: Micro-mobility fleets (e-bikes/scooters) now 60% of last-mile deliveries, reducing costs 25% vs. trucks.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-23",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker networks hit 1.2 million units, up 40% from 2023.\n\nTop 5 cities by pickup points:\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai: 180,000\n2. \ud83c\udde8\ud83c\uddf3 Beijing: 140,000\n3. \ud83c\uddee\ud83c\uddf3 Mumbai: 90,000\n4. \ud83c\uddfa\ud83c\uddf8 New York: 60,000\n5. \ud83c\udde9\ud83c\uddea Berlin: 45,000",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
