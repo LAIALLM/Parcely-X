@@ -413,5 +413,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-23",
+        "status": "posted",
+        "tweet": "FedEx global network handles 18 million packages daily in 2026, up 20% from 2025.\n\nEfficiency metric: 99.7% on-time delivery rate across 220 countries.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
