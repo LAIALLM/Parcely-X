@@ -1,30 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWNaMHRBZ1BSS0dDZlE2TjBQTlYzQjl0QmV1TkNUWmgxbm9BcUtaTVdRazROdnNrOWJ6dHBLeVJ3aEtGclJXRnZVY3VkRDFsamFpUVdhM2ZReE9WT3hHTkM0cTV5eGpDTjBwbGlVdkVydzBwS1MtcWVObGQtd3ZHekFEakoxbVJaQ19ob0V6SkpKekJ5Z1ZBUC1tbTFEd0poeGJMa2JaTGp0Tmh1RFRsMTQ4c0pCNVl6V0J6bHV1Z3UtMnpPdlMwLXZB?oc=5",
-        "date": "2026-02-14",
-        "title": "The Truth About ZTO Express (Cayman) Inc: Is This Chinese Delivery Giant a Sleeper Stock Win or Tota - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxORWNaMHRBZ1BSS0dDZlE2TjBQTlYzQjl0QmV1TkNUWmgxbm9BcUtaTVdRazROdnNrOWJ6dHBLeVJ3aEtGclJXRnZVY3VkRDFsamFpUVdhM2ZReE9WT3hHTkM0cTV5eGpDTjBwbGlVdkVydzBwS1MtcWVObGQtd3ZHekFEakoxbVJaQ19ob0V6SkpKekJ5Z1ZBUC1tbTFEd0poeGJMa2JaTGp0Tmh1RFRsMTQ4c0pCNVl6V0J6bHV1Z3UtMnpPdlMwLXZB?oc=5\" target=\"_blank\">The Truth About ZTO Express (Cayman) Inc: Is This Chinese Delivery Giant a Sleeper Stock Win or Tota</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-02-14",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS logistics infrastructure processed 32 million packages daily in 2026 across 1,200 facilities, achieving 98% on-time delivery rate.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-02-14",
-        "status": "posted",
-        "tweet": "In 2026, 32% of global e-commerce deliveries fail on first attempt, up from 24% in 2023.\n\n\ud83c\uddfa\ud83c\uddf8 US leads with 38% failure rate, while \ud83c\udde9\ud83c\uddea Germany holds steady at 18%.",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
         "link": null,
         "date": "2026-02-15",
         "status": "posted",
@@ -558,5 +533,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-24",
+        "status": "posted",
+        "tweet": "In 2026, last-mile delivery costs $15 per parcel in \ud83c\uddfa\ud83c\uddf8 large metros like New York.\n\nIn \ud83c\uddee\ud83c\uddf3 Mumbai, it's $7 per parcel.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
