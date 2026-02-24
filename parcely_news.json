@@ -582,5 +582,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-24",
+        "status": "posted",
+        "tweet": "UPS logistics infrastructure: 130,000 vehicles in fleet, covering 220 countries and territories.\n\nProcessed 25 million packages daily in 2026. $UPS",
+        "type": "infrastructure"
     }
 ]
