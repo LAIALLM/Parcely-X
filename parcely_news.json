@@ -602,5 +602,45 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU44VW5FdXhBbHRzLTFyUW5mQk5kVG50QnFFd29HQnVfZ2d1dXM3TmJRMjZTRnAxZFdWTFc1WHBWX3Q5dDJwOXBiWWQ1Qlc0MjYyNmF1TjBoNGVzWnVRMUM2dFkzREdHM0RWb0p6bXp3RG1hWGhIR0ZVcTRsT19FUUUwMHN4Y3Fvb1VHa1dYUjNXdHYtM1NiRUhHMmtiS1kySjhSX2xlTERac2pVUHdz?oc=5",
+        "date": "2026-02-25",
+        "title": "Veho Builds West: New Hubs, 66 Markets, and Delivery as a Growth Lever for E-commerce Brands - The AI Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU44VW5FdXhBbHRzLTFyUW5mQk5kVG50QnFFd29HQnVfZ2d1dXM3TmJRMjZTRnAxZFdWTFc1WHBWX3Q5dDJwOXBiWWQ1Qlc0MjYyNmF1TjBoNGVzWnVRMUM2dFkzREdHM0RWb0p6bXp3RG1hWGhIR0ZVcTRsT19FUUUwMHN4Y3Fvb1VHa1dYUjNXdHYtM1NiRUhHMmtiS1kySjhSX2xlTERac2pVUHdz?oc=5\" target=\"_blank\">Veho Builds West: New Hubs, 66 Markets, and Delivery as a Growth Lever for E-commerce Brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Veho expands west with new hubs across 66 markets, leveraging delivery to drive growth for e-commerce brands"
+    },
+    {
+        "link": "https://postandparcel.info/161364/news/e-commerce/uk-post-office-the-governments-green-paper-response-provides-direction-for-our-network/",
+        "date": "2026-02-25",
+        "title": "Uk Post Office: The Government\u2019s Green Paper response provides direction for our network",
+        "summary": "Post Office CEO Neil Brocklehurst has welcomed the Government\u2019s response to the Green Paper consultation on the \u2018future of Post Office\u2019.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161361/news/e-commerce/an-post-capacity-is-the-major-issue/",
+        "date": "2026-02-25",
+        "title": "An Post: capacity is the major issue",
+        "summary": "Today An Post confirmed that it has committed to hiring 300 more frontline staff to meet strong growth demands in its national parcel delivery network.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161359/news/singapore-post-limited-posts-s3-8-million-operating-profit-in-q3/",
+        "date": "2026-02-25",
+        "title": "Singapore Post Limited posts S$3.8 million operating profit in Q3",
+        "summary": "Singapore Post Limited reported revenue of S$92.3 million for the third quarter ended 31 December 2025, down 26.8% year-on-year.",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
