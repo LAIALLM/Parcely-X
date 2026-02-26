@@ -354,5 +354,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-26",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Chicago center handled 1.5 million packages daily in 2026.\n\nThis marks a 30% rise from 2025, driven by automated sorting lines.",
+        "type": "infrastructure"
     }
 ]
