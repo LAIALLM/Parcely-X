@@ -361,5 +361,13 @@
         "status": "posted",
         "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Chicago center handled 1.5 million packages daily in 2026.\n\nThis marks a 30% rise from 2025, driven by automated sorting lines.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-26",
+        "status": "posted",
+        "tweet": "Top 5 cities leading in EV and micro-mobility delivery fleets by 2026 (projected vehicles in use)\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen: 150,000  \n\ud83c\uddf3\ud83c\uddf1 Amsterdam: 12,000  \n\ud83c\uddfa\ud83c\uddf8 New York: 9,000  \n\ud83c\uddeb\ud83c\uddf7 Paris: 8,000  \n\ud83c\uddec\ud83c\udde7 London: 7,000",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
