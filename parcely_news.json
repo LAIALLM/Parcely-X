@@ -625,5 +625,12 @@
         "tweet": "By 2026, EV delivery fleets in \ud83c\uddfa\ud83c\uddf8 New York reach 12,000 vehicles, \n\nslashing CO2 emissions 45% versus gas trucks.\n\nMicro-mobility e-bikes cover 7,500 daily last-mile trips, \n\nreducing urban congestion 30%.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "FedEx's global sorting network processes 18 million packages daily.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
