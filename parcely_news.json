@@ -1,61 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-18",
-        "status": "posted",
-        "tweet": "Highest last-mile delivery costs per parcel in major metros, 2026 projections:\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $14.20\n2. \ud83c\uddec\ud83c\udde7 London: $13.50\n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $12.80\n4. \ud83c\uddeb\ud83c\uddf7 Paris: $12.10\n5. \ud83c\uddee\ud83c\uddf3 Mumbai: $11.90",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2026-02-18",
-        "status": "posted",
-        "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 Worldport hub processes 416,000 packages per hour in 2026. $UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://postandparcel.info/161301/news/e-commerce/posti-ai-agents-are-transforming-e-commerce-and-delivery-choices/",
-        "date": "2026-02-18",
-        "title": "Posti:\u00a0AI agents are transforming E-Commerce and delivery choices",
-        "summary": "According to a recent survey by Posti, 53 % of logistics decision-makers believe that AI based shopping agents will be part of their online store within the next five years.",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://postandparcel.info/161296/news/e-commerce/nio-expands-its-reach-with-the-help-of-dhl/",
-        "date": "2026-02-18",
-        "title": "NIO expands its reach with the help of DHL",
-        "summary": "NIO, a global smart electric vehicle company, chose DHL as logistics partner for its European aftermarket services. This includes both, NIO premium models and the brand-new firefly brand, offering premium compact electric vehicles for urban mobility. From the DHL automotive campus in Holtum, The Netherlands, [&#8230;]",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/union-pacific-norfolk-southern-now-expected-to-file-new-merger-application-on-30-april/",
-        "date": "2026-02-18",
-        "title": "Union Pacific & Norfolk Southern now expected to file new merger application on 30 April",
-        "summary": "<p>Union Pacific and Norfolk Southern are now expected to submit their revised application on 30 April, as disclosed yesterday \u2013 the original merger application was rejected by the Surface Transportation Board in mid-January (as &#8220;incomplete&#8221; because it did not &#8220;contain certain information required by the board&#8217;s regulations&#8220;).</p>\n<p>The post <a href=\"https://theloadstar.com/union-pacific-norfolk-southern-now-expected-to-file-new-merger-application-on-30-april/\">Union Pacific &#038; Norfolk Southern now expected to file new merger application on 30 April</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/apm-terminals-buys-minority-stake-in-dp-worlds-jeddah-facility/",
-        "date": "2026-02-18",
-        "title": "APM Terminals buys minority stake in DP World\u2019s Jeddah facility",
-        "summary": "<p>APM Terminals today marked its entrance to the Saudi Arabia port market after agreeing to acquire a 37.5% minority stake in DP World\u2019s Southern Container Terminal in the Red Sea port of Jeddah for an undisclosed price.<br />\nDP World said it would retain the remaining 62.5% and \u201ccontinue to lead the operations at the facility\u201d, which it originally entered in 2001, and subsequently signed a 30-year Build-Operate-Transfer (BOT) concession extension in ...</p>\n<p>The post <a href=\"https://theloadstar.com/apm-terminals-buys-minority-stake-in-dp-worlds-jeddah-facility/\">APM Terminals buys minority stake in DP World&#8217;s Jeddah facility</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-19",
         "status": "posted",
         "tweet": "Last-mile delivery costs per parcel in major cities, projected for 2026:\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $13.20  \n2. \ud83c\uddec\ud83c\udde7 London: $12.80  \n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $11.50  \n4. \ud83c\uddeb\ud83c\uddf7 Paris: $10.90  \n5. \ud83c\uddf8\ud83c\uddec Singapore: $10.40",
@@ -672,5 +617,13 @@
         "tweet": "By 2026, 28% of global e-commerce packages will fail on first delivery attempts, up from 22% in 2023.\n\nThis means 12 billion extra trips for carriers, driving up costs by $60 billion yearly.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "By 2026, EV delivery fleets in \ud83c\uddfa\ud83c\uddf8 New York reach 12,000 vehicles, \n\nslashing CO2 emissions 45% versus gas trucks.\n\nMicro-mobility e-bikes cover 7,500 daily last-mile trips, \n\nreducing urban congestion 30%.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
