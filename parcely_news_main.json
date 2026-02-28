@@ -264,5 +264,12 @@
         "tweet": "Delivery vans are set to boost urban traffic by up to 35% in dense cities by 2030, per 2026 projections.\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai - 35% rise\n2. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo - 32% rise\n3. \ud83c\uddfa\ud83c\uddf8 New York - 30% rise\n4. \ud83c\udde8\ud83c\uddf3 Shanghai - 28% rise\n5. \ud83c\uddef\ud83c\uddf5 Tokyo - 26% rise",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "LogiCore's global network processed 1.2 million packages per hour in Q1 2026, boosting delivery efficiency by 35%.",
+        "type": "infrastructure"
     }
 ]
