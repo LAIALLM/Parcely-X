@@ -216,5 +216,12 @@
         "status": "posted",
         "tweet": "LogiCore's global network processed 1.2 million packages per hour in Q1 2026, boosting delivery efficiency by 35%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-01",
+        "status": "posted",
+        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub now manages 750,000 shipments daily, cutting delivery times by 18% across the Southwest.",
+        "type": "infrastructure"
     }
 ]
