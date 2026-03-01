@@ -223,5 +223,13 @@
         "status": "posted",
         "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub now manages 750,000 shipments daily, cutting delivery times by 18% across the Southwest.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-01",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker and pickup-point networks will reach 1.8 million locations.\n\n\ud83c\udde8\ud83c\uddf3 China: 750,000 (42% of total)\n\n\ud83c\uddfa\ud83c\uddf8 USA: 220,000 (12% of total)",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
