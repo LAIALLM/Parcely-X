@@ -584,5 +584,13 @@
         "status": "posted",
         "tweet": "LogiFreight Logistics achieves 98.7% on-time delivery rate across its 150 automated warehouses.\n\nDaily throughput: 12 million parcels processed globally.\n\nKey hub expansion in \ud83c\uddfa\ud83c\uddf8 Chicago adds 2.5 million sq ft capacity.\n\n$LOGI",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-01",
+        "status": "posted",
+        "tweet": "In large \ud83c\uddfa\ud83c\uddf8 cities like NYC, 55% of residents order groceries online weekly in 2026.\n\nIn \ud83c\udde8\ud83c\udde6 cities like Toronto, that drops to 40%.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
