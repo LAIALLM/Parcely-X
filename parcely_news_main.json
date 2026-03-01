@@ -1,61 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-19",
-        "status": "posted",
-        "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1 million locations, handling over 15 billion packages yearly and cutting last-mile delivery emissions by 25%.",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
-        "date": "2026-02-19",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub now handles 2.5 million packages daily, up 40% from 2025, powering seamless supply chains across North America.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmYzc1RiMGVpYWhGcGFBVThlbHZYUWZhLWRsX3QwdDB2Y0pjVXRKazZxNWJ0cEtUVHVndFFMdHZjLThLSUUwSzZzMUU5VWVNNzRUSkMyc0NFWkNWUEg3RHNPVUxkQlVzOU9BU2E1QWpsYWppcGtNUzNMMUR5dXQ1Y05DeDdjRlVrb0VBWWNWTHZKak94aUJ1VkNoa2hkZ1IzZFJyZ09ES0N0N3VoaEhGdWIzVVU5SUpDSkZoc2IzcS1pN19FZUNPSA?oc=5",
-        "date": "2026-02-19",
-        "title": "Early week surge drives Valentine\u2019s e-commerce uplift as shoppers prioritise speed and weekend delivery - Retail Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmYzc1RiMGVpYWhGcGFBVThlbHZYUWZhLWRsX3QwdDB2Y0pjVXRKazZxNWJ0cEtUVHVndFFMdHZjLThLSUUwSzZzMUU5VWVNNzRUSkMyc0NFWkNWUEg3RHNPVUxkQlVzOU9BU2E1QWpsYWppcGtNUzNMMUR5dXQ1Y05DeDdjRlVrb0VBWWNWTHZKak94aUJ1VkNoa2hkZ1IzZFJyZ09ES0N0N3VoaEhGdWIzVVU5SUpDSkZoc2IzcS1pN19FZUNPSA?oc=5\" target=\"_blank\">Early week surge drives Valentine\u2019s e-commerce uplift as shoppers prioritise speed and weekend delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Times</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://postandparcel.info/161308/news/e-commerce/inpost-consumers-are-growing-increasingly-frustrated-with-outdated-delivery-models/",
-        "date": "2026-02-19",
-        "title": "InPost: consumers are growing increasingly frustrated with outdated delivery models",
-        "summary": "41% of consumers now receive parcels via lockers, new research by InPost UK reveals.",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/cnbc-india-is-throwing-its-weight-behind-ai-is-there-substance-behind-the-headlines/",
-        "date": "2026-02-19",
-        "title": "CNBC: India is throwing its weight behind AI \u2013 is there substance behind the headlines?",
-        "summary": "<p>CNBC&#8216;s Amitoj Singh writes:<br />\nThe big story<br />\nThree years ago, OpenAI CEO Sam Altman\u00a0told\u00a0an audience in India, \u201cit\u2019s totally hopeless to compete with us on training foundation models but you should try anyway.\u201d Altman walked back his comments\u00a0the next day.\u00a0</p>\n<p>A couple of years later, China\u2019s DeepSeek emerged as a contender to OpenAI\u2019s ChatGPT and chatbots from other U.S. tech giants. Indian citizens resurfaced Altman\u2019s comment, declaring that China had already proven him ...</p>\n<p>The post <a href=\"https://theloadstar.com/cnbc-india-is-throwing-its-weight-behind-ai-is-there-substance-behind-the-headlines/\">CNBC: India is throwing its weight behind AI \u2013 is there substance behind the headlines?</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/hellmann-appoints-dhl-gfs-alexandra-olvera-as-chief-commercial-officer/",
-        "date": "2026-02-19",
-        "title": "Hellmann appoints DHL GF\u2019s Alexandra Olvera as chief commercial officer",
-        "summary": "<p>Hellmann Worldwide Logistics has appointed Alexandra Olvera (above) as its new chief commercial officer, effective 1 March.<br />\nBased at the company\u2019s headquarters in Osnabr\u00fcck, Ms Olvera will lead Hellmann\u2019s global sales organisation as it continues to roll out its Forward2030 strategy. The forwarder said her remit would include strengthening global sales integration, expanding strategic customer segments such as automotive and fashion, and further enhancing the overall customer experience.<br />\nChief executive Jens Drewes ...</p>\n<p>The post <a href=\"https://theloadstar.com/hellmann-appoints-dhl-gfs-alexandra-olvera-as-chief-commercial-officer/\">Hellmann appoints DHL GF&#8217;s Alexandra Olvera as chief commercial officer</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-20",
         "status": "posted",
         "tweet": "In 2026, global last-mile logistics will emit 1.8 billion metric tons of CO2 yearly, rivaling aviation's total.\n\nBuilding-integrated networks \u2013 automated in-building delivery systems \u2013 project a 45% emissions cut by 2030 through reduced truck miles.",
