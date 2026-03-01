@@ -1,61 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-19",
-        "status": "posted",
-        "tweet": "Last-mile delivery costs per parcel in major cities, projected for 2026:\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: $13.20  \n2. \ud83c\uddec\ud83c\udde7 London: $12.80  \n3. \ud83c\uddef\ud83c\uddf5 Tokyo: $11.50  \n4. \ud83c\uddeb\ud83c\uddf7 Paris: $10.90  \n5. \ud83c\uddf8\ud83c\uddec Singapore: $10.40",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2026-02-19",
-        "status": "posted",
-        "tweet": "FedEx ($FDX) logistics infrastructure processed 18.7 million packages daily across 5,200 facilities in \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde8\ud83c\udde6 in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmYzc1RiMGVpYWhGcGFBVThlbHZYUWZhLWRsX3QwdDB2Y0pjVXRKazZxNWJ0cEtUVHVndFFMdHZjLThLSUUwSzZzMUU5VWVNNzRUSkMyc0NFWkNWUEg3RHNPVUxkQlVzOU9BU2E1QWpsYWppcGtNUzNMMUR5dXQ1Y05DeDdjRlVrb0VBWWNWTHZKak94aUJ1VkNoa2hkZ1IzZFJyZ09ES0N0N3VoaEhGdWIzVVU5SUpDSkZoc2IzcS1pN19FZUNPSA?oc=5",
-        "date": "2026-02-19",
-        "title": "Early week surge drives Valentine\u2019s e-commerce uplift as shoppers prioritise speed and weekend delivery - Retail Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmYzc1RiMGVpYWhGcGFBVThlbHZYUWZhLWRsX3QwdDB2Y0pjVXRKazZxNWJ0cEtUVHVndFFMdHZjLThLSUUwSzZzMUU5VWVNNzRUSkMyc0NFWkNWUEg3RHNPVUxkQlVzOU9BU2E1QWpsYWppcGtNUzNMMUR5dXQ1Y05DeDdjRlVrb0VBWWNWTHZKak94aUJ1VkNoa2hkZ1IzZFJyZ09ES0N0N3VoaEhGdWIzVVU5SUpDSkZoc2IzcS1pN19FZUNPSA?oc=5\" target=\"_blank\">Early week surge drives Valentine\u2019s e-commerce uplift as shoppers prioritise speed and weekend delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Times</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://postandparcel.info/161308/news/e-commerce/inpost-consumers-are-growing-increasingly-frustrated-with-outdated-delivery-models/",
-        "date": "2026-02-19",
-        "title": "InPost: consumers are growing increasingly frustrated with outdated delivery models",
-        "summary": "41% of consumers now receive parcels via lockers, new research by InPost UK reveals.",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/cnbc-india-is-throwing-its-weight-behind-ai-is-there-substance-behind-the-headlines/",
-        "date": "2026-02-19",
-        "title": "CNBC: India is throwing its weight behind AI \u2013 is there substance behind the headlines?",
-        "summary": "<p>CNBC&#8216;s Amitoj Singh writes:<br />\nThe big story<br />\nThree years ago, OpenAI CEO Sam Altman\u00a0told\u00a0an audience in India, \u201cit\u2019s totally hopeless to compete with us on training foundation models but you should try anyway.\u201d Altman walked back his comments\u00a0the next day.\u00a0</p>\n<p>A couple of years later, China\u2019s DeepSeek emerged as a contender to OpenAI\u2019s ChatGPT and chatbots from other U.S. tech giants. Indian citizens resurfaced Altman\u2019s comment, declaring that China had already proven him ...</p>\n<p>The post <a href=\"https://theloadstar.com/cnbc-india-is-throwing-its-weight-behind-ai-is-there-substance-behind-the-headlines/\">CNBC: India is throwing its weight behind AI \u2013 is there substance behind the headlines?</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsUHZPUFpjMmJoZ1MxdGkyOU1XU2xab1l5eXo4ODBDblhvMzBBcWVZOHkya3ZHMXRWUWdfMXFMMnVXd2NFS1d5Z2dEN2hBY0trVzFoS3ZvWnNSRDIwWXBsMkw1c3kwamMzLXQ2bmNuem43X2dzdDA3dA?oc=5",
-        "date": "2026-02-19",
-        "title": "Korea\u2019s Platform Risk Just Got Real: What The Coupang Fallout Taught Founders About Single-Channel Dependence - KoreaTechDesk",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBsUHZPUFpjMmJoZ1MxdGkyOU1XU2xab1l5eXo4ODBDblhvMzBBcWVZOHkya3ZHMXRWUWdfMXFMMnVXd2NFS1d5Z2dEN2hBY0trVzFoS3ZvWnNSRDIwWXBsMkw1c3kwamMzLXQ2bmNuem43X2dzdDA3dA?oc=5\" target=\"_blank\">Korea\u2019s Platform Risk Just Got Real: What The Coupang Fallout Taught Founders About Single-Channel Dependence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KoreaTechDesk</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-20",
         "status": "posted",
         "tweet": "By 2026, delivery vans in dense \ud83c\uddfa\ud83c\uddf8 cities like New York will account for 30% of all urban vehicle miles, up 50% from 2023 and driving heavier congestion through 2030.",
@@ -631,6 +576,13 @@
         "date": "2026-02-28",
         "status": "posted",
         "tweet": "FedEx's global sorting network processes 18 million packages daily.\n\n$FDX",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-01",
+        "status": "posted",
+        "tweet": "LogiFreight Logistics achieves 98.7% on-time delivery rate across its 150 automated warehouses.\n\nDaily throughput: 12 million parcels processed globally.\n\nKey hub expansion in \ud83c\uddfa\ud83c\uddf8 Chicago adds 2.5 million sq ft capacity.\n\n$LOGI",
         "type": "infrastructure"
     }
 ]
