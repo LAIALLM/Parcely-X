@@ -557,5 +557,15 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1BDYmM1MER1aHQ1WWJiUGM2NjF3NW44OHJxQmZhazhGeVZMYWEzc1RMN2tzVFVpZGdlYS1tanFGem9RT2gtV3BPZ2xnZkJ2bTVvek5sck9xcmgxS0FtMFRnU1NsOF9LbVNtQjFqOUhtelJiUVA1Ymd1WG91cW9YWHgxNlRGWHBwcXd3WU1nS1hNeFFTbXRneG5menJaVXhUblFOaTJrWXotRlExdWgw?oc=5",
+        "date": "2026-03-02",
+        "title": "Iran Strikes Snarl E-Commerce Delivery Times to Middle East - Bloomberg.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1BDYmM1MER1aHQ1WWJiUGM2NjF3NW44OHJxQmZhazhGeVZMYWEzc1RMN2tzVFVpZGdlYS1tanFGem9RT2gtV3BPZ2xnZkJ2bTVvek5sck9xcmgxS0FtMFRnU1NsOF9LbVNtQjFqOUhtelJiUVA1Ymd1WG91cW9YWHgxNlRGWHBwcXd3WU1nS1hNeFFTbXRneG5menJaVXhUblFOaTJrWXotRlExdWgw?oc=5\" target=\"_blank\">Iran Strikes Snarl E-Commerce Delivery Times to Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
