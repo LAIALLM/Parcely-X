@@ -574,5 +574,25 @@
         "status": "posted",
         "tweet": "FedEx $FDX logistics infrastructure: Processes 1.5 million packages daily via automated sorting facilities.\n\n\ud83c\uddfa\ud83c\uddf8 Memphis hub efficiency: 99.8% on-time throughput.\n\nGlobal network spans 220 countries.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3J4NHMyRzVDNE9PVGdpY2Z0QzlZZ1NIVVd0RzlMOEQxV1JLZF9Zb0dtQ2t6NlplNTA5TDNYQmpENDd2Q3c0ZmNPRVVPN2JSOGlkekRqa1d3OHZvcG9PNEtGMGJaQ25iX2k3QWI2M3Q0VUtDTE5aLXpPbHhzdjJTUFNOSGZEUm1tcHlNSkplZmFWbGJMVnFlYTFaX0tSZw?oc=5",
+        "date": "2026-03-02",
+        "title": "Final Mile Delivery Market Is Anticipated to Produce Enormous Growth - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3J4NHMyRzVDNE9PVGdpY2Z0QzlZZ1NIVVd0RzlMOEQxV1JLZF9Zb0dtQ2t6NlplNTA5TDNYQmpENDd2Q3c0ZmNPRVVPN2JSOGlkekRqa1d3OHZvcG9PNEtGMGJaQ25iX2k3QWI2M3Q0VUtDTE5aLXpPbHhzdjJTUFNOSGZEUm1tcHlNSkplZmFWbGJMVnFlYTFaX0tSZw?oc=5\" target=\"_blank\">Final Mile Delivery Market Is Anticipated to Produce Enormous Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/middle-east-airspace-shuts-hormuz-on-edge-air-freight-braced-for-shock-as-carriers-pull-back/",
+        "date": "2026-03-02",
+        "title": "Middle East airspace shuts, Hormuz on edge: air freight braced for shock as carriers pull back",
+        "summary": "<p>Ocean and air freight across the Middle East has been thrown into turmoil following US and Israeli strikes on Iran and\u00a0subsequent\u00a0Iranian retaliation, with airlines grounding flights, ports suspending operations and ocean carriers slapping on emergency surcharges.\u00a0<br />\nForwarders say the immediate barometer will be air cargo \u2013 and the outlook is grim.\u00a0<br />\n\u201cThis is going to super uber fuck up air freight,\u201d one forwarder told\u00a0The Loadstar. \u201cAll the Middle East hubs closed means ...</p>\n<p>The post <a href=\"https://theloadstar.com/middle-east-airspace-shuts-hormuz-on-edge-air-freight-braced-for-shock-as-carriers-pull-back/\">Middle East airspace shuts, Hormuz on edge: air freight braced for shock as carriers pull back</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
