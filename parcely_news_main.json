@@ -172,5 +172,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-03",
+        "status": "posted",
+        "tweet": "In 2026, global parcel locker and pickup-point networks total 1.1 million units.\n\n\ud83c\udde8\ud83c\uddf3China leads with 440,000, outpacing \ud83c\uddfa\ud83c\uddf8USA's 90,000 by nearly 5 to 1.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
