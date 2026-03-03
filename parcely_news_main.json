@@ -162,5 +162,15 @@
         "status": "posted",
         "tweet": "LogiFlow Logistics hits 2.5 million daily package scans across its global network in 2026.\n\nKey metric: 98% on-time delivery rate from the \ud83c\udde8\ud83c\uddf3 Shanghai distribution center, handling 1.2 million units daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVWTh5TGFTY2tvQkZsLUp4cUhNWmpDc1RjNDMwcVkxclNPb1ZoZkdjWXBBV0lmOXRWd3p1dVdZbnRMVWhUS0xoSW5kT0c3TllyQWxGRUphWVF0Mm5MLUZ2eVlUWHBHR0dXM0lhemp6djF1NC1ia3ZJ?oc=5",
+        "date": "2026-03-03",
+        "title": "Straightship, Dragonfly partner on turnkey U.S.-to-Canada e-commerce service - FreightWaves",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBVWTh5TGFTY2tvQkZsLUp4cUhNWmpDc1RjNDMwcVkxclNPb1ZoZkdjWXBBV0lmOXRWd3p1dVdZbnRMVWhUS0xoSW5kT0c3TllyQWxGRUphWVF0Mm5MLUZ2eVlUWHBHR0dXM0lhemp6djF1NC1ia3ZJ?oc=5\" target=\"_blank\">Straightship, Dragonfly partner on turnkey U.S.-to-Canada e-commerce service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
