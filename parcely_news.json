@@ -565,5 +565,12 @@
         "tweet": "Failed first-attempt e-commerce deliveries projected to hit 1.2B globally in 2026, up 15% from 2025.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 45% failure rate\n\ud83c\uddec\ud83c\udde7 London: 42%\n\ud83c\udde9\ud83c\uddea Berlin: 40%\n\ud83c\uddeb\ud83c\uddf7 Paris: 38%\n\ud83c\udde8\ud83c\uddf3 Shanghai: 35%",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-03-03",
+        "status": "posted",
+        "tweet": "UPS logistics infrastructure handled 25.4 million packages daily in Q1 2026, achieving 98.7% delivery accuracy.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
