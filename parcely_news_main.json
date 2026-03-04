@@ -173,5 +173,12 @@
         "tweet": "In 2026, global e-commerce deliveries will generate 220 billion packages, producing 180 million tons of packaging waste\u2014enough to fill 1.2 million Olympic swimming pools.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-03-04",
+        "status": "posted",
+        "tweet": "Apex Logistics' core network in 2026 routes 15 million containers yearly across 200 hubs.\n\nThis infrastructure handles peak daily volumes of 50,000 units with 99.5% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
