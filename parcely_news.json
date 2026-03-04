@@ -534,5 +534,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Louisville Hub: FedEx processes 1.5 million packages per hour via automated sorting infrastructure.\n\nGlobal network efficiency: 98.7% throughput utilization.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-04",
+        "status": "posted",
+        "tweet": "Delivery vans now make up 28% of road traffic in dense cities like \ud83c\uddfa\ud83c\uddf8 New York, up from 20% in 2024.\n\nBy 2030, projections show they'll hit 40%, worsening congestion by 25% in urban cores.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
