@@ -1,51 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-22",
-        "status": "posted",
-        "tweet": "FedEx \ud83c\uddfa\ud83c\uddf8 Memphis hub handles 1.8 million packages daily in 2026.\n\nEfficiency: 98% on-time delivery rate.\n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-02-22",
-        "status": "posted",
-        "tweet": "In 2026, global last-mile logistics will release 350 million metric tons of CO2 annually.\n\nBuilding-integrated networks in urban areas cut those emissions by 40%, saving 140 million tons each year.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3VoZDJfamRqbk9XQ01qbjZ2VmZSMFlRYkxVcDlYMFJlWk0yaWowMjk4NVVyZVJ6bURkdXk3N2NENWV4VWJYOE44amQ2Qm9xUWFiVkhPRlpHWUt6N2hGTFJVVzgzOEpVMW53dGFkMGk0VUlOb0NXY0d4QS1jRkRBYkZSM3pDZENIdnh0QUZxSFF1N0Nydkp2ZGEteWFxMUxjc3ZJNg?oc=5",
-        "date": "2026-02-22",
-        "title": "Low-altitude economy: A new sky for Vietnam\u2019s acceleration - B\u00e1o VietNamNet",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3VoZDJfamRqbk9XQ01qbjZ2VmZSMFlRYkxVcDlYMFJlWk0yaWowMjk4NVVyZVJ6bURkdXk3N2NENWV4VWJYOE44amQ2Qm9xUWFiVkhPRlpHWUt6N2hGTFJVVzgzOEpVMW53dGFkMGk0VUlOb0NXY0d4QS1jRkRBYkZSM3pDZENIdnh0QUZxSFF1N0Nydkp2ZGEteWFxMUxjc3ZJNg?oc=5\" target=\"_blank\">Low-altitude economy: A new sky for Vietnam\u2019s acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B\u00e1o VietNamNet</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNWlBR2lLdVBOUjV1ZlIyYmNUVExrUHRUZ3gxekt1VVMwQkRIUnAxVVgyOHJaR3A5c1pfZURzdDU0QzV3TWdHa2UyRUJzbDFHVl90SEU2VzEyWnBKNm55ZjB0RUc4Zlg1VG5NWXIwZENIV3d1ajV6cVhybkxhWFlDQnlKdzVMcVFOcUNkdGctaWc3WEVrbTZzZDNvR0NJYWt6SjdZUEl4b2F5U1BHdUQ4bjZuTy1HLU1aQkJFSDRCQlZXVTBMakpSb2lyNkFoN001dnZFVmhVWjZ2OGZKTlZMUFk1YnRjSWc?oc=5",
-        "date": "2026-02-22",
-        "title": "Frictionless shopping finds right habitat at 7-Eleven: last week\u2019s biggest technology plays at a glance - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNWlBR2lLdVBOUjV1ZlIyYmNUVExrUHRUZ3gxekt1VVMwQkRIUnAxVVgyOHJaR3A5c1pfZURzdDU0QzV3TWdHa2UyRUJzbDFHVl90SEU2VzEyWnBKNm55ZjB0RUc4Zlg1VG5NWXIwZENIV3d1ajV6cVhybkxhWFlDQnlKdzVMcVFOcUNkdGctaWc3WEVrbTZzZDNvR0NJYWt6SjdZUEl4b2F5U1BHdUQ4bjZuTy1HLU1aQkJFSDRCQlZXVTBMakpSb2lyNkFoN001dnZFVmhVWjZ2OGZKTlZMUFk1YnRjSWc?oc=5\" target=\"_blank\">Frictionless shopping finds right habitat at 7-Eleven: last week\u2019s biggest technology plays at a glance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEh2aGFnMU5KRWZmdkx5dC0wTGd5eGpuT0ZSWGJpWFRTRWo1QlBqNHNfb2J6Wk9zNnBoMVU0alh3eS1JNUN1dFJwRGtMdEFlbVNfVVg4OEJ3WDVfTzNDY0FQWTB1Mk56dDV5dHpjbnQzU19CVWpvYTJnWUhFQk14TTE0aDNYWF8tV213WFFvQlA2VXRmbERSTzBpbEhQZWdP?oc=5",
-        "date": "2026-02-22",
-        "title": "Tech companies are making their robots cute to try and win over humans - NBC News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEh2aGFnMU5KRWZmdkx5dC0wTGd5eGpuT0ZSWGJpWFRTRWo1QlBqNHNfb2J6Wk9zNnBoMVU0alh3eS1JNUN1dFJwRGtMdEFlbVNfVVg4OEJ3WDVfTzNDY0FQWTB1Mk56dDV5dHpjbnQzU19CVWpvYTJnWUhFQk14TTE0aDNYWF8tV213WFFvQlA2VXRmbERSTzBpbEhQZWdP?oc=5\" target=\"_blank\">Tech companies are making their robots cute to try and win over humans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-23",
         "status": "posted",
         "tweet": "FedEx global network handles 18 million packages daily in 2026, up 20% from 2025.\n\nEfficiency metric: 99.7% on-time delivery rate across 220 countries.\n\n$FDX",
@@ -571,6 +526,13 @@
         "date": "2026-03-03",
         "status": "posted",
         "tweet": "UPS logistics infrastructure handled 25.4 million packages daily in Q1 2026, achieving 98.7% delivery accuracy.\n\n$UPS",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Louisville Hub: FedEx processes 1.5 million packages per hour via automated sorting infrastructure.\n\nGlobal network efficiency: 98.7% throughput utilization.\n\n$FDX",
         "type": "infrastructure"
     }
 ]
