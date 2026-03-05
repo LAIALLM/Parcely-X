@@ -448,5 +448,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Sidewalk robots handling thousands of deliveries are heading to SXSW and NVIDIA GTC $NVDA",
         "type": "news"
+    },
+    {
+        "link": "https://theloadstar.com/force-majeure-zero-recourse-the-bill-of-lading-clause-every-carrier-has-and-every-shipper-ignored/",
+        "date": "2026-03-05",
+        "title": "Force majeure, zero recourse: the bill of lading clause every carrier has \u2013 and every shipper ignored",
+        "summary": "<p>The words \u201cforce majeure\u201d have been cascading through carrier customer advisories since the Strait of Hormuz crisis erupted at the end of last week.<br />\nCMA CGM says its vessel diversions are subject to \u201capplicable force majeure provisions&#8221;.<br />\nBreakbulk News, for instance, reports that Maersk, MSC, and other major lines are citing force majeure and the need to protect crew and cargo safety. The language is designed to signal something extraordinary, that unprecedented ...</p>\n<p>The post <a href=\"https://theloadstar.com/force-majeure-zero-recourse-the-bill-of-lading-clause-every-carrier-has-and-every-shipper-ignored/\">Force majeure, zero recourse: the bill of lading clause every carrier has \u2013 and every shipper ignored</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
