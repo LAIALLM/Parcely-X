@@ -465,5 +465,13 @@
         "status": "posted",
         "tweet": "FedEx global logistics network processes 16.2 million packages daily in 2026.\n\nInfrastructure metric: 98.7% delivery accuracy across 220 countries.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-05",
+        "status": "posted",
+        "tweet": "Delivery vans in dense cities like \ud83c\uddfa\ud83c\uddf8 New York caused 15% of urban traffic congestion in 2024.\n\nBy 2026, projections show this jumping to 25%, as e-commerce deliveries surge 40% annually.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
