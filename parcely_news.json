@@ -407,5 +407,13 @@
         "tweet": "Delivery vans in dense cities like \ud83c\uddfa\ud83c\uddf8 New York caused 15% of urban traffic congestion in 2024.\n\nBy 2026, projections show this jumping to 25%, as e-commerce deliveries surge 40% annually.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2026-03-06",
+        "status": "posted",
+        "tweet": "By 2026, porch piracy in \ud83c\uddfa\ud83c\uddf8 major cities like New York and Los Angeles is projected to steal over 350 million packages yearly, costing $10 billion in losses.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
