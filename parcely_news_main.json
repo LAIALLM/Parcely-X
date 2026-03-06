@@ -297,5 +297,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Bloq.it and Evri team up to roll out parcel lockers and returns drop devices across the UK, starting at East of England Co-op locations",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-06",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse now processes 1.2 million parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 25% across North America.",
+        "type": "infrastructure"
     }
 ]
