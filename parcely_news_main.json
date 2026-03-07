@@ -295,5 +295,12 @@
         "tweet": "By 2026, e-commerce deliveries worldwide will generate 85 million tons of packaging waste annually\u2014equivalent to 200 billion cardboard boxes, enough to circle the planet 8 times.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-03-07",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 US network handles 1.5 million packages daily across 150 automated warehouses.\n\nThroughput rose 20% since 2025 upgrades.",
+        "type": "infrastructure"
     }
 ]
