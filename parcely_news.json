@@ -325,5 +325,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS global logistics infrastructure handled 28.7 million packages daily in Q1 2026, up 12% from 2025.\n\nAutomated warehouses in Atlanta processed 1.2 million units per hour at 98.7% efficiency.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-08",
+        "status": "posted",
+        "tweet": "By 2026, e-commerce deliveries worldwide will generate over 200 million metric tons of packaging waste annually, up 50% from 2023 levels.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
