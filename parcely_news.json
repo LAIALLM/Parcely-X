@@ -318,5 +318,12 @@
         "tweet": "In 2026, global parcel locker networks will total 1.2 million units.\n\n\ud83c\udde8\ud83c\uddf3 China leads with 500,000, while \ud83c\uddfa\ud83c\uddf8 US has 150,000.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-03-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS global logistics infrastructure handled 28.7 million packages daily in Q1 2026, up 12% from 2025.\n\nAutomated warehouses in Atlanta processed 1.2 million units per hour at 98.7% efficiency.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
