@@ -1,92 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-27",
-        "status": "posted",
-        "tweet": "UPS logistics infrastructure processes 29 million packages daily across 220 countries and territories in 2026.\n\n\ud83c\uddfa\ud83c\uddf8Worldport hub in Louisville, KY, sorts 416,000 packages per hour.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk5mUHJzZVE2TVc5eVZ0djBZVjMwc1RnMGhJeXNJa0JJMzhzbU1GWk15UzE4OUMycm91YU4zcThWeHhUYTUyVVhVcW9vLUFQX1QzNEE2di05UTFEamZLZHNua1FaMllPN3JRZnp0dW45M0RYNXp6dU9aYUpKclJNNHF1V1lYNTY3UEE?oc=5",
-        "date": "2026-02-27",
-        "title": "Miele partners with FarEye on last-mile delivery - Logistics Manager",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk5mUHJzZVE2TVc5eVZ0djBZVjMwc1RnMGhJeXNJa0JJMzhzbU1GWk15UzE4OUMycm91YU4zcThWeHhUYTUyVVhVcW9vLUFQX1QzNEE2di05UTFEamZLZHNua1FaMllPN3JRZnp0dW45M0RYNXp6dU9aYUpKclJNNHF1V1lYNTY3UEE?oc=5\" target=\"_blank\">Miele partners with FarEye on last-mile delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Logistics Manager</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde9\ud83c\uddea NEWS: Miele partners with FarEye to enhance last-mile delivery efficiency"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDRLVVBaQ2FIWGhraEh0b1NROVhNRkhDQVlKUkpTQ3ZNeWV5am1HTnRJQ1d6Rm11UGdFSThKTGdMaVdjS2M1UnpPODdwOHE1S1NaSmd2M3ZRX29HcDBRbkdkQWQ0WHMzMEg4ZnJMTU13OU0tWDk3TlFoWGhXd2FPdnVaMjQ4al9faTJDNnVnWnpRSk1OejBLVkFDMjZxZWs?oc=5",
-        "date": "2026-02-27",
-        "title": "New micro-EV player enters UK market for sustainable last-mile logistics - Fleet World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDRLVVBaQ2FIWGhraEh0b1NROVhNRkhDQVlKUkpTQ3ZNeWV5am1HTnRJQ1d6Rm11UGdFSThKTGdMaVdjS2M1UnpPODdwOHE1S1NaSmd2M3ZRX29HcDBRbkdkQWQ0WHMzMEg4ZnJMTU13OU0tWDk3TlFoWGhXd2FPdnVaMjQ4al9faTJDNnVnWnpRSk1OejBLVkFDMjZxZWs?oc=5\" target=\"_blank\">New micro-EV player enters UK market for sustainable last-mile logistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fleet World</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2pJUC1QUFVvV29haVdrUlhpTVNrNVlGcG9vNWhCWHBCQzkwaWNZVnQ1ZVo0REdRUU5KYjFub1h6RTdnWlVPa1NPOHA0SnFxR1VWUGZwOU5nWGZKRVBIWmNfOFFCallEN3FBR2RNTmtIV1pvYjJoTi12THlaWUprMjhrY1dyWXFsUHlsVGZHdE5SRU5MbkZJeQ?oc=5",
-        "date": "2026-02-27",
-        "title": "Veho Expands West with 66 Markets, New Hubs for E-commerce Brands - MarTech Cube",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2pJUC1QUFVvV29haVdrUlhpTVNrNVlGcG9vNWhCWHBCQzkwaWNZVnQ1ZVo0REdRUU5KYjFub1h6RTdnWlVPa1NPOHA0SnFxR1VWUGZwOU5nWGZKRVBIWmNfOFFCallEN3FBR2RNTmtIV1pvYjJoTi12THlaWUprMjhrY1dyWXFsUHlsVGZHdE5SRU5MbkZJeQ?oc=5\" target=\"_blank\">Veho Expands West with 66 Markets, New Hubs for E-commerce Brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarTech Cube</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/tariff-plaintiffs-demand-injunction-and-fast-track-refunds/",
-        "date": "2026-02-27",
-        "title": "Tariff plaintiffs demand injunction and fast-track refunds",
-        "summary": "<p>The small-business importers that successfully challenged the Trump administration\u2019s IEEPA tariffs are back before the US Court of International Trade (CIT), this time demanding a permanent injunction and rapid refunds.\u00a0<br />\nIn a filing on Tuersday, the plaintiffs asked the three-judge panel to permanently block enforcement of all tariffs imposed under the International Emergency Economic Powers Act (IEEPA), and to order the government to refund all duties collected, with interest.\u00a0<br />\nTheir motion follows ...</p>\n<p>The post <a href=\"https://theloadstar.com/tariff-plaintiffs-demand-injunction-and-fast-track-refunds/\">Tariff plaintiffs demand injunction and fast-track refunds\u00a0</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk5mUHJzZVE2TVc5eVZ0djBZVjMwc1RnMGhJeXNJa0JJMzhzbU1GWk15UzE4OUMycm91YU4zcThWeHhUYTUyVVhVcW9vLUFQX1QzNEE2di05UTFEamZLZHNua1FaMllPN3JRZnp0dW45M0RYNXp6dU9aYUpKclJNNHF1V1lYNTY3UEE?oc=5",
-        "date": "2026-02-27",
-        "title": "Miele partners with FarEye on last-mile delivery - Logistics Manager",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk5mUHJzZVE2TVc5eVZ0djBZVjMwc1RnMGhJeXNJa0JJMzhzbU1GWk15UzE4OUMycm91YU4zcThWeHhUYTUyVVhVcW9vLUFQX1QzNEE2di05UTFEamZLZHNua1FaMllPN3JRZnp0dW45M0RYNXp6dU9aYUpKclJNNHF1V1lYNTY3UEE?oc=5\" target=\"_blank\">Miele partners with FarEye on last-mile delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Logistics Manager</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde9\ud83c\uddea NEWS: Miele partners with FarEye to enhance last-mile delivery efficiency",
-        "type": "news"
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/operations/geopost-reports-5-volume-growth-in-2025-amid-margin-pressure.html",
-        "date": "2026-02-27",
-        "title": "Geopost reports 5% volume growth in 2025 amid margin pressure",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/operations/geopost-reports-5-volume-growth-in-2025-amid-margin-pressure.html\"><img align=\"left\" alt=\"Geopost reports 5% volume growth in 2025 amid margin pressure\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/02/AdobeStock_1604780696_Editorial_Use_Only-Large-1-e1772202775721-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Geopost handled more than 2.2 billion parcels in 2025, a 5% increase year-on-year, as sales remained broadly stable in what the company described as a highly challenging market environment.</p>\n<p>Total sales reached \u20ac15.8bn (US$18.4bn), up 0.3% compared with 2024. Parcel and express revenues totaled \u20ac13.6bn (US$16bn), an increase of 2.7%. Operating profit (EBIT) stood at \u20ac466m (US$550m), down \u20ac158m (US$186m) year-on-year, reflecting competitive pressure, pricing constraints and cost inflation across the sector.</p>\n<p>\u201cDespite a highly demanding market environment in 2025, marked by intense competitive pressure and sustained cost inflation, Geopost delivered solid volume growth,\u201d said Yves Delmas, CEO of Geopost.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/operations/geopost-reports-5-volume-growth-in-2025-amid-margin-pressure.html\" rel=\"nofollow\">Continue reading Geopost reports 5% volume growth in 2025 amid margin pressure at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV19SQmZtYkpERTNfR0tSeUVlRTRhOXVwNXk0SEF6eFJJYzVmWU8wdURVVjNBdThqNkRpbGRsTUtwNUl3U2dvMmh0R3I2UlhVR0pmUDdPUWNzR3I5MERiZU85TTc2MU15TV9oSHl2dE53NTFjeHMyODR4Ulg5ZnF5MkUyRHJETGVnSkc5NXFYaW03aHNaaTlxazJrVHVkNUgwdGtmbjFmcE11MHhib0ctb000WVBxVkxtcVpUbUdkblc2cWFXenk0bjdFZmY?oc=5",
-        "date": "2026-02-27",
-        "title": "Outsure Global Empowers High-Growth E-Commerce Brands with Strategic BPO Service - USA Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNV19SQmZtYkpERTNfR0tSeUVlRTRhOXVwNXk0SEF6eFJJYzVmWU8wdURVVjNBdThqNkRpbGRsTUtwNUl3U2dvMmh0R3I2UlhVR0pmUDdPUWNzR3I5MERiZU85TTc2MU15TV9oSHl2dE53NTFjeHMyODR4Ulg5ZnF5MkUyRHJETGVnSkc5NXFYaW03aHNaaTlxazJrVHVkNUgwdGtmbjFmcE11MHhib0ctb000WVBxVkxtcVpUbUdkblc2cWFXenk0bjdFZmY?oc=5\" target=\"_blank\">Outsure Global Empowers High-Growth E-Commerce Brands with Strategic BPO Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-02-27",
-        "status": "posted",
-        "tweet": "By 2026, 28% of global e-commerce packages will fail on first delivery attempts, up from 22% in 2023.\n\nThis means 12 billion extra trips for carriers, driving up costs by $60 billion yearly.",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
-        "link": null,
         "date": "2026-02-28",
         "status": "posted",
         "tweet": "By 2026, EV delivery fleets in \ud83c\uddfa\ud83c\uddf8 New York reach 12,000 vehicles, \n\nslashing CO2 emissions 45% versus gas trucks.\n\nMicro-mobility e-bikes cover 7,500 daily last-mile trips, \n\nreducing urban congestion 30%.",
@@ -333,5 +247,13 @@
         "tweet": "By 2026, e-commerce deliveries worldwide will generate over 200 million metric tons of packaging waste annually, up 50% from 2023 levels.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-03-09",
+        "status": "posted",
+        "tweet": "Top large cities by weekly online grocery and food delivery orders per capita in 2026 projections.\n\n\ud83c\uddf8\ud83c\uddec Singapore (4.2 orders)\n\ud83c\uddfa\ud83c\uddf8 New York (3.8)\n\ud83c\uddec\ud83c\udde7 London (3.5)\n\ud83c\udde8\ud83c\uddf3 Shanghai (3.3)\n\ud83c\uddf0\ud83c\uddf7 Seoul (3.1)",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
