@@ -247,5 +247,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure in 2026 processes 28 million packages daily across 1,200 global facilities, achieving 98% automation efficiency.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-10",
+        "status": "posted",
+        "tweet": "By 2026, global parcel lockers reach 900,000 units.\n\n\ud83c\uddea\ud83c\uddfa Europe leads with 550,000, while \ud83c\uddfa\ud83c\uddf8 US trails at 25,000.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
