@@ -254,5 +254,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker networks will total 1.5 million units, doubling from 750,000 in 2023.\n\n\ud83c\uddfa\ud83c\uddf8 US pickup points will handle 25% of e-commerce deliveries, vs. 12% in Europe.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
