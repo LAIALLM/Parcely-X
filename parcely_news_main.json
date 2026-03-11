@@ -268,5 +268,13 @@
         "status": "posted",
         "tweet": "GlobalFreight Logistics' main warehouse in \ud83c\uddfa\ud83c\uddf8 Texas handles 750,000 shipments daily in 2026, with 98% on-time delivery rate.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "Last-mile logistics worldwide emit 180 million metric tons of CO2 annually in 2026.\n\nBuilding-integrated networks cut that to 90 million tons by localizing deliveries.\n\nProjections show 40% further drop by 2030.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
