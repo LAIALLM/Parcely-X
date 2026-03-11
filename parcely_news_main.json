@@ -276,5 +276,12 @@
         "tweet": "Last-mile logistics worldwide emit 180 million metric tons of CO2 annually in 2026.\n\nBuilding-integrated networks cut that to 90 million tons by localizing deliveries.\n\nProjections show 40% further drop by 2030.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub handles 750,000 packages daily through automated sorting lines, cutting processing time to under 2 minutes per item.",
+        "type": "infrastructure"
     }
 ]
