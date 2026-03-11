@@ -1,30 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-01",
-        "status": "posted",
-        "tweet": "LogiFreight Logistics achieves 98.7% on-time delivery rate across its 150 automated warehouses.\n\nDaily throughput: 12 million parcels processed globally.\n\nKey hub expansion in \ud83c\uddfa\ud83c\uddf8 Chicago adds 2.5 million sq ft capacity.\n\n$LOGI",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-03-01",
-        "status": "posted",
-        "tweet": "In large \ud83c\uddfa\ud83c\uddf8 cities like NYC, 55% of residents order groceries online weekly in 2026.\n\nIn \ud83c\udde8\ud83c\udde6 cities like Toronto, that drops to 40%.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": "https://theloadstar.com/news-in-brief-podcast-week-9-2026-tariff-turmoil-refund-frenzy-and-panama-saga/",
-        "date": "2026-03-01",
-        "title": "News in Brief Podcast | Week 9 2026 | Tariff turmoil, refund frenzy and Panama saga",
-        "summary": "<p>Last week\u2019s news of the US Supreme Court ruling striking down President Trump\u2019s IEEPA tariffs has sent shockwaves through global supply chains, but now comes the hard part: getting your money back.<br />\nIn this episode, we unpack the fallout of the tariff revocation: with potentially $100bn\u2013$300bn in duties up for refund, the process is already shaping up to be complex, litigation-heavy, and politically fraught. We discuss the emerging secondary market for ...</p>\n<p>The post <a href=\"https://theloadstar.com/news-in-brief-podcast-week-9-2026-tariff-turmoil-refund-frenzy-and-panama-saga/\">News in Brief Podcast | Week 9 2026 | Tariff turmoil, refund frenzy and Panama saga</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1BDYmM1MER1aHQ1WWJiUGM2NjF3NW44OHJxQmZhazhGeVZMYWEzc1RMN2tzVFVpZGdlYS1tanFGem9RT2gtV3BPZ2xnZkJ2bTVvek5sck9xcmgxS0FtMFRnU1NsOF9LbVNtQjFqOUhtelJiUVA1Ymd1WG91cW9YWHgxNlRGWHBwcXd3WU1nS1hNeFFTbXRneG5menJaVXhUblFOaTJrWXotRlExdWgw?oc=5",
         "date": "2026-03-02",
         "title": "Iran Strikes Snarl E-Commerce Delivery Times to Middle East - Bloomberg.com",
@@ -261,6 +236,13 @@
         "date": "2026-03-10",
         "status": "posted",
         "tweet": "UPS's Worldport hub in \ud83c\uddfa\ud83c\uddf8 Louisville sorts 2.5 million packages daily in 2026, achieving 99.9% accuracy via AI-driven automation.\n\n$UPS",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS logistics network processed 24 million packages daily in Q2 2026, achieving 99.2% operational uptime across 5,000 facilities. $UPS",
         "type": "infrastructure"
     }
 ]
