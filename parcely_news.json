@@ -244,5 +244,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS logistics network processed 24 million packages daily in Q2 2026, achieving 99.2% operational uptime across 5,000 facilities. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXo4Q2lOS0hxbTBFSkpwT2xBM3A1cTNSZXdfeVB2T0Fod29MYW43MER4UkM1b1Jla1RINWtmcjlyUENfVkhyMktuT0ZMcWoydjVGTTRrQUJFNzdGWEtnNERmd2hOUHZqVFB1Z0VvS2VFclQ1ajVJaEZKWFRqVDliNnJB?oc=5",
+        "date": "2026-03-11",
+        "title": "A delivery robot that learns from spatial information obtained from games like 'Pok\u00e9mon GO' has been born - GIGAZINE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXo4Q2lOS0hxbTBFSkpwT2xBM3A1cTNSZXdfeVB2T0Fod29MYW43MER4UkM1b1Jla1RINWtmcjlyUENfVkhyMktuT0ZMcWoydjVGTTRrQUJFNzdGWEtnNERmd2hOUHZqVFB1Z0VvS2VFclQ1ajVJaEZKWFRqVDliNnJB?oc=5\" target=\"_blank\">A delivery robot that learns from spatial information obtained from games like 'Pok\u00e9mon GO' has been born</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
