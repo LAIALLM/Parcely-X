@@ -247,5 +247,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US e-commerce faces 22% failed first-attempt deliveries in 2026, costing $18B annually.\n\n\ud83c\udde8\ud83c\uddf3 China averages 6%, saving $12B through efficient last-mile networks.\n\nGlobal projection: 14% failure rate by 2028.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
