@@ -376,5 +376,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: UPS offers $150K buyout to 100K drivers as it ends partnership with Amazon $UPS",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObWpzdElTalU1MGlPQkUzdHBhYWQ4ajJnTnR5S0NjYXQ5dGJmbjFsY3owVEgtRnd6NWtNeEp5Y05aU0h0blNRc3RxX3NMVE5lcUhGRkIxVDh0bnFwN2ktWXJCRDEzTmkwUnR6N3BMOXRYMlRFNFZLSDVEUTdyLUt1Z0h5SU12TjF2TVJ0N0NmekQtQQ?oc=5",
+        "date": "2026-03-13",
+        "title": "Serve Robotics partners with White Castle for autonomous delivery on Uber Eats - Verdict Food Service",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxObWpzdElTalU1MGlPQkUzdHBhYWQ4ajJnTnR5S0NjYXQ5dGJmbjFsY3owVEgtRnd6NWtNeEp5Y05aU0h0blNRc3RxX3NMVE5lcUhGRkIxVDh0bnFwN2ktWXJCRDEzTmkwUnR6N3BMOXRYMlRFNFZLSDVEUTdyLUt1Z0h5SU12TjF2TVJ0N0NmekQtQQ?oc=5\" target=\"_blank\">Serve Robotics partners with White Castle for autonomous delivery on Uber Eats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Verdict Food Service</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/se-asia-may-fit-the-bill-as-forwarders-shy-away-from-us-tariff-silliness/",
+        "date": "2026-03-13",
+        "title": "SE Asia may fit the bill as forwarders shy away from US \u2018tariff silliness\u2019",
+        "summary": "<p>European forwarders are abandoning the US and looking for new opportunities, many seeing South-east Asia as offering increased import prospects after handling booming export volumes out of the region.<br />\nLeading the way have been Indonesia, Thailand, and Vietnam, which, having gained wealth as part of the US-led &#8216;China+1 shift&#8217; are looking for imports to support not only development of their manufacturing sector, but a series of infrastructure improvements.<br />\nOne European forwarder told ...</p>\n<p>The post <a href=\"https://theloadstar.com/se-asia-may-fit-the-bill-as-forwarders-shy-away-from-us-tariff-silliness/\">SE Asia may fit the bill as forwarders shy away from US &#8216;tariff silliness&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
