@@ -334,5 +334,12 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-13",
+        "status": "posted",
+        "tweet": "LogiFreight's 2026 infrastructure milestone: 1.5 million daily shipments via automated warehouses.\n\n\ud83c\uddfa\ud83c\uddf8 US hubs handle 600,000 units per day.\n\n\ud83c\uddea\ud83c\uddfa Europe network: 450,000 units daily.\n\nTotal efficiency: 98% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
