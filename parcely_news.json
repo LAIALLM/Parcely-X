@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-03",
-        "status": "posted",
-        "tweet": "Failed first-attempt e-commerce deliveries projected to hit 1.2B globally in 2026, up 15% from 2025.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 45% failure rate\n\ud83c\uddec\ud83c\udde7 London: 42%\n\ud83c\udde9\ud83c\uddea Berlin: 40%\n\ud83c\uddeb\ud83c\uddf7 Paris: 38%\n\ud83c\udde8\ud83c\uddf3 Shanghai: 35%",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
-        "link": null,
-        "date": "2026-03-03",
-        "status": "posted",
-        "tweet": "UPS logistics infrastructure handled 25.4 million packages daily in Q1 2026, achieving 98.7% delivery accuracy.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-03-04",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Louisville Hub: FedEx processes 1.5 million packages per hour via automated sorting infrastructure.\n\nGlobal network efficiency: 98.7% throughput utilization.\n\n$FDX",
@@ -362,6 +347,13 @@
         "date": "2026-03-12",
         "status": "posted",
         "tweet": "UPS logistics network in 2026 processes 25 million packages daily through 1,500+ facilities worldwide.\n\n$UPS",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-13",
+        "status": "posted",
+        "tweet": "UPS's global network processed 28 million packages daily in 2026, supported by 1,200 distribution centers across 220 countries.\n\n$UPS",
         "type": "infrastructure"
     }
 ]
