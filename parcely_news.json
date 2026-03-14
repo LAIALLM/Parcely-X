@@ -356,5 +356,12 @@
         "tweet": "By 2026, global e-commerce will see 5.2 billion failed first-attempt deliveries, costing the industry $85 billion in reshipments and lost sales.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8FedEx's global network moves 15 million packages daily in 2026, supported by 220,000 vehicles and 5,000 facilities.",
+        "type": "infrastructure"
     }
 ]
