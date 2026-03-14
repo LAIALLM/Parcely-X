@@ -1,71 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-04",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Louisville Hub: FedEx processes 1.5 million packages per hour via automated sorting infrastructure.\n\nGlobal network efficiency: 98.7% throughput utilization.\n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-03-04",
-        "status": "posted",
-        "tweet": "Delivery vans now make up 28% of road traffic in dense cities like \ud83c\uddfa\ud83c\uddf8 New York, up from 20% in 2024.\n\nBy 2030, projections show they'll hit 40%, worsening congestion by 25% in urban cores.",
-        "type": "statistical",
-        "category": "urban traffic growth caused by delivery vans in dense cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0FEYWtkZ3ppU2ttbDNmMUx1ZHhreUFMYU9Xc3BpZUl4N3J4aWJtNkoxUWNJcExrYWJoUlBBd3JjaUk3VV93VlFCb0lqTDJWVlkwZV93TmswQkJ0Y1lxTFIxOEFtUmNxRjY2bTdHWWlHQktNWEhaZ204V3o4dEV1VG1wOTRiV056eTBpeHNiY2YyLXl0UVptODZkWmYtV1pCWnlKRTRYbEdCVE5NX3FZcnJ2SXc0RmtNQ0hQaWVNaW55cE00ZXJCSEhFNmZHSHc?oc=5",
-        "date": "2026-03-04",
-        "title": "Amazon drops bombshell in grocery delivery wars as speedy service hits Brazil market - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0FEYWtkZ3ppU2ttbDNmMUx1ZHhreUFMYU9Xc3BpZUl4N3J4aWJtNkoxUWNJcExrYWJoUlBBd3JjaUk3VV93VlFCb0lqTDJWVlkwZV93TmswQkJ0Y1lxTFIxOEFtUmNxRjY2bTdHWWlHQktNWEhaZ204V3o4dEV1VG1wOTRiV056eTBpeHNiY2YyLXl0UVptODZkWmYtV1pCWnlKRTRYbEdCVE5NX3FZcnJ2SXc0RmtNQ0hQaWVNaW55cE00ZXJCSEhFNmZHSHc?oc=5\" target=\"_blank\">Amazon drops bombshell in grocery delivery wars as speedy service hits Brazil market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy1SbmpNNFRxTlVvNEVoLWRTMXJxNUFhN0VrYVZFQ2gwdzEtX0hkMXBIWEh1TVpFSmxxVmRhNUhLV2tLQUdVeHc4QUF2eEVzVHM3aVRqamt5ZnA4dUU2a0JnaFVza1VRU1pILXVORktlYVVIUEVKVXR6NENpcEt3aGFKdFZuUHdNTWpuSmh3NndoazFXbnNOemd1bExpSEc4U2lyc0dBLVk5NjIxUHVVbHUyUjNjOXdYOGxacA?oc=5",
-        "date": "2026-03-04",
-        "title": "Sidewalk robots doing thousands of deliveries head to SXSW and NVIDIA GTC - Stock Titan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy1SbmpNNFRxTlVvNEVoLWRTMXJxNUFhN0VrYVZFQ2gwdzEtX0hkMXBIWEh1TVpFSmxxVmRhNUhLV2tLQUdVeHc4QUF2eEVzVHM3aVRqamt5ZnA4dUU2a0JnaFVza1VRU1pILXVORktlYVVIUEVKVXR6NENpcEt3aGFKdFZuUHdNTWpuSmh3NndoazFXbnNOemd1bExpSEc4U2lyc0dBLVk5NjIxUHVVbHUyUjNjOXdYOGxacA?oc=5\" target=\"_blank\">Sidewalk robots doing thousands of deliveries head to SXSW and NVIDIA GTC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Sidewalk robots handling thousands of deliveries are heading to SXSW and NVIDIA GTC $NVDA"
-    },
-    {
-        "link": "https://theloadstar.com/lng-supplies-still-flowing-despite-qatar-suspension/",
-        "date": "2026-03-04",
-        "title": "LNG supplies still flowing, despite Qatar suspension?",
-        "summary": "<p>Anyone concerned that Qatar\u2019s decision to suspend LNG production may lead to a spike in their shipping costs needn\u2019t be, if the carriers we spoke to are to be believed\u2026 and terminals in the Gulf are stressing that they are back up and running following attacks by Iran.<br />\nGlobal supply chains have been thrown into their latest state of flux following the assault by Israeli-US forces against the leadership in Tehran ...</p>\n<p>The post <a href=\"https://theloadstar.com/lng-supplies-still-flowing-despite-qatar-suspension/\">LNG supplies still flowing, despite Qatar suspension?</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/emirates-shipping-line-exits-transpacific/",
-        "date": "2026-03-04",
-        "title": "Emirates Shipping Line exits transpacific",
-        "summary": "<p>Emirates Shipping Line (ESL) is quitting the transpacific market \u2013 the Dubai-based operator a victim of falling freight rates.<br />\nESL will shut down its Sun Chief Express (SCX) service that connects the Vietnamese ports of Ho Chi Minh City and Haiphong with the southern Chinese port of Shekou and the US west coast port of Seattle.<br />\nThe final SCX sailing will be on 20 March, when the 2,381 teu ESL Mombasa leaves ...</p>\n<p>The post <a href=\"https://theloadstar.com/emirates-shipping-line-exits-transpacific/\">Emirates Shipping Line exits transpacific</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy1SbmpNNFRxTlVvNEVoLWRTMXJxNUFhN0VrYVZFQ2gwdzEtX0hkMXBIWEh1TVpFSmxxVmRhNUhLV2tLQUdVeHc4QUF2eEVzVHM3aVRqamt5ZnA4dUU2a0JnaFVza1VRU1pILXVORktlYVVIUEVKVXR6NENpcEt3aGFKdFZuUHdNTWpuSmh3NndoazFXbnNOemd1bExpSEc4U2lyc0dBLVk5NjIxUHVVbHUyUjNjOXdYOGxacA?oc=5",
-        "date": "2026-03-04",
-        "title": "Sidewalk robots doing thousands of deliveries head to SXSW and NVIDIA GTC - Stock Titan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy1SbmpNNFRxTlVvNEVoLWRTMXJxNUFhN0VrYVZFQ2gwdzEtX0hkMXBIWEh1TVpFSmxxVmRhNUhLV2tLQUdVeHc4QUF2eEVzVHM3aVRqamt5ZnA4dUU2a0JnaFVza1VRU1pILXVORktlYVVIUEVKVXR6NENpcEt3aGFKdFZuUHdNTWpuSmh3NndoazFXbnNOemd1bExpSEc4U2lyc0dBLVk5NjIxUHVVbHUyUjNjOXdYOGxacA?oc=5\" target=\"_blank\">Sidewalk robots doing thousands of deliveries head to SXSW and NVIDIA GTC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Sidewalk robots handling thousands of deliveries are heading to SXSW and NVIDIA GTC $NVDA",
-        "type": "news"
-    },
-    {
         "link": "https://theloadstar.com/force-majeure-zero-recourse-the-bill-of-lading-clause-every-carrier-has-and-every-shipper-ignored/",
         "date": "2026-03-05",
         "title": "Force majeure, zero recourse: the bill of lading clause every carrier has \u2013 and every shipper ignored",
@@ -414,5 +348,13 @@
         "tweet": "2026 CO2 from last-mile logistics in top 5 cities (Mt/year) vs building-integrated networks (potential 60% cut via consolidated building deliveries).\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: 3.4 vs 1.4\n2. \ud83c\uddec\ud83c\udde7 London: 2.8 vs 1.1\n3. \ud83c\uddef\ud83c\uddf5 Tokyo: 2.6 vs 1.0\n4. \ud83c\uddeb\ud83c\uddf7 Paris: 2.3 vs 0.9\n5. \ud83c\udde8\ud83c\uddf3 Shanghai: 2.1 vs 0.8",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "By 2026, global e-commerce will see 5.2 billion failed first-attempt deliveries, costing the industry $85 billion in reshipments and lost sales.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
