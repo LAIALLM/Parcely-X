@@ -361,5 +361,13 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\udde8\ud83c\uddf3 Shanghai warehouse now handles 2.5 million packages daily, boosting efficiency by 35% in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "Last-mile logistics worldwide: 280 million tons CO2 emissions in 2026 from urban deliveries.\n\nBuilding-integrated networks: Cut that to 84 million tons by localizing supply chains in structures.\n\nA 70% drop projected by 2030.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
