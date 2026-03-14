@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-04",
-        "status": "posted",
-        "tweet": "In 2026, global e-commerce deliveries will generate 220 billion packages, producing 180 million tons of packaging waste\u2014enough to fill 1.2 million Olympic swimming pools.",
-        "type": "statistical",
-        "category": "packaging waste from e-commerce deliveries worldwide"
-    },
-    {
-        "link": null,
-        "date": "2026-03-04",
-        "status": "posted",
-        "tweet": "Apex Logistics' core network in 2026 routes 15 million containers yearly across 200 hubs.\n\nThis infrastructure handles peak daily volumes of 50,000 units with 99.5% on-time delivery.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-03-05",
         "status": "posted",
         "tweet": "In 2026, top large cities by share of residents ordering online groceries or food weekly (projected from 2024-2025 trends).\n\n\ud83c\uddfa\ud83c\uddf8 New York: 52%  \n\ud83c\udde8\ud83c\uddf3 Shanghai: 48%  \n\ud83c\uddec\ud83c\udde7 London: 46%  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 42%  \n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 38%",
@@ -369,5 +354,12 @@
         "tweet": "In 2026, top large cities by % of residents using online grocery/food delivery weekly (projected).\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 68%\n\n\ud83c\uddfa\ud83c\uddf8 New York: 58%\n\n\ud83c\uddec\ud83c\udde7 London: 52%\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: 49%\n\n\ud83c\uddeb\ud83c\uddf7 Paris: 46%",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\udde8\ud83c\uddf3 Shanghai warehouse now handles 2.5 million packages daily, boosting efficiency by 35% in 2026.",
+        "type": "infrastructure"
     }
 ]
