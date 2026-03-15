@@ -345,5 +345,13 @@
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 1.2 million packages per hour in 2026, powering its global logistics network.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-15",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker networks will exceed 700,000 units, handling 25% of e-commerce deliveries and cutting urban traffic by 10%.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
