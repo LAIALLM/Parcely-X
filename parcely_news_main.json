@@ -230,5 +230,12 @@
         "tweet": "Porch piracy surges: Projected 2026 package thefts in major cities hit record highs, up 25% from 2023.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 450,000 cases\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 380,000 cases\n\ud83c\uddfa\ud83c\uddf8 Chicago: 320,000 cases\n\ud83c\uddfa\ud83c\uddf8 Houston: 290,000 cases\n\ud83c\uddfa\ud83c\uddf8 Philadelphia: 260,000 cases",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-03-15",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas distribution center processes 1.2 million packages daily in 2026, with 99.5% on-time delivery rate.",
+        "type": "infrastructure"
     }
 ]
