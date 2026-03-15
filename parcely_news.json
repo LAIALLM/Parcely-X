@@ -1,30 +1,5 @@
 [
     {
-        "link": "https://theloadstar.com/force-majeure-zero-recourse-the-bill-of-lading-clause-every-carrier-has-and-every-shipper-ignored/",
-        "date": "2026-03-05",
-        "title": "Force majeure, zero recourse: the bill of lading clause every carrier has \u2013 and every shipper ignored",
-        "summary": "<p>The words \u201cforce majeure\u201d have been cascading through carrier customer advisories since the Strait of Hormuz crisis erupted at the end of last week.<br />\nCMA CGM says its vessel diversions are subject to \u201capplicable force majeure provisions&#8221;.<br />\nBreakbulk News, for instance, reports that Maersk, MSC, and other major lines are citing force majeure and the need to protect crew and cargo safety. The language is designed to signal something extraordinary, that unprecedented ...</p>\n<p>The post <a href=\"https://theloadstar.com/force-majeure-zero-recourse-the-bill-of-lading-clause-every-carrier-has-and-every-shipper-ignored/\">Force majeure, zero recourse: the bill of lading clause every carrier has \u2013 and every shipper ignored</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-03-05",
-        "status": "posted",
-        "tweet": "FedEx global logistics network processes 16.2 million packages daily in 2026.\n\nInfrastructure metric: 98.7% delivery accuracy across 220 countries.\n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-03-05",
-        "status": "posted",
-        "tweet": "Delivery vans in dense cities like \ud83c\uddfa\ud83c\uddf8 New York caused 15% of urban traffic congestion in 2024.\n\nBy 2026, projections show this jumping to 25%, as e-commerce deliveries surge 40% annually.",
-        "type": "statistical",
-        "category": "urban traffic growth caused by delivery vans in dense cities"
-    },
-    {
         "link": null,
         "date": "2026-03-06",
         "status": "posted",
@@ -362,6 +337,13 @@
         "date": "2026-03-14",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8FedEx's global network moves 15 million packages daily in 2026, supported by 220,000 vehicles and 5,000 facilities.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-15",
+        "status": "posted",
+        "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 1.2 million packages per hour in 2026, powering its global logistics network.\n\n$FDX",
         "type": "infrastructure"
     }
 ]
