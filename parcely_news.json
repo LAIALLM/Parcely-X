@@ -400,5 +400,15 @@
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 1.8 million packages daily in 2026, supporting 25% of U.S. ground volume.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ocVVkUGdKMEZ5WkVaZGNBRm5iMFFhWEE5d1c5clRkSEItakc4QkpEWV81eUZldmVCeVhuYllBejNwaTdrWHdQS0JqUEdVTzJ1TnpzdFVsdUxpYWFkSG56UGEyX1YyOWhzRUZEemlRQnpaZEhfci1Qdg?oc=5",
+        "date": "2026-03-16",
+        "title": "Enterprise delivery blindspots: Powerful capabilities high-volume shippers often overlook - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ocVVkUGdKMEZ5WkVaZGNBRm5iMFFhWEE5d1c5clRkSEItakc4QkpEWV81eUZldmVCeVhuYllBejNwaTdrWHdQS0JqUEdVTzJ1TnpzdFVsdUxpYWFkSG56UGEyX1YyOWhzRUZEemlRQnpaZEhfci1Qdg?oc=5\" target=\"_blank\">Enterprise delivery blindspots: Powerful capabilities high-volume shippers often overlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
