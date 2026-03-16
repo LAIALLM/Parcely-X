@@ -335,5 +335,13 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "By 2026, 32% of global e-commerce deliveries will fail on the first attempt, forcing 2.2 billion redeliveries and $52 billion in added costs.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
