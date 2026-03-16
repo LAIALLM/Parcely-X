@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-06",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse now processes 1.2 million parcels daily.\n\nThis infrastructure upgrade cuts delivery times by 25% across North America.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-03-06",
-        "status": "posted",
-        "tweet": "In dense cities like \ud83c\uddfa\ud83c\uddf8 New York, delivery vans accounted for 8% of road traffic in 2023.\n\nBy 2026, projections show they'll drive 16%\u2014doubling congestion from e-commerce boom.",
-        "type": "statistical",
-        "category": "urban traffic growth caused by delivery vans in dense cities"
-    },
-    {
-        "link": null,
         "date": "2026-03-07",
         "status": "posted",
         "tweet": "By 2026, e-commerce deliveries worldwide will generate 85 million tons of packaging waste annually\u2014equivalent to 200 billion cardboard boxes, enough to circle the planet 8 times.",
