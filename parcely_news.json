@@ -393,5 +393,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 1.8 million packages daily in 2026, supporting 25% of U.S. ground volume.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
