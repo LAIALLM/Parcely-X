@@ -230,5 +230,12 @@
         "tweet": "Worldwide e-commerce packaging waste: 230 million metric tons in 2023.\n\nProjected to reach 350 million metric tons by 2026 \u2013 up 52% in just three years.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Atlanta hub managed 1.5 million tons of cargo in 2026, with 98% energy efficiency from solar-powered operations.",
+        "type": "infrastructure"
     }
 ]
