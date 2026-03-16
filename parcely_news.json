@@ -1,34 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-06",
-        "status": "posted",
-        "tweet": "By 2026, porch piracy in \ud83c\uddfa\ud83c\uddf8 major cities like New York and Los Angeles is projected to steal over 350 million packages yearly, costing $10 billion in losses.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelE0NXNWUTNtUEZvVV9CSHJBcXJXaXZTckFvQzdfVHh5ZmVNVXRiQjkydzZ2VVlVVEM5Z1JuSnFPUXhnWVhVM25yVGZmRGhJS0NNZ1hlN3RaenM0TVdfaTZGREh1MHc4dlczdGlONFpLQkxiaWd6N1Q0am1TZEllM3AzY3hEM3AyN0lONmh3MmpzbDhyLW9YWFZoSG5VaHNsanlGcktmMm95NHM?oc=5",
-        "date": "2026-03-06",
-        "title": "Execution matters in Malaysia's courier market reform - KLSE Screener",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelE0NXNWUTNtUEZvVV9CSHJBcXJXaXZTckFvQzdfVHh5ZmVNVXRiQjkydzZ2VVlVVEM5Z1JuSnFPUXhnWVhVM25yVGZmRGhJS0NNZ1hlN3RaenM0TVdfaTZGREh1MHc4dlczdGlONFpLQkxiaWd6N1Q0am1TZEllM3AzY3hEM3AyN0lONmh3MmpzbDhyLW9YWFZoSG5VaHNsanlGcktmMm95NHM?oc=5\" target=\"_blank\">Execution matters in Malaysia's courier market reform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KLSE Screener</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/blackrocks-gip-acquires-independent-lessor-tcr-for-undisclosed-amount/",
-        "date": "2026-03-06",
-        "title": "BlackRock\u2019s GIP acquires independent lessor TCR for undisclosed amount",
-        "summary": "<p>PRESS RELEASE\u00a0</p>\n<p>Global Infrastructure Partners Agrees to Acquire TCR</p>\n<p>Investment in the world\u2019s largest independent ground support equipment lessor strengthens GIP\u2019s Transport Platform</p>\n<p>NEW YORK&#8211;(BUSINESS WIRE)&#8211;Global Infrastructure Partners (\u201cGIP\u201d), a part of BlackRock, a leading global infrastructure investor, today announced that it has entered into a definitive agreement to acquire TCR, the largest independent lessor of airport ground support equipment, from 3i Infrastructure plc. Members of TCR\u2019s management team will invest alongside GIP.<br />\nThe ...</p>\n<p>The post <a href=\"https://theloadstar.com/blackrocks-gip-acquires-independent-lessor-tcr-for-undisclosed-amount/\">BlackRock&#8217;s GIP acquires independent lessor TCR for undisclosed amount</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-03-07",
         "status": "posted",
         "tweet": "UPS's Louisville hub in \ud83c\uddfa\ud83c\uddf8 processes 2.5 million packages daily in 2026, up 15% from 2025 via AI-driven automation.\n\nEfficiency: 500,000 sorts per hour at 99.9% accuracy.\n\n$UPS",
@@ -353,5 +325,15 @@
         "tweet": "By 2026, global parcel locker networks will exceed 700,000 units, handling 25% of e-commerce deliveries and cutting urban traffic by 10%.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZoZkVUMmlVNUlhNzNMTmMwaTh2M1QtTnJXVFNBdnBIc0NJWFNYc1J0am9XNnlKNXA3V3R3SThEM1JjellRNmRZY202VjNyRnQzWEo5cVBZQnh4eE1wblRJTlVYVUExVzdTNkdrdVFxZkY4M0xWQ0k3Q09NeTE2OE8zMnFwNXJKTmNDRGlDY1dROTgxa1VoWVpwVlFyQThlZEt4b0h4T1c1QkxoLU1uYnlKZWlTYTdrWnp2MzhnaHR6Und1ZTdqbg?oc=5",
+        "date": "2026-03-16",
+        "title": "DHL Paket: The Reliable Pillar of Modern Package Delivery Across Europe - AD HOC NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZoZkVUMmlVNUlhNzNMTmMwaTh2M1QtTnJXVFNBdnBIc0NJWFNYc1J0am9XNnlKNXA3V3R3SThEM1JjellRNmRZY202VjNyRnQzWEo5cVBZQnh4eE1wblRJTlVYVUExVzdTNkdrdVFxZkY4M0xWQ0k3Q09NeTE2OE8zMnFwNXJKTmNDRGlDY1dROTgxa1VoWVpwVlFyQThlZEt4b0h4T1c1QkxoLU1uYnlKZWlTYTdrWnp2MzhnaHR6Und1ZTdqbg?oc=5\" target=\"_blank\">DHL Paket: The Reliable Pillar of Modern Package Delivery Across Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
