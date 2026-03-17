@@ -413,5 +413,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-17",
+        "status": "posted",
+        "tweet": "UPS infrastructure milestone in 2026: 550 global distribution centers handling 28 million packages daily.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
