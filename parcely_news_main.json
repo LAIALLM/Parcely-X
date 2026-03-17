@@ -240,5 +240,12 @@
         "tweet": "Global smart residential and office buildings market: $110 billion in 2023.\n\nProjected to reach $200 billion by 2026\u2014a near doubling in just three years.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-03-17",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 shipments daily.\n\nThis cuts average transit time to 18 hours across North America.",
+        "type": "infrastructure"
     }
 ]
