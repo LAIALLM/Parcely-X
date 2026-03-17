@@ -420,5 +420,25 @@
         "status": "posted",
         "tweet": "UPS infrastructure milestone in 2026: 550 global distribution centers handling 28 million packages daily.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURJR1k3WHVwWnlCcjlnejVBVzR2b0RqUWJCaDVfd0lmZGpBRVI3REE5bW1ZVTZlc0ZqNTlaSlcxeUdJZ1ZYMGRxTDE1UFAwazlzcmlHNGluSGpyaDFIejZJTDk2QU1GdFV2MGxXU1R5bk5XdE9NQi1UQlNLcTZtOHJWZ3JieDJSSm1ra2hiZzNFRjJFOE9nUjN6akpjN0I2UFdVLQ?oc=5",
+        "date": "2026-03-17",
+        "title": "Amazon Escalates the Delivery Wars With New 1\u2011Hour Shipping - inc.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZURJR1k3WHVwWnlCcjlnejVBVzR2b0RqUWJCaDVfd0lmZGpBRVI3REE5bW1ZVTZlc0ZqNTlaSlcxeUdJZ1ZYMGRxTDE1UFAwazlzcmlHNGluSGpyaDFIejZJTDk2QU1GdFV2MGxXU1R5bk5XdE9NQi1UQlNLcTZtOHJWZ3JieDJSSm1ra2hiZzNFRjJFOE9nUjN6akpjN0I2UFdVLQ?oc=5\" target=\"_blank\">Amazon Escalates the Delivery Wars With New 1\u2011Hour Shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2lCaGNIQ09MZmdJeWQtUnl1LUVjb2NYWXdIUFU4QzhQVUJaSDJnMjhVcnFINGctejdmeU9GbWc2MkVwWnBCRG9EcWlfdGdfNU9SZ3lvZWd5Q1VxVEVmSHJtZHY4TllTZlF0NlhoSHZkWnc0WWtSc0hkdmR5Z3NJdXU1MVphTTFhOWpvdmlTYzdZdW9wQmN0SnBSWHVvcW8?oc=5",
+        "date": "2026-03-17",
+        "title": "Amazon Leads U.S. Parcel Volume, Surpasses USPS | 2025 Shipping Report - News and Statistics - IndexBox - Market Intelligence Platform",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2lCaGNIQ09MZmdJeWQtUnl1LUVjb2NYWXdIUFU4QzhQVUJaSDJnMjhVcnFINGctejdmeU9GbWc2MkVwWnBCRG9EcWlfdGdfNU9SZ3lvZWd5Q1VxVEVmSHJtZHY4TllTZlF0NlhoSHZkWnc0WWtSc0hkdmR5Z3NJdXU1MVphTTFhOWpvdmlTYzdZdW9wQmN0SnBSWHVvcW8?oc=5\" target=\"_blank\">Amazon Leads U.S. Parcel Volume, Surpasses USPS | 2025 Shipping Report - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox - Market Intelligence Platform</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
