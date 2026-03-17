@@ -440,5 +440,26 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN19lUlJQbGo3UGctMmZxbzdEckhkRzhjaGRFbm5uX1lJQ056ckdjN0poMXNpZ0JLSG9TZ01pbzJpSmZqamNWVEgxSnpQVzMwNzZ1cWVXbXk2TzlwajNqQ0pIQ0pQYUUtaFpIU0Fidm1Uc3VrY0xFV0dDOG9WZUhxVFVtcUoxbWxLb0oteGxMOVJLc2RkM2VCVFVKXzRiSEVOOU9ySGxaOWtlVzIyRlFsQlZQXzBuOHNXT0xyLUdvcnV3eDNTQnlFaV9zeDBwOHhlSXdPZXVmcw?oc=5",
+        "date": "2026-03-17",
+        "title": "Amazon's one-hour delivery now available in hundreds of locations - KWWL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN19lUlJQbGo3UGctMmZxbzdEckhkRzhjaGRFbm5uX1lJQ056ckdjN0poMXNpZ0JLSG9TZ01pbzJpSmZqamNWVEgxSnpQVzMwNzZ1cWVXbXk2TzlwajNqQ0pIQ0pQYUUtaFpIU0Fidm1Uc3VrY0xFV0dDOG9WZUhxVFVtcUoxbWxLb0oteGxMOVJLc2RkM2VCVFVKXzRiSEVOOU9ySGxaOWtlVzIyRlFsQlZQXzBuOHNXT0xyLUdvcnV3eDNTQnlFaV9zeDBwOHhlSXdPZXVmcw?oc=5\" target=\"_blank\">Amazon's one-hour delivery now available in hundreds of locations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWWL</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazons one-hour delivery now available in hundreds of locations $AMZN"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN19lUlJQbGo3UGctMmZxbzdEckhkRzhjaGRFbm5uX1lJQ056ckdjN0poMXNpZ0JLSG9TZ01pbzJpSmZqamNWVEgxSnpQVzMwNzZ1cWVXbXk2TzlwajNqQ0pIQ0pQYUUtaFpIU0Fidm1Uc3VrY0xFV0dDOG9WZUhxVFVtcUoxbWxLb0oteGxMOVJLc2RkM2VCVFVKXzRiSEVOOU9ySGxaOWtlVzIyRlFsQlZQXzBuOHNXT0xyLUdvcnV3eDNTQnlFaV9zeDBwOHhlSXdPZXVmcw?oc=5",
+        "date": "2026-03-17",
+        "title": "Amazon's one-hour delivery now available in hundreds of locations - KWWL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN19lUlJQbGo3UGctMmZxbzdEckhkRzhjaGRFbm5uX1lJQ056ckdjN0poMXNpZ0JLSG9TZ01pbzJpSmZqamNWVEgxSnpQVzMwNzZ1cWVXbXk2TzlwajNqQ0pIQ0pQYUUtaFpIU0Fidm1Uc3VrY0xFV0dDOG9WZUhxVFVtcUoxbWxLb0oteGxMOVJLc2RkM2VCVFVKXzRiSEVOOU9ySGxaOWtlVzIyRlFsQlZQXzBuOHNXT0xyLUdvcnV3eDNTQnlFaV9zeDBwOHhlSXdPZXVmcw?oc=5\" target=\"_blank\">Amazon's one-hour delivery now available in hundreds of locations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWWL</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazons one-hour delivery now available in hundreds of locations $AMZN",
+        "type": "news"
     }
 ]
