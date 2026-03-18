@@ -247,5 +247,12 @@
         "tweet": "By 2026, 55% of commercial buildings worldwide use smart access systems, up from 28% in 2023.\n\nThis surge cuts unauthorized entries by 40% on average.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "FreightLink's main hub in \ud83c\uddfa\ud83c\uddf8 Texas handles 1.8 million packages daily through automated sorting lines.",
+        "type": "infrastructure"
     }
 ]
