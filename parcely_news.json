@@ -483,5 +483,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker networks will number 750,000 units, handling 3 billion packages yearly.\n\nProjections show this doubling to 1.5 million units by 2030, serving 6 billion packages.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
