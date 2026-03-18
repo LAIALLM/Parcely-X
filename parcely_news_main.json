@@ -239,5 +239,13 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 750,000 shipments daily.\n\nThis cuts average transit time to 18 hours across North America.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "By 2026, 55% of commercial buildings worldwide use smart access systems, up from 28% in 2023.\n\nThis surge cuts unauthorized entries by 40% on average.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
