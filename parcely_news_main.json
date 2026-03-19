@@ -246,5 +246,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub processes 1.2 million parcels daily in 2026, up 25% from last year.\n\nThis infrastructure upgrade cuts delivery times to under 48 hours for 90% of routes.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-19",
+        "status": "posted",
+        "tweet": "By 2026, electric vehicles and e-bikes will power 45% of urban delivery fleets in major \ud83c\uddfa\ud83c\uddf8 US and \ud83c\uddea\ud83c\uddfa EU cities, slashing last-mile emissions by 30%.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
