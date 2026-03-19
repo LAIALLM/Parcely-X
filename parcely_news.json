@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-09",
-        "status": "posted",
-        "tweet": "Top large cities by weekly online grocery and food delivery orders per capita in 2026 projections.\n\n\ud83c\uddf8\ud83c\uddec Singapore (4.2 orders)\n\ud83c\uddfa\ud83c\uddf8 New York (3.8)\n\ud83c\uddec\ud83c\udde7 London (3.5)\n\ud83c\udde8\ud83c\uddf3 Shanghai (3.3)\n\ud83c\uddf0\ud83c\uddf7 Seoul (3.1)",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
-        "date": "2026-03-09",
-        "status": "posted",
-        "tweet": "UPS infrastructure in 2026 processes 28 million packages daily across 1,200 global facilities, achieving 98% automation efficiency.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-03-10",
         "status": "posted",
         "tweet": "By 2026, global parcel lockers reach 900,000 units.\n\n\ud83c\uddea\ud83c\uddfa Europe leads with 550,000, while \ud83c\uddfa\ud83c\uddf8 US trails at 25,000.",
@@ -491,5 +476,12 @@
         "tweet": "By 2026, global parcel locker networks will number 750,000 units, handling 3 billion packages yearly.\n\nProjections show this doubling to 1.5 million units by 2030, serving 6 billion packages.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-03-19",
+        "status": "posted",
+        "tweet": "UPS $UPS infrastructure: Processes 28 million packages daily across 500+ facilities worldwide.\n\n\ud83c\uddfa\ud83c\uddf8 Worldport hub in Louisville handles 416,000 packages per hour in 2026.",
+        "type": "infrastructure"
     }
 ]
