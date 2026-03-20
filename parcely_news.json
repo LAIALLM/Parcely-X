@@ -506,5 +506,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHE0LVIzSnVVU1NwTENVb0ZibU5MWXd2T0R2TVdHRzlfRkdVUDZEdTladGl2Uk1fM05qRklkSXdNbW5rUzJ0U2p0UTh0XzE1NWVWVkpyREdlNDJ1TmNiUE1QSm05ckNWT0hieEdzU3FwUmlleU1rUjllaVlvVHV2enVvYXpMdzFl?oc=5",
+        "date": "2026-03-20",
+        "title": "Mother's Day eCommerce orders rise as delivery shifts - IT Brief UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHE0LVIzSnVVU1NwTENVb0ZibU5MWXd2T0R2TVdHRzlfRkdVUDZEdTladGl2Uk1fM05qRklkSXdNbW5rUzJ0U2p0UTh0XzE1NWVWVkpyREdlNDJ1TmNiUE1QSm05ckNWT0hieEdzU3FwUmlleU1rUjllaVlvVHV2enVvYXpMdzFl?oc=5\" target=\"_blank\">Mother's Day eCommerce orders rise as delivery shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Brief UK</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3c3UVhIem1fdFNVYVYyOENwWDdVQV9rZHl3TlVrc3lkRmpneC1qT000bGtGN2pyRWdNcG04LTRtYmhRTWZDTnc3djZPTVhyS3N0NmxQVXVuMDNDbkhaNTZWbzIwSGhtMlZNaGo5MEJyOHdlTU4wN2ZwUDZqQlVFX0tBcXRTTDRwWEhCUzlvMVlWY3VtQVBXS2U2dVZGaFBRMXZZZkRfQmVsSG10RGR3?oc=5",
+        "date": "2026-03-20",
+        "title": "From being Flipkart\u2019s backbone to scaling Bharat\u2019s D2C brands, Ekart is building the new supply chain OS - YourStory.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3c3UVhIem1fdFNVYVYyOENwWDdVQV9rZHl3TlVrc3lkRmpneC1qT000bGtGN2pyRWdNcG04LTRtYmhRTWZDTnc3djZPTVhyS3N0NmxQVXVuMDNDbkhaNTZWbzIwSGhtMlZNaGo5MEJyOHdlTU4wN2ZwUDZqQlVFX0tBcXRTTDRwWEhCUzlvMVlWY3VtQVBXS2U2dVZGaFBRMXZZZkRfQmVsSG10RGR3?oc=5\" target=\"_blank\">From being Flipkart\u2019s backbone to scaling Bharat\u2019s D2C brands, Ekart is building the new supply chain OS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YourStory.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
