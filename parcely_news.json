@@ -554,5 +554,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon acquires four-legged robot maker, promising faster and more efficient deliveries ahead. $AMZN",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDdnNEUzc0VVQW43V3RRNkEyeV9Gc2NTV040TUFzVUlheUd4TWJNWmZBSUVsc3Naa0F6cU5FMlM4c2ZMekJLNV9UbDRiZkFsOUtmdFpPc1NUcnEzY2JSUEdkdGE0S05oUkI4blExY0ViSG8tMFgzODFnaUNjdzMxU0tjSEFzbDlWMkN5Y3NZZGtYa1k?oc=5",
+        "date": "2026-03-20",
+        "title": "Mother\u2019s Day is no longer a last-minute rush as shoppers spread demand and embrace more flexible delivery options - A1 Retail Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDdnNEUzc0VVQW43V3RRNkEyeV9Gc2NTV040TUFzVUlheUd4TWJNWmZBSUVsc3Naa0F6cU5FMlM4c2ZMekJLNV9UbDRiZkFsOUtmdFpPc1NUcnEzY2JSUEdkdGE0S05oUkI4blExY0ViSG8tMFgzODFnaUNjdzMxU0tjSEFzbDlWMkN5Y3NZZGtYa1k?oc=5\" target=\"_blank\">Mother\u2019s Day is no longer a last-minute rush as shoppers spread demand and embrace more flexible delivery options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">A1 Retail Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
