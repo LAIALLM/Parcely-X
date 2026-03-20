@@ -564,5 +564,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-20",
+        "status": "posted",
+        "tweet": "Global smart building market for homes and offices projected to hit $137 billion by 2026, up 62% from 2023.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
