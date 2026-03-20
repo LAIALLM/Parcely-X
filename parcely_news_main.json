@@ -267,5 +267,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-20",
+        "status": "posted",
+        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Texas distribution center now processes 1.2 million parcels daily, up 25% from 2025.",
+        "type": "infrastructure"
     }
 ]
