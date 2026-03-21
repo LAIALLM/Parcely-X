@@ -276,5 +276,13 @@
         "status": "posted",
         "tweet": "LogiCore's \ud83c\uddfa\ud83c\uddf8 Chicago hub in 2026 processes 1.2 million packages daily across its automated infrastructure.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-21",
+        "status": "posted",
+        "tweet": "Top cities for smart access system adoption in buildings, 2026 rates:\n\n1. \ud83c\uddf8\ud83c\uddec Singapore - 87%\n2. \ud83c\uddfa\ud83c\uddf8 San Francisco - 81%\n3. \ud83c\uddec\ud83c\udde7 London - 76%\n4. \ud83c\uddef\ud83c\uddf5 Tokyo - 73%\n5. \ud83c\udde6\ud83c\uddea Dubai - 70%",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
