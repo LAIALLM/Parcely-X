@@ -1,50 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-11",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS logistics network processed 24 million packages daily in Q2 2026, achieving 99.2% operational uptime across 5,000 facilities. $UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXo4Q2lOS0hxbTBFSkpwT2xBM3A1cTNSZXdfeVB2T0Fod29MYW43MER4UkM1b1Jla1RINWtmcjlyUENfVkhyMktuT0ZMcWoydjVGTTRrQUJFNzdGWEtnNERmd2hOUHZqVFB1Z0VvS2VFclQ1ajVJaEZKWFRqVDliNnJB?oc=5",
-        "date": "2026-03-11",
-        "title": "A delivery robot that learns from spatial information obtained from games like 'Pok\u00e9mon GO' has been born - GIGAZINE",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXo4Q2lOS0hxbTBFSkpwT2xBM3A1cTNSZXdfeVB2T0Fod29MYW43MER4UkM1b1Jla1RINWtmcjlyUENfVkhyMktuT0ZMcWoydjVGTTRrQUJFNzdGWEtnNERmd2hOUHZqVFB1Z0VvS2VFclQ1ajVJaEZKWFRqVDliNnJB?oc=5\" target=\"_blank\">A delivery robot that learns from spatial information obtained from games like 'Pok\u00e9mon GO' has been born</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-03-11",
-        "status": "posted",
-        "tweet": "By 2026, global parcel locker networks will total 1.5 million units, doubling from 750,000 in 2023.\n\n\ud83c\uddfa\ud83c\uddf8 US pickup points will handle 25% of e-commerce deliveries, vs. 12% in Europe.",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": "https://theloadstar.com/exclusive-freightwaves-rail-merger-critics-should-quit-looking-backward-union-pacific-ceo/",
-        "date": "2026-03-11",
-        "title": "EXCLUSIVE: FreightWaves: Rail merger critics should \u2018quit looking backward\u2019 \u2013 Union Pacific CEO",
-        "summary": "<p>FREIGHTWAVES reports:<br />\nIn\u00a0The Tempest, Shakespeare wrote, \u201cwhat\u2019s past is prologue,\u201d meaning history sets the context for the present and dictates future events. Except, apparently, when it comes to transcontinental railroads.\u00a0<br />\nIn an exclusive interview with FreightWaves, Union Pacific Chief Executive Jim Vena fired back at critics of his blockbuster merger with Norfolk Southern, insisting it won\u2019t have the lasting price and service issues that have accompanied past transportation consolidations even as it ...</p>\n<p>The post <a href=\"https://theloadstar.com/exclusive-freightwaves-rail-merger-critics-should-quit-looking-backward-union-pacific-ceo/\">EXCLUSIVE: FreightWaves: Rail merger critics should &#8216;quit looking backward&#8217; \u2013 Union Pacific CEO</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/investing-com-forward-air-sale-unlikely-as-strategic-review-nears-close-sources/",
-        "date": "2026-03-11",
-        "title": "Investing.com: Forward Air sale unlikely as strategic review nears close \u2013 sources",
-        "summary": "<p>Investing.com reports:<br />\nFor over one year, Forward Air Corporation (NASDAQ:FWRD)\u00a0has been exploring strategic options, including a potential sale. That review process is now nearly complete, but it will unlikely result in the sale of the entire company, people familiar with the matter told Investing.com. Although a whole-company sale is doubtful, the company is exploring other options\u00a0to maximize shareholder value.<br />\nThe development comes as two private equity firms recently withdrew from the bidding ...</p>\n<p>The post <a href=\"https://theloadstar.com/investing-com-forward-air-sale-unlikely-as-strategic-review-nears-close-sources/\">Investing.com: Forward Air sale unlikely as strategic review nears close \u2013 sources</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://theloadstar.com/tradelanes-maersk-leads-as-carriers-boost-intra-europe-capacity/",
         "date": "2026-03-12",
         "title": "Tradelanes: Maersk leads as carriers boost intra-Europe capacity",
@@ -582,5 +537,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-21",
+        "status": "posted",
+        "tweet": "Fastest-growing smart residential/office buildings 2026-2030 (annual % growth projection)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 25%\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 22%\n\n\ud83c\uddf8\ud83c\udde6 Riyadh, Saudi Arabia: 20%\n\n\ud83c\uddfa\ud83c\uddf8 New York, USA: 18%\n\n\ud83c\uddf8\ud83c\uddec Singapore: 16%",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
