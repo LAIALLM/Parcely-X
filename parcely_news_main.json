@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-11",
-        "status": "posted",
-        "tweet": "Last-mile logistics worldwide emit 180 million metric tons of CO2 annually in 2026.\n\nBuilding-integrated networks cut that to 90 million tons by localizing deliveries.\n\nProjections show 40% further drop by 2030.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
-        "date": "2026-03-11",
-        "status": "posted",
-        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub handles 750,000 packages daily through automated sorting lines, cutting processing time to under 2 minutes per item.",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPSEI5MjhPQ0hLWGsyRU1HdlZuSjl5ZF9XSXBadVR4alpnNlprdDRqanp3OVZxWDhxTy1VVjNaM3Zqdm5hYzBFdHZDQ0RGeU9FQmFhRFVWdjFoWDlNdENnU2tGcHRaY1d6dXhraFJDV2drdWE4RlhnNE1MX0pNWFJGbzQ4WEFHT0hKbFIyV0t5SlZDbFVBZ1RrV0RibTZOT0hBU183REVMeHlVczJkdzdrS3NRd0VDSDMtUGIwR2JlYWxWM3hya2pkVzk3R3RVSnJ0Vk9Pa0lwNm9DLXlwM0praWIzV0lfemt5V0ZLUnB5TGxXLTZCT0xBMUVCTHhmVFV5SlBvdy1uNGpYNFBDS0xKeGVRMXFJcnBXMURUSjQ4SkZnUmJKaXdsdTRydlJOSEJudnBWb0oxcm9LUEp5TktNcjRtOEU?oc=5",
         "date": "2026-03-12",
         "title": "UAE Quick Commerce Market to Grow at a CAGR of 3.72% During 2026-2032, Driven by Rising Demand for Ultra-Fast Delivery and Digital Retail Expansion | MarkNtel Advisors - PR Newswire UK",
@@ -284,5 +269,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-21",
+        "status": "posted",
+        "tweet": "LogiCore's \ud83c\uddfa\ud83c\uddf8 Chicago hub in 2026 processes 1.2 million packages daily across its automated infrastructure.",
+        "type": "infrastructure"
     }
 ]
