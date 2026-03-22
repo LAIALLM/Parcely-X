@@ -453,5 +453,13 @@
         "status": "posted",
         "tweet": "UPS sorts 25 million packages daily across 800 facilities in \ud83c\uddfa\ud83c\uddf8, \ud83c\udde8\ud83c\udde6, \ud83c\uddf2\ud83c\uddfd.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-22",
+        "status": "posted",
+        "tweet": "In 2026, smart residential buildings account for 28% of global new constructions.\n\nSmart office buildings reach 42%, fueled by automation demands.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
