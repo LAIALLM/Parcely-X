@@ -241,5 +241,12 @@
         "tweet": "By 2026, 55% of commercial buildings in \ud83c\uddfa\ud83c\uddf8 will use smart access systems.\n\nIn \ud83c\uddea\ud83c\uddfa, adoption will reach 45%.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-03-22",
+        "status": "posted",
+        "tweet": "Logistics firm CargoFlow processes 1.8 million packages daily at its \ud83c\uddfa\ud83c\uddf8 Dallas hub in 2026, optimizing regional delivery networks.",
+        "type": "infrastructure"
     }
 ]
