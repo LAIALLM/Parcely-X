@@ -395,5 +395,13 @@
         "tweet": "In 2026, smart residential buildings account for 28% of global new constructions.\n\nSmart office buildings reach 42%, fueled by automation demands.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-03-23",
+        "status": "posted",
+        "tweet": "Last-mile delivery costs per parcel in large metros hit $12.50 in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 NYC: $14.20\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: $7.80\n\nUrban congestion drives the gap, with projections rising 15% by 2030 in the US.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
