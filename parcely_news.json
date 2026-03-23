@@ -403,5 +403,12 @@
         "tweet": "Last-mile delivery costs per parcel in large metros hit $12.50 in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 NYC: $14.20\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: $7.80\n\nUrban congestion drives the gap, with projections rising 15% by 2030 in the US.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-03-23",
+        "status": "posted",
+        "tweet": "UPS's \ud83c\uddfa\ud83c\uddf8 Atlanta Superhub processes 1.2 million packages hourly in 2026, optimizing North American logistics efficiency.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
