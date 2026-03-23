@@ -441,5 +441,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Amazon Now and JD.coms Joy Buy rapid delivery services tested in London and Germany $AMZN $JD",
         "type": "news"
+    },
+    {
+        "link": "https://theloadstar.com/ports-and-inland-bottlenecks-not-ships-now-choke-global-supply-chains/",
+        "date": "2026-03-23",
+        "title": "Ports and inland bottlenecks, not ships, now choke global supply chains",
+        "summary": "<p>Port congestion and inland logistics bottlenecks are emerging as the primary constraint on global supply chains, even as vessel capacity continues to expand, according to DHL Global Forwarding.<br />\nDespite a significant orderbook of new ships entering the market, structural inefficiencies on land are limiting the effective flow of goods.<br />\n\u201cWe continuously see around 3m teus are tied up in port congestions,\u201d said Jacob Moe, global head of FCL and trade management at ...</p>\n<p>The post <a href=\"https://theloadstar.com/ports-and-inland-bottlenecks-not-ships-now-choke-global-supply-chains/\">Ports and inland bottlenecks, not ships, now choke global supply chains</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/stb-orders-antitrust-grade-discovery-in-rail-ma-up-ns-the-test-case/",
+        "date": "2026-03-23",
+        "title": "STB orders antitrust-grade discovery in rail M&A: UP-NS the test case",
+        "summary": "<p>In a nutshell: The Surface Transportation Board\u2019s (STB) demand for internal merger documents, issued on its own initiative after the Department of Justice called them \u201ccritically important\u201d, transforms this from a regulatory filing exercise into something much closer to an antitrust trial. And the opponents showed up in Washington with live alternatives, not just objections.<br />\nThere is a particular kind of theater that happens when an entire industry descends on the ...</p>\n<p>The post <a href=\"https://theloadstar.com/stb-orders-antitrust-grade-discovery-in-rail-ma-up-ns-the-test-case/\">STB orders antitrust-grade discovery in rail M&#038;A: UP-NS the test case</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
