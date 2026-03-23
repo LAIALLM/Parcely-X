@@ -461,5 +461,35 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0lvZENQLXl5MkQ1QV9lYWt6M2U4dVdTVHNhVmUzVFZ0bHJWR0M1akZwdnAxdmpmT2szR1FKRjY0WTJMT0dHVEVJQU1heDI5dmNzOGpwS19SX25pS003NWJfS29nT3RSSjNjOUd5d3pFRXdDTVlTVmhMdEx4MGhuRlAtZTQ5Z2RSS1BHS1VuQWpNc1BnYXc?oc=5",
+        "date": "2026-03-23",
+        "title": "Amazon debuts 1-hour, 3-hour delivery options - Retail Customer Experience",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0lvZENQLXl5MkQ1QV9lYWt6M2U4dVdTVHNhVmUzVFZ0bHJWR0M1akZwdnAxdmpmT2szR1FKRjY0WTJMT0dHVEVJQU1heDI5dmNzOGpwS19SX25pS003NWJfS29nT3RSSjNjOUd5d3pFRXdDTVlTVmhMdEx4MGhuRlAtZTQ5Z2RSS1BHS1VuQWpNc1BnYXc?oc=5\" target=\"_blank\">Amazon debuts 1-hour, 3-hour delivery options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Customer Experience</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/maersk-agm-faces-fresh-activist-pressure-over-israel-linked-military-supply-chain-role/",
+        "date": "2026-03-23",
+        "title": "Maersk AGM faces fresh activist pressure over Israel-linked military supply chain role",
+        "summary": "<p>Ahead of its annual general meeting due to take place in Copenhagen on Wednesday, AP Moller Maersk is facing new questions from activist investors over its role in Israel\u2019s military-linked supply chains.<br />\nCorporate accountability group Eko has filed a proposal to Maersk shareholders calling for \u201cconcrete disclosures on how the company identifies, assesses, and mitigates risks across these operations \u2013 amid mounting evidence that current safeguards are failing\u201d.<br />\nThe group added that ...</p>\n<p>The post <a href=\"https://theloadstar.com/maersk-agm-faces-fresh-activist-pressure-over-israel-linked-military-supply-chain-role/\">Maersk AGM faces fresh activist pressure over Israel-linked military supply chain role</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/argentinas-trade-boom-puts-forwarders-on-alert-for-growth-opportunities/",
+        "date": "2026-03-23",
+        "title": "Argentina\u2019s trade boom puts forwarders on alert for growth opportunities",
+        "summary": "<p>Forwarders are taking note of the gangbuster pace of growth being recorded in Argentinian imports and exports, leading several to highlight the South American country as one of their more promising prospects for the year ahead.<br />\nMuch of the success has been put down to controversial president Javier Milie\u2019s bonfire of regulation and lifting of tariffs approach to international trade, painting a stark picture of the difference in approach being taken ...</p>\n<p>The post <a href=\"https://theloadstar.com/argentinas-trade-boom-puts-forwarders-on-alert-for-growth-opportunities/\">Argentina\u2019s trade boom puts forwarders on alert for growth opportunities</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
