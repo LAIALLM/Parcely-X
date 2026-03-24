@@ -592,5 +592,25 @@
         "tweet": "Top 5 cities by projected % of delivery fleets using EVs and micro-mobility in 2026\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen - 92%\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam - 85%\n\n\ud83c\uddeb\ud83c\uddf7 Paris - 78%\n\n\ud83c\uddf8\ud83c\uddec Singapore - 72%\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles - 68%",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmR1MFMyb084M2RpR092V0NjTHZRNFRwelRiS1FpMndNR3VMbV8zVG9HTE5ITVl3Z0J0b3hqQXhXQWtsNDBFRU05emJhRU84Z1RPbTMydEZ2dHYzRDVtWHMwbFY5UjIxbjk3ZGhEWjVlaVRGaHN4Q3Z6OVFDOVdaa2pBVWZ3NjlpWnE3V3ZOMDBaTFk?oc=5",
+        "date": "2026-03-24",
+        "title": "Delivery robot crashes through Chicago bus shelter in viral video - Interesting Engineering",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmR1MFMyb084M2RpR092V0NjTHZRNFRwelRiS1FpMndNR3VMbV8zVG9HTE5ITVl3Z0J0b3hqQXhXQWtsNDBFRU05emJhRU84Z1RPbTMydEZ2dHYzRDVtWHMwbFY5UjIxbjk3ZGhEWjVlaVRGaHN4Q3Z6OVFDOVdaa2pBVWZ3NjlpWnE3V3ZOMDBaTFk?oc=5\" target=\"_blank\">Delivery robot crashes through Chicago bus shelter in viral video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmd5SE9ERXJjR2lCUnVFZ2pTbWJOaFpLU20wT2lrM0wzOGlJaTd6WUZoaEJuZlQ1T3dNNmg5T09LVV9OdnlaMktfQW5KNkxnVy1mdVdKSkkyQVdnajZWaklMTWgyNmdpLWNGanhTREcxVkdvRk1UVkFzQUNsX3R6WlE1SWxldXBYZENmZWl6aUhTM1RE?oc=5",
+        "date": "2026-03-24",
+        "title": "Chicago Delivery Robot Crashes Into Bus Stop, Shattering Glass - Gadget Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmd5SE9ERXJjR2lCUnVFZ2pTbWJOaFpLU20wT2lrM0wzOGlJaTd6WUZoaEJuZlQ1T3dNNmg5T09LVV9OdnlaMktfQW5KNkxnVy1mdVdKSkkyQVdnajZWaklMTWgyNmdpLWNGanhTREcxVkdvRk1UVkFzQUNsX3R6WlE1SWxldXBYZENmZWl6aUhTM1RE?oc=5\" target=\"_blank\">Chicago Delivery Robot Crashes Into Bus Stop, Shattering Glass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
