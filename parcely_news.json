@@ -564,5 +564,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161565/news/e-commerce/evri-cargo-bikes-are-now-capable-of-offering-a-comparable-alternative-to-traditional-vans/",
+        "date": "2026-03-24",
+        "title": "Evri: cargo bikes are now capable of offering a comparable alternative to traditional vans",
+        "summary": "Evri\u00a0has recorded full uptime with zero servicing during a winter pilot of four-wheeled e-cargo bikes by\u00a0Vok Bikes\u00a0\u2013 during the busiest period of the year for parcel delivery.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161559/news/parcelhero-to-enable-businesses-to-control-delivery-operations-with-confidence/",
+        "date": "2026-03-24",
+        "title": "Parcelhero to enable businesses to \u201ccontrol delivery operations with confidence\u201d",
+        "summary": "Parcelhero, the\u00a0 parcel price comparison site, has launched AI-powered live tracking and a new streamlined, high-speed booking interface. This upgrade will bring individuals and growing businesses greater control over their shipping.",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
