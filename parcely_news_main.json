@@ -204,5 +204,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon is expanding fast delivery to rural areas with new hubs and drone tech.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-24",
+        "status": "posted",
+        "tweet": "In 2026, global last-mile logistics spew 180 million metric tons of CO2 annually.\n\nBuilding-integrated networks project 70 million metric tons \u2013 a 61% cut by localizing deliveries.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
