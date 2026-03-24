@@ -212,5 +212,12 @@
         "tweet": "In 2026, global last-mile logistics spew 180 million metric tons of CO2 annually.\n\nBuilding-integrated networks project 70 million metric tons \u2013 a 61% cut by localizing deliveries.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-03-24",
+        "status": "posted",
+        "tweet": "LogiFreight's global network hit 2.5 million daily parcel scans in 2026, boosting efficiency by 18% via upgraded AI sorting in \ud83c\uddfa\ud83c\uddf8 USA hubs.",
+        "type": "infrastructure"
     }
 ]
