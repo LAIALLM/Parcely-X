@@ -584,5 +584,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-24",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected % of delivery fleets using EVs and micro-mobility in 2026\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen - 92%\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam - 85%\n\n\ud83c\uddeb\ud83c\uddf7 Paris - 78%\n\n\ud83c\uddf8\ud83c\uddec Singapore - 72%\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles - 68%",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
