@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-14",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\udde8\ud83c\uddf3 Shanghai warehouse now handles 2.5 million packages daily, boosting efficiency by 35% in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-03-14",
-        "status": "posted",
-        "tweet": "Last-mile logistics worldwide: 280 million tons CO2 emissions in 2026 from urban deliveries.\n\nBuilding-integrated networks: Cut that to 84 million tons by localizing supply chains in structures.\n\nA 70% drop projected by 2030.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-03-15",
         "status": "posted",
         "tweet": "Porch piracy surges: Projected 2026 package thefts in major cities hit record highs, up 25% from 2023.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 450,000 cases\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 380,000 cases\n\ud83c\uddfa\ud83c\uddf8 Chicago: 320,000 cases\n\ud83c\uddfa\ud83c\uddf8 Houston: 290,000 cases\n\ud83c\uddfa\ud83c\uddf8 Philadelphia: 260,000 cases",
@@ -188,5 +173,36 @@
         "status": "posted",
         "tweet": "GlobalFreight Logistics hit 1.2 million daily package scans in 2026.\n\nThis powers their network of 850 warehouses, cutting delivery times by 22% from 2025 levels.\n\nKey hub: \ud83c\uddfa\ud83c\uddf8Chicago processes 150,000 scans daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNLWNQQ29wdGF6ZDR6a1BocjRTQzZ5bzJGMlo0M1NRbnY1aUw5MXNiWDlFd1h6MDh6Qy1Lampudi1pbTRTc21NT0JPZV9MUDdwc3Voa2Vlc1FLVzNLRTE0S2pwUnZNT2tBajRNOXFMc0VndzRBNFFhbF9wN09fZ0RocWhTem9wR0FzR2RLR085TV9ieW5qMnh5NzFVaTJ4cnQ0WU5yQWN2UXN4LW9WRnl5TEFxY0FVTjJyY0tnSFZZYVRlRlVyNVVIZVdQVmZpXzVCMmJ6cWUyYlM4bWtOQkQ0Y2tVcGdfNzZyazdMb3ZWZWZTN3NneG9wWDlBX0EyZUFzZThmQnNQSmRvNW1KMHR2Y2M0cXdYaGVfWVNvT294VGFzVENHaE1xYjRWOVRrSk05WTNfUFdaX1Z1M0REcVBtVGdlLW5KRTZ3Si1GWENzX25rOXFCZDhlSjJaMmliLUMyY2UxSk1wdjhIVUkyWE11UC1NbnBJRUpUTl9WVF9VeUFuLWZIRlM2bkRleDFJRjQ1WVJwc280ZHNPd2hORnc3NHczbjdhQXRL?oc=5",
+        "date": "2026-03-24",
+        "title": "How Amazon Is Bringing Fast Delivery to Rural America - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxNLWNQQ29wdGF6ZDR6a1BocjRTQzZ5bzJGMlo0M1NRbnY1aUw5MXNiWDlFd1h6MDh6Qy1Lampudi1pbTRTc21NT0JPZV9MUDdwc3Voa2Vlc1FLVzNLRTE0S2pwUnZNT2tBajRNOXFMc0VndzRBNFFhbF9wN09fZ0RocWhTem9wR0FzR2RLR085TV9ieW5qMnh5NzFVaTJ4cnQ0WU5yQWN2UXN4LW9WRnl5TEFxY0FVTjJyY0tnSFZZYVRlRlVyNVVIZVdQVmZpXzVCMmJ6cWUyYlM4bWtOQkQ0Y2tVcGdfNzZyazdMb3ZWZWZTN3NneG9wWDlBX0EyZUFzZThmQnNQSmRvNW1KMHR2Y2M0cXdYaGVfWVNvT294VGFzVENHaE1xYjRWOVRrSk05WTNfUFdaX1Z1M0REcVBtVGdlLW5KRTZ3Si1GWENzX25rOXFCZDhlSjJaMmliLUMyY2UxSk1wdjhIVUkyWE11UC1NbnBJRUpUTl9WVF9VeUFuLWZIRlM2bkRleDFJRjQ1WVJwc280ZHNPd2hORnc3NHczbjdhQXRL?oc=5\" target=\"_blank\">How Amazon Is Bringing Fast Delivery to Rural America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon is rolling out same-day delivery to rural America using local hubs and optimized routes."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmdGcWhubGxQelZXUWF3ZEF0T0tMTHFtVXA1UWoySFJNUHFpVmMwUGxPNlJRR0VsSnJzTUQ1MmtrWEp4VzRIZW9IN2FoMzhFbmMtSUNJcU8tSmFETGZTZ3htNGpiRm00bWZrTzZxTy1HQmR5WFdPWTdLcE5Uem9HY2xLLWxIUkRWT3hlbHRZclBVYUplNnkyTE1xZ1ZjNzg0V3N6ejlZR1A0SWRDbzJjMG1xSzV3N1Q2Mnk5WDEzdVQtdVA0RkY2U3V30gHPAUFVX3lxTE02NGdpMUY3ZlExS3lXZ2hrVFUwd0l6V3B4UUZiRV9ZeTVqZ0ItemhZbk9KeGVxMllNUFo1QXFpX2M2c3hZaU9ZN1hHZllWOFhZUVRxOFZzSnhuMnd3Ukl6SUx2Rko2bzFRY2xYWUN3RzhIanM2QkhyU2d4dm00RmFZQUdQb25CNW5YUDU5X2hBVVp4eGlCM1l2Yjc1M0Zma05zenBOVEFVa3hzdXptTkZvRElXdVhtLXZQdjNKdjBtYWtMLW9oZDgzejFrZ3p3OA?oc=5",
+        "date": "2026-03-24",
+        "title": "A summer of worry for food delivery, quick commerce companies - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmdGcWhubGxQelZXUWF3ZEF0T0tMTHFtVXA1UWoySFJNUHFpVmMwUGxPNlJRR0VsSnJzTUQ1MmtrWEp4VzRIZW9IN2FoMzhFbmMtSUNJcU8tSmFETGZTZ3htNGpiRm00bWZrTzZxTy1HQmR5WFdPWTdLcE5Uem9HY2xLLWxIUkRWT3hlbHRZclBVYUplNnkyTE1xZ1ZjNzg0V3N6ejlZR1A0SWRDbzJjMG1xSzV3N1Q2Mnk5WDEzdVQtdVA0RkY2U3V30gHPAUFVX3lxTE02NGdpMUY3ZlExS3lXZ2hrVFUwd0l6V3B4UUZiRV9ZeTVqZ0ItemhZbk9KeGVxMllNUFo1QXFpX2M2c3hZaU9ZN1hHZllWOFhZUVRxOFZzSnhuMnd3Ukl6SUx2Rko2bzFRY2xYWUN3RzhIanM2QkhyU2d4dm00RmFZQUdQb25CNW5YUDU5X2hBVVp4eGlCM1l2Yjc1M0Zma05zenBOVEFVa3hzdXptTkZvRElXdVhtLXZQdjNKdjBtYWtMLW9oZDgzejFrZ3p3OA?oc=5\" target=\"_blank\">A summer of worry for food delivery, quick commerce companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNLWNQQ29wdGF6ZDR6a1BocjRTQzZ5bzJGMlo0M1NRbnY1aUw5MXNiWDlFd1h6MDh6Qy1Lampudi1pbTRTc21NT0JPZV9MUDdwc3Voa2Vlc1FLVzNLRTE0S2pwUnZNT2tBajRNOXFMc0VndzRBNFFhbF9wN09fZ0RocWhTem9wR0FzR2RLR085TV9ieW5qMnh5NzFVaTJ4cnQ0WU5yQWN2UXN4LW9WRnl5TEFxY0FVTjJyY0tnSFZZYVRlRlVyNVVIZVdQVmZpXzVCMmJ6cWUyYlM4bWtOQkQ0Y2tVcGdfNzZyazdMb3ZWZWZTN3NneG9wWDlBX0EyZUFzZThmQnNQSmRvNW1KMHR2Y2M0cXdYaGVfWVNvT294VGFzVENHaE1xYjRWOVRrSk05WTNfUFdaX1Z1M0REcVBtVGdlLW5KRTZ3Si1GWENzX25rOXFCZDhlSjJaMmliLUMyY2UxSk1wdjhIVUkyWE11UC1NbnBJRUpUTl9WVF9VeUFuLWZIRlM2bkRleDFJRjQ1WVJwc280ZHNPd2hORnc3NHczbjdhQXRL?oc=5",
+        "date": "2026-03-24",
+        "title": "How Amazon Is Bringing Fast Delivery to Rural America - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxNLWNQQ29wdGF6ZDR6a1BocjRTQzZ5bzJGMlo0M1NRbnY1aUw5MXNiWDlFd1h6MDh6Qy1Lampudi1pbTRTc21NT0JPZV9MUDdwc3Voa2Vlc1FLVzNLRTE0S2pwUnZNT2tBajRNOXFMc0VndzRBNFFhbF9wN09fZ0RocWhTem9wR0FzR2RLR085TV9ieW5qMnh5NzFVaTJ4cnQ0WU5yQWN2UXN4LW9WRnl5TEFxY0FVTjJyY0tnSFZZYVRlRlVyNVVIZVdQVmZpXzVCMmJ6cWUyYlM4bWtOQkQ0Y2tVcGdfNzZyazdMb3ZWZWZTN3NneG9wWDlBX0EyZUFzZThmQnNQSmRvNW1KMHR2Y2M0cXdYaGVfWVNvT294VGFzVENHaE1xYjRWOVRrSk05WTNfUFdaX1Z1M0REcVBtVGdlLW5KRTZ3Si1GWENzX25rOXFCZDhlSjJaMmliLUMyY2UxSk1wdjhIVUkyWE11UC1NbnBJRUpUTl9WVF9VeUFuLWZIRlM2bkRleDFJRjQ1WVJwc280ZHNPd2hORnc3NHczbjdhQXRL?oc=5\" target=\"_blank\">How Amazon Is Bringing Fast Delivery to Rural America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon is expanding fast delivery to rural areas with new hubs and drone tech.",
+        "type": "news"
     }
 ]
