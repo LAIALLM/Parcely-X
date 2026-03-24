@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-14",
-        "status": "posted",
-        "tweet": "By 2026, global e-commerce will see 5.2 billion failed first-attempt deliveries, costing the industry $85 billion in reshipments and lost sales.",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
-        "link": null,
-        "date": "2026-03-14",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8FedEx's global network moves 15 million packages daily in 2026, supported by 220,000 vehicles and 5,000 facilities.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-03-15",
         "status": "posted",
         "tweet": "FedEx's \ud83c\uddfa\ud83c\uddf8 Memphis Superhub processes 1.2 million packages per hour in 2026, powering its global logistics network.\n\n$FDX",
@@ -512,5 +497,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\uddf9 NEWS: CTT $CTT and DHL eCommerce joint venture receives unconditional approval from European Commission, clearing key regulatory hurdle for the deal announced in Dec 2024",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWEwbzM4WW5CNGlJc0YySkdXNHdCMXBpb0lEZlo2S1FwV1c0SVdjM040YndEMEFTWWg4TVJScG92XzNoT1dCM01aY1B2RDNmaDdKN1lOUnhBRTBHZVFjY2dnczMzU3pzOEczNUhUYVJ4bHd2OEZvbEpPSUVJVl9iaA?oc=5",
+        "date": "2026-03-24",
+        "title": "Courier price floor may hurt Malaysia\u2019s e-commerce - The Sun Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWEwbzM4WW5CNGlJc0YySkdXNHdCMXBpb0lEZlo2S1FwV1c0SVdjM040YndEMEFTWWg4TVJScG92XzNoT1dCM01aY1B2RDNmaDdKN1lOUnhBRTBHZVFjY2dnczMzU3pzOEczNUhUYVJ4bHd2OEZvbEpPSUVJVl9iaA?oc=5\" target=\"_blank\">Courier price floor may hurt Malaysia\u2019s e-commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sun Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
