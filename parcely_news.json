@@ -624,5 +624,15 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/161580/news/parcel/dhl-express-continues-to-drive-the-green-transformation-of-air-logistics/",
+        "date": "2026-03-25",
+        "title": "DHL Express continues \u201cto drive the green transformation of air logistics\u201d",
+        "summary": "SHEIN has signed an agreement with DHL to adopt its GoGreen Plus service, supporting the use of sustainable aviation fuel (SAF) within air cargo logistics.",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
