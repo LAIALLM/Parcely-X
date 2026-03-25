@@ -644,5 +644,15 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Db2NCYTZYQVhxcmQtY0RFZjJ0UHA0RFhjQzNVamFEZnA2Q3F2azN2Z1NEYWtPblBSWnNycG8xNnIxRW1vZE5ONjJsR05Hb3RGZUVCT2s0MnI3STYtZEUwTTJLVk5IZVZkVkdyY0xsQjkwVmZLOGpfUlFZbw?oc=5",
+        "date": "2026-03-25",
+        "title": "Has Same-Day Delivery Become an Expectation Across Retail? - RetailWire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5Db2NCYTZYQVhxcmQtY0RFZjJ0UHA0RFhjQzNVamFEZnA2Q3F2azN2Z1NEYWtPblBSWnNycG8xNnIxRW1vZE5ONjJsR05Hb3RGZUVCT2s0MnI3STYtZEUwTTJLVk5IZVZkVkdyY0xsQjkwVmZLOGpfUlFZbw?oc=5\" target=\"_blank\">Has Same-Day Delivery Become an Expectation Across Retail?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RetailWire</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
