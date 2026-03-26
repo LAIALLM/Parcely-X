@@ -214,5 +214,12 @@
         "status": "posted",
         "tweet": "LogiTech Logistics expanded its fleet to 15,000 electric trucks in 2026, cutting fuel use by 40% across North America.\n\nDaily operations now handle 2.5 million deliveries with zero emissions in key hubs like \ud83c\uddfa\ud83c\uddf8 Chicago and \ud83c\udde8\ud83c\udde6 Toronto.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-26",
+        "status": "posted",
+        "tweet": "LogiLink Logistics in 2026 handles 8 million packages daily through its 650 automated hubs.\n\nThis infrastructure supports 99% on-time deliveries across \ud83c\uddfa\ud83c\uddf8, \ud83c\uddea\ud83c\uddfa, and \ud83c\udde6\ud83c\uddfa networks.",
+        "type": "infrastructure"
     }
 ]
