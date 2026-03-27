@@ -563,5 +563,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXZELU1RdkEyVHRaQk9yeEF2NGE3TUV6bHBpb3B4aDd2UmNrQXd6VXVud1dCUmh0SnZFNHE1d0wwTXJpRGVnN3JSNUo2SE5LN0JsVmF3U3pabFZoVndxZVh0OW03RXk2WjlsR1V3b054TkQ3Ui1DUlBZXzc4aVRkWmR1elFZU2h2RUVjeEpGejRHaUQ5ckVrSzZRaXVoS3BfaXZ1dDhXVC1qa3c2RWNaendDRVNnS2ZFRnc?oc=5",
+        "date": "2026-03-27",
+        "title": "Why Last-Mile Agility Beats Speed-First Planning - Supply & Demand Chain Executive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXZELU1RdkEyVHRaQk9yeEF2NGE3TUV6bHBpb3B4aDd2UmNrQXd6VXVud1dCUmh0SnZFNHE1d0wwTXJpRGVnN3JSNUo2SE5LN0JsVmF3U3pabFZoVndxZVh0OW03RXk2WjlsR1V3b054TkQ3Ui1DUlBZXzc4aVRkWmR1elFZU2h2RUVjeEpGejRHaUQ5ckVrSzZRaXVoS3BfaXZ1dDhXVC1qa3c2RWNaendDRVNnS2ZFRnc?oc=5\" target=\"_blank\">Why Last-Mile Agility Beats Speed-First Planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply & Demand Chain Executive</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
