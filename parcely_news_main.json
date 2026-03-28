@@ -206,5 +206,12 @@
         "status": "posted",
         "tweet": "LogiCore's main data center in \ud83c\uddfa\ud83c\uddf8 USA processes 1.2 petabytes of shipment tracking data daily, powering real-time logistics for 5 million packages.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-28",
+        "status": "posted",
+        "tweet": "LogiCore Logistics hits 2026 infrastructure peak.\n\nGlobal network: 250 automated warehouses.\n\nDaily cargo volume: 4.2 million tons.\n\nOn-time efficiency: 99.2%.",
+        "type": "infrastructure"
     }
 ]
