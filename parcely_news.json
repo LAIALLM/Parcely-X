@@ -536,5 +536,12 @@
         "tweet": "By 2028, 65% of commercial buildings in the \ud83c\uddfa\ud83c\uddf8 US will use smart access systems, driven by rising demand for keyless entry and remote monitoring.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-03-28",
+        "status": "posted",
+        "tweet": "FedEx $FDX infrastructure milestone: 220 aircraft in fleet, handling 18M packages daily across 220 countries in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 Memphis Superhub efficiency: 1.5M sorts per hour.",
+        "type": "infrastructure"
     }
 ]
