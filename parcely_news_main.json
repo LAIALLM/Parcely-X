@@ -213,5 +213,13 @@
         "status": "posted",
         "tweet": "LogiCore Logistics hits 2026 infrastructure peak.\n\nGlobal network: 250 automated warehouses.\n\nDaily cargo volume: 4.2 million tons.\n\nOn-time efficiency: 99.2%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-28",
+        "status": "posted",
+        "tweet": "In 2026, 55% of residents in large \ud83c\uddfa\ud83c\uddf8 cities like New York and Los Angeles will order groceries online at least twice a week, up 30% from 2023 trends.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
