@@ -206,5 +206,12 @@
         "tweet": "In 2026, 55% of residents in large \ud83c\uddfa\ud83c\uddf8 cities like New York and Los Angeles will order groceries online at least twice a week, up 30% from 2023 trends.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-03-29",
+        "status": "posted",
+        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 hub processes 750,000 packages daily in 2026, with 99% on-time delivery.",
+        "type": "infrastructure"
     }
 ]
