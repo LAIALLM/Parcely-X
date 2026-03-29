@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-19",
-        "status": "posted",
-        "tweet": "UPS $UPS infrastructure: Processes 28 million packages daily across 500+ facilities worldwide.\n\n\ud83c\uddfa\ud83c\uddf8 Worldport hub in Louisville handles 416,000 packages per hour in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-03-19",
-        "status": "posted",
-        "tweet": "Top 5 cities by projected growth in smart residential and office buildings (2023-2026 % increase)\n\n1. \ud83c\udde8\ud83c\uddf3 Shenzhen: 250%\n2. \ud83c\uddee\ud83c\uddf3 Bangalore: 220%\n3. \ud83c\uddf8\ud83c\uddec Singapore: 180%\n4. \ud83c\udde6\ud83c\uddea Dubai: 160%\n5. \ud83c\uddfa\ud83c\uddf8 Austin: 150%",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmNaZ1VQRDNQYlFCOEZpckFPRU9nTVVMWEFLdTJaMTJZZWFDekdnWjM2V1VFcUNmMU9DV1g2RTAzX3AxeUNicE9RTXJyeW44b1h6TWp3UFhFQ1dJOU5BUlR4X25XTnVKOEJuMnhENU9sZm1JejFCZ1FQOHE2dEZSUmRucHV3ZDFmS3RRRmdCazhvRFdWcXNLdFprTlYxTURBcWZNSndnNG1ia09nZmhsY1ZWY3RvZklHbVZ3QjVRVXdIdVZqR0xUVEdldzRLX1dkWjhIV2RScFlLWjY5elNZb1Jac2s?oc=5",
         "date": "2026-03-20",
         "title": "Coupang CEO does dawn delivery with DP lawmaker in promised labor check - Korea JoongAng Daily",
@@ -563,5 +548,13 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-29",
+        "status": "posted",
+        "tweet": "Porch piracy surges 25% in 2026 amid e-commerce boom, hitting 1.2M incidents in top US cities.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 185,000 thefts\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 142,000 thefts\n\ud83c\uddfa\ud83c\uddf8 Chicago: 98,000 thefts\n\ud83c\uddfa\ud83c\uddf8 Houston: 76,000 thefts\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 64,000 thefts",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
