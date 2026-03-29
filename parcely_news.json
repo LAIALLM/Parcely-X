@@ -573,5 +573,15 @@
         "status": "posted",
         "tweet": "UPS $UPS infrastructure metric: 28 million packages processed daily via automated hubs in 2026, achieving 98.7% efficiency rate.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUE4MWxOQ1JUcU1KczJpYURRYmxCUWRWYkpjWmxvMXhORU5MU08yVlIwMENvQVZJYU9VVkVhVjE1WU5qVFltQ25JeWgzek1XanAtMDFCMTZaYU5VVWRHN3VtSVUtenNGcC1wOFZTOERYZXpzNUN1LV9fWFZDc0FLbTdFVXBUaXh1Mkw4bTZkNUZZaDRPWTVSb0drbE53Vy1PV21SbzN2R2V4cmlHNlVsR3VKVUVnbXJu?oc=5",
+        "date": "2026-03-29",
+        "title": "How far can Serve Robotics (SERV) push its delivery robot opportunity? - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUE4MWxOQ1JUcU1KczJpYURRYmxCUWRWYkpjWmxvMXhORU5MU08yVlIwMENvQVZJYU9VVkVhVjE1WU5qVFltQ25JeWgzek1XanAtMDFCMTZaYU5VVWRHN3VtSVUtenNGcC1wOFZTOERYZXpzNUN1LV9fWFZDc0FLbTdFVXBUaXh1Mkw4bTZkNUZZaDRPWTVSb0drbE53Vy1PV21SbzN2R2V4cmlHNlVsR3VKVUVnbXJu?oc=5\" target=\"_blank\">How far can Serve Robotics (SERV) push its delivery robot opportunity?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
