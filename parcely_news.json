@@ -484,5 +484,15 @@
         "status": "posted",
         "tweet": "UPS processes 24 million packages daily through its 1,200+ \ud83c\uddfa\ud83c\uddf8US facilities, optimizing logistics infrastructure efficiency at 99.5%. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/the-loadstar-snapshot-ep-1-dsv-migrates-from-cargowise/",
+        "date": "2026-03-30",
+        "title": "The Loadstar Snapshot Ep. 1: DSV migrates from CargoWise",
+        "summary": "<p>Welcome to the first episode of our new weekly video series, The Loadstar Snapshot. This week, we examine the build vs. buy debate in global logistics and why DSV is moving some of its operations away from WiseTech\u2019s CargoWise to DB Schenker\u2019s Tango.<br />\nRead the exclusive: https://theloadstar.com/market-watching-as-dsv-begins-switch-from-cargowise-to-tango/<br />\nPremium analysis: https://theloadstar.com/setting-the-stage-for-a-dsv-wisetech-divorce/ &#38; https://theloadstar.com/wisetech-untangled-insight-on-dsv-cargowise-tango-and-beyond/<br />\nWatch here: https://www.youtube.com/shorts/y5_wpnhhLP4</p>\n<p>The post <a href=\"https://theloadstar.com/the-loadstar-snapshot-ep-1-dsv-migrates-from-cargowise/\">The Loadstar Snapshot Ep. 1: DSV migrates from CargoWise</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
