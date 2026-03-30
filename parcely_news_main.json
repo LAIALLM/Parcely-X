@@ -168,5 +168,13 @@
         "status": "posted",
         "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 hub processes 750,000 packages daily in 2026, with 99% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-30",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1.5 million units, handling 25% of all e-commerce deliveries worldwide.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
