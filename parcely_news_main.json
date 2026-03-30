@@ -176,5 +176,15 @@
         "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1.5 million units, handling 25% of all e-commerce deliveries worldwide.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": "https://theloadstar.com/maersk-announces-140-inland-fuel-surcharge-in-the-us/",
+        "date": "2026-03-30",
+        "title": "M\u00e6rsk announces $140 inland fuel surcharge in the US",
+        "summary": "<p>M\u00e6rsk noted today that the conflict in the Middle East has had a &#8220;considerable impact on the international fuel market&#8221;, and as a result:<br />\n&#8220;Many refineries within the region are either offline or operating at reduced capacity, and export ability is very limited. This circumstance has led to substantial disruptions in global fuel supply chains and inland solutions across the United States. Due to recent fluctuations in fuel supply and increased ...</p>\n<p>The post <a href=\"https://theloadstar.com/maersk-announces-140-inland-fuel-surcharge-in-the-us/\">M\u00e6rsk announces $140 inland fuel surcharge in the US</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
