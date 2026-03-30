@@ -502,5 +502,15 @@
         "tweet": "Top 5 cities for smart building access adoption in 2026 (projected % of buildings equipped):\n\n\ud83c\uddf8\ud83c\uddec Singapore: 82%\n\n\ud83c\uddf0\ud83c\uddf7 Seoul: 78%\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 75%\n\n\ud83c\udde8\ud83c\uddf3 Shenzhen: 72%\n\n\ud83c\udde9\ud83c\uddea Berlin: 70%",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmNIampsQlltZmxhdEdKVXFZRmRoMTBJeHA0ejRKTV9KZ2YzTzI2X0RwNXNzbTdrQU1JN1AwZUduNE12Mmg2cVZCSVk2VDBNRUdnR3ZGc0UwaUw2aEpZTWpqUmFFS1JRYjFDMFdDWl92dGFfWFE3ZmZqY25sQzJyZTRacXRkbzYxT1Z5SzFmV192emd3TG1zbW9QSkExeU1xXy1aSXItUFREZw?oc=5",
+        "date": "2026-03-30",
+        "title": "From private buses to last-mile delivery, Singapore businesses reel from diesel price surge - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmNIampsQlltZmxhdEdKVXFZRmRoMTBJeHA0ejRKTV9KZ2YzTzI2X0RwNXNzbTdrQU1JN1AwZUduNE12Mmg2cVZCSVk2VDBNRUdnR3ZGc0UwaUw2aEpZTWpqUmFFS1JRYjFDMFdDWl92dGFfWFE3ZmZqY25sQzJyZTRacXRkbzYxT1Z5SzFmV192emd3TG1zbW9QSkExeU1xXy1aSXItUFREZw?oc=5\" target=\"_blank\">From private buses to last-mile delivery, Singapore businesses reel from diesel price surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
