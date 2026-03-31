@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-21",
-        "status": "posted",
-        "tweet": "Fastest-growing smart residential/office buildings 2026-2030 (annual % growth projection)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 25%\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 22%\n\n\ud83c\uddf8\ud83c\udde6 Riyadh, Saudi Arabia: 20%\n\n\ud83c\uddfa\ud83c\uddf8 New York, USA: 18%\n\n\ud83c\uddf8\ud83c\uddec Singapore: 16%",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHk4bEpfczZBbGpoZE9IQm5fYlBUdGo5empYM3A0YkdIVTFjUVMwdlF5S04tSEIxZUtrN29FMjRUSkQzLU9GWTlvZTNGMHhkVVBtdUhWbUZKQ1JjeXNaT3VqNDVMaGNac1VzY1BnSjBPWENFSmVwd1VMRS1QWUlNWnZqNmhPQndCelNxeTNhRTRqSzFNTkxyYkNvZEduMUN5ZHBEaWtsSGZZT0Y4aUl5cktDczlwNXhE?oc=5",
-        "date": "2026-03-21",
-        "title": "Dry Food Market Forecast 2026-2035: Growth Drivers, Regional Outlook, and Key Players - News and Statistics - IndexBox",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHk4bEpfczZBbGpoZE9IQm5fYlBUdGo5empYM3A0YkdIVTFjUVMwdlF5S04tSEIxZUtrN29FMjRUSkQzLU9GWTlvZTNGMHhkVVBtdUhWbUZKQ1JjeXNaT3VqNDVMaGNac1VzY1BnSjBPWENFSmVwd1VMRS1QWUlNWnZqNmhPQndCelNxeTNhRTRqSzFNTkxyYkNvZEduMUN5ZHBEaWtsSGZZT0Y4aUl5cktDczlwNXhE?oc=5\" target=\"_blank\">Dry Food Market Forecast 2026-2035: Growth Drivers, Regional Outlook, and Key Players - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXhDRXJiVkk5OU1QbTVjUnc4MTRIYkFJUGZ6eG9Ud1lGT2ltZUt1NU1QVUVMRFFyUWJOUnBZUGRmUmd6TkhvTzBJeFJuU3BFV1B1T1YwM1Zxb3ByVXp6Rm4yYV9TVFE4RnNnY3VqVkdSZndIWFJtY0R2RlhKUS1Xc0pCdnFSSUswSmkwTUZFbngySFRjVTRJMWhSNG9Qd2s5SEZ4bmNBTURLdFJERW9fZUc5OFE2NV9QdDFrMTFPdmRoSlRf?oc=5",
-        "date": "2026-03-21",
-        "title": "Yamato Holdings Co Ltd stock faces logistics pressures amid Japan's e-commerce slowdown and labor sh - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXhDRXJiVkk5OU1QbTVjUnc4MTRIYkFJUGZ6eG9Ud1lGT2ltZUt1NU1QVUVMRFFyUWJOUnBZUGRmUmd6TkhvTzBJeFJuU3BFV1B1T1YwM1Zxb3ByVXp6Rm4yYV9TVFE4RnNnY3VqVkdSZndIWFJtY0R2RlhKUS1Xc0pCdnFSSUswSmkwTUZFbngySFRjVTRJMWhSNG9Qd2s5SEZ4bmNBTURLdFJERW9fZUc5OFE2NV9QdDFrMTFPdmRoSlRf?oc=5\" target=\"_blank\">Yamato Holdings Co Ltd stock faces logistics pressures amid Japan's e-commerce slowdown and labor sh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-03-21",
-        "status": "posted",
-        "tweet": "UPS processes 28 million packages daily via its global automated hubs in 2026.\n\nEfficiency: 99.7% on-time delivery rate.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-03-22",
         "status": "posted",
         "tweet": "UPS sorts 25 million packages daily across 800 facilities in \ud83c\uddfa\ud83c\uddf8, \ud83c\udde8\ud83c\udde6, \ud83c\uddf2\ud83c\uddfd.\n\n$UPS",
@@ -532,5 +497,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-31",
+        "status": "posted",
+        "tweet": "UPS processes 24 million packages daily through its automated sorting facilities worldwide in 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
