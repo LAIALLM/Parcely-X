@@ -542,5 +542,26 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVNMTnlkYk45Tk9TXzE1WmM1LS0tSVNwTjlnTTBFUkRwX3NfTnlOeE80a2JHWGc3MXpkc3p2d25xdFpPb0dta3BfNFo0andqeG1FRWFGeE1PQkt3bmhvd0d2enlMZEdvWFZzdFJ5ZkV2R0Z3UFhjeTRJcVItYkduSlVRbnV0WjJ4bDZJNlhjTUNuWXUzT0lqQlNTYWZIRUtWdi1NamQ5aHM1c0RTSllr?oc=5",
+        "date": "2026-03-31",
+        "title": "DoorDash invests in EV startup with plans to automate more deliveries - Restaurant Business Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVNMTnlkYk45Tk9TXzE1WmM1LS0tSVNwTjlnTTBFUkRwX3NfTnlOeE80a2JHWGc3MXpkc3p2d25xdFpPb0dta3BfNFo0andqeG1FRWFGeE1PQkt3bmhvd0d2enlMZEdvWFZzdFJ5ZkV2R0Z3UFhjeTRJcVItYkduSlVRbnV0WjJ4bDZJNlhjTUNuWXUzT0lqQlNTYWZIRUtWdi1NamQ5aHM1c0RTSllr?oc=5\" target=\"_blank\">DoorDash invests in EV startup with plans to automate more deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash invests in EV startup to automate more deliveries $DASH"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVNMTnlkYk45Tk9TXzE1WmM1LS0tSVNwTjlnTTBFUkRwX3NfTnlOeE80a2JHWGc3MXpkc3p2d25xdFpPb0dta3BfNFo0andqeG1FRWFGeE1PQkt3bmhvd0d2enlMZEdvWFZzdFJ5ZkV2R0Z3UFhjeTRJcVItYkduSlVRbnV0WjJ4bDZJNlhjTUNuWXUzT0lqQlNTYWZIRUtWdi1NamQ5aHM1c0RTSllr?oc=5",
+        "date": "2026-03-31",
+        "title": "DoorDash invests in EV startup with plans to automate more deliveries - Restaurant Business Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVNMTnlkYk45Tk9TXzE1WmM1LS0tSVNwTjlnTTBFUkRwX3NfTnlOeE80a2JHWGc3MXpkc3p2d25xdFpPb0dta3BfNFo0andqeG1FRWFGeE1PQkt3bmhvd0d2enlMZEdvWFZzdFJ5ZkV2R0Z3UFhjeTRJcVItYkduSlVRbnV0WjJ4bDZJNlhjTUNuWXUzT0lqQlNTYWZIRUtWdi1NamQ5aHM1c0RTSllr?oc=5\" target=\"_blank\">DoorDash invests in EV startup with plans to automate more deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Restaurant Business Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash invests in EV startup to automate more deliveries $DASH",
+        "type": "news"
     }
 ]
