@@ -504,5 +504,13 @@
         "status": "posted",
         "tweet": "UPS processes 24 million packages daily through its automated sorting facilities worldwide in 2026.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-31",
+        "status": "posted",
+        "tweet": "Global smart residential buildings hit 420 million units in 2026.\n\nSmart office buildings total 2.8 million.\n\nHomes lead adoption by 150:1 ratio.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
