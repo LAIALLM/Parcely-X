@@ -646,5 +646,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT3dwcWxrbHVycUNaQTVlLTNOZWFzTFE0QnBsTDdxUEJaeE9QZnBJU2dlRjNwSFdZTUFkZVlHNjdrTVZ6ZjFzWXYzeU9WZkxCTFRfd1J5elVOV2pFN0ZzZ1FKZUQxRG1IUmdpOGJHOG9oSnFxS3A1TVJuNE5icXVlX0pMdkpNOEViaUtNM3hCWWFfa3pxckJsSjBvR2dMRjl6MzFReTJLYkFKTTdR?oc=5",
+        "date": "2026-04-01",
+        "title": "E-commerce bubble will burst soon: Raghav Bahl - Indian Retailer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT3dwcWxrbHVycUNaQTVlLTNOZWFzTFE0QnBsTDdxUEJaeE9QZnBJU2dlRjNwSFdZTUFkZVlHNjdrTVZ6ZjFzWXYzeU9WZkxCTFRfd1J5elVOV2pFN0ZzZ1FKZUQxRG1IUmdpOGJHOG9oSnFxS3A1TVJuNE5icXVlX0pMdkpNOEViaUtNM3hCWWFfa3pxckJsSjBvR2dMRjl6MzFReTJLYkFKTTdR?oc=5\" target=\"_blank\">E-commerce bubble will burst soon: Raghav Bahl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
