@@ -548,5 +548,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash invests in EV startup to automate more deliveries $DASH",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSG5XaloteW1KbFRQY1ZuMVJsaURhck1WVFhPOElUYzRDWnlhemdieE41UW9mWDhqSkYyOEdtc2kwdUF4U0l6bldpa3g5UTVvU29JS2JNRjVPbzFlTTZKWXlMUllsMTRUd3dGeWhqRkVDMFRyeEJWVWg3aGTSAYIBQVVfeXFMTmlSZFNfcEdtRUhrdExzLWEyeEdxenhGWk9oLTA2NTd0QVZ5Yl9KVVRzNXI2dFZYMXJWamdTQ3JHUXhfQThXYUttakZFNjF5S3JEY2RqTHVYXzhkNnJxZDdMUUcxRzRQV1B4Tm1rR1diSFFqOU1iU2ZodF9zal9hQmJaQQ?oc=5",
+        "date": "2026-04-01",
+        "title": "Autonomous Delivery Electric Vehicles - Trend Hunter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSG5XaloteW1KbFRQY1ZuMVJsaURhck1WVFhPOElUYzRDWnlhemdieE41UW9mWDhqSkYyOEdtc2kwdUF4U0l6bldpa3g5UTVvU29JS2JNRjVPbzFlTTZKWXlMUllsMTRUd3dGeWhqRkVDMFRyeEJWVWg3aGTSAYIBQVVfeXFMTmlSZFNfcEdtRUhrdExzLWEyeEdxenhGWk9oLTA2NTd0QVZ5Yl9KVVRzNXI2dFZYMXJWamdTQ3JHUXhfQThXYUttakZFNjF5S3JEY2RqTHVYXzhkNnJxZDdMUUcxRzRQV1B4Tm1rR1diSFFqOU1iU2ZodF9zal9hQmJaQQ?oc=5\" target=\"_blank\">Autonomous Delivery Electric Vehicles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend Hunter</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
