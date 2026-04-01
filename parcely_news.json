@@ -616,5 +616,35 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWJxaWdrdnN5Y25EN2cwSm9FMmRlV0o5eXRRallrRHl3X1ZBajdQc2FDLVdsRUZlWG43MHkxUXE4SDlzN0VqT2JYZWEwNllPOTFkWURONjFyZWJLU2JCMkJCZE5pdEF3M0JRT2hZQVNocEw5YnVCam9SVWVYbS1HUGpBMA?oc=5",
+        "date": "2026-04-01",
+        "title": "Florida Polytechnic University launches autonomous robot food delivery - verdictfoodservice.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWJxaWdrdnN5Y25EN2cwSm9FMmRlV0o5eXRRallrRHl3X1ZBajdQc2FDLVdsRUZlWG43MHkxUXE4SDlzN0VqT2JYZWEwNllPOTFkWURONjFyZWJLU2JCMkJCZE5pdEF3M0JRT2hZQVNocEw5YnVCam9SVWVYbS1HUGpBMA?oc=5\" target=\"_blank\">Florida Polytechnic University launches autonomous robot food delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">verdictfoodservice.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/business-diversification/air-france-selects-dhl-supply-chain-to-deliver-ground-handling-services-at-london-gatwick.html",
+        "date": "2026-04-01",
+        "title": "Air France selects DHL Supply Chain to deliver ground handling services at London Gatwick",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/business-diversification/air-france-selects-dhl-supply-chain-to-deliver-ground-handling-services-at-london-gatwick.html\"><img align=\"left\" alt=\"Air France selects DHL Supply Chain to deliver ground handling services at London Gatwick\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/04/Air-France-Early-0017-scaled-e1775051403774-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>DHL Supply Chain has been appointed by Air France-KLM to deliver full ground handling services at London Gatwick Airport. The selection follows the launch of Air France\u2019s new route between London Gatwick and Paris-Charles de Gaulle (CDG).</p>\n<p>Under the partnership, DHL will be responsible for all ground handling, including baggage operations, customer service, aircraft loading, dispatch and pushback, as well as cabin cleaning. The partnership underscores DHL\u2019s role in supporting major carriers and expands its services at one of the country\u2019s largest airports.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/business-diversification/air-france-selects-dhl-supply-chain-to-deliver-ground-handling-services-at-london-gatwick.html\" rel=\"nofollow\">Continue reading Air France selects DHL Supply Chain to deliver ground handling services at London Gatwick at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/automation/ai-system-improves-warehouse-robot-traffic-flow-mit-study-finds.html",
+        "date": "2026-04-01",
+        "title": "AI system improves warehouse robot traffic flow, MIT study finds",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/automation/ai-system-improves-warehouse-robot-traffic-flow-mit-study-finds.html\"><img align=\"left\" alt=\"AI system improves warehouse robot traffic flow, MIT study finds\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/04/MIT-Warehouse-Auto-01-press_0-e1775042984979-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Researchers at MIT and automation company Symbotic have developed an AI-based system designed to improve traffic flow among robots in automated warehouses, reducing congestion and increasing throughput.</p>\n<p>The approach uses deep reinforcement learning to determine which robots should be prioritized at any given moment, combined with a planning algorithm that directs robot movements in real time. The system is designed to anticipate bottlenecks and reroute robots before congestion occurs.</p>\n<p>In simulations based on e-commerce warehouse environments, the method achieved an average 25% increase in throughput compared with conventional approaches.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/automation/ai-system-improves-warehouse-robot-traffic-flow-mit-study-finds.html\" rel=\"nofollow\">Continue reading AI system improves warehouse robot traffic flow, MIT study finds at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
