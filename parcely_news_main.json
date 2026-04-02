@@ -221,5 +221,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-02",
+        "status": "posted",
+        "tweet": "By 2026, EV and e-bike fleets will power 45% of urban deliveries in \ud83c\uddfa\ud83c\uddf8 and \ud83c\uddea\ud83c\uddfa cities, cutting last-mile CO2 emissions by 32% compared to 2023 levels.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
