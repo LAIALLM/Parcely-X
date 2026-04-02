@@ -201,5 +201,15 @@
         "status": "posted",
         "tweet": "FlexLogistics' \ud83c\uddfa\ud83c\uddf8 Atlanta hub processed 1.2 million packages daily in Q1 2026, up 15% from 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXozaDUwb0E2ZjJWQkp4YTNRc052VDFBWWJiT0xIZGpGQnFCTG91S0RyRjd6R3J4a0MwTDFJMWtBamM0SWFyQUkwRGtxSzhETHdubGdSUkhUbkthQVg5S3JJTXhGcGJRVlRHX3N4UGREQ3pJNVFSTy1CSTFHU3FTZmhSQzFlU3dqM1JtNFJEY1FBeGFSNnp2a29jaExfMVVp?oc=5",
+        "date": "2026-04-02",
+        "title": "FedEx goes after DoorDash, Amazon, UPS with same-day delivery - Modern Retail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXozaDUwb0E2ZjJWQkp4YTNRc052VDFBWWJiT0xIZGpGQnFCTG91S0RyRjd6R3J4a0MwTDFJMWtBamM0SWFyQUkwRGtxSzhETHdubGdSUkhUbkthQVg5S3JJTXhGcGJRVlRHX3N4UGREQ3pJNVFSTy1CSTFHU3FTZmhSQzFlU3dqM1JtNFJEY1FBeGFSNnp2a29jaExfMVVp?oc=5\" target=\"_blank\">FedEx goes after DoorDash, Amazon, UPS with same-day delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Retail</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
