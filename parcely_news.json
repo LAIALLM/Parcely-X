@@ -1,122 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-23",
-        "status": "posted",
-        "tweet": "Last-mile delivery costs per parcel in large metros hit $12.50 in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 NYC: $14.20\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: $7.80\n\nUrban congestion drives the gap, with projections rising 15% by 2030 in the US.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2026-03-23",
-        "status": "posted",
-        "tweet": "UPS's \ud83c\uddfa\ud83c\uddf8 Atlanta Superhub processes 1.2 million packages hourly in 2026, optimizing North American logistics efficiency.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazl2VjhUTGgyQmx1azZBYUYxc1RnWGxJZktGQ2RPZC05Znd2ME10QUpJODh5TW9BVkxEYWpTM3plZXJyN2d5eFl2dDJwcm9USU1fOUZqWW1mSlJYUWNnOFpNWmxqbTZ3RUVVZnp5ckJ0Z3JpMllVLUN3YVcxQkpzek1iY0FmVEExZVFWcnpvbjZEa01Da051VFpQRUZVQURiMG5NVXJnS0N6Z29oY2hJXzVLRVBrYmdZY242RUZGYVlXZVlsWjh6cWxvMnI2TTVCU0d3Mw?oc=5",
-        "date": "2026-03-23",
-        "title": "Amazon Now and JD.com's Joy Buy rapid delivery services put to test in London and Germany - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazl2VjhUTGgyQmx1azZBYUYxc1RnWGxJZktGQ2RPZC05Znd2ME10QUpJODh5TW9BVkxEYWpTM3plZXJyN2d5eFl2dDJwcm9USU1fOUZqWW1mSlJYUWNnOFpNWmxqbTZ3RUVVZnp5ckJ0Z3JpMllVLUN3YVcxQkpzek1iY0FmVEExZVFWcnpvbjZEa01Da051VFpQRUZVQURiMG5NVXJnS0N6Z29oY2hJXzVLRVBrYmdZY242RUZGYVlXZVlsWjh6cWxvMnI2TTVCU0d3Mw?oc=5\" target=\"_blank\">Amazon Now and JD.com's Joy Buy rapid delivery services put to test in London and Germany</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddec\ud83c\udde7\ud83c\udde9\ud83c\uddea NEWS: $AMZN Now and $JDs Joy Buy rapid delivery services tested in London and Germany"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaV9PaTNMaFhwdmo1anhKNGJGMGdfTXp6b0NqUU9FT0FXMUpBLWxBY0o1UTJCaVdKck5EOE5BbWY1bGh0WHlpcy1DNVFPZ1V3UGFzaDE0RmMwVWdvOS1JazRWTE44NXZmNkhoZC04eXA5OUEzNTRzTkp1Sk9QTHlFMDFkMDVSVXJmUjFMM29ZU1Y4ZG02dnJzNXQ1X0FUcThRd2Vnak9DMWJTQ1FYVnhtNkxtOTNZMFlOMmkxNjYzWlZHN081clh1MDJjYnRwVzFFNDQ0Vg?oc=5",
-        "date": "2026-03-23",
-        "title": "Croatian retailer Studenac market opens new sustainable logistics facility in Dugopolje - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaV9PaTNMaFhwdmo1anhKNGJGMGdfTXp6b0NqUU9FT0FXMUpBLWxBY0o1UTJCaVdKck5EOE5BbWY1bGh0WHlpcy1DNVFPZ1V3UGFzaDE0RmMwVWdvOS1JazRWTE44NXZmNkhoZC04eXA5OUEzNTRzTkp1Sk9QTHlFMDFkMDVSVXJmUjFMM29ZU1Y4ZG02dnJzNXQ1X0FUcThRd2Vnak9DMWJTQ1FYVnhtNkxtOTNZMFlOMmkxNjYzWlZHN081clh1MDJjYnRwVzFFNDQ0Vg?oc=5\" target=\"_blank\">Croatian retailer Studenac market opens new sustainable logistics facility in Dugopolje</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazl2VjhUTGgyQmx1azZBYUYxc1RnWGxJZktGQ2RPZC05Znd2ME10QUpJODh5TW9BVkxEYWpTM3plZXJyN2d5eFl2dDJwcm9USU1fOUZqWW1mSlJYUWNnOFpNWmxqbTZ3RUVVZnp5ckJ0Z3JpMllVLUN3YVcxQkpzek1iY0FmVEExZVFWcnpvbjZEa01Da051VFpQRUZVQURiMG5NVXJnS0N6Z29oY2hJXzVLRVBrYmdZY242RUZGYVlXZVlsWjh6cWxvMnI2TTVCU0d3Mw?oc=5",
-        "date": "2026-03-23",
-        "title": "Amazon Now and JD.com's Joy Buy rapid delivery services put to test in London and Germany - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazl2VjhUTGgyQmx1azZBYUYxc1RnWGxJZktGQ2RPZC05Znd2ME10QUpJODh5TW9BVkxEYWpTM3plZXJyN2d5eFl2dDJwcm9USU1fOUZqWW1mSlJYUWNnOFpNWmxqbTZ3RUVVZnp5ckJ0Z3JpMllVLUN3YVcxQkpzek1iY0FmVEExZVFWcnpvbjZEa01Da051VFpQRUZVQURiMG5NVXJnS0N6Z29oY2hJXzVLRVBrYmdZY242RUZGYVlXZVlsWjh6cWxvMnI2TTVCU0d3Mw?oc=5\" target=\"_blank\">Amazon Now and JD.com's Joy Buy rapid delivery services put to test in London and Germany</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Amazon Now and JD.coms Joy Buy rapid delivery services tested in London and Germany $AMZN $JD",
-        "type": "news"
-    },
-    {
-        "link": "https://theloadstar.com/ports-and-inland-bottlenecks-not-ships-now-choke-global-supply-chains/",
-        "date": "2026-03-23",
-        "title": "Ports and inland bottlenecks, not ships, now choke global supply chains",
-        "summary": "<p>Port congestion and inland logistics bottlenecks are emerging as the primary constraint on global supply chains, even as vessel capacity continues to expand, according to DHL Global Forwarding.<br />\nDespite a significant orderbook of new ships entering the market, structural inefficiencies on land are limiting the effective flow of goods.<br />\n\u201cWe continuously see around 3m teus are tied up in port congestions,\u201d said Jacob Moe, global head of FCL and trade management at ...</p>\n<p>The post <a href=\"https://theloadstar.com/ports-and-inland-bottlenecks-not-ships-now-choke-global-supply-chains/\">Ports and inland bottlenecks, not ships, now choke global supply chains</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/stb-orders-antitrust-grade-discovery-in-rail-ma-up-ns-the-test-case/",
-        "date": "2026-03-23",
-        "title": "STB orders antitrust-grade discovery in rail M&A: UP-NS the test case",
-        "summary": "<p>In a nutshell: The Surface Transportation Board\u2019s (STB) demand for internal merger documents, issued on its own initiative after the Department of Justice called them \u201ccritically important\u201d, transforms this from a regulatory filing exercise into something much closer to an antitrust trial. And the opponents showed up in Washington with live alternatives, not just objections.<br />\nThere is a particular kind of theater that happens when an entire industry descends on the ...</p>\n<p>The post <a href=\"https://theloadstar.com/stb-orders-antitrust-grade-discovery-in-rail-ma-up-ns-the-test-case/\">STB orders antitrust-grade discovery in rail M&#038;A: UP-NS the test case</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0lvZENQLXl5MkQ1QV9lYWt6M2U4dVdTVHNhVmUzVFZ0bHJWR0M1akZwdnAxdmpmT2szR1FKRjY0WTJMT0dHVEVJQU1heDI5dmNzOGpwS19SX25pS003NWJfS29nT3RSSjNjOUd5d3pFRXdDTVlTVmhMdEx4MGhuRlAtZTQ5Z2RSS1BHS1VuQWpNc1BnYXc?oc=5",
-        "date": "2026-03-23",
-        "title": "Amazon debuts 1-hour, 3-hour delivery options - Retail Customer Experience",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0lvZENQLXl5MkQ1QV9lYWt6M2U4dVdTVHNhVmUzVFZ0bHJWR0M1akZwdnAxdmpmT2szR1FKRjY0WTJMT0dHVEVJQU1heDI5dmNzOGpwS19SX25pS003NWJfS29nT3RSSjNjOUd5d3pFRXdDTVlTVmhMdEx4MGhuRlAtZTQ5Z2RSS1BHS1VuQWpNc1BnYXc?oc=5\" target=\"_blank\">Amazon debuts 1-hour, 3-hour delivery options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Customer Experience</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/maersk-agm-faces-fresh-activist-pressure-over-israel-linked-military-supply-chain-role/",
-        "date": "2026-03-23",
-        "title": "Maersk AGM faces fresh activist pressure over Israel-linked military supply chain role",
-        "summary": "<p>Ahead of its annual general meeting due to take place in Copenhagen on Wednesday, AP Moller Maersk is facing new questions from activist investors over its role in Israel\u2019s military-linked supply chains.<br />\nCorporate accountability group Eko has filed a proposal to Maersk shareholders calling for \u201cconcrete disclosures on how the company identifies, assesses, and mitigates risks across these operations \u2013 amid mounting evidence that current safeguards are failing\u201d.<br />\nThe group added that ...</p>\n<p>The post <a href=\"https://theloadstar.com/maersk-agm-faces-fresh-activist-pressure-over-israel-linked-military-supply-chain-role/\">Maersk AGM faces fresh activist pressure over Israel-linked military supply chain role</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/argentinas-trade-boom-puts-forwarders-on-alert-for-growth-opportunities/",
-        "date": "2026-03-23",
-        "title": "Argentina\u2019s trade boom puts forwarders on alert for growth opportunities",
-        "summary": "<p>Forwarders are taking note of the gangbuster pace of growth being recorded in Argentinian imports and exports, leading several to highlight the South American country as one of their more promising prospects for the year ahead.<br />\nMuch of the success has been put down to controversial president Javier Milie\u2019s bonfire of regulation and lifting of tariffs approach to international trade, painting a stark picture of the difference in approach being taken ...</p>\n<p>The post <a href=\"https://theloadstar.com/argentinas-trade-boom-puts-forwarders-on-alert-for-growth-opportunities/\">Argentina\u2019s trade boom puts forwarders on alert for growth opportunities</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/e-commerce/ctt-and-dhl-ecommerce-joint-venture-approved-by-european-commission.html",
-        "date": "2026-03-23",
-        "title": "CTT and DHL eCommerce joint venture approved by European Commission",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/e-commerce/ctt-and-dhl-ecommerce-joint-venture-approved-by-european-commission.html\"><img align=\"left\" alt=\"CTT and DHL eCommerce joint venture approved by European Commission\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/03/dec-ctt-expresso-partnership-signing-ceremony-02-scaled-e1774276961475-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>CTT \u2013 Correios de Portugal and DHL eCommerce have received unconditional approval from the European Commission for their planned joint venture, clearing a key regulatory hurdle for the transaction.</p>\n<p>The approval, granted under the EU Merger Regulation, was the main external condition required for the deal, which was first announced in December 2024.</p>\n<p>With this step completed, both companies will move forward with the remaining requirements to formally establish the joint venture.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/e-commerce/ctt-and-dhl-ecommerce-joint-venture-approved-by-european-commission.html\" rel=\"nofollow\">Continue reading CTT and DHL eCommerce joint venture approved by European Commission at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "(\ud83c\uddf5\ud83c\uddf9) NEWS: European Commission unconditionally approves CTT and DHL eCommerce joint venture, clearing key regulatory hurdle for the Dec 2024 deal."
-    },
-    {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/e-commerce/ctt-and-dhl-ecommerce-joint-venture-approved-by-european-commission.html",
-        "date": "2026-03-23",
-        "title": "CTT and DHL eCommerce joint venture approved by European Commission",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/e-commerce/ctt-and-dhl-ecommerce-joint-venture-approved-by-european-commission.html\"><img align=\"left\" alt=\"CTT and DHL eCommerce joint venture approved by European Commission\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/03/dec-ctt-expresso-partnership-signing-ceremony-02-scaled-e1774276961475-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>CTT \u2013 Correios de Portugal and DHL eCommerce have received unconditional approval from the European Commission for their planned joint venture, clearing a key regulatory hurdle for the transaction.</p>\n<p>The approval, granted under the EU Merger Regulation, was the main external condition required for the deal, which was first announced in December 2024.</p>\n<p>With this step completed, both companies will move forward with the remaining requirements to formally establish the joint venture.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/e-commerce/ctt-and-dhl-ecommerce-joint-venture-approved-by-european-commission.html\" rel=\"nofollow\">Continue reading CTT and DHL eCommerce joint venture approved by European Commission at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf5\ud83c\uddf9 NEWS: CTT $CTT and DHL eCommerce joint venture receives unconditional approval from European Commission, clearing key regulatory hurdle for the deal announced in Dec 2024",
-        "type": "news"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWEwbzM4WW5CNGlJc0YySkdXNHdCMXBpb0lEZlo2S1FwV1c0SVdjM040YndEMEFTWWg4TVJScG92XzNoT1dCM01aY1B2RDNmaDdKN1lOUnhBRTBHZVFjY2dnczMzU3pzOEczNUhUYVJ4bHd2OEZvbEpPSUVJVl9iaA?oc=5",
         "date": "2026-03-24",
         "title": "Courier price floor may hurt Malaysia\u2019s e-commerce - The Sun Malaysia",
@@ -656,5 +539,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-02",
+        "status": "posted",
+        "tweet": "UPS \ud83c\uddfa\ud83c\uddf8 Worldport facility in Louisville processes 1.5 million packages daily in 2026, up 25% from 2025.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
