@@ -556,5 +556,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-02",
+        "status": "posted",
+        "tweet": "By 2026, EV and e-bike delivery fleets will handle 45% of urban packages in \ud83c\uddfa\ud83c\uddf8 US cities, cutting CO2 emissions by 35% compared to gas vehicles.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
