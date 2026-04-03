@@ -178,5 +178,25 @@
         "tweet": "Top cities by projected share of EV and micro-mobility in urban deliveries by 2026.\n\n1. \ud83c\uddf3\ud83c\uddf1 Amsterdam: 85%\n2. \ud83c\uddeb\ud83c\uddf7 Paris: 78%\n3. \ud83c\udde8\ud83c\uddf3 Shenzhen: 75%\n4. \ud83c\uddfa\ud83c\uddf8 San Francisco: 72%\n5. \ud83c\udde9\ud83c\uddea Berlin: 70%",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWdNZTJCdTgxalhoNnJEdG8xTWtNam9sRmxBQXE3elVsbUdKV1pDNlhiR1NnaVNaMzRPNDgzN0h0YjBaUWEzOHpHUWZreHBjQTNDN0llTlhkeS1SR2NKM29HZkNqUDlUeV9UcDFGUUFNMUUxbXdBX295Um1EcHZMeU1Yb2J5MGVqa3RhRWV5ckN4R3dQYnVsMXJQV3p6UlllOGs2NXNZVWdKSlk?oc=5",
+        "date": "2026-04-03",
+        "title": "The Race to the Bottom in Last-Mile Delivery - Supply Chain Brain",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWdNZTJCdTgxalhoNnJEdG8xTWtNam9sRmxBQXE3elVsbUdKV1pDNlhiR1NnaVNaMzRPNDgzN0h0YjBaUWEzOHpHUWZreHBjQTNDN0llTlhkeS1SR2NKM29HZkNqUDlUeV9UcDFGUUFNMUUxbXdBX295Um1EcHZMeU1Yb2J5MGVqa3RhRWV5ckN4R3dQYnVsMXJQV3p6UlllOGs2NXNZVWdKSlk?oc=5\" target=\"_blank\">The Race to the Bottom in Last-Mile Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Brain</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTlibS16SXNHb0hTRjAxWjVYOFdSTlkzakdkTkZFWHk3SzVzSDNfb25FUnlSUkhFeGtqX3lnVFUxQVZxVW1PZk1vQlVhNjRhMWdWU21aY3FYZldSdTV5UTNOY0FpdmRqM1BDdVhITzBhVm4xRU1fTmdWVFM3YXJOd3JRNXhwQzZfY1NTc0g1N3RkaU5pS0hERjJnVV84X3NxUVpBZ2Rzb1Q4Z1V5Vmd6ZFhINFVDWmRrOG45QU0yMlAtUWRKRlVUYw?oc=5",
+        "date": "2026-04-03",
+        "title": "JD.com vs Amazon in Luxembourg: same-day ambition meets next-day reality - Luxembourg Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTlibS16SXNHb0hTRjAxWjVYOFdSTlkzakdkTkZFWHk3SzVzSDNfb25FUnlSUkhFeGtqX3lnVFUxQVZxVW1PZk1vQlVhNjRhMWdWU21aY3FYZldSdTV5UTNOY0FpdmRqM1BDdVhITzBhVm4xRU1fTmdWVFM3YXJOd3JRNXhwQzZfY1NTc0g1N3RkaU5pS0hERjJnVV84X3NxUVpBZ2Rzb1Q4Z1V5Vmd6ZFhINFVDWmRrOG45QU0yMlAtUWRKRlVUYw?oc=5\" target=\"_blank\">JD.com vs Amazon in Luxembourg: same-day ambition meets next-day reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Luxembourg Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
