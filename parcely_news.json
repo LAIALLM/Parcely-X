@@ -489,5 +489,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-03",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected 2026 EV and micro-mobility delivery fleet size:\n\n1. \ud83c\udde8\ud83c\uddf3 Shenzhen - 60k vehicles\n2. \ud83c\uddfa\ud83c\uddf8 New York - 28k\n3. \ud83c\uddf3\ud83c\uddf1 Amsterdam - 20k\n4. \ud83c\uddeb\ud83c\uddf7 Paris - 16k\n5. \ud83c\uddf8\ud83c\uddec Singapore - 14k",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
