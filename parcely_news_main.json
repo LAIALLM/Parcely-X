@@ -170,5 +170,13 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas hub hit 2 million packages processed daily in 2026.\n\nThis infrastructure milestone cuts delivery times by 25% across the Southwest.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-03",
+        "status": "posted",
+        "tweet": "Top cities by projected share of EV and micro-mobility in urban deliveries by 2026.\n\n1. \ud83c\uddf3\ud83c\uddf1 Amsterdam: 85%\n2. \ud83c\uddeb\ud83c\uddf7 Paris: 78%\n3. \ud83c\udde8\ud83c\uddf3 Shenzhen: 75%\n4. \ud83c\uddfa\ud83c\uddf8 San Francisco: 72%\n5. \ud83c\udde9\ud83c\uddea Berlin: 70%",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
