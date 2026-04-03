@@ -479,5 +479,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSWRGYWdNU0JEVXo5VTZOalhxeFM4SUdndTY2TE4yWXZlWk5hRk8tWXdVU19kZkkxVE82bXoyWF9GRmRTTXdXLVBUQURMZDlXVURKei04VUI3SUhMbTNOend3d3pfLVNLZ2lPRmg5MEYzZw?oc=5",
+        "date": "2026-04-03",
+        "title": "Word of The Day: Hyperlocal Delivery - Indian Retailer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9kSWRGYWdNU0JEVXo5VTZOalhxeFM4SUdndTY2TE4yWXZlWk5hRk8tWXdVU19kZkkxVE82bXoyWF9GRmRTTXdXLVBUQURMZDlXVURKei04VUI3SUhMbTNOend3d3pfLVNLZ2lPRmg5MEYzZw?oc=5\" target=\"_blank\">Word of The Day: Hyperlocal Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
