@@ -454,5 +454,13 @@
         "status": "posted",
         "tweet": "FedEx global network processed 22 million packages daily in 2026.\n\nAutomated sorting efficiency reached 99.7% at \ud83c\uddfa\ud83c\uddf8 Memphis hub.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-04",
+        "status": "posted",
+        "tweet": "By 2026, EVs and e-bikes will power 45% of last-mile deliveries in cities like \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\udde9\ud83c\uddea Berlin.\n\nThis shift cuts urban CO2 emissions by 20% compared to 2023 gas fleets.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
