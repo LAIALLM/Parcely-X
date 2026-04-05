@@ -447,5 +447,13 @@
         "tweet": "By 2026, EVs and e-bikes will power 45% of last-mile deliveries in cities like \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\udde9\ud83c\uddea Berlin.\n\nThis shift cuts urban CO2 emissions by 20% compared to 2023 gas fleets.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-04-05",
+        "status": "posted",
+        "tweet": "By 2026, 55% of commercial buildings worldwide will adopt smart access systems, a 30% jump from 2023 levels driven by cybersecurity demands.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
