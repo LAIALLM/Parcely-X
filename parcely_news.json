@@ -455,5 +455,12 @@
         "tweet": "By 2026, 55% of commercial buildings worldwide will adopt smart access systems, a 30% jump from 2023 levels driven by cybersecurity demands.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-04-05",
+        "status": "posted",
+        "tweet": "UPS handles 28 million packages daily through its automated sorting facilities.\n\nGlobal throughput increased 15% YoY in 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
