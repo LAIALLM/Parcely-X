@@ -209,5 +209,12 @@
         "tweet": "By 2030, last-mile delivery fleets could emit 2.1 billion metric tons of CO2 worldwide\u2014equivalent to 450 million cars.\n\nBuilding-integrated networks, like rooftop hubs and micro-warehouses, project a 55% cut, saving 1.15 billion tons yearly.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-04-05",
+        "status": "posted",
+        "tweet": "LogiCore's global warehouses process 750,000 packages daily.\n\nIn \ud83c\uddfa\ud83c\uddf8United States hubs, on-time delivery hits 98.7%.",
+        "type": "infrastructure"
     }
 ]
