@@ -201,5 +201,13 @@
         "status": "posted",
         "tweet": "LogiCore's global warehouses process 750,000 packages daily.\n\nIn \ud83c\uddfa\ud83c\uddf8United States hubs, on-time delivery hits 98.7%.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-06",
+        "status": "posted",
+        "tweet": "Global parcel locker networks: 1.1 million units by 2026.\n\n\ud83c\udde8\ud83c\uddf3 China dominates with 550,000, outpacing \ud83c\uddfa\ud83c\uddf8 USA's 200,000 by nearly 3x.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
