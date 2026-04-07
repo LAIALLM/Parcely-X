@@ -258,5 +258,15 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Texas warehouse network\n\nhandles 450,000 packages daily\n\nat 98% efficiency rate.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/myfreight-a-task-driven-tms-for-faster-smarter-forwarding/",
+        "date": "2026-04-07",
+        "title": "MyFreight: A task-driven TMS for faster, smarter forwarding",
+        "summary": "<p>Freight forwarding has long been shaped by a single dominant Transport Management System. While that system defined the standard for years, the way forwarders operate today has changed significantly. Workflows have accelerated, volumes have increased, and the demand for real-time insight has become the norm. Yet many of the systems still in use are built on structures that no longer reflect that reality.<br />\nMyFreight was developed to address that gap. Not ...</p>\n<p>The post <a href=\"https://theloadstar.com/myfreight-a-task-driven-tms-for-faster-smarter-forwarding/\">MyFreight: A task-driven TMS for faster, smarter forwarding</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
