@@ -222,5 +222,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Shenzhen unveils cutting-edge tech in China, featuring drone and robot deliveries, sensor-equipped driverless taxis, AI-powered smart hotels, humanoid and surgical robots, automated caf\u00e9s, and the massive Shenzhen Eye station.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-07",
+        "status": "posted",
+        "tweet": "By 2026, electric vans and e-cargo bikes will power 35% of last-mile deliveries in major cities like \ud83c\uddfa\ud83c\uddf8 Los Angeles and \ud83c\uddeb\ud83c\uddf7 Paris, slashing urban emissions by 40% from 2023 levels.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
