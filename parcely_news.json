@@ -397,5 +397,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-07",
+        "status": "posted",
+        "tweet": "By 2030, smart residential buildings worldwide will number 1.2 billion, more than doubling from 2026's 550 million and slashing global energy use by 20%.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
