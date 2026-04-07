@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-28",
-        "status": "posted",
-        "tweet": "By 2028, 65% of commercial buildings in the \ud83c\uddfa\ud83c\uddf8 US will use smart access systems, driven by rising demand for keyless entry and remote monitoring.",
-        "type": "statistical",
-        "category": "adoption of smart access systems for buildings"
-    },
-    {
-        "link": null,
-        "date": "2026-03-28",
-        "status": "posted",
-        "tweet": "FedEx $FDX infrastructure milestone: 220 aircraft in fleet, handling 18M packages daily across 220 countries in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 Memphis Superhub efficiency: 1.5M sorts per hour.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEZiQ0lkb21uRHVKRVZjRnNNN2FfVlJiRTFQMWc4d2JGU0xsMDQ0UXV0YkM3dkY5UjVkYlpfWmlGYjN0U2RKbGJCRVRfMW9HY2JoQVVNc3lpRjJQNWVHa1lXNl9HdF81UzB3SC0xTEVjMEVWOHRkcHFKb0FGQ2JCQmo3LVFPOE9kYWc?oc=5",
-        "date": "2026-03-28",
-        "title": "FedEx store goes dark for good as delivery giant closes down another location - The US Sun",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEZiQ0lkb21uRHVKRVZjRnNNN2FfVlJiRTFQMWc4d2JGU0xsMDQ0UXV0YkM3dkY5UjVkYlpfWmlGYjN0U2RKbGJCRVRfMW9HY2JoQVVNc3lpRjJQNWVHa1lXNl9HdF81UzB3SC0xTEVjMEVWOHRkcHFKb0FGQ2JCQmo3LVFPOE9kYWc?oc=5\" target=\"_blank\">FedEx store goes dark for good as delivery giant closes down another location</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjZUMy1lZFV0b3ZlTkpFMVpzVWFMLUhVclRtc1lUR2RDYVNEMmNTaEo4WklNMmhON2JfQzZvZnJJdGV4Q1I1aGh3T1pCYkFkcHQ4U0xmMU1YT1V5VTZLYzZaRHZ5Y3Ewd0tVSlotSi1CVmdQY0lGVUJ0a0x5enlqNGxfRzdfUlZyaUdWZ1pqVW43b3ktdXpaSzNncU5QS2xxaWdpU0llUHhZM1VsXzZyYlFYNHBtUUpDZG5IX3RURG0?oc=5",
-        "date": "2026-03-28",
-        "title": "FedEx Corp Stock: Navigating Fuel Costs, Geopolitical Tensions, and E-Commerce Resilience in 2026 - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjZUMy1lZFV0b3ZlTkpFMVpzVWFMLUhVclRtc1lUR2RDYVNEMmNTaEo4WklNMmhON2JfQzZvZnJJdGV4Q1I1aGh3T1pCYkFkcHQ4U0xmMU1YT1V5VTZLYzZaRHZ5Y3Ewd0tVSlotSi1CVmdQY0lGVUJ0a0x5enlqNGxfRzdfUlZyaUdWZ1pqVW43b3ktdXpaSzNncU5QS2xxaWdpU0llUHhZM1VsXzZyYlFYNHBtUUpDZG5IX3RURG0?oc=5\" target=\"_blank\">FedEx Corp Stock: Navigating Fuel Costs, Geopolitical Tensions, and E-Commerce Resilience in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-03-29",
         "status": "posted",
         "tweet": "Porch piracy surges 25% in 2026 amid e-commerce boom, hitting 1.2M incidents in top US cities.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 185,000 thefts\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 142,000 thefts\n\ud83c\uddfa\ud83c\uddf8 Chicago: 98,000 thefts\n\ud83c\uddfa\ud83c\uddf8 Houston: 76,000 thefts\n\ud83c\uddfa\ud83c\uddf8 San Francisco: 64,000 thefts",
@@ -422,5 +387,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS infrastructure in 2026:\n\nProcesses 25 million packages daily through 1,200 distribution centers.\n\nEfficiency: 99% automated sorting rate.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEc5ZXNXcXNsT1RfajNlb3hhWXN5Yk9jM3A4MEt2LWZ4dEtlaG5jaTFlWnlGcGx2amFkUUQxOWFGSzZVeXg4bUZiRlUxdlQ1bTN3QTF2ay13U3p3RTJOcVlCZlpha2h3b2RMMlduTlJzbTdyZU9WS1Y4UW5TOHI3VzBtOWpwX2RBaFg1OVhpa3NGWDVZcXpNMk8zeE5XQW1BZjVORUdBQzRzMjh2c0pGdnRleEdWSVZTdVBXRVJ2LUd5NDFuaUxYbmRIYU56NUVlQmZyRDZn0gHbAUFVX3lxTE5uNjBJMzB6S1NsZldMWjlodWU1b2ZBanV6eDFlV28wUHFadlFLNmp0LWloU3hwMVdGREJRdU9IczVGRTVnb0Z1RVZaSnpyUHdZVlBoejlQR213Z3FuWVJpLWs5bGtZQ3NvU053VGU4SHI5aDRudEdfR3RRWXdNY3ZPUFFWN1VNcGN3LUxESy10WHRvZUwxdEpCT1dNdWRyaGRiZjJ4ekpBZU4yTFVnRUMzRkRqVTViQUxXbTFNMjl2a3FqV185bTZEZHFBdWN0Vkppbl9uNktHMFl0RQ?oc=5",
+        "date": "2026-04-07",
+        "title": "D2C startups tap AI to improve delivery completion rates by 11%: Velocity - Business Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEc5ZXNXcXNsT1RfajNlb3hhWXN5Yk9jM3A4MEt2LWZ4dEtlaG5jaTFlWnlGcGx2amFkUUQxOWFGSzZVeXg4bUZiRlUxdlQ1bTN3QTF2ay13U3p3RTJOcVlCZlpha2h3b2RMMlduTlJzbTdyZU9WS1Y4UW5TOHI3VzBtOWpwX2RBaFg1OVhpa3NGWDVZcXpNMk8zeE5XQW1BZjVORUdBQzRzMjh2c0pGdnRleEdWSVZTdVBXRVJ2LUd5NDFuaUxYbmRIYU56NUVlQmZyRDZn0gHbAUFVX3lxTE5uNjBJMzB6S1NsZldMWjlodWU1b2ZBanV6eDFlV28wUHFadlFLNmp0LWloU3hwMVdGREJRdU9IczVGRTVnb0Z1RVZaSnpyUHdZVlBoejlQR213Z3FuWVJpLWs5bGtZQ3NvU053VGU4SHI5aDRudEdfR3RRWXdNY3ZPUFFWN1VNcGN3LUxESy10WHRvZUwxdEpCT1dNdWRyaGRiZjJ4ekpBZU4yTFVnRUMzRkRqVTViQUxXbTFNMjl2a3FqV185bTZEZHFBdWN0Vkppbl9uNktHMFl0RQ?oc=5\" target=\"_blank\">D2C startups tap AI to improve delivery completion rates by 11%: Velocity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
