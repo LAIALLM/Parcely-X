@@ -527,5 +527,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash $DASH partners with Also on autonomous last-mile delivery EVs, deploying small adaptable vehicles for dense urban navigation",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-08",
+        "status": "posted",
+        "tweet": "In 2026, 28% of global e-commerce deliveries will fail on the first attempt, wasting $92 billion in redelivery costs.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
