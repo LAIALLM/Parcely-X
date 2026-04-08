@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-03-29",
-        "status": "posted",
-        "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 hub processes 750,000 packages daily in 2026, with 99% on-time delivery.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-03-30",
         "status": "posted",
         "tweet": "By 2026, global parcel locker and pickup-point networks will exceed 1.5 million units, handling 25% of all e-commerce deliveries worldwide.",
@@ -268,5 +261,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-08",
+        "status": "posted",
+        "tweet": "LogiFreight's main \ud83c\uddfa\ud83c\uddf8 hub in Atlanta now handles 1.5 million packages daily, up 25% from last year.",
+        "type": "infrastructure"
     }
 ]
