@@ -568,5 +568,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTdWTzZMd2RNMkVPQk9Qb3RlTTVFaHQwWG96bnVPMFd1Um13cGFYWkpuS0hMWDFhNWNCV2xHbUVYb2NTVWE2UUJuZERpblNDeHM1eGxYVnJhLTBhdThsNEtONEFDcGZ1dFdna01MUGRRYzVpYWo3WGRfMlRTS0hCNWh1dU9tTjBfTW84SE5Sck52UjFkTjFNZURUWDJNNG40TThUZEVQNTlOb0l5OWxqUHhaZw?oc=5",
+        "date": "2026-04-09",
+        "title": "Delivery apps want to bring fast fashion to your doorstep\u2014literally - Retail Brew",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTdWTzZMd2RNMkVPQk9Qb3RlTTVFaHQwWG96bnVPMFd1Um13cGFYWkpuS0hMWDFhNWNCV2xHbUVYb2NTVWE2UUJuZERpblNDeHM1eGxYVnJhLTBhdThsNEtONEFDcGZ1dFdna01MUGRRYzVpYWo3WGRfMlRTS0hCNWh1dU9tTjBfTW84SE5Sck52UjFkTjFNZURUWDJNNG40TThUZEVQNTlOb0l5OWxqUHhaZw?oc=5\" target=\"_blank\">Delivery apps want to bring fast fashion to your doorstep\u2014literally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Brew</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
