@@ -578,5 +578,15 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnQ5MEM5bGFMSXM0cXdVOGZKdmtFcFhRRmx2WFR3Q1J0NWtsSDFia0hESEwyYkhXekppREFWeEtYaFFMallfVm9hWUdlbGdXZklNRGIwSXhOYnBMbEZKeTJqVWFRSEFaZHRkMWtId1pGTGxsanZXMXdyVGtIMm5MRFNENjhBWTdBVTRtMWRLbkVtUmRxQktNWXJYcmlBekZ2Ry0yRjlZNHdRd3hkdEE?oc=5",
+        "date": "2026-04-09",
+        "title": "FedEx (NYSE:FDX) Tracks E-Commerce Logistics Growth In S&P 500 Fund - Kalkine Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnQ5MEM5bGFMSXM0cXdVOGZKdmtFcFhRRmx2WFR3Q1J0NWtsSDFia0hESEwyYkhXekppREFWeEtYaFFMallfVm9hWUdlbGdXZklNRGIwSXhOYnBMbEZKeTJqVWFRSEFaZHRkMWtId1pGTGxsanZXMXdyVGtIMm5MRFNENjhBWTdBVTRtMWRLbkVtUmRxQktNWXJYcmlBekZ2Ry0yRjlZNHdRd3hkdEE?oc=5\" target=\"_blank\">FedEx (NYSE:FDX) Tracks E-Commerce Logistics Growth In S&amp;P 500 Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
