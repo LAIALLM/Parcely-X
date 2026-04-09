@@ -538,5 +538,35 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3FsN2FFRmNsNmFha0hmOTREakh3MnhJWFpTOEpXdERZWEhaQkNveUhZX1FlLWt3T0hoMEpuR3Q3UWFTYlBNMEtEWjF2RnRLYlp1YkhCOHQ1NWF2UFVOaW9RNkNsdXVJTWJPUFNfSFlzTTM0YXNLWDFnWFZQb1VIVFVqc0g1RDB6?oc=5",
+        "date": "2026-04-09",
+        "title": "Opinion: How Last-Mile Delivery Can Reduce NYC\u2019s Congestion - citylimits.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3FsN2FFRmNsNmFha0hmOTREakh3MnhJWFpTOEpXdERZWEhaQkNveUhZX1FlLWt3T0hoMEpuR3Q3UWFTYlBNMEtEWjF2RnRLYlp1YkhCOHQ1NWF2UFVOaW9RNkNsdXVJTWJPUFNfSFlzTTM0YXNLWDFnWFZQb1VIVFVqc0g1RDB6?oc=5\" target=\"_blank\">Opinion: How Last-Mile Delivery Can Reduce NYC\u2019s Congestion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citylimits.org</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFRfTWsycTNNaG5RYlVTRVdCeVdKZUdPUlFIbnN5amVpUThUSmFJa0FHb3lvcTBhb01PdUwwTnVmbXlZa0V4QXRNQlR1TlRFWXU0TjBvaWU3RlA1UUVLR1Q3aXRZamM2NWljblg5ZzBzSkgtTnFBZEVsbEFhSDZFMEZuTnV3SXFZZ29RRm12TTk5aVFWMXFzZGFiVVRQcGph?oc=5",
+        "date": "2026-04-09",
+        "title": "Amazon advances rural delivery push with new West Virginia facilities - Supply Chain Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFRfTWsycTNNaG5RYlVTRVdCeVdKZUdPUlFIbnN5amVpUThUSmFJa0FHb3lvcTBhb01PdUwwTnVmbXlZa0V4QXRNQlR1TlRFWXU0TjBvaWU3RlA1UUVLR1Q3aXRZamM2NWljblg5ZzBzSkgtTnFBZEVsbEFhSDZFMEZuTnV3SXFZZ29RRm12TTk5aVFWMXFzZGFiVVRQcGph?oc=5\" target=\"_blank\">Amazon advances rural delivery push with new West Virginia facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/saint-gobain-adds-electric-hgvs-to-uk-fleet.html",
+        "date": "2026-04-09",
+        "title": "Saint-Gobain adds electric HGVs to UK fleet",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/saint-gobain-adds-electric-hgvs-to-uk-fleet.html\"><img align=\"left\" alt=\"Saint-Gobain adds electric HGVs to UK fleet\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/04/SAINT-GOBAIN-PR.jpg-e1775742640464-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Saint-Gobain, in partnership with XPO Logistics, has added six fully electric heavy goods vehicles (eHGVs) to its UK fleet as part of efforts to reduce emissions in logistics operations.</p>\n<p>The vehicles, supplied by Volvo Trucks, will operate across the Midlands and are expected to cut CO2e emissions by nearly 800,000kg per year, according to XPO Logistics\u2019 emissions calculation technology. Over the five-year duration of the UK government\u2019s Zero Emission HGV &amp; Infrastructure Demonstrator (ZEHID) program, this equates to around 3,530 metric tons of CO2e.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/saint-gobain-adds-electric-hgvs-to-uk-fleet.html\" rel=\"nofollow\">Continue reading Saint-Gobain adds electric HGVs to UK fleet at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
