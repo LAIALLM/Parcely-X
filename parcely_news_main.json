@@ -255,5 +255,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-10",
+        "status": "posted",
+        "tweet": "LogiCorp's global network in 2026 spans 2,500 warehouses, handling 15 million daily shipments across 150 countries.  \n\nThis infrastructure supports 99.8% on-time delivery rates.",
+        "type": "infrastructure"
     }
 ]
