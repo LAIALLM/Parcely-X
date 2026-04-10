@@ -546,5 +546,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: 1.2 million packages stolen in 2026, costing $2.5 billion.\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 900,000 thefts, up 25% from 2025 projections.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
