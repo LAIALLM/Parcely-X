@@ -554,5 +554,15 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: 1.2 million packages stolen in 2026, costing $2.5 billion.\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 900,000 thefts, up 25% from 2025 projections.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": "https://postandparcel.info/161658/news/e-commerce/vinted-makes-progress-on-plan-to-make-second-hand-the-first-choice/",
+        "date": "2026-04-10",
+        "title": "Vinted makes progress on plan to make second-hand the first choice",
+        "summary": "Vinted Group, the international C2C second-hand marketplace, has announced its 2025 annual results, reflecting a successful year in which its members traded \u20ac10.8bn in gross merchandise value (GMV) (up 47% YoY), and it generated \u20ac1.1bn in revenue across its businesses with net profits of \u20ac62m.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
