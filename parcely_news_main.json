@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-01",
-        "status": "posted",
-        "tweet": "By 2026, 40% of residents in \ud83c\uddfa\ud83c\uddf8 large cities like New York will order groceries online weekly, driven by convenience and urban density.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
-        "date": "2026-04-01",
-        "status": "posted",
-        "tweet": "GlobalFreight Logistics' \ud83c\uddfa\ud83c\uddf8 Atlanta hub processes 750,000 packages daily via automated sorting lines, cutting delivery times to under 24 hours for 95% of shipments.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-04-02",
         "status": "posted",
         "tweet": "FlexLogistics' \ud83c\uddfa\ud83c\uddf8 Atlanta hub processed 1.2 million packages daily in Q1 2026, up 15% from 2025.",
@@ -270,5 +255,13 @@
         "tweet": "In \ud83c\uddfa\ud83c\uddf8 NYC, delivery vans account for 20% of urban vehicle miles in 2026.\n\nBy 2030, that's projected to reach 32% amid e-commerce growth, worsening congestion.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2026-04-11",
+        "status": "posted",
+        "tweet": "By 2026, global e-commerce will see 1.4 billion failed first-attempt deliveries annually.\n\nThis surge, driven by rising online orders, adds $48 billion in reshipping costs worldwide.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
