@@ -242,5 +242,13 @@
         "status": "posted",
         "tweet": "LogiTech Logistics' automated warehouses in \ud83c\uddfa\ud83c\uddf8 USA handle 1.5 million packages daily, boosting throughput by 40% year-over-year.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-12",
+        "status": "posted",
+        "tweet": "Porch piracy surges: Projected 2026 thefts in top US cities (up 25% from 2024 e-commerce boom).\n\n1. \ud83c\uddfa\ud83c\uddf8 New York City: 180,000 incidents\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles: 145,000\n3. \ud83c\uddfa\ud83c\uddf8 Chicago: 110,000\n4. \ud83c\uddfa\ud83c\uddf8 Houston: 95,000\n5. \ud83c\uddfa\ud83c\uddf8 Philadelphia: 85,000",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
