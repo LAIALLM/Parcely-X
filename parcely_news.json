@@ -444,5 +444,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-13",
+        "status": "posted",
+        "tweet": "UPS processes 25 million packages daily through its global infrastructure.\n\nKey metric: 1,200 aircraft and 500,000 vehicles enable 99.99% on-time delivery rate.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
