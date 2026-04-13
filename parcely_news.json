@@ -1,50 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGQzaU43aFVLcWo4cXNmOUxQN3EyM0F0eW1JNGFZSldHMFlQRTc5TS1ET21uUDlBS2lzTXU2SGFTUTdiTlp0QVJSaG9vcXQyeXFIU0lPOHVHZWYtTVVHTmkzbTRHX3FSRWFTQzdvcEV2Z2VzcThXY2J3V2pGWXpNaGQyZHZFbkhDd1gyajlyeHc1UGdGcnI2VE1fOVkzS0JxY19Mc08zMnhndw?oc=5",
-        "date": "2026-04-03",
-        "title": "Sustainable Last-Mile Delivery Network Design Services Market Size, Share & Forecast to 2036 | FMI - Future Market Insights",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGQzaU43aFVLcWo4cXNmOUxQN3EyM0F0eW1JNGFZSldHMFlQRTc5TS1ET21uUDlBS2lzTXU2SGFTUTdiTlp0QVJSaG9vcXQyeXFIU0lPOHVHZWYtTVVHTmkzbTRHX3FSRWFTQzdvcEV2Z2VzcThXY2J3V2pGWXpNaGQyZHZFbkhDd1gyajlyeHc1UGdGcnI2VE1fOVkzS0JxY19Mc08zMnhndw?oc=5\" target=\"_blank\">Sustainable Last-Mile Delivery Network Design Services Market Size, Share & Forecast to 2036 | FMI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Future Market Insights</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/forwarders-warn-war-risk-surcharges-could-set-dangerous-precedent/",
-        "date": "2026-04-03",
-        "title": "Forwarders warn war risk surcharges could set dangerous precedent",
-        "summary": "<p>Unregulated carrier surcharging practices prompted by the US/Israel war against Iran could have precedent-setting effects, prompting forwarders to question the validity of any contractual agreements they hold.<br />\nOver the past week The Loadstar has documented increasing forwarder anger toward \u201cwar risk\u201d surcharges issued by carriers, with calls for an international body to step in and regulate the practice after realisation that the levies afford no additional protection.<br />\nSpeaking as a collective, multiple ...</p>\n<p>The post <a href=\"https://theloadstar.com/forwarders-warn-war-risk-surcharges-could-set-dangerous-precedent/\">Forwarders warn war risk surcharges could set dangerous precedent</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSWRGYWdNU0JEVXo5VTZOalhxeFM4SUdndTY2TE4yWXZlWk5hRk8tWXdVU19kZkkxVE82bXoyWF9GRmRTTXdXLVBUQURMZDlXVURKei04VUI3SUhMbTNOend3d3pfLVNLZ2lPRmg5MEYzZw?oc=5",
-        "date": "2026-04-03",
-        "title": "Word of The Day: Hyperlocal Delivery - Indian Retailer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9kSWRGYWdNU0JEVXo5VTZOalhxeFM4SUdndTY2TE4yWXZlWk5hRk8tWXdVU19kZkkxVE82bXoyWF9GRmRTTXdXLVBUQURMZDlXVURKei04VUI3SUhMbTNOend3d3pfLVNLZ2lPRmg5MEYzZw?oc=5\" target=\"_blank\">Word of The Day: Hyperlocal Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-03",
-        "status": "posted",
-        "tweet": "Top 5 cities by projected 2026 EV and micro-mobility delivery fleet size:\n\n1. \ud83c\udde8\ud83c\uddf3 Shenzhen - 60k vehicles\n2. \ud83c\uddfa\ud83c\uddf8 New York - 28k\n3. \ud83c\uddf3\ud83c\uddf1 Amsterdam - 20k\n4. \ud83c\uddeb\ud83c\uddf7 Paris - 16k\n5. \ud83c\uddf8\ud83c\uddec Singapore - 14k",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": null,
-        "date": "2026-04-03",
-        "status": "posted",
-        "tweet": "UPS operates 1,200 distribution centers globally, processing 22 million packages daily in 2026.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
         "link": null,
         "date": "2026-04-04",
         "status": "posted",
@@ -471,5 +426,13 @@
         "status": "posted",
         "tweet": "FedEx's Memphis Superhub in \ud83c\uddfa\ud83c\uddf8USA sorts 500,000 packages per hour using AI-driven automation in 2026.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-13",
+        "status": "posted",
+        "tweet": "By 2026, last-mile delivery costs in \ud83c\uddfa\ud83c\uddf8 large metros like New York and Los Angeles average $5.80 per parcel.\n\nThis marks a 22% increase from 2023 levels, fueled by traffic delays and rising driver pay.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
