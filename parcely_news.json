@@ -434,5 +434,15 @@
         "tweet": "By 2026, last-mile delivery costs in \ud83c\uddfa\ud83c\uddf8 large metros like New York and Los Angeles average $5.80 per parcel.\n\nThis marks a 22% increase from 2023 levels, fueled by traffic delays and rising driver pay.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWk1hcXpRNi1DSFV4WE9DMHl6RlZnWjZaRXVKMGtDUEpGdEQtNlJrR2xlQjNSZTU1QlFtVVZrdUJtX3hVWmZJQnAtcXU5YlRGTS1qZ1BIMWpUWDQ0TW5OamVqd09MUnAwUE8wNFV0dVpNb1o0amRrNmlNZTZUaTJlbjVPMmlOOTlZVk5Bd0dfLVVlem42TDZveFo5R3Nha1BwdFQ0S084MWgzS2VLb2doamFCYjMwVXIxNlBkbzhhZ3V0dGg3bmhpN29WVVFncEQt?oc=5",
+        "date": "2026-04-13",
+        "title": "Florida Polytechnic introduces AI-assisted food delivery robots - Lakeland Ledger",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWk1hcXpRNi1DSFV4WE9DMHl6RlZnWjZaRXVKMGtDUEpGdEQtNlJrR2xlQjNSZTU1QlFtVVZrdUJtX3hVWmZJQnAtcXU5YlRGTS1qZ1BIMWpUWDQ0TW5OamVqd09MUnAwUE8wNFV0dVpNb1o0amRrNmlNZTZUaTJlbjVPMmlOOTlZVk5Bd0dfLVVlem42TDZveFo5R3Nha1BwdFQ0S084MWgzS2VLb2doamFCYjMwVXIxNlBkbzhhZ3V0dGg3bmhpN29WVVFncEQt?oc=5\" target=\"_blank\">Florida Polytechnic introduces AI-assisted food delivery robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lakeland Ledger</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
