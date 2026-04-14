@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-04",
-        "status": "posted",
-        "tweet": "FedEx global network processed 22 million packages daily in 2026.\n\nAutomated sorting efficiency reached 99.7% at \ud83c\uddfa\ud83c\uddf8 Memphis hub.\n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-04-04",
-        "status": "posted",
-        "tweet": "By 2026, EVs and e-bikes will power 45% of last-mile deliveries in cities like \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\udde9\ud83c\uddea Berlin.\n\nThis shift cuts urban CO2 emissions by 20% compared to 2023 gas fleets.",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": null,
         "date": "2026-04-05",
         "status": "posted",
         "tweet": "By 2026, 55% of commercial buildings worldwide will adopt smart access systems, a 30% jump from 2023 levels driven by cybersecurity demands.",
@@ -471,5 +456,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-14",
+        "status": "posted",
+        "tweet": "In 2026, residents in large \ud83c\uddfa\ud83c\uddf8 cities average 4 online food deliveries per month, compared to just 2 for online grocery orders.  \n\nThis gap highlights faster adoption of meal services over full shopping trips in urban areas.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
