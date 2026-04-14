@@ -581,5 +581,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnRSMGVWb0d4UDlLSVNlMWh2eGx0NFFVOGpRS1ZPSVVqblQ3Tnd6amxUM3dkcnY5d2gwVXNKVlhuZHVGRnlEbXhoQzhROEhzdkhGcHdYdWhob1ExQ0ZSdm5UVGFQekl1aXU5SWp4MHV2d21iNm5COTZBSkhiQUkxa2V6Qm9pOHUzMGVob3RIQ0ZUY05jR250LW5LQlFjclU0Z0ZXT1FTSnZqZjNmSUtJd1J2ZlhrSHBZS3lFcU5veEpzUXh4bV9R?oc=5",
+        "date": "2026-04-14",
+        "title": "SF Holding Co Ltd stock (CNE100002LC8): Why does its logistics dominance matter more now for global - AD HOC NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnRSMGVWb0d4UDlLSVNlMWh2eGx0NFFVOGpRS1ZPSVVqblQ3Tnd6amxUM3dkcnY5d2gwVXNKVlhuZHVGRnlEbXhoQzhROEhzdkhGcHdYdWhob1ExQ0ZSdm5UVGFQekl1aXU5SWp4MHV2d21iNm5COTZBSkhiQUkxa2V6Qm9pOHUzMGVob3RIQ0ZUY05jR250LW5LQlFjclU0Z0ZXT1FTSnZqZjNmSUtJd1J2ZlhrSHBZS3lFcU5veEpzUXh4bV9R?oc=5\" target=\"_blank\">SF Holding Co Ltd stock (CNE100002LC8): Why does its logistics dominance matter more now for global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlZVNzJLTHhuQW1YZUlnNjR6RExONjFVaGcyTjF6d20xTTFhLW4zTFdKdVBqbC1uSjh4eGptdjdJTGdGSHlOYVA0MGR4X0JVTThxbWFsQjVnU19ialoxNUZEYV9MbUY4Q2h4bmtsV3dsTVNKckZ0Q1phS0lUejF5dHBtMGdVeUdqem05Vm1TMXpicVRlV3BPN0JjM09SOXZvbTZIeTVqUTl6NElKZVc1Ug?oc=5",
+        "date": "2026-04-14",
+        "title": "Delivery Robot Apologizes for Breaking CTA Bus Shelter - National Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlZVNzJLTHhuQW1YZUlnNjR6RExONjFVaGcyTjF6d20xTTFhLW4zTFdKdVBqbC1uSjh4eGptdjdJTGdGSHlOYVA0MGR4X0JVTThxbWFsQjVnU19ialoxNUZEYV9MbUY4Q2h4bmtsV3dsTVNKckZ0Q1phS0lUejF5dHBtMGdVeUdqem05Vm1TMXpicVRlV3BPN0JjM09SOXZvbTZIeTVqUTl6NElKZVc1Ug?oc=5\" target=\"_blank\">Delivery Robot Apologizes for Breaking CTA Bus Shelter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
