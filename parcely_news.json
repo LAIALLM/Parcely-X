@@ -471,5 +471,25 @@
         "status": "posted",
         "tweet": "UPS processes 25 million packages daily through its 1,200+ automated sorting facilities worldwide.\n\nEfficiency metric: 98.7% throughput rate in 2026.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://postandparcel.info/161665/news/e-commerce/29-4-of-transport-storage-companies-are-concerned-about-the-impact-of-international-conflict/",
+        "date": "2026-04-14",
+        "title": "29.4% of transport & storage companies are concerned about the impact of international conflict.",
+        "summary": "The latest ONS survey shows a significant 29.4% of transport &#038; storage companies are concerned about the impact of international conflict.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/risk-of-fraud-and-disruption-after-data-breach-on-mexico-port-platform/",
+        "date": "2026-04-14",
+        "title": "Risk of fraud and disruption after data breach on Mexico port platform",
+        "summary": "<p>A cyberattack on Mexico\u2019s port access platform has unveiled vulnerabilities in the system, and raised fears of criminal repercussions.<br />\nEarlier this month, a hacker infiltrated the Ministry of the Navy\u2019s Safe Smart Port (PIS) platform and extracted 39.7GB of data, containing detailed information on some 640,000 logistics personnel that have access to Mexico\u2019s national ports.<br />\nThe portal manages logistical access to all national ports and contains detailed information on every transport provider, ...</p>\n<p>The post <a href=\"https://theloadstar.com/risk-of-fraud-and-disruption-after-data-breach-on-mexico-port-platform/\">Risk of fraud and disruption after data breach on Mexico port platform</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
