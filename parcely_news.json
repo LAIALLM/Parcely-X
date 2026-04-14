@@ -464,5 +464,12 @@
         "tweet": "In 2026, residents in large \ud83c\uddfa\ud83c\uddf8 cities average 4 online food deliveries per month, compared to just 2 for online grocery orders.  \n\nThis gap highlights faster adoption of meal services over full shopping trips in urban areas.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-04-14",
+        "status": "posted",
+        "tweet": "UPS processes 25 million packages daily through its 1,200+ automated sorting facilities worldwide.\n\nEfficiency metric: 98.7% throughput rate in 2026.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
