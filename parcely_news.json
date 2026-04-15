@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-05",
-        "status": "posted",
-        "tweet": "By 2026, 55% of commercial buildings worldwide will adopt smart access systems, a 30% jump from 2023 levels driven by cybersecurity demands.",
-        "type": "statistical",
-        "category": "adoption of smart access systems for buildings"
-    },
-    {
-        "link": null,
-        "date": "2026-04-05",
-        "status": "posted",
-        "tweet": "UPS handles 28 million packages daily through its automated sorting facilities.\n\nGlobal throughput increased 15% YoY in 2026.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-04-06",
         "status": "posted",
         "tweet": "Last-mile logistics in \ud83c\uddfa\ud83c\uddf8 projected to emit 150 million metric tons of CO2 in 2026.\n\nBuilding-integrated networks could cut emissions by 40%, saving 60 million tons annually.",
@@ -599,6 +584,16 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlZVNzJLTHhuQW1YZUlnNjR6RExONjFVaGcyTjF6d20xTTFhLW4zTFdKdVBqbC1uSjh4eGptdjdJTGdGSHlOYVA0MGR4X0JVTThxbWFsQjVnU19ialoxNUZEYV9MbUY4Q2h4bmtsV3dsTVNKckZ0Q1phS0lUejF5dHBtMGdVeUdqem05Vm1TMXpicVRlV3BPN0JjM09SOXZvbTZIeTVqUTl6NElKZVc1Ug?oc=5\" target=\"_blank\">Delivery Robot Apologizes for Breaking CTA Bus Shelter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
         "similarity_excluded": "No",
         "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2hBN2VZSmJiRmR1VGxfbEM5QzJOMFhYRzBIUDJRb2VENlczOGRhLTA3eFg3U1gzWVM2TXZDUTU1MmNZQnY4WEVxV0VGa0VBeHZSWFBCbFdsTXNOelg4N3lKdFA4YlcyUnJaREREbHNnT0ZuR1c2OUxQQUN1SDZnYWIwMGlJMTVsME5CMjlHcnVSRGhSWnZsU2xWWURHRUREN1NJSmJKUGNnTW9jejg1c0Z6ZGlNRUdyVDU4?oc=5",
+        "date": "2026-04-15",
+        "title": "11st to launch China reverse cross-border storefront in June, seeks sellers - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2hBN2VZSmJiRmR1VGxfbEM5QzJOMFhYRzBIUDJRb2VENlczOGRhLTA3eFg3U1gzWVM2TXZDUTU1MmNZQnY4WEVxV0VGa0VBeHZSWFBCbFdsTXNOelg4N3lKdFA4YlcyUnJaREREbHNnT0ZuR1c2OUxQQUN1SDZnYWIwMGlJMTVsME5CMjlHcnVSRGhSWnZsU2xWWURHRUREN1NJSmJKUGNnTW9jejg1c0Z6ZGlNRUdyVDU4?oc=5\" target=\"_blank\">11st to launch China reverse cross-border storefront in June, seeks sellers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub514\uc9c0\ud138\ud22c\ub370\uc774</font>",
+        "similarity_excluded": "No",
+        "score": 5,
         "status": "processed",
         "tweet": null
     }
