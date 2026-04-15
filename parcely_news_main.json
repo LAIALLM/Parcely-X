@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-05",
-        "status": "posted",
-        "tweet": "By 2030, last-mile delivery fleets could emit 2.1 billion metric tons of CO2 worldwide\u2014equivalent to 450 million cars.\n\nBuilding-integrated networks, like rooftop hubs and micro-warehouses, project a 55% cut, saving 1.15 billion tons yearly.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
-        "date": "2026-04-05",
-        "status": "posted",
-        "tweet": "LogiCore's global warehouses process 750,000 packages daily.\n\nIn \ud83c\uddfa\ud83c\uddf8United States hubs, on-time delivery hits 98.7%.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-04-06",
         "status": "posted",
         "tweet": "Global parcel locker networks: 1.1 million units by 2026.\n\n\ud83c\udde8\ud83c\uddf3 China dominates with 550,000, outpacing \ud83c\uddfa\ud83c\uddf8 USA's 200,000 by nearly 3x.",
@@ -252,5 +237,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics expanded its \ud83c\uddfa\ud83c\uddf8 infrastructure in 2026, adding 5 new automated warehouses that process 2.5 million packages daily with 98% on-time delivery.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-15",
+        "status": "posted",
+        "tweet": "Top 5 countries by projected e-commerce packaging waste in 2026 (million metric tons):\n\n\ud83c\udde8\ud83c\uddf3 China: 28\n\n\ud83c\uddfa\ud83c\uddf8 USA: 18\n\n\ud83c\uddee\ud83c\uddf3 India: 10\n\n\ud83c\udde9\ud83c\uddea Germany: 6\n\n\ud83c\uddec\ud83c\udde7 UK: 5",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
