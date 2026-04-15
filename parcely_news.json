@@ -603,5 +603,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure in 2026 handles 25 million packages daily across 500 global facilities.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-15",
+        "status": "posted",
+        "tweet": "By 2030, EVs and e-bikes will handle 60% of urban deliveries in \ud83c\uddfa\ud83c\uddf8 cities, cutting emissions by 45% from 2026 levels.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
