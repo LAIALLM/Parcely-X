@@ -290,5 +290,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Matternet and SoftBank Robotics America announce strategic partnership to scale drone delivery networks across urban areas",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-16",
+        "status": "posted",
+        "tweet": "45% of residents in \ud83c\uddfa\ud83c\uddf8 large cities  \norder food delivery weekly in 2026.  \n\nVs. 25% for online groceries.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
