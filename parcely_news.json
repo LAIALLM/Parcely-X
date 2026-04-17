@@ -678,5 +678,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: Canada Post launches multi-year transformation, converting door-to-door delivery to community mailboxes and modernizing its retail network for sustainable service.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-17",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker networks reach 850,000 units.\n\n\ud83c\udde8\ud83c\uddf3 China operates 550,000 of them, outpacing all other countries combined.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
