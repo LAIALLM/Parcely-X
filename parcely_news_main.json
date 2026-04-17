@@ -1,52 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-07",
-        "status": "posted",
-        "tweet": "By 2026, electric vans and e-cargo bikes will power 35% of last-mile deliveries in major cities like \ud83c\uddfa\ud83c\uddf8 Los Angeles and \ud83c\uddeb\ud83c\uddf7 Paris, slashing urban emissions by 40% from 2023 levels.",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnB1MDhKTmxJMkJUT244NGM0ejZ0YjZvLUlxNk1ldV91X0I0V2gzM080bktsTXFxcFoxeGxtYUEwTUlXQlN5WDFDc3lVQmN5azJPUGFMcnNUNDc3UTVudG1SYzRxNnZxbnBRSU5WZ1Rpa3JFLWk2dHNSRXlsNzNFYW1iQ01FbGdFRG9XR0htbGYtRnlWZ0ZmZ2RuV21wdw?oc=5",
-        "date": "2026-04-07",
-        "title": "Amazon US Portal Deal: Amazon and USPS Finalize Major Delivery Partnership - Meyka",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZnB1MDhKTmxJMkJUT244NGM0ejZ0YjZvLUlxNk1ldV91X0I0V2gzM080bktsTXFxcFoxeGxtYUEwTUlXQlN5WDFDc3lVQmN5azJPUGFMcnNUNDc3UTVudG1SYzRxNnZxbnBRSU5WZ1Rpa3JFLWk2dHNSRXlsNzNFYW1iQ01FbGdFRG9XR0htbGYtRnlWZ0ZmZ2RuV21wdw?oc=5\" target=\"_blank\">Amazon US Portal Deal: Amazon and USPS Finalize Major Delivery Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon and USPS finalize major delivery partnership for US portal deal"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnB1MDhKTmxJMkJUT244NGM0ejZ0YjZvLUlxNk1ldV91X0I0V2gzM080bktsTXFxcFoxeGxtYUEwTUlXQlN5WDFDc3lVQmN5azJPUGFMcnNUNDc3UTVudG1SYzRxNnZxbnBRSU5WZ1Rpa3JFLWk2dHNSRXlsNzNFYW1iQ01FbGdFRG9XR0htbGYtRnlWZ0ZmZ2RuV21wdw?oc=5",
-        "date": "2026-04-07",
-        "title": "Amazon US Portal Deal: Amazon and USPS Finalize Major Delivery Partnership - Meyka",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZnB1MDhKTmxJMkJUT244NGM0ejZ0YjZvLUlxNk1ldV91X0I0V2gzM080bktsTXFxcFoxeGxtYUEwTUlXQlN5WDFDc3lVQmN5azJPUGFMcnNUNDc3UTVudG1SYzRxNnZxbnBRSU5WZ1Rpa3JFLWk2dHNSRXlsNzNFYW1iQ01FbGdFRG9XR0htbGYtRnlWZ0ZmZ2RuV21wdw?oc=5\" target=\"_blank\">Amazon US Portal Deal: Amazon and USPS Finalize Major Delivery Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon and USPS finalize major delivery partnership for US portal access",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2026-04-07",
-        "status": "posted",
-        "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Texas warehouse network\n\nhandles 450,000 packages daily\n\nat 98% efficiency rate.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://theloadstar.com/myfreight-a-task-driven-tms-for-faster-smarter-forwarding/",
-        "date": "2026-04-07",
-        "title": "MyFreight: A task-driven TMS for faster, smarter forwarding",
-        "summary": "<p>Freight forwarding has long been shaped by a single dominant Transport Management System. While that system defined the standard for years, the way forwarders operate today has changed significantly. Workflows have accelerated, volumes have increased, and the demand for real-time insight has become the norm. Yet many of the systems still in use are built on structures that no longer reflect that reality.<br />\nMyFreight was developed to address that gap. Not ...</p>\n<p>The post <a href=\"https://theloadstar.com/myfreight-a-task-driven-tms-for-faster-smarter-forwarding/\">MyFreight: A task-driven TMS for faster, smarter forwarding</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-04-08",
         "status": "posted",
         "tweet": "LogiFreight's main \ud83c\uddfa\ud83c\uddf8 hub in Atlanta now handles 1.5 million packages daily, up 25% from last year.",
