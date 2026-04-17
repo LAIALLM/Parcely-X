@@ -269,5 +269,12 @@
         "status": "posted",
         "tweet": "LogiCore's global network moved 1.5 million tons of goods in 2026.\n\nKey infrastructure stat: 85% on-time delivery rate across 200 hubs, including \ud83c\uddfa\ud83c\uddf8 Chicago and \ud83c\udde9\ud83c\uddea Frankfurt.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-17",
+        "status": "posted",
+        "tweet": "TransPort Inc. infrastructure update:\n\n\ud83c\uddfa\ud83c\uddf8 USA network: 450 warehouses.\n\nTotal daily package volume: 3.2 million.\n\nEfficiency gain: 22% lower energy per shipment vs. 2025.",
+        "type": "infrastructure"
     }
 ]
