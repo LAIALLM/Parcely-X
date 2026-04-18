@@ -261,5 +261,12 @@
         "status": "posted",
         "tweet": "TransPort Inc. infrastructure update:\n\n\ud83c\uddfa\ud83c\uddf8 USA network: 450 warehouses.\n\nTotal daily package volume: 3.2 million.\n\nEfficiency gain: 22% lower energy per shipment vs. 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-18",
+        "status": "posted",
+        "tweet": "SwiftLogistics' global network now includes 450 automated warehouses, handling 800,000 packages daily with 98% on-time delivery.\n\nExpansion in \ud83c\uddfa\ud83c\uddf8 Texas boosts capacity by 20%.",
+        "type": "infrastructure"
     }
 ]
