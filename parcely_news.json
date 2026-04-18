@@ -585,5 +585,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-18",
+        "status": "posted",
+        "tweet": "By 2026, electric vehicles and e-bikes will handle 35% of last-mile deliveries in major \ud83c\uddfa\ud83c\uddf8 cities, cutting CO2 emissions from urban logistics by 28% versus 2023 levels.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
