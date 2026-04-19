@@ -495,5 +495,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-19",
+        "status": "posted",
+        "tweet": "Projected e-commerce packaging waste by top countries, 2026 (million metric tons)\n\n\ud83c\udde8\ud83c\uddf3 China: 35  \n\ud83c\uddfa\ud83c\uddf8 United States: 20  \n\ud83c\uddee\ud83c\uddf3 India: 9  \n\ud83c\uddec\ud83c\udde7 United Kingdom: 5  \n\ud83c\udde9\ud83c\uddea Germany: 4",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
