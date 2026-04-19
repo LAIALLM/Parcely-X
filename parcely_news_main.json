@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-04-09",
-        "status": "posted",
-        "tweet": "In 2026, e-commerce deliveries worldwide will generate 665 billion packages.\n\nThat's 200 million tons of packaging waste.\n\nBy 2030, projections show 1 trillion packages and 300 million tons.",
-        "type": "statistical",
-        "category": "packaging waste from e-commerce deliveries worldwide"
-    },
-    {
-        "link": null,
-        "date": "2026-04-09",
-        "status": "posted",
-        "tweet": "LogiTech's core network in \ud83c\uddfa\ud83c\uddf8 USA routes 2.5 million packages daily across 150 automated hubs, achieving 98.7% on-time delivery.",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2EwUjhPa3R6SVZYcGVPd1AwekotYURPNEw5SkREVzNwZkV5aks4VHZlc2F6b1F3VEFPRmYySDc2cFRWZTFsMVFJa3BSSktOcC1sOFNwVzdmZHRyXzRXdFV4bTZ1akFPVTBDQmdjMmdpOG54X0o0QzVBc25sRTFQd0xma2dwaWhNaFN4MkIwUWZmLU1iZG9iSmZraHVYZ3Z1NDQxcXhYVW4zQnNPb3FNNVhGZmZET08wQWp2S2htbw?oc=5",
         "date": "2026-04-10",
         "title": "Faraday Future Showcases Autonomous Food Delivery Scenario with Its FX Aegis Robot, Integrates OpenClaw to Enable No-Code Skills Development and Accelerate Real-World Deployment of EAI Robots - Faraday Future",
@@ -276,5 +261,12 @@
         "tweet": "In 2026, top large cities by average monthly online grocery and food deliveries per urban household (projected):\n\n\ud83c\uddf8\ud83c\uddec Singapore/Singapore: 14\n\n\ud83c\uddf0\ud83c\uddf7 Seoul/South Korea: 13\n\n\ud83c\udde8\ud83c\uddf3 Shanghai/China: 12\n\n\ud83c\uddfa\ud83c\uddf8 New York/USA: 11\n\n\ud83c\uddec\ud83c\udde7 London/UK: 10",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-04-19",
+        "status": "posted",
+        "tweet": "LogiFlow's infrastructure milestone: 450 automated sorting hubs worldwide process 8 million parcels daily in 2026.",
+        "type": "infrastructure"
     }
 ]
