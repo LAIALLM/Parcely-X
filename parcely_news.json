@@ -493,5 +493,25 @@
         "tweet": "Delivery vans in \ud83c\uddfa\ud83c\uddf8 New York: 20% of peak-hour traffic in 2026.\n\nProjections show this rising to 35% by 2030, fueling urban gridlock.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMldZQVRtTGN6OENLbkNLRkwtS3dVQTJrcU5zcHhfQzZSVTIyb3ZLelNYMF9fSDQ5SVFqTmMtWGdOcVI3VjlEV3FnN0xmeVhUUy1JbjNycExmY21nOWdhSlhiWWx1c3ZVVUZ3Y3pOWFhzSmlpTFR5Uy1lQW5hQktPWWFVUHg5VjljSWxhdV9uejRCeWdjMGhaNkRPbngtN1FxSmZjLV85N0Y2NmRLNzRMeHZ6U0VJWUdJYUFkRVBjWVE5bWktTXc?oc=5",
+        "date": "2026-04-20",
+        "title": "United Parcel Serv. stock (US9113121068): Is e-commerce endurance strong enough to unlock new upside - AD HOC NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMldZQVRtTGN6OENLbkNLRkwtS3dVQTJrcU5zcHhfQzZSVTIyb3ZLelNYMF9fSDQ5SVFqTmMtWGdOcVI3VjlEV3FnN0xmeVhUUy1JbjNycExmY21nOWdhSlhiWWx1c3ZVVUZ3Y3pOWFhzSmlpTFR5Uy1lQW5hQktPWWFVUHg5VjljSWxhdV9uejRCeWdjMGhaNkRPbngtN1FxSmZjLV85N0Y2NmRLNzRMeHZ6U0VJWUdJYUFkRVBjWVE5bWktTXc?oc=5\" target=\"_blank\">United Parcel Serv. stock (US9113121068): Is e-commerce endurance strong enough to unlock new upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEtUdXNDSzlhQ29CbC1LWHBxRXVOS25UNUN5RHVQQ3RCbWYyaUtoYmxNNzJiNW1Ia21TTUNWQUZRaWpaN1FlOGk0cXVxX2hYV1lmdGdwTm5RRUw5dFg2ZTFzYUI3OURwN2c4VEtzbzl2eG1YZDR5cGpoSlVwcFRfTHpoRGtxRGNzSXdBaVlGNW43WWNFTUtOamVpQ1FIQnpKaVVXMlRHV2RsWUpKX19QaERCejY2RDVBTkpFMHZZaURWb2lf?oc=5",
+        "date": "2026-04-20",
+        "title": "SF Holding Co Ltd stock (CNE100002LC8): Is e-commerce logistics growth strong enough to unlock new u - AD HOC NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEtUdXNDSzlhQ29CbC1LWHBxRXVOS25UNUN5RHVQQ3RCbWYyaUtoYmxNNzJiNW1Ia21TTUNWQUZRaWpaN1FlOGk0cXVxX2hYV1lmdGdwTm5RRUw5dFg2ZTFzYUI3OURwN2c4VEtzbzl2eG1YZDR5cGpoSlVwcFRfTHpoRGtxRGNzSXdBaVlGNW43WWNFTUtOamVpQ1FIQnpKaVVXMlRHV2RsWUpKX19QaERCejY2RDVBTkpFMHZZaURWb2lf?oc=5\" target=\"_blank\">SF Holding Co Ltd stock (CNE100002LC8): Is e-commerce logistics growth strong enough to unlock new u</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
