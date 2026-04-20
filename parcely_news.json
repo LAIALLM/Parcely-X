@@ -475,5 +475,15 @@
         "status": "posted",
         "tweet": "FedEx SuperHub in \ud83c\uddfa\ud83c\uddf8 Memphis processes 450,000 packages per hour.\n\nGlobal network handles 18 million shipments daily in 2026.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/jet-fuel-costs-force-lh-freighter-withdrawal/",
+        "date": "2026-04-20",
+        "title": "Jet fuel costs force LH freighter withdrawal",
+        "summary": "<p>Lufthansa has withdrawn four A321-200P2Fs from service as part of the reduction in its short- to medium-haul routes, albeit accelerated by the present elevated pricing for jet fuel.</p>\n<p>They are among the 27 operational aircraft run by the German carrier\u2019s CityLine subsidiary that were removed from the flight programme starting last week, in order to reduce further losses of the loss-making airline.</p>\n<p>Lufthansa CFO Till Streichert said that the group had already ...</p>\n<p>The post <a href=\"https://theloadstar.com/jet-fuel-costs-force-lh-freighter-withdrawal/\">Jet fuel costs force LH freighter withdrawal</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
