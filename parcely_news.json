@@ -1,51 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-10",
-        "status": "posted",
-        "tweet": "FedEx infrastructure milestone in 2026:  \nProcesses 18 million packages daily across 550 facilities worldwide.  \n\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGVRLXlhWUE5dkNDWEN3T0NzdGdlYWFDYVNmWVN1c185LUVHa24yc3RIeGU0SkIwUE9TUGFmOF9acVZ6QmRDRkpNcnB6djRtallqZU1FT3E0YlU4OFBIeDNGTnFmbFgzN2dJbTJONzc0MGVORWNnaVVRTFdVb3cyVy1IV25kQ2c5Q0t1bzZTM041bmpNY0lMNk9zNUpzVW82YXpHLTUtSWk5c3lDaE1uaFladjU2ckwxT2JJ?oc=5",
-        "date": "2026-04-10",
-        "title": "NYC Backs 'Delivery Protection' Law Opposed By Amazon Coalition - National Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGVRLXlhWUE5dkNDWEN3T0NzdGdlYWFDYVNmWVN1c185LUVHa24yc3RIeGU0SkIwUE9TUGFmOF9acVZ6QmRDRkpNcnB6djRtallqZU1FT3E0YlU4OFBIeDNGTnFmbFgzN2dJbTJONzc0MGVORWNnaVVRTFdVb3cyVy1IV25kQ2c5Q0t1bzZTM041bmpNY0lMNk9zNUpzVW82YXpHLTUtSWk5c3lDaE1uaFladjU2ckwxT2JJ?oc=5\" target=\"_blank\">NYC Backs 'Delivery Protection' Law Opposed By Amazon Coalition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-10",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: 1.2 million packages stolen in 2026, costing $2.5 billion.\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 900,000 thefts, up 25% from 2025 projections.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": "https://postandparcel.info/161658/news/e-commerce/vinted-makes-progress-on-plan-to-make-second-hand-the-first-choice/",
-        "date": "2026-04-10",
-        "title": "Vinted makes progress on plan to make second-hand the first choice",
-        "summary": "Vinted Group, the international C2C second-hand marketplace, has announced its 2025 annual results, reflecting a successful year in which its members traded \u20ac10.8bn in gross merchandise value (GMV) (up 47% YoY), and it generated \u20ac1.1bn in revenue across its businesses with net profits of \u20ac62m.",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWpDUk13NnRPZXQ5TXlfaUd0V2c3Ny03U2hEdHQxUS1FYVZDTDVSQjBHd2RxTXA2bTFDaGU1dzZCQXMyZzhfcXhJS29iWGgzRlYybEwzM1ExMmxESWYzREZfRWhqMVFEb1hoaEtTT3lueWplWUJNTGZsekMwT3AxYV91bFNiRjZMTXBzWG5ZT1c4STJyWGE0VlVzTmlkUUJhZ0ozU0dqNEJVSDJ3eGNvUHFtUWdqMS14OUVPWDJjNjhESWlXU1FzVjhn?oc=5",
-        "date": "2026-04-10",
-        "title": "SF Holding Co Ltd stock (CNE100002LC8): Why does its logistics edge matter more for U.S. investors n - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWpDUk13NnRPZXQ5TXlfaUd0V2c3Ny03U2hEdHQxUS1FYVZDTDVSQjBHd2RxTXA2bTFDaGU1dzZCQXMyZzhfcXhJS29iWGgzRlYybEwzM1ExMmxESWYzREZfRWhqMVFEb1hoaEtTT3lueWplWUJNTGZsekMwT3AxYV91bFNiRjZMTXBzWG5ZT1c4STJyWGE0VlVzTmlkUUJhZ0ozU0dqNEJVSDJ3eGNvUHFtUWdqMS14OUVPWDJjNjhESWlXU1FzVjhn?oc=5\" target=\"_blank\">SF Holding Co Ltd stock (CNE100002LC8): Why does its logistics edge matter more for U.S. investors n</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-04-11",
         "status": "posted",
         "tweet": "Apex Logistics' \ud83c\uddfa\ud83c\uddf8 Chicago hub processes 1.8 million parcels daily in 2026, with 98.7% efficiency.",
