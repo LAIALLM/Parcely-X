@@ -505,5 +505,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure spans 125 million square feet of warehouse space globally in 2026, enabling 24 million daily package sorts. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-21",
+        "status": "posted",
+        "tweet": "By 2026, 62% of residents in large cities like \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddec\ud83c\udde7 London will order groceries or food online at least once a week, driven by app convenience and faster delivery.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
