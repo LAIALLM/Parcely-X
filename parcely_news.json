@@ -498,5 +498,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-21",
+        "status": "posted",
+        "tweet": "UPS infrastructure spans 125 million square feet of warehouse space globally in 2026, enabling 24 million daily package sorts. $UPS",
+        "type": "infrastructure"
     }
 ]
