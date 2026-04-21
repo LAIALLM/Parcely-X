@@ -291,5 +291,13 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub runs on 500 km of automated belts, moving 1.2 million packages daily in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-21",
+        "status": "posted",
+        "tweet": "Projected porch piracy rates in major US cities for 2026 (incidents per 100,000 residents, based on e-commerce surge):\n\n\ud83c\uddfa\ud83c\uddf8 New York City: 1,450\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 1,320\n\ud83c\uddfa\ud83c\uddf8 Chicago: 1,180\n\ud83c\uddfa\ud83c\uddf8 Houston: 1,050\n\ud83c\uddfa\ud83c\uddf8 Philadelphia: 980",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
