@@ -299,5 +299,15 @@
         "status": "posted",
         "tweet": "SwiftLogistics' \ud83c\uddfa\ud83c\uddf8 Dallas hub handles 1.2 million packages daily through its automated sorting system, boosting efficiency by 35% since 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkxEcWp6WlB3TTI5ZDhjMlY4Nk1WSVlzTXUwSEJvYTR5TVdjcEs1MHNNU1BvTWNHQkJrTHc1NUdjbVJzX25ldzJGN0xxVHNCZjNWZ0NCOTNnZElKQjFraXBBTnFQQktPSXltVFd2bGFSQ3VFQWFqYWRNdDZ0MG5nTi1ody1PTzJSUm10UnM4NzR4WDU1cFE0dVZuTXczanUtN0xMR0hwcUc?oc=5",
+        "date": "2026-04-22",
+        "title": "Food delivery robots arrive in San Jose as automation spreads across Silicon Valley - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkxEcWp6WlB3TTI5ZDhjMlY4Nk1WSVlzTXUwSEJvYTR5TVdjcEs1MHNNU1BvTWNHQkJrTHc1NUdjbVJzX25ldzJGN0xxVHNCZjNWZ0NCOTNnZElKQjFraXBBTnFQQktPSXltVFd2bGFSQ3VFQWFqYWRNdDZ0MG5nTi1ody1PTzJSUm10UnM4NzR4WDU1cFE0dVZuTXczanUtN0xMR0hwcUc?oc=5\" target=\"_blank\">Food delivery robots arrive in San Jose as automation spreads across Silicon Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
