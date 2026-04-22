@@ -503,5 +503,15 @@
         "status": "posted",
         "tweet": "FedEx Memphis \ud83c\uddfa\ud83c\uddf8 Superhub sorts 1.2 million packages hourly, powering global logistics at scale.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSEVfR3VqakRlWGRvbTZCa2s4clp3cHNKWTV5Unc1ZkVKYnhBel9xTHh6OTlSSDZ5YlNCMDFtNzJKdTFsR0FRbjVWb1gxSWNneFpJaGJtTTVtNDRqSWNBN0cxZ0U3WDVhS0VIQXdiYzQ?oc=5",
+        "date": "2026-04-22",
+        "title": "Online Grocery Sales Fuel $452B Boom - abasto.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSEVfR3VqakRlWGRvbTZCa2s4clp3cHNKWTV5Unc1ZkVKYnhBel9xTHh6OTlSSDZ5YlNCMDFtNzJKdTFsR0FRbjVWb1gxSWNneFpJaGJtTTVtNDRqSWNBN0cxZ0U3WDVhS0VIQXdiYzQ?oc=5\" target=\"_blank\">Online Grocery Sales Fuel $452B Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abasto.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
