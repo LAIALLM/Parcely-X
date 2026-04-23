@@ -1,51 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-13",
-        "status": "posted",
-        "tweet": "By 2026, last-mile delivery costs in \ud83c\uddfa\ud83c\uddf8 large metros like New York and Los Angeles average $5.80 per parcel.\n\nThis marks a 22% increase from 2023 levels, fueled by traffic delays and rising driver pay.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWk1hcXpRNi1DSFV4WE9DMHl6RlZnWjZaRXVKMGtDUEpGdEQtNlJrR2xlQjNSZTU1QlFtVVZrdUJtX3hVWmZJQnAtcXU5YlRGTS1qZ1BIMWpUWDQ0TW5OamVqd09MUnAwUE8wNFV0dVpNb1o0amRrNmlNZTZUaTJlbjVPMmlOOTlZVk5Bd0dfLVVlem42TDZveFo5R3Nha1BwdFQ0S084MWgzS2VLb2doamFCYjMwVXIxNlBkbzhhZ3V0dGg3bmhpN29WVVFncEQt?oc=5",
-        "date": "2026-04-13",
-        "title": "Florida Polytechnic introduces AI-assisted food delivery robots - Lakeland Ledger",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWk1hcXpRNi1DSFV4WE9DMHl6RlZnWjZaRXVKMGtDUEpGdEQtNlJrR2xlQjNSZTU1QlFtVVZrdUJtX3hVWmZJQnAtcXU5YlRGTS1qZ1BIMWpUWDQ0TW5OamVqd09MUnAwUE8wNFV0dVpNb1o0amRrNmlNZTZUaTJlbjVPMmlOOTlZVk5Bd0dfLVVlem42TDZveFo5R3Nha1BwdFQ0S084MWgzS2VLb2doamFCYjMwVXIxNlBkbzhhZ3V0dGg3bmhpN29WVVFncEQt?oc=5\" target=\"_blank\">Florida Polytechnic introduces AI-assisted food delivery robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lakeland Ledger</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-13",
-        "status": "posted",
-        "tweet": "UPS processes 25 million packages daily through its global infrastructure.\n\nKey metric: 1,200 aircraft and 500,000 vehicles enable 99.99% on-time delivery rate.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU81M3RucXZtd1R1d3JNZ0VIRDBpSE9TRnRHMXY2RTdRaG05QnRxVGRPa1ZPWThab3BiUmoyLWRiV0NCYTFaWFZ5eW1hNV9ZMk9GRnUzamFEb09WbUZYWklzd21HTHhFbnJ5ME1yUXB2MURwQWRnemJfa3E3VW82NnpXc255Z1FnWlhxek9PWi1lNF92Q1dSZ0c0THpGOWZQamctSEo2UThlc3UtcEpSVU5iZkxhaG5BNGlOT2tJNnlXUQ?oc=5",
-        "date": "2026-04-13",
-        "title": "DHL Paket: E-commerce Surge Boosts Parcel Demand Amid Rising Costs - AD HOC NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU81M3RucXZtd1R1d3JNZ0VIRDBpSE9TRnRHMXY2RTdRaG05QnRxVGRPa1ZPWThab3BiUmoyLWRiV0NCYTFaWFZ5eW1hNV9ZMk9GRnUzamFEb09WbUZYWklzd21HTHhFbnJ5ME1yUXB2MURwQWRnemJfa3E3VW82NnpXc255Z1FnWlhxek9PWi1lNF92Q1dSZ0c0THpGOWZQamctSEo2UThlc3UtcEpSVU5iZkxhaG5BNGlOT2tJNnlXUQ?oc=5\" target=\"_blank\">DHL Paket: E-commerce Surge Boosts Parcel Demand Amid Rising Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTB2SXkxbzNiUkhUZFpMTW5NSHNSRVFueTVHUVBsMHlkVkNoRGRBS1BqRXBvWGt2WDJWdktnRG9nT1lmaWIxeWFMZ3NtVE1KUk1DODJwbDVJUWdFdFRoa3o4Z1UyZjBkNGUyWlUwckx4WXlCeXJtTE8zaTRadVBZbVFlQ3ZYQkcxNVBCUHBHNA?oc=5",
-        "date": "2026-04-13",
-        "title": "The robots are coming: Austonomy targets Australian rollout - Convenience & Impulse Retailing",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTB2SXkxbzNiUkhUZFpMTW5NSHNSRVFueTVHUVBsMHlkVkNoRGRBS1BqRXBvWGt2WDJWdktnRG9nT1lmaWIxeWFMZ3NtVE1KUk1DODJwbDVJUWdFdFRoa3o4Z1UyZjBkNGUyWlUwckx4WXlCeXJtTE8zaTRadVBZbVFlQ3ZYQkcxNVBCUHBHNA?oc=5\" target=\"_blank\">The robots are coming: Austonomy targets Australian rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Convenience & Impulse Retailing</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-04-14",
         "status": "posted",
         "tweet": "In 2026, residents in large \ud83c\uddfa\ud83c\uddf8 cities average 4 online food deliveries per month, compared to just 2 for online grocery orders.  \n\nThis gap highlights faster adoption of meal services over full shopping trips in urban areas.",
