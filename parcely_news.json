@@ -566,5 +566,46 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Amazon India commits $300M to worker safety and logistics expansion push $AMZN",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUJkeGFDTmQ5MUJVYnVfS2NONjg0UW05V2d1SGFNRC1jYUl2WEpMQlAtX3ZUN0RZSUNZelBUUjBTNEVEdWl2TW5wWEJ3QUQ2eWoxd2M3aGRxZW5FT1BablR6VExaTTdPX0ZTM2ZOZkNycVFvemd6Tks3dnlmeDNtLVNUaVFkbWZyV2VEQkQ3V2hnMGM3MnhybV9qV0cxb1Z5eTRWdkxpZFdhS2tu?oc=5",
+        "date": "2026-04-23",
+        "title": "Sam\u2019s Club launches 1-hour delivery to meet fast shipping demand - Supply Chain Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUJkeGFDTmQ5MUJVYnVfS2NONjg0UW05V2d1SGFNRC1jYUl2WEpMQlAtX3ZUN0RZSUNZelBUUjBTNEVEdWl2TW5wWEJ3QUQ2eWoxd2M3aGRxZW5FT1BablR6VExaTTdPX0ZTM2ZOZkNycVFvemd6Tks3dnlmeDNtLVNUaVFkbWZyV2VEQkQ3V2hnMGM3MnhybV9qV0cxb1Z5eTRWdkxpZFdhS2tu?oc=5\" target=\"_blank\">Sam\u2019s Club launches 1-hour delivery to meet fast shipping demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRUdJcTlCVWVTQ1FUaFkxODNfdXRjQV8teXdySWt4QVBOWGMtY2g3bWcxTWxQc1ljVkVNTWNBdzJqenZnQ3dzQTJOVkswOEhsLVNockNiaXhhcWRLNWpURXpvLXJwbGUzSWxadXpzcG5CZWpyWjlWbmZrYWxfdjl1SFJKZGZlZ3BfUWRieEdRY1FNY3RpaXFUNE1LeUppUUdRWDVXYUNrSnV4Rks3WG5wOTNRYVVnNFFhSG9vTVhCOF9yamFrYVA4YjdaM0hNWTRyY0JjWkUxUzJYMTVUdXh1Qw?oc=5",
+        "date": "2026-04-23",
+        "title": "Last Mile Retail Awards Announces 2026 Winners, Recognizing Excellence in Last-Mile Delivery - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRUdJcTlCVWVTQ1FUaFkxODNfdXRjQV8teXdySWt4QVBOWGMtY2g3bWcxTWxQc1ljVkVNTWNBdzJqenZnQ3dzQTJOVkswOEhsLVNockNiaXhhcWRLNWpURXpvLXJwbGUzSWxadXpzcG5CZWpyWjlWbmZrYWxfdjl1SFJKZGZlZ3BfUWRieEdRY1FNY3RpaXFUNE1LeUppUUdRWDVXYUNrSnV4Rks3WG5wOTNRYVVnNFFhSG9vTVhCOF9yamFrYVA4YjdaM0hNWTRyY0JjWkUxUzJYMTVUdXh1Qw?oc=5\" target=\"_blank\">Last Mile Retail Awards Announces 2026 Winners, Recognizing Excellence in Last-Mile Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/construction-development/australia-post-opens-its-largest-air-and-sea-parcel-facility-at-brisbane-airport.html",
+        "date": "2026-04-23",
+        "title": "Australia Post opens its largest air and sea parcel facility at Brisbane Airport",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/construction-development/australia-post-opens-its-largest-air-and-sea-parcel-facility-at-brisbane-airport.html\"><img align=\"left\" alt=\"Australia Post opens its largest air and sea parcel facility at Brisbane Airport\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/04/1_Hero_shot-scaled-e1776950100243-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Australia Post has opened its largest air and sea hub at Brisbane Airport, equipped with advanced sortation technology to speed up parcel delivery for households and businesses in Queensland.</p>\n<p>The 78,000m2 facility is reported to be capable of processing up to 250,000 parcels per day, integrating the post\u2019s speed services, including Express Post and StarTrack premium.</p>\n<p>Australia Post Group CEO and managing director Paul Graham was on-site to unveil the new facility, which he said will meet and surpass Queensland\u2019s parcel delivery demands for decades to come.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/construction-development/australia-post-opens-its-largest-air-and-sea-parcel-facility-at-brisbane-airport.html\" rel=\"nofollow\">Continue reading Australia Post opens its largest air and sea parcel facility at Brisbane Airport at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Australia Post opens its largest air and sea parcel hub at Brisbane Airport, capable of processing 250,000 parcels per day with advanced sortation tech."
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/construction-development/australia-post-opens-its-largest-air-and-sea-parcel-facility-at-brisbane-airport.html",
+        "date": "2026-04-23",
+        "title": "Australia Post opens its largest air and sea parcel facility at Brisbane Airport",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/construction-development/australia-post-opens-its-largest-air-and-sea-parcel-facility-at-brisbane-airport.html\"><img align=\"left\" alt=\"Australia Post opens its largest air and sea parcel facility at Brisbane Airport\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/04/1_Hero_shot-scaled-e1776950100243-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Australia Post has opened its largest air and sea hub at Brisbane Airport, equipped with advanced sortation technology to speed up parcel delivery for households and businesses in Queensland.</p>\n<p>The 78,000m2 facility is reported to be capable of processing up to 250,000 parcels per day, integrating the post\u2019s speed services, including Express Post and StarTrack premium.</p>\n<p>Australia Post Group CEO and managing director Paul Graham was on-site to unveil the new facility, which he said will meet and surpass Queensland\u2019s parcel delivery demands for decades to come.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/construction-development/australia-post-opens-its-largest-air-and-sea-parcel-facility-at-brisbane-airport.html\" rel=\"nofollow\">Continue reading Australia Post opens its largest air and sea parcel facility at Brisbane Airport at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Australia Post opens its largest air and sea parcel facility at Brisbane Airport, capable of processing up to 250,000 parcels daily with advanced sortation tech.",
+        "type": "news"
     }
 ]
