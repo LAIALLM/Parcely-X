@@ -607,5 +607,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Australia Post opens its largest air and sea parcel facility at Brisbane Airport, capable of processing up to 250,000 parcels daily with advanced sortation tech.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-23",
+        "status": "posted",
+        "tweet": "In 2023, delivery vans made up 18% of peak-hour traffic in \ud83c\uddfa\ud83c\uddf8 New York.  \n\nBy 2026, projections show this rising to 28% as e-commerce deliveries surge 15% yearly.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
