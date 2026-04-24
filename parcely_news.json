@@ -491,5 +491,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Amazon India to invest \u20b92,800 crore in scaling quick commerce operations $AMZN",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-24",
+        "status": "posted",
+        "tweet": "FedEx logistics network spans 220 countries, operating 700 aircraft and 200,000 vehicles to process 15 million packages daily.\n\n$FDX",
+        "type": "infrastructure"
     }
 ]
