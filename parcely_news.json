@@ -516,5 +516,25 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGJ1UzlMbWJEZWg0N3NQNkV6XzJKX29yMHIyQUxKQ0w5WHVLbEJnM1lWeHMzMEJZcnFrT3VrZC1XTWNQR1VfTF9hMTdWY2I5TUQ2Y08xSDBhek51SHpVejA0YXc4TjYxUWw4WHVnOXFJQ1RfRGVEN283d1lQVkl3aDFTOA?oc=5",
+        "date": "2026-04-24",
+        "title": "Amazon Plans Menomonee Valley Facility - Urban Milwaukee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGJ1UzlMbWJEZWg0N3NQNkV6XzJKX29yMHIyQUxKQ0w5WHVLbEJnM1lWeHMzMEJZcnFrT3VrZC1XTWNQR1VfTF9hMTdWY2I5TUQ2Y08xSDBhek51SHpVejA0YXc4TjYxUWw4WHVnOXFJQ1RfRGVEN283d1lQVkl3aDFTOA?oc=5\" target=\"_blank\">Amazon Plans Menomonee Valley Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Milwaukee</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUNBVFMweEZMbF83a1A0TThNQlhhd3UyQ09ob1h6RDE0MVF2cGhULV9YWDc3T0x1SDF0QkR4ajM5YWx4ZzFpRDFINENJMkdFN0w1TnpjOFRWMk5GOVhCWnBNdy1OLV9jOWRjYkNmaWN4ZHV6c0prRG9fT2VFU09PQXpWNVJJbHFiSjBtU3h2RDE0V2RIT2JNUVpQMl83NU9n?oc=5",
+        "date": "2026-04-24",
+        "title": "Chitra's Courier Delivers Faster Service with Same Day Delivery in Sydney - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUNBVFMweEZMbF83a1A0TThNQlhhd3UyQ09ob1h6RDE0MVF2cGhULV9YWDc3T0x1SDF0QkR4ajM5YWx4ZzFpRDFINENJMkdFN0w1TnpjOFRWMk5GOVhCWnBNdy1OLV9jOWRjYkNmaWN4ZHV6c0prRG9fT2VFU09PQXpWNVJJbHFiSjBtU3h2RDE0V2RIT2JNUVpQMl83NU9n?oc=5\" target=\"_blank\">Chitra's Courier Delivers Faster Service with Same Day Delivery in Sydney</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
