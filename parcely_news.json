@@ -508,5 +508,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8UPS Louisville hub processes 400,000 packages per hour across 5 million sq ft of automated sorting infrastructure.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-25",
+        "status": "posted",
+        "tweet": "Top large cities by weekly online grocery delivery users (%) in 2026 projections.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 68%\n\ud83c\uddec\ud83c\udde7 London: 65%\n\ud83c\udde8\ud83c\uddf3 Shanghai: 63%\n\ud83c\uddee\ud83c\uddf3 Mumbai: 60%\n\ud83c\uddeb\ud83c\uddf7 Paris: 58%",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
