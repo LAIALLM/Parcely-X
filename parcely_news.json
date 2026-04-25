@@ -1,40 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2hBN2VZSmJiRmR1VGxfbEM5QzJOMFhYRzBIUDJRb2VENlczOGRhLTA3eFg3U1gzWVM2TXZDUTU1MmNZQnY4WEVxV0VGa0VBeHZSWFBCbFdsTXNOelg4N3lKdFA4YlcyUnJaREREbHNnT0ZuR1c2OUxQQUN1SDZnYWIwMGlJMTVsME5CMjlHcnVSRGhSWnZsU2xWWURHRUREN1NJSmJKUGNnTW9jejg1c0Z6ZGlNRUdyVDU4?oc=5",
-        "date": "2026-04-15",
-        "title": "11st to launch China reverse cross-border storefront in June, seeks sellers - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2hBN2VZSmJiRmR1VGxfbEM5QzJOMFhYRzBIUDJRb2VENlczOGRhLTA3eFg3U1gzWVM2TXZDUTU1MmNZQnY4WEVxV0VGa0VBeHZSWFBCbFdsTXNOelg4N3lKdFA4YlcyUnJaREREbHNnT0ZuR1c2OUxQQUN1SDZnYWIwMGlJMTVsME5CMjlHcnVSRGhSWnZsU2xWWURHRUREN1NJSmJKUGNnTW9jejg1c0Z6ZGlNRUdyVDU4?oc=5\" target=\"_blank\">11st to launch China reverse cross-border storefront in June, seeks sellers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub514\uc9c0\ud138\ud22c\ub370\uc774</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-15",
-        "status": "posted",
-        "tweet": "UPS infrastructure in 2026 handles 25 million packages daily across 500 global facilities.\n\n$UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-04-15",
-        "status": "posted",
-        "tweet": "By 2030, EVs and e-bikes will handle 60% of urban deliveries in \ud83c\uddfa\ud83c\uddf8 cities, cutting emissions by 45% from 2026 levels.",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenpFbi1PNUhpNVFhMkFNV3hzSWJqbDVVejdaYXVtT1E1bmI5eHduSHR5UVQzdWoxSHRoUEhlTjBIRy1EZ251am51SGpmX3JRREdILTk4LVFVR2E1dGV4SE4zUTh2QTVZczBnVEtHUXZFQklWT09PcDhFdjMzZnQ3LVJqV2syRVMxbmpoYzRQQ2E0TVMtSk45R3Ruc0RBOF80MWlPV3FR?oc=5",
-        "date": "2026-04-15",
-        "title": "Barclays Says Drones and Robots Could Cut Food Delivery to $1 - PYMNTS.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOenpFbi1PNUhpNVFhMkFNV3hzSWJqbDVVejdaYXVtT1E1bmI5eHduSHR5UVQzdWoxSHRoUEhlTjBIRy1EZ251am51SGpmX3JRREdILTk4LVFVR2E1dGV4SE4zUTh2QTVZczBnVEtHUXZFQklWT09PcDhFdjMzZnQ3LVJqV2syRVMxbmpoYzRQQ2E0TVMtSk45R3Ruc0RBOF80MWlPV3FR?oc=5\" target=\"_blank\">Barclays Says Drones and Robots Could Cut Food Delivery to $1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnTm1UMkpncnEwcDJmc1hjXzg4MjJzMGhGNURCZkJUTGhGSjZjSXRpUkxOUzVCcnp5a1J6RHBWSUJ4OFpIX282U3VBamFmejFmWkh3aENscTc3cGpnLXR4akVIbzBkakhjTDY5YzNJMnl3eHBlVHc?oc=5",
         "date": "2026-04-16",
         "title": "Who Delivers Your Orders Matters - Practical Ecommerce",
@@ -536,5 +501,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8UPS Louisville hub processes 400,000 packages per hour across 5 million sq ft of automated sorting infrastructure.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
