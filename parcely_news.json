@@ -461,5 +461,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-26",
+        "status": "posted",
+        "tweet": "Failed first-attempt e-commerce deliveries:\n\nGlobal average reaches 25% in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 hits 30%, while \ud83c\uddef\ud83c\uddf5 stays at 15%.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
