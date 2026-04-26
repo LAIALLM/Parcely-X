@@ -179,5 +179,13 @@
         "status": "posted",
         "tweet": "LogiTrans expanded its \ud83c\uddfa\ud83c\uddf8 Chicago hub to process 750,000 shipments daily.\n\nThis cuts average delivery time to 24 hours nationwide.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-26",
+        "status": "posted",
+        "tweet": "By 2030, smart buildings worldwide will number over 100 billion devices, up 200% from 2026 levels, slashing energy use by 40%.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
