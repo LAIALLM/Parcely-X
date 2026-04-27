@@ -180,5 +180,13 @@
         "tweet": "By 2030, smart buildings worldwide will number over 100 billion devices, up 200% from 2026 levels, slashing energy use by 40%.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-04-27",
+        "status": "posted",
+        "tweet": "Failed first-attempt deliveries plague 24% of global e-commerce packages in 2026, wasting $45 billion yearly.\n\n\ud83c\uddfa\ud83c\uddf8 US rate: 19%.  \n\ud83c\udde8\ud83c\uddf3 China rate: 9%.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
