@@ -380,5 +380,15 @@
         "tweet": "Top cities by average weekly online grocery and food deliveries per 1,000 residents in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 New York: 450\n\ud83c\udde8\ud83c\uddf3 Shanghai: 420\n\ud83c\uddee\ud83c\uddf3 Mumbai: 380\n\ud83c\uddec\ud83c\udde7 London: 350\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 340",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSTdWZ2ZXRkNFSWFSbEdEem9YQnpOdkpPY1ZkYl95cW41NU1Fa3J0Y0RiQnl2NE9IQzhrSGdfYnpOdkVGTkdMZ2hmcTQxanNqXzFEVXE5N1FSblZ0UWprZHlBWEg0R0VSdHlnUmVmQVRuNUdpZW9sQkMyWS1maG9yVGNqNngtUVc1SUlQSDhYdXRhX2tRWndiWmU4NVFnSEZuUkx5ZUpjdlpuUTJfRi10YUJFM25aT2JCVUx1aHdOZTh2UmNUakgtckE4cUw2UQ?oc=5",
+        "date": "2026-04-28",
+        "title": "DoorDash announces milestone grocery delivery expansion in Canada with Empire Company tie up - Retail Technology Innovation Hub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSTdWZ2ZXRkNFSWFSbEdEem9YQnpOdkpPY1ZkYl95cW41NU1Fa3J0Y0RiQnl2NE9IQzhrSGdfYnpOdkVGTkdMZ2hmcTQxanNqXzFEVXE5N1FSblZ0UWprZHlBWEg0R0VSdHlnUmVmQVRuNUdpZW9sQkMyWS1maG9yVGNqNngtUVc1SUlQSDhYdXRhX2tRWndiWmU4NVFnSEZuUkx5ZUpjdlpuUTJfRi10YUJFM25aT2JCVUx1aHdOZTh2UmNUakgtckE4cUw2UQ?oc=5\" target=\"_blank\">DoorDash announces milestone grocery delivery expansion in Canada with Empire Company tie up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
