@@ -177,5 +177,13 @@
         "status": "posted",
         "tweet": "LogiCorp's upgraded hub in \ud83c\uddfa\ud83c\uddf8 Atlanta processes 750,000 parcels daily.\n\nThis infrastructure milestone supports 25% faster regional shipping times in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-29",
+        "status": "posted",
+        "tweet": "Top cities by failed first-attempt e-commerce delivery rates, 2026 projections (global avg: 28%):\n\n\ud83c\uddee\ud83c\uddf3 Mumbai/India: 48%\n\ud83c\uddf3\ud83c\uddec Lagos/Nigeria: 45%\n\ud83c\uddf2\ud83c\uddfd Mexico City/Mexico: 42%\n\ud83c\uddfa\ud83c\uddf8 New York/USA: 39%\n\ud83c\uddec\ud83c\udde7 London/UK: 37%",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
