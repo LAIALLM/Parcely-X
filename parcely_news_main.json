@@ -170,5 +170,12 @@
         "status": "posted",
         "tweet": "LogiCore Logistics' \ud83c\uddfa\ud83c\uddf8 Atlanta distribution center now spans 3 million square feet.\n\nIt handles 1.5 million packages daily in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-29",
+        "status": "posted",
+        "tweet": "LogiCorp's upgraded hub in \ud83c\uddfa\ud83c\uddf8 Atlanta processes 750,000 parcels daily.\n\nThis infrastructure milestone supports 25% faster regional shipping times in 2026.",
+        "type": "infrastructure"
     }
 ]
