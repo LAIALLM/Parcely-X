@@ -1,30 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-04-19",
-        "status": "posted",
-        "tweet": "LogiFlow's infrastructure milestone: 450 automated sorting hubs worldwide process 8 million parcels daily in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-04-19",
-        "status": "posted",
-        "tweet": "In 2026, last-mile deliveries emit 2.5 Gt CO2 globally, but building-integrated networks could slash that by 40% via consolidated urban hubs.\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: 480k tons\n2. \ud83c\uddec\ud83c\udde7 London: 420k tons\n3. \ud83c\uddef\ud83c\uddf5 Tokyo: 390k tons\n4. \ud83c\udde8\ud83c\uddf3 Shanghai: 360k tons\n5. \ud83c\uddeb\ud83c\uddf7 Paris: 310k tons",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnRSeWk5ell1UEVGUG1DeVNhTkdHQUQ5Sk1vSmVIbDVwUEhsT1diWFplTGpsX3I1a1V0c01HVkNHbW0xX1Bsa0FWRldZdEMyMjNIQllUcXlOa0MxX0FuSnVGb0xsdnFhdnQyQ0pneDR2UG9PdXhXdkdUMjJ1eGU2RVN4U1RCZFNfOXd1bWx4RQ?oc=5",
-        "date": "2026-04-19",
-        "title": "Bypassing closed skies: First-of-its-kind solution keeps e-commerce shipments flowing to Israel - The Jerusalem Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnRSeWk5ell1UEVGUG1DeVNhTkdHQUQ5Sk1vSmVIbDVwUEhsT1diWFplTGpsX3I1a1V0c01HVkNHbW0xX1Bsa0FWRldZdEMyMjNIQllUcXlOa0MxX0FuSnVGb0xsdnFhdnQyQ0pneDR2UG9PdXhXdkdUMjJ1eGU2RVN4U1RCZFNfOXd1bWx4RQ?oc=5\" target=\"_blank\">Bypassing closed skies: First-of-its-kind solution keeps e-commerce shipments flowing to Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://theloadstar.com/weak-spot-rates-and-demand-doubts-raise-spectre-of-asia-europe-overcapacity/",
         "date": "2026-04-20",
         "title": "Weak spot rates and demand doubts raise spectre of Asia-Europe overcapacity",
