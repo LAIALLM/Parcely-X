@@ -390,5 +390,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-30",
+        "status": "posted",
+        "tweet": "UPS logistics: 25M packages processed daily via 1,200+ facilities in \ud83c\uddfa\ud83c\uddf8USA, \ud83c\udde8\ud83c\udde6Canada, and \ud83c\uddf2\ud83c\uddfdMexico.\n\n$UPS",
+        "type": "infrastructure"
     }
 ]
