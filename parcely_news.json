@@ -352,5 +352,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure milestone: 1,200+ automated sorting facilities handle 30 million packages daily across 220 countries in 2026.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-30",
+        "status": "posted",
+        "tweet": "By 2026, worldwide e-commerce deliveries will generate 250 million metric tons of packaging waste yearly\u2014double the 2023 amount.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
