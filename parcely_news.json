@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-21",
-        "status": "posted",
-        "tweet": "UPS infrastructure spans 125 million square feet of warehouse space globally in 2026, enabling 24 million daily package sorts. $UPS",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-04-21",
-        "status": "posted",
-        "tweet": "By 2026, 62% of residents in large cities like \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddec\ud83c\udde7 London will order groceries or food online at least once a week, driven by app convenience and faster delivery.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
         "date": "2026-04-22",
         "status": "posted",
         "tweet": "Delivery vans are fueling urban gridlock. By 2026, they will account for 28% of vehicle miles traveled in dense cities like \ud83c\uddfa\ud83c\uddf8 New York, up from 18% in 2023 projections.",
@@ -405,6 +390,26 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFN4Z043SEk1d292eU9xUEstdXlGZ1QyeE0zVUJtRDRMVUgwMTItWDhNYWFhOFdDU0tDLUUyejZOYTFLWGFXcldOd3pqYnJrN0dFZzN3RzNvM1NKMnI3R3ZveUZ5Q1J2bXV3Zmc0YkFEb3d1dFNidjJtY1lSYzJ0czJmSERRZnRMSTZuMWQ1QkpVaTRQcTN2TkM1RkJ0Y1ZIUkE?oc=5\" target=\"_blank\">Amazon Q1 2026 Earnings: E-commerce Engine Drives Growth, Logistics Costs Under Control - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
         "similarity_excluded": "No",
         "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/operations/royal-mail-launches-parcel-postboxes-for-medium-sized-items.html",
+        "date": "2026-05-01",
+        "title": "Royal Mail launches parcel postboxes for medium-sized items",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/operations/royal-mail-launches-parcel-postboxes-for-medium-sized-items.html\"><img align=\"left\" alt=\"Royal Mail launches parcel postboxes for medium-sized items\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/05/royal-mail-e1777624613592-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Royal Mail has introduced a new type of parcel postbox capable of accepting medium-sized parcels, marking the largest items yet that can be posted through its network.</p>\n<p>Around 600 of the new units will be installed over the next six months, with the first now operational in Belfast. Further rollouts are planned in cities including Birmingham, Cardiff, Glasgow and Tyneside.</p>\n<p>The solar-powered postboxes are designed to allow customers to send and return pre-labeled medium-sized parcels, as well as letters.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/operations/royal-mail-launches-parcel-postboxes-for-medium-sized-items.html\" rel=\"nofollow\">Continue reading Royal Mail launches parcel postboxes for medium-sized items at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/mexicos-rail-freight-booming-yet-usmca-review-could-slam-the-brakes/",
+        "date": "2026-05-01",
+        "title": "Mexico\u2019s rail freight booming, yet USMCA review could slam the brakes",
+        "summary": "<p>Key takeaway: Nearshoring&#8217;s hard data is finally showing up in the AAR (Association of American Railroads) numbers. The question is whether Washington will let it continue.<br />\nThe nearshoring thesis has been the logistics industry&#8217;s favorite PowerPoint slide for four years or so.<br />\nNow it&#8217;s showing up where it counts: on the rails. For instance, Mexican railroads reported 13,310 carloads for the week ending 18 April, up 47.3% compared with the same week ...</p>\n<p>The post <a href=\"https://theloadstar.com/mexicos-rail-freight-booming-yet-usmca-review-could-slam-the-brakes/\">Mexico&#8217;s rail freight booming, yet USMCA review could slam the brakes</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
         "status": "processed",
         "tweet": null
     }
