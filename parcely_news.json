@@ -429,5 +429,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-01",
+        "status": "posted",
+        "tweet": "By 2030, smart access systems will secure 60% of new commercial buildings worldwide, up from 35% in 2026\u2014driving a shift to app-based entry and biometric locks.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
