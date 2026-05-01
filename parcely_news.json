@@ -419,5 +419,15 @@
         "status": "posted",
         "tweet": "FedEx $FDX \ud83c\uddfa\ud83c\uddf8 infrastructure processed 18.7 million packages daily in 2026, achieving 99.8% on-time delivery rate.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW05Wk5Wc0JjamRVS0NleVpxQkVtLVlsb1hZbkU2NWZtU0p3YVFuam51c3JuNWRTa2NLQUlXaDhnSEN4OUNxMzFKNXFXdmlfMEcwekNzU0kzaXFQeUZUTmpFamF1WFpERm9Zc0g1eE9JenVmaXdWX2Q2WklkT3ZNcmhTRk80MS1JSEZ3RTN5TmpKUnpVNVlNWm05dw?oc=5",
+        "date": "2026-05-01",
+        "title": "UK delivery company set to close down after entering liquidation - News & Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW05Wk5Wc0JjamRVS0NleVpxQkVtLVlsb1hZbkU2NWZtU0p3YVFuam51c3JuNWRTa2NLQUlXaDhnSEN4OUNxMzFKNXFXdmlfMEcwekNzU0kzaXFQeUZUTmpFamF1WFpERm9Zc0g1eE9JenVmaXdWX2Q2WklkT3ZNcmhTRk80MS1JSEZ3RTN5TmpKUnpVNVlNWm05dw?oc=5\" target=\"_blank\">UK delivery company set to close down after entering liquidation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News & Star</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
