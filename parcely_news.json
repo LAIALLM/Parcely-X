@@ -420,5 +420,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile delivery costs $12 per parcel in 2026.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: $3 per parcel.\n\nUrban density slashes costs in Asia.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-05-02",
+        "status": "posted",
+        "tweet": "Apex Logistics' global network processes 1.5 million packages daily through 450 automated warehouses.\n\nEfficiency: 98% on-time delivery rate.\n\n$APEX",
+        "type": "infrastructure"
     }
 ]
