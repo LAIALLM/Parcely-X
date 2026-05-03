@@ -136,5 +136,13 @@
         "status": "posted",
         "tweet": "LogiCore's \ud83c\uddfa\ud83c\uddf8 distribution centers span 15 million square feet.\n\nThey handle 1.8 million packages daily with 99.5% on-time efficiency.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-03",
+        "status": "posted",
+        "tweet": "By 2026, urban dwellers in \ud83c\uddfa\ud83c\uddf8 cities average 2.5 food delivery orders monthly.\n\nOnline grocery orders trail at 1.2 per month\u2014a 2x frequency gap for meals over staples.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
