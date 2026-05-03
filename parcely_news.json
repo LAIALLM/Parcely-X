@@ -305,5 +305,15 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEc1Rk12Y2YyMGxQN3ZBWWY1cGhrSW9LZG9KWkRkZGtjWUYzSFViYTdQSTJMYWN2NXFMbl96QnNmSHJZdUw0ZU1Fc0VPOC02T3ItX3VwXzhDc09RbjBrWjRfVjNJU2Y4bzJianVSeGk4Z2luSVhFNUhaRHJndUZ4ekJRRE5rSE91ZzczS0s4OEFoQ3d4TmMwZERGZHBMYndk?oc=5",
+        "date": "2026-05-03",
+        "title": "Shiprazor raises R55m to grow delivery platform - Business Day",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEc1Rk12Y2YyMGxQN3ZBWWY1cGhrSW9LZG9KWkRkZGtjWUYzSFViYTdQSTJMYWN2NXFMbl96QnNmSHJZdUw0ZU1Fc0VPOC02T3ItX3VwXzhDc09RbjBrWjRfVjNJU2Y4bzJianVSeGk4Z2luSVhFNUhaRHJndUZ4ekJRRE5rSE91ZzczS0s4OEFoQ3d4TmMwZERGZHBMYndk?oc=5\" target=\"_blank\">Shiprazor raises R55m to grow delivery platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Day</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
