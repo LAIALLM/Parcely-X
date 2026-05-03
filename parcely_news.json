@@ -287,5 +287,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx logistics network: 1,200 distribution centers operational, processing 15 million packages daily in 2026.\n\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-03",
+        "status": "posted",
+        "tweet": "Smart access systems for buildings:\n\n45% of new global constructions adopt them by 2026.\n\n70% projected by 2030.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
