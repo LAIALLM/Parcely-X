@@ -134,5 +134,25 @@
         "status": "posted",
         "tweet": "LogiFreight's global network in 2026 handles 8.5 million packages daily across 150 hubs.\n\nThis infrastructure metric supports 99.7% on-time delivery worldwide.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSExRRVdPWXpfVC01dUgyZkJoLVlrd3M2LXVRd0ZhNVV4U29sOWYtU1FVeEJNY0tOT1BDRlRyWTV1a2E2ZUFUTXBvb3RqZjVqclJpZUYzUGFneC1YUGZ6bWFabk1QOG9zX2FlSlRRNFphSWtWRFE4cldJdWJkY1RHMXoxZDlybUR1TzVNZ1NCYk02dHZ5X0o2Uk1vbVAyeFdDNll5WTVLUQ?oc=5",
+        "date": "2026-05-05",
+        "title": "Amazon expands third-party logistics offering - Air Cargo News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPSExRRVdPWXpfVC01dUgyZkJoLVlrd3M2LXVRd0ZhNVV4U29sOWYtU1FVeEJNY0tOT1BDRlRyWTV1a2E2ZUFUTXBvb3RqZjVqclJpZUYzUGFneC1YUGZ6bWFabk1QOG9zX2FlSlRRNFphSWtWRFE4cldJdWJkY1RHMXoxZDlybUR1TzVNZ1NCYk02dHZ5X0o2Uk1vbVAyeFdDNll5WTVLUQ?oc=5\" target=\"_blank\">Amazon expands third-party logistics offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Air Cargo News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/logistics/amazon-opens-logistics-network-to-external-businesses.html",
+        "date": "2026-05-05",
+        "title": "Amazon opens logistics network to external businesses",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/logistics/amazon-opens-logistics-network-to-external-businesses.html\"><img align=\"left\" alt=\"Amazon opens logistics network to external businesses\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/05/ascs-plane-amazon-news-nb-050426-e1777988567840-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Amazon has launched a new service that opens its logistics network to businesses beyond its marketplace sellers, expanding its role in third-party logistics.</p>\n<p>Amazon Supply Chain Services (ASCS) provides access to the company\u2019s freight, distribution, fulfillment and parcel delivery capabilities to businesses of all types and sizes across sectors including retail, manufacturing, healthcare and automotive.</p>\n<p>Amazon said the move builds on its existing logistics infrastructure, developed over nearly three decades to support its e-commerce operations and third-party sellers.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/logistics/amazon-opens-logistics-network-to-external-businesses.html\" rel=\"nofollow\">Continue reading Amazon opens logistics network to external businesses at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
