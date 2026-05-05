@@ -127,5 +127,12 @@
         "status": "posted",
         "tweet": "LogiFreight's main hub in \ud83c\uddfa\ud83c\uddf8 USA handles 750,000 shipments daily.\n\nThis supports 15% growth in cross-border volume since 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-05",
+        "status": "posted",
+        "tweet": "LogiFreight's global network in 2026 handles 8.5 million packages daily across 150 hubs.\n\nThis infrastructure metric supports 99.7% on-time delivery worldwide.",
+        "type": "infrastructure"
     }
 ]
