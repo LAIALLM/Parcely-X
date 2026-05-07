@@ -320,5 +320,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx $FDX maintains 220,000 miles of delivery routes, enabling 15 million daily package deliveries across North America in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-07",
+        "status": "posted",
+        "tweet": "In 2026, residents in \ud83c\uddfa\ud83c\uddf8 large cities average 2.8 online grocery orders per month.\n\nThat's double the 1.4 monthly food deliveries in \ud83c\udde8\ud83c\udde6 urban centers, per recent projections.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
