@@ -243,5 +243,25 @@
         "tweet": "2026 CO2 savings from building-integrated networks vs traditional last-mile deliveries in top cities (MtCO2e/year).\n\n1. \ud83c\uddfa\ud83c\uddf8 New York, USA: 2.1  \n2. \ud83c\udde8\ud83c\uddf3 Shanghai, China: 1.8  \n3. \ud83c\uddef\ud83c\uddf5 Tokyo, Japan: 1.6  \n4. \ud83c\uddec\ud83c\udde7 London, UK: 1.4  \n5. \ud83c\uddee\ud83c\uddf3 Mumbai, India: 1.2",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZdmFtY0ZqV2lvclZKLXRfaGtvNUFYa3hqZTB3dHlnaVhNbWtIenhtWFZtY0NuVEV1a0NjbS1TMG1RdElYQmRENFpYWjdIZTBPbkRrN1E0cGJkTmNjWnJURi1FNDlaVkxaZDhPdExfYjVtb3RNLWFz?oc=5",
+        "date": "2026-05-07",
+        "title": "The Growing Need for Reliable Local Transportation in Expanding E-Commerce Markets - PC Tech Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZdmFtY0ZqV2lvclZKLXRfaGtvNUFYa3hqZTB3dHlnaVhNbWtIenhtWFZtY0NuVEV1a0NjbS1TMG1RdElYQmRENFpYWjdIZTBPbkRrN1E0cGJkTmNjWnJURi1FNDlaVkxaZDhPdExfYjVtb3RNLWFz?oc=5\" target=\"_blank\">The Growing Need for Reliable Local Transportation in Expanding E-Commerce Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Tech Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/liners-take-notice-as-india-plans-major-multimodal-hub-projects/",
+        "date": "2026-05-07",
+        "title": "Liners take notice as India plans major multimodal hub projects",
+        "summary": "<p>Growing industry attention around the hub-and-spoke logistics model, instrumental in shaping the Gemini Cooperation between Maersk and Hapag-Lloyd, seems to be encouraging other main container lines to invest in multimodal logistics hub projects in India.<br />\nMultimodal cluster development, enabling shippers and freight service providers to switch from a point-to-point transport system to an integrated logistics model, was a priority for Indian policymakers trying to tighten logistics costs.<br />\nThe government&#8217;s latest annual budget ...</p>\n<p>The post <a href=\"https://theloadstar.com/liners-take-notice-as-india-plans-major-multimodal-hub-projects/\">Liners take notice as India plans major multimodal hub projects</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
