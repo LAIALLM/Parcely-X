@@ -300,5 +300,13 @@
         "status": "posted",
         "tweet": "UPS logistics infrastructure processed 28 million packages daily across its global network in 2026.\n\nEfficiency metric: 99.2% on-time delivery rate in \ud83c\uddfa\ud83c\uddf8 hubs.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-09",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker and pickup-point networks will handle 30% of e-commerce deliveries, up from 15% in 2023, with over 1.2 million sites installed worldwide.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
