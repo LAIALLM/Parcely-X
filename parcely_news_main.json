@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-29",
-        "status": "posted",
-        "tweet": "LogiCorp's upgraded hub in \ud83c\uddfa\ud83c\uddf8 Atlanta processes 750,000 parcels daily.\n\nThis infrastructure milestone supports 25% faster regional shipping times in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-04-29",
-        "status": "posted",
-        "tweet": "Top cities by failed first-attempt e-commerce delivery rates, 2026 projections (global avg: 28%):\n\n\ud83c\uddee\ud83c\uddf3 Mumbai/India: 48%\n\ud83c\uddf3\ud83c\uddec Lagos/Nigeria: 45%\n\ud83c\uddf2\ud83c\uddfd Mexico City/Mexico: 42%\n\ud83c\uddfa\ud83c\uddf8 New York/USA: 39%\n\ud83c\uddec\ud83c\udde7 London/UK: 37%",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjJQaU96czh0UXFaMEVmZ2g1S1A1Z0RzRmxBeFJ1WFlUT1VhRmZNRWZJZW55LTNaRnlfRVhmR3B4cDF3R2NBRGxvcjdpUnNaXzE4MXRiR3VydUxqYmhZb2FzOEtCemxDampzV3JLaVJ4ZVlaQzVEbXFsTjFpSk9FRnFTYmVIaHBJaHAwV01Gbw?oc=5",
-        "date": "2026-04-29",
-        "title": "Delhi Police Warns E-Commerce Platforms Over Sale of Firecrackers, Knives and Contraband - Daily Pioneer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjJQaU96czh0UXFaMEVmZ2g1S1A1Z0RzRmxBeFJ1WFlUT1VhRmZNRWZJZW55LTNaRnlfRVhmR3B4cDF3R2NBRGxvcjdpUnNaXzE4MXRiR3VydUxqYmhZb2FzOEtCemxDampzV3JLaVJ4ZVlaQzVEbXFsTjFpSk9FRnFTYmVIaHBJaHAwV01Gbw?oc=5\" target=\"_blank\">Delhi Police Warns E-Commerce Platforms Over Sale of Firecrackers, Knives and Contraband</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-04-30",
         "status": "posted",
         "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse handles 750,000 packages daily.\n\nThis supports 25% faster regional deliveries in 2026.",
@@ -169,5 +144,13 @@
         "tweet": "Failed first-attempt e-commerce deliveries reached 28% globally in 2026, costing $50B+ yearly.\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: 42%\n2. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 39%\n3. \ud83c\uddfa\ud83c\uddf8 Los Angeles: 37%\n4. \ud83c\uddf2\ud83c\uddfd Mexico City: 35%\n5. \ud83c\uddf3\ud83c\uddec Lagos: 34%",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-05-09",
+        "status": "posted",
+        "tweet": "By 2026, smart office buildings make up 42% of new global constructions, up 75% from 2023's 24%.\n\nSmart residential buildings reach 28%, a 67% rise from 17%.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
