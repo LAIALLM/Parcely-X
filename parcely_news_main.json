@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-30",
-        "status": "posted",
-        "tweet": "LogiFreight's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse handles 750,000 packages daily.\n\nThis supports 25% faster regional deliveries in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-05-01",
         "status": "posted",
         "tweet": "In 2026, worldwide e-commerce deliveries generate 250 billion packages annually.\n\nBy 2030, that number will climb to 400 billion \u2013 a 60% rise, fueling massive packaging waste growth.",
@@ -169,5 +162,12 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-10",
+        "status": "posted",
+        "tweet": "Apex Logistics' warehouse in \ud83c\uddfa\ud83c\uddf8 Chicago processes 1.2 million packages daily through automated sorting lines.",
+        "type": "infrastructure"
     }
 ]
