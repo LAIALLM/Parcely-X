@@ -169,5 +169,13 @@
         "status": "posted",
         "tweet": "Apex Logistics' warehouse in \ud83c\uddfa\ud83c\uddf8 Chicago processes 1.2 million packages daily through automated sorting lines.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-10",
+        "status": "posted",
+        "tweet": "By 2030, 65% of urban buildings worldwide will use smart access systems, boosting security and convenience for billions.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
