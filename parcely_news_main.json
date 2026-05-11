@@ -200,5 +200,35 @@
         "tweet": "By 2030, smart buildings worldwide will number over 100 million, with residential units growing 35% annually from 2026 levels and offices adding energy savings of 25%.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkE5cXJxam9Pb2l4VDNnYldDdXgzM2l5MkxYOWhteXh6aVB3a1dpcjN3eElkZG9FZFA1SnZ3YTg2Q1A1OXNPdmp1WU9IVmNuZjRGU2Y3ZGUtNFlvY3dLMV9mdW52NGhkbWNhR0oyQWVaajRBNXduTzBvZG9sN2t1TGszb1VteGlsZzdac2hoMA?oc=5",
+        "date": "2026-05-11",
+        "title": "FIDELITONE Opens NJ Hub, Aims for 98% 2-Day US Delivery - BriefGlance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkE5cXJxam9Pb2l4VDNnYldDdXgzM2l5MkxYOWhteXh6aVB3a1dpcjN3eElkZG9FZFA1SnZ3YTg2Q1A1OXNPdmp1WU9IVmNuZjRGU2Y3ZGUtNFlvY3dLMV9mdW52NGhkbWNhR0oyQWVaajRBNXduTzBvZG9sN2t1TGszb1VteGlsZzdac2hoMA?oc=5\" target=\"_blank\">FIDELITONE Opens NJ Hub, Aims for 98% 2-Day US Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BriefGlance</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2VpVXpIOUN0Q1Rfd0JCSjNrUW41LXFsVWJrUFQ1X0luWmRKUW5NYXNPdmJiVmxQMUt0TklSb1Z2RHdoVDdmX0dPa0tjTGhQV3lfb2Y1a241NHJpdktsUUZzX0ZFakRncUZnc1FESFY3NEFsT3N5UjRicDhBdVc2QWItMzJUekUtVEJnUmZSdW9YR05ldmlqbThFT0tzNjNt?oc=5",
+        "date": "2026-05-11",
+        "title": "At Michelin-starred Matthias, agentic AI helps its head chef source the freshest rare ingredients - Business Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2VpVXpIOUN0Q1Rfd0JCSjNrUW41LXFsVWJrUFQ1X0luWmRKUW5NYXNPdmJiVmxQMUt0TklSb1Z2RHdoVDdmX0dPa0tjTGhQV3lfb2Y1a241NHJpdktsUUZzX0ZFakRncUZnc1FESFY3NEFsT3N5UjRicDhBdVc2QWItMzJUekUtVEJnUmZSdW9YR05ldmlqbThFT0tzNjNt?oc=5\" target=\"_blank\">At Michelin-starred Matthias, agentic AI helps its head chef source the freshest rare ingredients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3VFbXBCN3VlTzBuaEMydmhNTGY0Y2lIcUZfSDQwcUtIdWFKNHRxSHRKVFFmeWFWMFRSbW9laklDTDBoellrSHBKTHBuSWktcXN6SjdlS1dVejAtOExTWWllR0ltcERqUjY3NnU0UU9DSC1ESlZCcldYT3BxR1hZYS13?oc=5",
+        "date": "2026-05-11",
+        "title": "A logistics company uses AI to reduce its delivery routes by half and save time on package sorting - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3VFbXBCN3VlTzBuaEMydmhNTGY0Y2lIcUZfSDQwcUtIdWFKNHRxSHRKVFFmeWFWMFRSbW9laklDTDBoellrSHBKTHBuSWktcXN6SjdlS1dVejAtOExTWWllR0ltcERqUjY3NnU0UU9DSC1ESlZCcldYT3BxR1hZYS13?oc=5\" target=\"_blank\">A logistics company uses AI to reduce its delivery routes by half and save time on package sorting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
