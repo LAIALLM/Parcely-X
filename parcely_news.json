@@ -1,50 +1,5 @@
 [
     {
-        "link": "https://www.parcelandpostaltechnologyinternational.com/news/operations/royal-mail-launches-parcel-postboxes-for-medium-sized-items.html",
-        "date": "2026-05-01",
-        "title": "Royal Mail launches parcel postboxes for medium-sized items",
-        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/operations/royal-mail-launches-parcel-postboxes-for-medium-sized-items.html\"><img align=\"left\" alt=\"Royal Mail launches parcel postboxes for medium-sized items\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/05/royal-mail-e1777624613592-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Royal Mail has introduced a new type of parcel postbox capable of accepting medium-sized parcels, marking the largest items yet that can be posted through its network.</p>\n<p>Around 600 of the new units will be installed over the next six months, with the first now operational in Belfast. Further rollouts are planned in cities including Birmingham, Cardiff, Glasgow and Tyneside.</p>\n<p>The solar-powered postboxes are designed to allow customers to send and return pre-labeled medium-sized parcels, as well as letters.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/operations/royal-mail-launches-parcel-postboxes-for-medium-sized-items.html\" rel=\"nofollow\">Continue reading Royal Mail launches parcel postboxes for medium-sized items at Parcel and Postal Technology International.</a></p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/mexicos-rail-freight-booming-yet-usmca-review-could-slam-the-brakes/",
-        "date": "2026-05-01",
-        "title": "Mexico\u2019s rail freight booming, yet USMCA review could slam the brakes",
-        "summary": "<p>Key takeaway: Nearshoring&#8217;s hard data is finally showing up in the AAR (Association of American Railroads) numbers. The question is whether Washington will let it continue.<br />\nThe nearshoring thesis has been the logistics industry&#8217;s favorite PowerPoint slide for four years or so.<br />\nNow it&#8217;s showing up where it counts: on the rails. For instance, Mexican railroads reported 13,310 carloads for the week ending 18 April, up 47.3% compared with the same week ...</p>\n<p>The post <a href=\"https://theloadstar.com/mexicos-rail-freight-booming-yet-usmca-review-could-slam-the-brakes/\">Mexico&#8217;s rail freight booming, yet USMCA review could slam the brakes</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-05-01",
-        "status": "posted",
-        "tweet": "FedEx $FDX \ud83c\uddfa\ud83c\uddf8 infrastructure processed 18.7 million packages daily in 2026, achieving 99.8% on-time delivery rate.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW05Wk5Wc0JjamRVS0NleVpxQkVtLVlsb1hZbkU2NWZtU0p3YVFuam51c3JuNWRTa2NLQUlXaDhnSEN4OUNxMzFKNXFXdmlfMEcwekNzU0kzaXFQeUZUTmpFamF1WFpERm9Zc0g1eE9JenVmaXdWX2Q2WklkT3ZNcmhTRk80MS1JSEZ3RTN5TmpKUnpVNVlNWm05dw?oc=5",
-        "date": "2026-05-01",
-        "title": "UK delivery company set to close down after entering liquidation - News & Star",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW05Wk5Wc0JjamRVS0NleVpxQkVtLVlsb1hZbkU2NWZtU0p3YVFuam51c3JuNWRTa2NLQUlXaDhnSEN4OUNxMzFKNXFXdmlfMEcwekNzU0kzaXFQeUZUTmpFamF1WFpERm9Zc0g1eE9JenVmaXdWX2Q2WklkT3ZNcmhTRk80MS1JSEZ3RTN5TmpKUnpVNVlNWm05dw?oc=5\" target=\"_blank\">UK delivery company set to close down after entering liquidation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News & Star</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-05-01",
-        "status": "posted",
-        "tweet": "By 2030, smart access systems will secure 60% of new commercial buildings worldwide, up from 35% in 2026\u2014driving a shift to app-based entry and biometric locks.",
-        "type": "statistical",
-        "category": "adoption of smart access systems for buildings"
-    },
-    {
         "link": null,
         "date": "2026-05-02",
         "status": "posted",
@@ -290,5 +245,13 @@
         "status": "posted",
         "tweet": "UPS Worldport in Louisville \ud83c\uddfa\ud83c\uddf8 sorts 450,000 packages per hour, fueling 1.5 billion annual deliveries globally.\n\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-11",
+        "status": "posted",
+        "tweet": "Projected 2026 package theft rates per 100,000 residents in major US cities.\n\n1. \ud83c\uddfa\ud83c\uddf8 New York City: 1,420\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles: 1,310\n3. \ud83c\uddfa\ud83c\uddf8 Chicago: 1,190\n4. \ud83c\uddfa\ud83c\uddf8 San Francisco: 1,120\n5. \ud83c\uddfa\ud83c\uddf8 Seattle: 1,080",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
