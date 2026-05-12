@@ -230,5 +230,35 @@
         "status": "posted",
         "tweet": "LogiTech's \ud83c\uddfa\ud83c\uddf8 Dallas warehouse processes 1.2 million parcels daily.\n\nThis infrastructure supports 25% faster regional delivery times.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaU5VRTBzckZsaldidFEzQWJfSl9hLXQ3UDFHVnNPYjQzd0JiTDRjdmdoRU5DbUxJQ2N0clo4VTFBSU8zdWFrdVVGSEUxcVBvczBkVE51Zk9JcWdlamstRlVIbWg3c0tueGRiTG45Tml0OXJSQnhwMXRHRHFvZWtERjJQN3VOVUhHUUpRREczZHJTdE51ZlhPNXV2aHdoZ3ZHNGdoQjFYaXA1emx1MGJ4VU9oUVlRQ04xQm5YNjdtNA?oc=5",
+        "date": "2026-05-12",
+        "title": "Amazon looks to redefine a need for speed with 30-minute deliveries - Audacy",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaU5VRTBzckZsaldidFEzQWJfSl9hLXQ3UDFHVnNPYjQzd0JiTDRjdmdoRU5DbUxJQ2N0clo4VTFBSU8zdWFrdVVGSEUxcVBvczBkVE51Zk9JcWdlamstRlVIbWg3c0tueGRiTG45Tml0OXJSQnhwMXRHRHFvZWtERjJQN3VOVUhHUUpRREczZHJTdE51ZlhPNXV2aHdoZ3ZHNGdoQjFYaXA1emx1MGJ4VU9oUVlRQ04xQm5YNjdtNA?oc=5\" target=\"_blank\">Amazon looks to redefine a need for speed with 30-minute deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGc4bHBLNm15anpnbHdPaGZvaVlJdzhjNG85WkJaREhiQ3FidDFOWGNwTEhENnl0eTMwRzVtYXJ1dHNZVXhCdjBtS3VPa25EeGRBUGZxSVpRcjdJdlFCa2gzOG5ONndWUHM5UjhGeDYyYklBdjlZOGd3S0VBalBrSm10R01ZS1JfTzZRSFFWUnNfcmpObFZLMlU4b0FjSWlUWEpMSE1JcnhEQWNncFFNOUFEb2djOXhRVmtGbUpOY0hYbTc0Rnc?oc=5",
+        "date": "2026-05-12",
+        "title": "CJ Logistics stock (KR7000120006): Strategic partnership milestone with iHerb signals e-commerce exp - AD HOC NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGc4bHBLNm15anpnbHdPaGZvaVlJdzhjNG85WkJaREhiQ3FidDFOWGNwTEhENnl0eTMwRzVtYXJ1dHNZVXhCdjBtS3VPa25EeGRBUGZxSVpRcjdJdlFCa2gzOG5ONndWUHM5UjhGeDYyYklBdjlZOGd3S0VBalBrSm10R01ZS1JfTzZRSFFWUnNfcmpObFZLMlU4b0FjSWlUWEpMSE1JcnhEQWNncFFNOUFEb2djOXhRVmtGbUpOY0hYbTc0Rnc?oc=5\" target=\"_blank\">CJ Logistics stock (KR7000120006): Strategic partnership milestone with iHerb signals e-commerce exp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/ai-is-needed-in-logistics-but-it-can-be-a-multiplier-or-a-liability/",
+        "date": "2026-05-12",
+        "title": "AI is needed in logistics \u2013 but it can be a multiplier or a liability",
+        "summary": "<p>After years of digital transformation, freight forwarding still runs on a \u201csurprisingly manual operating model\u201d, according to a report from Bremen-based logistics AI company Deep Current.\u00a0<br />\nIt says logistics firms have invested in operational systems, automation tools, dashboards and AI pilots over the past decade, but core workflows still depend heavily on emails, spreadsheets, PDFs, and fragmented systems.\u00a0<br />\nDeep Current surveyed logistics companies across Europe and the Middle East and found 72% ...</p>\n<p>The post <a href=\"https://theloadstar.com/ai-is-needed-in-logistics-but-it-can-be-a-multiplier-or-a-liability/\">AI is needed in logistics \u2013 but it can be a multiplier or a liability</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
