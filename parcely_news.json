@@ -211,5 +211,13 @@
         "tweet": "Top 5 countries by parcel locker networks in 2026.\n\n1. \ud83c\udde8\ud83c\uddf3 China: 620,000 units\n2. \ud83c\uddfa\ud83c\uddf8 United States: 160,000 units\n3. \ud83c\uddee\ud83c\uddf3 India: 110,000 units\n4. \ud83c\uddf5\ud83c\uddf1 Poland: 55,000 units\n5. \ud83c\udde9\ud83c\uddea Germany: 45,000 units",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-05-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York saw 1.8 million package thefts in 2026, a 25% rise from 2025.\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles reported 1.5 million, costing residents $450 million total.\n\nProjections show 15% annual growth through 2030.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
