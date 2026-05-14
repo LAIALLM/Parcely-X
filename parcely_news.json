@@ -246,5 +246,13 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-14",
+        "status": "posted",
+        "tweet": "Top 5 cities leading in EV and e-bike delivery fleets by 2026 (projected share of total deliveries):\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam: 85%\n\n\ud83c\uddeb\ud83c\uddf7 Paris: 78%\n\n\ud83c\uddec\ud83c\udde7 London: 72%\n\n\ud83c\uddfa\ud83c\uddf8 New York: 68%\n\n\ud83c\udde9\ud83c\uddea Berlin: 65%",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
