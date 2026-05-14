@@ -307,5 +307,12 @@
         "tweet": "Porch piracy projected to hit 2M+ US incidents in 2026, up 15% from 2024.\n\n1. \ud83c\uddfa\ud83c\uddf8 New York: 280,000 thefts\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles: 220,000\n3. \ud83c\uddfa\ud83c\uddf8 Chicago: 160,000\n4. \ud83c\uddfa\ud83c\uddf8 Houston: 130,000\n5. \ud83c\uddfa\ud83c\uddf8 Philadelphia: 110,000",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-05-14",
+        "status": "posted",
+        "tweet": "LogiFreight's global network moved 2.5 million tons of cargo in Q1 2026, up 15% from last year, with 98% efficiency across 120 warehouses.",
+        "type": "infrastructure"
     }
 ]
