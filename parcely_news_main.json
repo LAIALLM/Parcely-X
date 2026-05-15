@@ -287,5 +287,13 @@
         "status": "posted",
         "tweet": "LogiFreight's global network moved 2.5 million tons of cargo in Q1 2026, up 15% from last year, with 98% efficiency across 120 warehouses.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-15",
+        "status": "posted",
+        "tweet": "By 2026, urban residents in \ud83c\uddfa\ud83c\uddf8 New York and \ud83c\uddec\ud83c\udde7 London will average 3 online grocery deliveries per week, driven by 45% market growth since 2024.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
