@@ -235,5 +235,12 @@
         "tweet": "In 2026, 48% of residents in \ud83c\uddfa\ud83c\uddf8 large cities like New York order food delivery weekly.\n\nJust 32% do the same for online groceries, showing delivery's edge in urban habits.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-05-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS facilities processed 27 million packages daily in 2026.",
+        "type": "infrastructure"
     }
 ]
