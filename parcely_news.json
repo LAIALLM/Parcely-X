@@ -234,5 +234,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS facilities processed 27 million packages daily in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-16",
+        "status": "posted",
+        "tweet": "By 2026, 30% of porch deliveries projected stolen in \ud83c\uddfa\ud83c\uddf8 top cities.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
