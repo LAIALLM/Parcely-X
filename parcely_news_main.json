@@ -267,5 +267,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-17",
+        "status": "posted",
+        "tweet": "By 2026 global parcel locker and pickup point networks total 2.8 million sites and handle 9.5 billion packages each year.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
