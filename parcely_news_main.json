@@ -275,5 +275,12 @@
         "tweet": "By 2026 global parcel locker and pickup point networks total 2.8 million sites and handle 9.5 billion packages each year.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-05-17",
+        "status": "posted",
+        "tweet": "TG Logistics moved 2.8 million packages daily via its \ud83c\uddf3\ud83c\uddf1 Netherlands hub in 2026.",
+        "type": "infrastructure"
     }
 ]
