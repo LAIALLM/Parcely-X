@@ -154,5 +154,13 @@
         "status": "posted",
         "tweet": "Apex Logistics \ud83c\udde8\ud83c\uddf3 China hub processed 3.5 million parcels daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-18",
+        "status": "posted",
+        "tweet": "By 2026, smart features will reach 40% of new \ud83c\uddfa\ud83c\uddf8 USA residential and office buildings, cutting energy use 20%.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
