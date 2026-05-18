@@ -192,5 +192,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-18",
+        "status": "posted",
+        "tweet": "FedEx infrastructure routes 18 million parcels daily in \ud83c\uddfa\ud83c\uddf8 hubs.",
+        "type": "infrastructure"
     }
 ]
