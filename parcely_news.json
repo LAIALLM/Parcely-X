@@ -174,5 +174,13 @@
         "status": "posted",
         "tweet": "FedEx infrastructure routes 18 million parcels daily in \ud83c\uddfa\ud83c\uddf8 hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York home deliveries cost 9.25 dollars per parcel in 2026\n\n\ud83c\uddeb\ud83c\uddf7 Paris costs 6.80 dollars",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
