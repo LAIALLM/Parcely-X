@@ -173,5 +173,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9obkdBZGhzRFJpQnJBR19HSGJJRFppWFhWQWpWVXFmaGlNaVk0RHBUSVNqMU82Qkhhc0FDWTZVLURsX2ROTks0bExQODVma0NqZ1VHSndid0UwME5MMklhRExvanFuY1Z0WkR2OGdqazVyMG8zWjlN?oc=5",
+        "date": "2026-05-21",
+        "title": "Exclusive: Walmart says shoppers increasingly want everyday items in 30 minutes - Axios",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9obkdBZGhzRFJpQnJBR19HSGJJRFppWFhWQWpWVXFmaGlNaVk0RHBUSVNqMU82Qkhhc0FDWTZVLURsX2ROTks0bExQODVma0NqZ1VHSndid0UwME5MMklhRExvanFuY1Z0WkR2OGdqazVyMG8zWjlN?oc=5\" target=\"_blank\">Exclusive: Walmart says shoppers increasingly want everyday items in 30 minutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
