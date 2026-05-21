@@ -155,5 +155,13 @@
         "tweet": "In 2026, 28% of first-attempt e-commerce deliveries fail in \ud83c\uddfa\ud83c\uddf8 US.\n\ud83c\uddec\ud83c\udde7 UK projects 19% for the same period.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-05-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Boston porch piracy hit 19 percent of deliveries in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 New York reached 31 percent that year.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
