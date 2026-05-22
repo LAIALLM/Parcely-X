@@ -169,5 +169,13 @@
         "status": "posted",
         "tweet": "AP Logistics moves 950000 tons of freight weekly through its \ud83c\uddf3\ud83c\uddf1 Netherlands terminals.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-22",
+        "status": "posted",
+        "tweet": "In \ud83c\uddfa\ud83c\uddf8 large metros last mile delivery costs average 8.90 dollars per parcel in 2026 driven by congestion and labor. Projections show 11 dollars by 2028.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
