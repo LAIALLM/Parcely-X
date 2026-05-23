@@ -1,13 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-05-13",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York saw 1.8 million package thefts in 2026, a 25% rise from 2025.\n\n\ud83c\uddfa\ud83c\uddf8 Los Angeles reported 1.5 million, costing residents $450 million total.\n\nProjections show 15% annual growth through 2030.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODU5d0xxaDB3eVJPdnRKX0dVdmdUVFFpejNKZW1PZkhNNW94eFpHM1RRcFFBcXVjVUN2WFk4Q0h5bjkwWUJnSlBhaVNlNndZNE84WmE1cDZPeFY3dVBNRkNwV1FNcVQ1ZXlmR1dOajgwMEtwdkNjeDlMQ1ZCbkRoUzNGR056UXd2QjhhRENJN3g3endzQ182ZkEwdXJyMnc?oc=5",
         "date": "2026-05-14",
         "title": "APAC drives online grocery\u2019s trillion-dollar growth path - Retail Asia",
@@ -197,5 +189,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Union Pacific moved 850 million tons of freight on its rail network in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWpIdVNFMHh2bU5VejFQQ0hUY0lHLS13UmxKNkZOOGJ1cHUwMU92RGdDemszVEFGcUVpcGlncWFZMnNwbzNRYzFNbzVPR0JrOE5IcEJFZzJvYmJ0RllJN2YwTkRRRk5hYXNCVjBQTXladUVydzQ3QTBBd3ZFTGVFVlJOR3VSSXJMbkJqYVQ2TWFuWUVVaVZWcWh6UGd2MXFyeUlWemliS09MdkF5TlBOWVZB?oc=5",
+        "date": "2026-05-23",
+        "title": "India\u2019s E-Commerce Shift: Why Reliable Delivery Matters More Than Speed - Daily Pioneer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWpIdVNFMHh2bU5VejFQQ0hUY0lHLS13UmxKNkZOOGJ1cHUwMU92RGdDemszVEFGcUVpcGlncWFZMnNwbzNRYzFNbzVPR0JrOE5IcEJFZzJvYmJ0RllJN2YwTkRRRk5hYXNCVjBQTXladUVydzQ3QTBBd3ZFTGVFVlJOR3VSSXJMbkJqYVQ2TWFuWUVVaVZWcWh6UGd2MXFyeUlWemliS09MdkF5TlBOWVZB?oc=5\" target=\"_blank\">India\u2019s E-Commerce Shift: Why Reliable Delivery Matters More Than Speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
