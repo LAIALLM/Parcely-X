@@ -108,5 +108,13 @@
         "tweet": "In \ud83c\uddfa\ud83c\uddf8 large metros last mile delivery costs average 8.90 dollars per parcel in 2026 driven by congestion and labor. Projections show 11 dollars by 2028.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-05-23",
+        "status": "posted",
+        "tweet": "By 2026 electric cargo bikes will cover 35% of all last-mile deliveries in \ud83c\uddf3\ud83c\uddf1 Amsterdam. \nThis cuts urban van traffic by a quarter.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
