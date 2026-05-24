@@ -115,5 +115,13 @@
         "status": "posted",
         "tweet": "Logistics firm runs 2.4 million daily shipments through 1,850 km of rail links in \ud83c\udde9\ud83c\uddea Germany.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-24",
+        "status": "posted",
+        "tweet": "Worldwide e-commerce packaging waste reaches 165 million tons in 2026.\n\ud83c\udde8\ud83c\uddf3 China generates 55 million tons compared to 28 million tons in \ud83c\uddfa\ud83c\uddf8 US.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
