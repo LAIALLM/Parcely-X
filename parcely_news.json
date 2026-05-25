@@ -191,5 +191,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 $UPS infrastructure processed 26.7 million packages daily across 1,400 facilities\n26.7 million packages daily across 1,400 facilities",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-25",
+        "status": "posted",
+        "tweet": "CoreFreight rail hubs moved 1.25 million containers across \ud83c\udde9\ud83c\uddea Germany infrastructure in Q1.",
+        "type": "infrastructure"
     }
 ]
