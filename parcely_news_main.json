@@ -1,23 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-16",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 TransLogix facilities handled 950000 tons of freight per day in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://theloadstar.com/tighter-us-haulage-market-a-serious-threat-to-low-inventory-strategy/",
-        "date": "2026-05-16",
-        "title": "Tighter US haulage market a serious threat to low inventory strategy",
-        "summary": "<p>The US tariffs reinforced a trend among cargo owners to keep inventory levels low and replenish quickly \u2013 a strategy that relies on readily available and cheap truck capacity, so the rapid rise in haulage rates and tender rejections is forcing a re-evaluation.<br />\nThe Q1 Distribution and Fulfilment Index, produced by ITS Logistics, describes the period as &#8220;a stress test for the velocity thesis&#8221;.<br />\nIts authors concluded: \u201cThe discipline of lean inventory, ...</p>\n<p>The post <a href=\"https://theloadstar.com/tighter-us-haulage-market-a-serious-threat-to-low-inventory-strategy/\">Tighter US haulage market a serious threat to low inventory strategy</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-05-17",
         "status": "posted",
         "tweet": "By 2026 global parcel locker and pickup point networks total 2.8 million sites and handle 9.5 billion packages each year.",
@@ -143,5 +126,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US commercial buildings reached 55% smart access adoption in 2026. \n\ud83c\udde8\ud83c\udde6 Canada stood at 38% for new builds.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-05-26",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Germany's logistics firm moves 1.5 million tons of freight daily.",
+        "type": "infrastructure"
     }
 ]
