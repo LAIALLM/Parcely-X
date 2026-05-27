@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-17",
-        "status": "posted",
-        "tweet": "By 2026 global parcel locker and pickup point networks total 2.8 million sites and handle 9.5 billion packages each year.",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
-        "date": "2026-05-17",
-        "status": "posted",
-        "tweet": "TG Logistics moved 2.8 million packages daily via its \ud83c\uddf3\ud83c\uddf1 Netherlands hub in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-05-19",
         "status": "posted",
         "tweet": "By 2026, 34% of e-commerce deliveries in \ud83c\uddfa\ud83c\uddf8 the United States and \ud83c\uddea\ud83c\uddfa Europe fail on the first attempt, driving 11 billion extra courier miles yearly.",
@@ -133,5 +118,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea Germany's logistics firm moves 1.5 million tons of freight daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-27",
+        "status": "posted",
+        "tweet": "2026 leaders in smart residential and office buildings\n\n1. \ud83c\uddf8\ud83c\uddec Singapore\n2. \ud83c\uddfa\ud83c\uddf8 New York\n3. \ud83c\uddec\ud83c\udde7 London\n4. \ud83c\uddef\ud83c\uddf5 Tokyo\n5. \ud83c\uddf0\ud83c\uddf7 Seoul",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
