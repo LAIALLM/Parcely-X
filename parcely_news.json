@@ -145,5 +145,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 China based operator moved 18.4 million TEU through 94 automated terminals in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddf8\ud83c\uddec Singapore's Apex Logistics processed 2.4 million containers in 2025.",
+        "type": "infrastructure"
     }
 ]
