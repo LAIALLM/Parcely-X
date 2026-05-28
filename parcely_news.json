@@ -152,5 +152,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\uddec Singapore's Apex Logistics processed 2.4 million containers in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York residents order food delivery 3 times weekly in 2026\n\ud83c\uddec\ud83c\udde7 London residents order twice weekly",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
