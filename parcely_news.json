@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-19",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York home deliveries cost 9.25 dollars per parcel in 2026\n\n\ud83c\uddeb\ud83c\uddf7 Paris costs 6.80 dollars",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
         "date": "2026-05-20",
         "status": "posted",
         "tweet": "In 2026, 28% of first-attempt e-commerce deliveries fail in \ud83c\uddfa\ud83c\uddf8 US.\n\ud83c\uddec\ud83c\udde7 UK projects 19% for the same period.",
@@ -160,5 +152,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York residents order food delivery 3 times weekly in 2026\n\ud83c\uddec\ud83c\udde7 London residents order twice weekly",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-05-29",
+        "status": "posted",
+        "tweet": "By 2026, global parcel locker and pickup point networks reach 2.5 million locations. They handle 18 billion packages yearly.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
