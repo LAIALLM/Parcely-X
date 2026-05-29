@@ -160,5 +160,12 @@
         "tweet": "By 2026, global parcel locker and pickup point networks reach 2.5 million locations. They handle 18 billion packages yearly.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-05-29",
+        "status": "posted",
+        "tweet": "LogiTrans operates 8,500 km of rail infrastructure in \ud83c\udde9\ud83c\uddea Germany.",
+        "type": "infrastructure"
     }
 ]
