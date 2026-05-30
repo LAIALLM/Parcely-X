@@ -177,5 +177,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile parcel cost: $8.50 in 2026\n\ud83c\uddef\ud83c\uddf5 Tokyo: $4.75",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-05-30",
+        "status": "posted",
+        "tweet": "Union Pacific processed 2.4 million carloads across \ud83c\uddfa\ud83c\uddf8 USA rail network in 2025. $UNP",
+        "type": "infrastructure"
     }
 ]
