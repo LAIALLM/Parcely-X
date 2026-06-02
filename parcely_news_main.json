@@ -143,5 +143,12 @@
         "tweet": "By 2026 \ud83c\udde8\ud83c\uddf3 China runs 850000 parcel lockers.\n\nAll other countries combined reach 550000.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-06-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddf8\ud83c\uddec Singapore logistics firm averaged 12 million daily parcels in 2025.",
+        "type": "infrastructure"
     }
 ]
