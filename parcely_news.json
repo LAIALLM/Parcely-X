@@ -138,5 +138,15 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German rail network moves 2.1 million tons of freight daily across 8,400 km of track.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHhReWZkUXpPVFF3TmU5dVh3UlcxMm9KbUI5S2ZEVkpSWWdJeGJnSDlTMmNsTUhPaEhNc3hRdGVZRnh3THdVdDQ2STk5MVktZVR3Z0tyNUkwSWo0NDZNdm1BZlhJQlVsYWxQZWxPWE5nRWVGOWZkV2gzUWV3bFdXWDd3?oc=5",
+        "date": "2026-06-03",
+        "title": "\u200b10 Ways Walmart and Amazon Are Competing to Speed Up Deliveries to Rural America - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHhReWZkUXpPVFF3TmU5dVh3UlcxMm9KbUI5S2ZEVkpSWWdJeGJnSDlTMmNsTUhPaEhNc3hRdGVZRnh3THdVdDQ2STk5MVktZVR3Z0tyNUkwSWo0NDZNdm1BZlhJQlVsYWxQZWxPWE5nRWVGOWZkV2gzUWV3bFdXWDd3?oc=5\" target=\"_blank\">\u200b10 Ways Walmart and Amazon Are Competing to Speed Up Deliveries to Rural America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
