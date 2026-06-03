@@ -123,5 +123,12 @@
         "tweet": "E-commerce worldwide produces 140 million tons of packaging waste in 2026.\n\nThis equals the annual trash from \ud83c\udde9\ud83c\uddea Germany and \ud83c\uddef\ud83c\uddf5 Japan combined.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-06-03",
+        "status": "posted",
+        "tweet": "A logistics firm operates 320 distribution centers across \ud83c\udde8\ud83c\udde6 Canada handling 4.8 million shipments weekly.",
+        "type": "infrastructure"
     }
 ]
