@@ -115,5 +115,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\uddec Singapore logistics firm averaged 12 million daily parcels in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-03",
+        "status": "posted",
+        "tweet": "E-commerce worldwide produces 140 million tons of packaging waste in 2026.\n\nThis equals the annual trash from \ud83c\udde9\ud83c\uddea Germany and \ud83c\uddef\ud83c\uddf5 Japan combined.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
