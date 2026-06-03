@@ -131,5 +131,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US smart homes and offices reach 28 million units in 2026, up 65 percent from 2023 levels. \nBy 2029 that number hits 45 million.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-06-03",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea German rail network moves 2.1 million tons of freight daily across 8,400 km of track.",
+        "type": "infrastructure"
     }
 ]
