@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-25",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US commercial buildings reached 55% smart access adoption in 2026. \n\ud83c\udde8\ud83c\udde6 Canada stood at 38% for new builds.",
-        "type": "statistical",
-        "category": "adoption of smart access systems for buildings"
-    },
-    {
-        "link": null,
         "date": "2026-05-26",
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea Germany's logistics firm moves 1.5 million tons of freight daily.",
@@ -129,6 +121,13 @@
         "date": "2026-06-03",
         "status": "posted",
         "tweet": "A logistics firm operates 320 distribution centers across \ud83c\udde8\ud83c\udde6 Canada handling 4.8 million shipments weekly.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-04",
+        "status": "posted",
+        "tweet": "LogiFlow warehouses in \ud83c\uddfa\ud83c\uddf8 United States total 25 million square feet of capacity.",
         "type": "infrastructure"
     }
 ]
