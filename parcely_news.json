@@ -141,5 +141,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-04",
+        "status": "posted",
+        "tweet": "By 2026, 35 percent of new office and residential buildings in \ud83c\uddfa\ud83c\uddf8 the US will include full smart automation systems.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
