@@ -169,5 +169,15 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR4WWJIMFRVcWo1YUtsUFdnU1pONFQzU2FYUWtzR2laTXpPX1lDeTlwLUJDZjJFdVhmdDhQQW8yS3IzVWpYY3dWS1pTT25jYVpwN0FEN1VqeC1WUUZ2VjlCYkZ6ZVBwRW51NlRhVmlfeG83YWlFMGU2bHotek9weURnbjVvaXFLWUg0bmJNYlZyTU1qTU5Mb3BjZmctT21aeFNiZF9mMWNpNVVOeHMyMzJMbmxfdVItbkNyR0RySDJodw?oc=5",
+        "date": "2026-06-04",
+        "title": "Walmart adds Subway meals to its 30-minute delivery offering as e-commerce race heats up - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR4WWJIMFRVcWo1YUtsUFdnU1pONFQzU2FYUWtzR2laTXpPX1lDeTlwLUJDZjJFdVhmdDhQQW8yS3IzVWpYY3dWS1pTT25jYVpwN0FEN1VqeC1WUUZ2VjlCYkZ6ZVBwRW51NlRhVmlfeG83YWlFMGU2bHotek9weURnbjVvaXFLWUg0bmJNYlZyTU1qTU5Mb3BjZmctT21aeFNiZF9mMWNpNVVOeHMyMzJMbmxfdVItbkNyR0RySDJodw?oc=5\" target=\"_blank\">Walmart adds Subway meals to its 30-minute delivery offering as e-commerce race heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
