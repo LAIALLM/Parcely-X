@@ -140,5 +140,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US delivery trucks for online orders produced 85 million tons of CO2 in 2025.\n\nNetworks built into buildings could cut that 40 percent by 2027.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-06-05",
+        "status": "posted",
+        "tweet": "Worldwide e-commerce packaging waste reaches 175 million tons in 2026\nCompared to 90 million tons from traditional retail deliveries",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
