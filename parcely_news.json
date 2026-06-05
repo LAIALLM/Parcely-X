@@ -234,5 +234,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-05",
+        "status": "posted",
+        "tweet": "By 2026, residents in \ud83c\uddfa\ud83c\uddf8 New York order food or groceries online four times weekly.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
