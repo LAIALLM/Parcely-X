@@ -1,13 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-05-27",
-        "status": "posted",
-        "tweet": "2026 leaders in smart residential and office buildings\n\n1. \ud83c\uddf8\ud83c\uddec Singapore\n2. \ud83c\uddfa\ud83c\uddf8 New York\n3. \ud83c\uddec\ud83c\udde7 London\n4. \ud83c\uddef\ud83c\uddf5 Tokyo\n5. \ud83c\uddf0\ud83c\uddf7 Seoul",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmlJY0paSkxuMTRGRFZOSUxWeXBUV3hTN1l0QVJ2dk5uUHZpd2p0T1hjOEJJOExxVWVaQzZCSWN0TGFQUGw2Qm5nRXdiZUY1QjMyWFo5TGdrcHIxVGFjNnNCc1Rfa054azUtOE1rb3pqQmhIYXgzVjRBam5OY01PcDBSZGwxZkVZMWo0YVJFTXhnbFRJaTA4TWU4SnR2Z2xuNFRDLUhQamhXaU16VVlBV1ZpN3l1SVVtcEdoUExxQkxFVTRGeU95Wm1WbU83aTNTSVE?oc=5",
         "date": "2026-05-28",
         "title": "World Autonomous Mobile Delivery Robots - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -155,5 +147,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde7\ud83c\uddf7 Brazil operator moves 2.4 million tons of freight daily. \nThis is sharp data only.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York porch piracy hit 31 percent of deliveries in 2026.\n\ud83c\uddfa\ud83c\uddf8 Philadelphia stands at 17 percent.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
