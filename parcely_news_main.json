@@ -1,22 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmlJY0paSkxuMTRGRFZOSUxWeXBUV3hTN1l0QVJ2dk5uUHZpd2p0T1hjOEJJOExxVWVaQzZCSWN0TGFQUGw2Qm5nRXdiZUY1QjMyWFo5TGdrcHIxVGFjNnNCc1Rfa054azUtOE1rb3pqQmhIYXgzVjRBam5OY01PcDBSZGwxZkVZMWo0YVJFTXhnbFRJaTA4TWU4SnR2Z2xuNFRDLUhQamhXaU16VVlBV1ZpN3l1SVVtcEdoUExxQkxFVTRGeU95Wm1WbU83aTNTSVE?oc=5",
-        "date": "2026-05-28",
-        "title": "World Autonomous Mobile Delivery Robots - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmlJY0paSkxuMTRGRFZOSUxWeXBUV3hTN1l0QVJ2dk5uUHZpd2p0T1hjOEJJOExxVWVaQzZCSWN0TGFQUGw2Qm5nRXdiZUY1QjMyWFo5TGdrcHIxVGFjNnNCc1Rfa054azUtOE1rb3pqQmhIYXgzVjRBam5OY01PcDBSZGwxZkVZMWo0YVJFTXhnbFRJaTA4TWU4SnR2Z2xuNFRDLUhQamhXaU16VVlBV1ZpN3l1SVVtcEdoUExxQkxFVTRGeU95Wm1WbU83aTNTSVE?oc=5\" target=\"_blank\">World Autonomous Mobile Delivery Robots - Market Analysis, Forecast, Size, Trends and Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-05-28",
-        "status": "posted",
-        "tweet": "\ud83c\udde9\ud83c\uddea TransEuro rail network covers 45000 km of track as of 2026.",
-        "type": "infrastructure"
-    },
-    {
         "link": null,
         "date": "2026-05-29",
         "status": "posted",
@@ -155,5 +138,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York porch piracy hit 31 percent of deliveries in 2026.\n\ud83c\uddfa\ud83c\uddf8 Philadelphia stands at 17 percent.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-06-07",
+        "status": "posted",
+        "tweet": "2026 projections show 25% failed first deliveries in \ud83c\uddfa\ud83c\uddf8 US e-commerce versus 10% in \ud83c\uddf0\ud83c\uddf7 South Korea.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
