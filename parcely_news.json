@@ -242,5 +242,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 TransRail operates 22,000 km of track supporting 1,250 daily freight trains.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-07",
+        "status": "posted",
+        "tweet": "2026 projections show 26% of e-commerce orders fail first delivery across \ud83c\uddfa\ud83c\uddf8 United States, \ud83c\uddec\ud83c\udde7 United Kingdom and \ud83c\uddea\ud83c\uddfa Europe, driving repeated carrier trips and added costs.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
