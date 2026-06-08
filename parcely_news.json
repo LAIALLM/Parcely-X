@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-29",
-        "status": "posted",
-        "tweet": "By 2026, global parcel locker and pickup point networks reach 2.5 million locations. They handle 18 billion packages yearly.",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
-        "date": "2026-05-29",
-        "status": "posted",
-        "tweet": "LogiTrans operates 8,500 km of rail infrastructure in \ud83c\udde9\ud83c\uddea Germany.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONW1vZGZOT0dtdTNzbXNmWm5fRzFMNXZGTWFCX3RUVTlRVmtMTnp1NFh1WUxxM19ra2ZaWnMwaDNJSmdCY0ZvVVF0Z2RRV25oT2E1Q0tYaGJkVWtsZ21INnN6T1liT1ZnQllzQlFNRVNsbERKUDFMbHdWV3ZJZXllc1hJYTR6Uy1WaWdYTWlYN3d5Zw?oc=5",
-        "date": "2026-05-29",
-        "title": "Three E-Commerce Giants Powering Online Retail - Kalkine Media",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONW1vZGZOT0dtdTNzbXNmWm5fRzFMNXZGTWFCX3RUVTlRVmtMTnp1NFh1WUxxM19ra2ZaWnMwaDNJSmdCY0ZvVVF0Z2RRV25oT2E1Q0tYaGJkVWtsZ21INnN6T1liT1ZnQllzQlFNRVNsbERKUDFMbHdWV3ZJZXllc1hJYTR6Uy1WaWdYTWlYN3d5Zw?oc=5\" target=\"_blank\">Three E-Commerce Giants Powering Online Retail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-05-30",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile parcel cost: $8.50 in 2026\n\ud83c\uddef\ud83c\uddf5 Tokyo: $4.75",
@@ -270,5 +245,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-08",
+        "status": "posted",
+        "tweet": "Apex Logistics rail network spans 4,800 km of track in \ud83c\udde8\ud83c\udde6 Canada with 1.3 million tons monthly freight capacity.",
+        "type": "infrastructure"
     }
 ]
