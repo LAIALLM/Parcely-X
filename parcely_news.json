@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-05-30",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile parcel cost: $8.50 in 2026\n\ud83c\uddef\ud83c\uddf5 Tokyo: $4.75",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
-        "date": "2026-05-30",
-        "status": "posted",
-        "tweet": "Union Pacific processed 2.4 million carloads across \ud83c\uddfa\ud83c\uddf8 USA rail network in 2025. $UNP",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1hRRXdkSzkxM0dGUE9MSmlWUUM4MzVZNDdrNDlQUHdfbUFTOFMwT0tmem9ERXVrUlZFOW5ZOHBxTWx1XzFLVTFPNXFQVzVVSFkzUHl1aUltQ3FPSVJ2ck8xUG8tSm5rZDRNMHFuQzBzQURNM1ZiZDY2dk9PRnpDWHluWmVEWXFHaWdnTUhnakNfR2liTHVIcWF0NmRrdm1VbFhqQU5jTmlxSDBnU1Z5MktsUUNHOWxHUVRRX3ZyQjY4TUtsR2x3?oc=5",
         "date": "2026-05-31",
         "title": "Consumers in Qatar balance e-commerce convenience with traditional Eid shopping - The Peninsula Qatar",
@@ -290,5 +275,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-09",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddf0 Maersk operated 650 vessels with 4.1 million TEU total capacity in 2026. \n\n```",
+        "type": "infrastructure"
     }
 ]
