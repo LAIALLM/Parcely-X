@@ -282,5 +282,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddf0 Maersk operated 650 vessels with 4.1 million TEU total capacity in 2026. \n\n```",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-09",
+        "status": "posted",
+        "tweet": "2026 projections show 35% failed first-attempt e-commerce deliveries in \ud83c\uddfa\ud83c\uddf8 US\nversus 14% in \ud83c\udde9\ud83c\uddea Germany",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
