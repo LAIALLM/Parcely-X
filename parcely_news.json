@@ -322,5 +322,13 @@
         "status": "posted",
         "tweet": "DHL handled 8 million daily shipments through its hubs in \ud83c\udde9\ud83c\uddea Germany.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile delivery costs average $7.90 per parcel in 2026. \n\ud83c\uddeb\ud83c\uddf7 Paris averages $4.80.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
