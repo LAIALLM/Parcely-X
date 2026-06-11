@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-01",
-        "status": "posted",
-        "tweet": "Last-mile logistics released 23 million tons of CO2 in 2026.\nBuilding-integrated networks released 8 million tons.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-06-02",
         "status": "posted",
         "tweet": "Projected 2026 last-mile costs per parcel in USD\n\n1. \ud83c\uddfa\ud83c\uddf8 San Francisco 9.80\n2. \ud83c\uddfa\ud83c\uddf8 New York 8.90\n3. \ud83c\uddec\ud83c\udde7 London 7.60\n4. \ud83c\udde9\ud83c\uddea Berlin 7.20\n5. \ud83c\uddeb\ud83c\uddf7 Paris 6.95",
@@ -328,6 +320,14 @@
         "date": "2026-06-10",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile delivery costs average $7.90 per parcel in 2026. \n\ud83c\uddeb\ud83c\uddf7 Paris averages $4.80.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-06-11",
+        "status": "posted",
+        "tweet": "In \ud83c\uddfa\ud83c\uddf8 large metros last-mile delivery costs average $8.40 per parcel in 2026. \nProjections reach $11.20 by 2028 from rising urban demand.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
     }
