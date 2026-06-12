@@ -336,5 +336,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States hubs processed 18 million shipments daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-12",
+        "status": "posted",
+        "tweet": "Delivery to door in big cities costs $7.10 per parcel in \ud83c\uddfa\ud83c\uddf8 metros in 2026.\nIt drops to $5.40 in \ud83c\uddea\ud83c\uddfa metros.",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
