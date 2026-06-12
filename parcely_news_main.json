@@ -129,5 +129,13 @@
         "status": "posted",
         "tweet": "NorthSea Logistics routes 95000 shipments daily via \ud83c\udde9\ud83c\uddea German hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-12",
+        "status": "posted",
+        "tweet": "By 2026 failed first-attempt deliveries reach 24% of e-commerce orders in \ud83c\uddfa\ud83c\uddf8 USA adding $9 billion in annual costs.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
