@@ -130,5 +130,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US smart homes reached 42 million units by 2026\nSmart offices hit 250000, a gap of 168 times more homes.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-06-13",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea German logistics operator moves 1.8 million tons of freight daily on its rail network",
+        "type": "infrastructure"
     }
 ]
