@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-04",
-        "status": "posted",
-        "tweet": "LogiFlow warehouses in \ud83c\uddfa\ud83c\uddf8 United States total 25 million square feet of capacity.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlZGZ2Q0VTN5XzFlWFNEU2k5RnpTcEVhTk1Ea25vdHZ0YTJNT1hsZzhKeFE2ZXZJV0ZEZ1RnNG9vQ3pDdHJoWTZxZkRNcXg4SDc4czhDUmZrN0l3NjlYUHNpdk9SMjAtbWNjbm9odk03b1ViYmVBRS1QVE54RzhCcDExclVfckp1eWtFeURiYlpQNUhsblNldlFka2RVMEZCM2QtZVRBaw?oc=5",
-        "date": "2026-06-04",
-        "title": "Amazon wants sellers to be more precise with handling times - Supply Chain Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlZGZ2Q0VTN5XzFlWFNEU2k5RnpTcEVhTk1Ea25vdHZ0YTJNT1hsZzhKeFE2ZXZJV0ZEZ1RnNG9vQ3pDdHJoWTZxZkRNcXg4SDc4czhDUmZrN0l3NjlYUHNpdk9SMjAtbWNjbm9odk03b1ViYmVBRS1QVE54RzhCcDExclVfckp1eWtFeURiYlpQNUhsblNldlFka2RVMEZCM2QtZVRBaw?oc=5\" target=\"_blank\">Amazon wants sellers to be more precise with handling times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-06-04",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US delivery trucks for online orders produced 85 million tons of CO2 in 2025.\n\nNetworks built into buildings could cut that 40 percent by 2027.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-06-05",
         "status": "posted",
         "tweet": "Worldwide e-commerce packaging waste reaches 175 million tons in 2026\nCompared to 90 million tons from traditional retail deliveries",
