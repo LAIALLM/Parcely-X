@@ -113,5 +113,12 @@
         "tweet": "\ud83c\uddec\ud83c\udde7 London switched 55% of delivery fleets to electric vans and e-bikes by 2026, removing 800,000 tons of emissions yearly.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-06-16",
+        "status": "posted",
+        "tweet": "Apex Logistics maintains 3200 km of rail infrastructure in \ud83c\udde7\ud83c\uddf7 Brazil.  \n(42 chars)",
+        "type": "infrastructure"
     }
 ]
