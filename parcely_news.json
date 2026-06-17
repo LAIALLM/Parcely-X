@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-07",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 TransRail operates 22,000 km of track supporting 1,250 daily freight trains.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-06-07",
-        "status": "posted",
-        "tweet": "2026 projections show 26% of e-commerce orders fail first delivery across \ud83c\uddfa\ud83c\uddf8 United States, \ud83c\uddec\ud83c\udde7 United Kingdom and \ud83c\uddea\ud83c\uddfa Europe, driving repeated carrier trips and added costs.",
-        "type": "statistical",
-        "category": "failed first-attempt deliveries in global e-commerce"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUJHUVF5OVYyb2ptWEpzMEdkeW9MRzZSUnNxZ3BKUjY1T29CSUwtY1l1V3htWHQ1TUoyVlMyY3ZJd1NJaXBkRHROcTYtY2V2X0o3OWNWWUNaMG5yNXBVdC1WM1VMcmszaGZJZUxUb1E0N2tTb2tJR2paYVo1WjhJekU4Y1I?oc=5",
-        "date": "2026-06-07",
-        "title": "Sameday Exits Hungary, Locker Network to Be Dismantled - Hungary Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUJHUVF5OVYyb2ptWEpzMEdkeW9MRzZSUnNxZ3BKUjY1T29CSUwtY1l1V3htWHQ1TUoyVlMyY3ZJd1NJaXBkRHROcTYtY2V2X0o3OWNWWUNaMG5yNXBVdC1WM1VMcmszaGZJZUxUb1E0N2tTb2tJR2paYVo1WjhJekU4Y1I?oc=5\" target=\"_blank\">Sameday Exits Hungary, Locker Network to Be Dismantled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hungary Today</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/news-in-brief-week-23-2026-carriers-rate-run-and-tiaca-exec-summit/",
-        "date": "2026-06-07",
-        "title": "News in Brief | Week 23 2026 | Carrier\u2019s rate run and TIACA Exec Summit",
-        "summary": "<p>In this episode of The Loadstar Podcast News in Brief, we bring you the latest developments shaping global supply chains, from rising tensions in the Middle East to renewed controversy over ocean freight pricing &#8211; and the key takeaways from TIACA&#8217;s Executive Summit in Warsaw last week.<br />\nFirst, The Loadstar managing editor Gavin van Marle joins us for an update on the container shipping market, that examines growing criticism from shippers ...</p>\n<p>The post <a href=\"https://theloadstar.com/news-in-brief-week-23-2026-carriers-rate-run-and-tiaca-exec-summit/\">News in Brief | Week 23 2026 | Carrier&#8217;s rate run and TIACA Exec Summit</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-06-08",
         "status": "posted",
         "tweet": "Apex Logistics rail network spans 4,800 km of track in \ud83c\udde8\ud83c\udde6 Canada with 1.3 million tons monthly freight capacity.",
@@ -242,5 +207,46 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMU1tRzZsVjRkVGp5VUpMMl9jODQ0M29SMklFQktfRUk4NFRENjZTa3l6NXNyVkhRa0lDSDdMak1mbG9ONnBqaGdIRU9xV2tTOHEyal9jWlgzUGV1c1Jv?oc=5",
+        "date": "2026-06-17",
+        "title": "InPost reaches 15,000 UK lockers - Trans.INFO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMU1tRzZsVjRkVGp5VUpMMl9jODQ0M29SMklFQktfRUk4NFRENjZTa3l6NXNyVkhRa0lDSDdMak1mbG9ONnBqaGdIRU9xV2tTOHEyal9jWlgzUGV1c1Jv?oc=5\" target=\"_blank\">InPost reaches 15,000 UK lockers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trans.INFO</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: InPost has expanded to 15,000 lockers across the UK."
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/inpost-reaches-15000-uk-lockers-as-consumers-demand-more-control-over-delivery.html",
+        "date": "2026-06-17",
+        "title": "InPost reaches 15,000 UK lockers as consumers demand more control over delivery",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/inpost-reaches-15000-uk-lockers-as-consumers-demand-more-control-over-delivery.html\"><img align=\"left\" alt=\"InPost reaches 15,000 UK lockers as consumers demand more control over delivery\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/06/InPost-UK-15k-Lockers-Image.jpg-scaled-e1781681131933-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>InPost, a UK out-of-home parcel locker provider, has reached 15,000 lockers nationwide, a milestone the company says reflects a shift in how consumers expect delivery to work.</p>\n<p>The network now gives millions of UK consumers access to 24/7 parcel collection and returns, with InPost lockers located in supermarkets, retail parks, transportation hubs and residential areas.</p>\n<p>The expansion comes amid mounting pressure on traditional home delivery models. One in three parcel deliveries fails on the first attempt, and 40% of consumers miss at least one delivery every month, according to InPost parcel anxiety research conducted by Yonder Data Solutions in January 2026.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/inpost-reaches-15000-uk-lockers-as-consumers-demand-more-control-over-delivery.html\" rel=\"nofollow\">Continue reading InPost reaches 15,000 UK lockers as consumers demand more control over delivery at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/dp-world-enter-us-market-with-new-box-terminal-at-corpus-christi/",
+        "date": "2026-06-17",
+        "title": "DP World enter US market with new box terminal at Corpus Christi",
+        "summary": "<p>DP World looks set to finally break into the US market after entering into an \u201cexclusive negotiation agreement\u201d for a long-term lease to develop and operate a container terminal at the Gulf coast port of Corpus Christi.<br />\nThe Texan port is currently a major export gateway for US LNG and crude oil shipments but currently has no container handling capabilities, and under the development being discussed by DP World and the ...</p>\n<p>The post <a href=\"https://theloadstar.com/dp-world-enter-us-market-with-new-box-terminal-at-corpus-christi/\">DP World enter US market with new box terminal at Corpus Christi</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMU1tRzZsVjRkVGp5VUpMMl9jODQ0M29SMklFQktfRUk4NFRENjZTa3l6NXNyVkhRa0lDSDdMak1mbG9ONnBqaGdIRU9xV2tTOHEyal9jWlgzUGV1c1Jv?oc=5",
+        "date": "2026-06-17",
+        "title": "InPost reaches 15,000 UK lockers - Trans.INFO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMU1tRzZsVjRkVGp5VUpMMl9jODQ0M29SMklFQktfRUk4NFRENjZTa3l6NXNyVkhRa0lDSDdMak1mbG9ONnBqaGdIRU9xV2tTOHEyal9jWlgzUGV1c1Jv?oc=5\" target=\"_blank\">InPost reaches 15,000 UK lockers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trans.INFO</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: InPost expands to 15,000 lockers across the UK",
+        "type": "news"
     }
 ]
