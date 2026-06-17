@@ -102,5 +102,13 @@
         "status": "posted",
         "tweet": "Apex Logistics maintains 3200 km of rail infrastructure in \ud83c\udde7\ud83c\uddf7 Brazil.  \n(42 chars)",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-17",
+        "status": "posted",
+        "tweet": "Global e-commerce in 2026 projects 30 percent of first-attempt deliveries failing, requiring millions of extra vehicle trips each day.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
