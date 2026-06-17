@@ -248,5 +248,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: InPost expands to 15,000 lockers across the UK",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQ21TNElyLVRvdGkxUjVtMjE2S004MnE2VWRMNFVjZDNlNVltTkJmS1g2NlliNEdjSmNPQkYwUEI3MEMxMjZZNUdSX2hpaUFWOTcxV3Z5bEhSQQ?oc=5",
+        "date": "2026-06-17",
+        "title": "'We had to get out of the way': The backlash over delivery robots - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQ21TNElyLVRvdGkxUjVtMjE2S004MnE2VWRMNFVjZDNlNVltTkJmS1g2NlliNEdjSmNPQkYwUEI3MEMxMjZZNUdSX2hpaUFWOTcxV3Z5bEhSQQ?oc=5\" target=\"_blank\">'We had to get out of the way': The backlash over delivery robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/what-container-shipping-rates-tell-us-about-the-economy/",
+        "date": "2026-06-17",
+        "title": "What container shipping rates tell us about the economy",
+        "summary": "<p>When economists want to take the temperature of global trade, they increasingly look not at GDP revisions or purchasing manager indices, but at a number that was largely unknown outside freight circles a decade ago: the container shipping rate. The price of moving a 40-foot steel box from Shanghai to Rotterdam has become one of the most watched figures in international commerce \u2014 a raw, real-time signal that cuts through ...</p>\n<p>The post <a href=\"https://theloadstar.com/what-container-shipping-rates-tell-us-about-the-economy/\">What container shipping rates tell us about the economy</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
