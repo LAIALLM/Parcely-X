@@ -95,5 +95,12 @@
         "tweet": "Global e-commerce in 2026 projects 30 percent of first-attempt deliveries failing, requiring millions of extra vehicle trips each day.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-06-18",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\udde6 Canada logistics firm runs 12000 kilometers of freight tracks handling 850000 tons daily.",
+        "type": "infrastructure"
     }
 ]
