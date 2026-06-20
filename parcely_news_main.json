@@ -67,5 +67,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 Canada logistics firm runs 12000 kilometers of freight tracks handling 850000 tons daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-20",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China reached 250,000 smart offices in 2026\ntwice the 125,000 smart homes",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
