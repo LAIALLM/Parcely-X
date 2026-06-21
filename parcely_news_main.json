@@ -75,5 +75,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China reached 250,000 smart offices in 2026\ntwice the 125,000 smart homes",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-06-21",
+        "status": "posted",
+        "tweet": "Apex Logistics moved 1.8 million tons of freight across its \ud83c\uddf3\ud83c\uddf1 Netherlands network in 2025.",
+        "type": "infrastructure"
     }
 ]
