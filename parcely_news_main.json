@@ -82,5 +82,13 @@
         "status": "posted",
         "tweet": "Apex Logistics moved 1.8 million tons of freight across its \ud83c\uddf3\ud83c\uddf1 Netherlands network in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile costs average $8.10 per parcel in 2026\n\n\ud83c\udde8\ud83c\uddf3 Shanghai at $3.90",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
