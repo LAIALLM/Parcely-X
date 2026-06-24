@@ -75,5 +75,13 @@
         "tweet": "2026 package thefts per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 Chicago\n2. \ud83c\uddfa\ud83c\uddf8 Philadelphia\n3. \ud83c\uddfa\ud83c\uddf8 New York\n4. \ud83c\uddfa\ud83c\uddf8 Los Angeles\n5. \ud83c\uddfa\ud83c\uddf8 Houston",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-06-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Large cities average 2.8 food deliveries per household weekly in 2026\nGrocery orders reach 1.1 per week",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
