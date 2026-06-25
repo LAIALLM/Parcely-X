@@ -126,5 +126,15 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEhKcWRvcVU3NElmdW11T052cm5GVU1Zb1JaTDRwYXNLa3VvNF9UTGNOY1hlZjYzbGRINmNWa3ptNmk2NHhFOHVOZ1d2enFlLTV3MHJQVjdTaEE2M0VZbnFsSUtEa3ZCLXhXc3ROa1d6d0JUd1RwTHVZRDBNdDBuZm5lNTBuNlRkUERtOVVFNEVheklRVHhkYzlWemt3bkl3ZjhLdEluaTJGQ3cw?oc=5",
+        "date": "2026-06-25",
+        "title": "Sources: Walmart pursuing last-mile delivery depot in former Bloomfield Rite Aid - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEhKcWRvcVU3NElmdW11T052cm5GVU1Zb1JaTDRwYXNLa3VvNF9UTGNOY1hlZjYzbGRINmNWa3ptNmk2NHhFOHVOZ1d2enFlLTV3MHJQVjdTaEE2M0VZbnFsSUtEa3ZCLXhXc3ROa1d6d0JUd1RwTHVZRDBNdDBuZm5lNTBuNlRkUERtOVVFNEVheklRVHhkYzlWemt3bkl3ZjhLdEluaTJGQ3cw?oc=5\" target=\"_blank\">Sources: Walmart pursuing last-mile delivery depot in former Bloomfield Rite Aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
