@@ -81,5 +81,13 @@
         "status": "posted",
         "tweet": "Leading logistics firm operates 25000 km of rail lines in \ud83c\uddfa\ud83c\uddf8 US",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-27",
+        "status": "posted",
+        "tweet": "2026 projections show smart access in 51% of \ud83c\uddfa\ud83c\uddf8 US commercial buildings.\nResidential adoption stands at 19%.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
