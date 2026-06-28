@@ -89,5 +89,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US logistics firm moved 1.8 million tons of freight daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US e-commerce sees 23% of 2026 deliveries fail on first attempt, adding 1.8 billion wasted stops and $8.7 billion in extra costs. \n\ud83c\uddea\ud83c\uddfa Europe follows at 19%.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
