@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-18",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\udde6 Canada logistics firm runs 12000 kilometers of freight tracks handling 850000 tons daily.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-06-20",
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 China reached 250,000 smart offices in 2026\ntwice the 125,000 smart homes",
@@ -89,5 +82,12 @@
         "tweet": "2026 projections show smart access in 51% of \ud83c\uddfa\ud83c\uddf8 US commercial buildings.\nResidential adoption stands at 19%.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-06-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US logistics firm moved 1.8 million tons of freight daily.",
+        "type": "infrastructure"
     }
 ]
