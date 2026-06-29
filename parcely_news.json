@@ -78,5 +78,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-29",
+        "status": "posted",
+        "tweet": "DHL infrastructure: 22 million daily shipments processed through \ud83c\udde9\ud83c\uddea German hubs in 2026. $DHL.DE",
+        "type": "infrastructure"
     }
 ]
