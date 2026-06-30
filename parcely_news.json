@@ -120,5 +120,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-30",
+        "status": "posted",
+        "tweet": "In 2026 \ud83c\uddfa\ud83c\uddf8 New York lost 34% of porch packages to theft. \n\ud83c\uddfa\ud83c\uddf8 Philadelphia lost 21%.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
