@@ -128,5 +128,13 @@
         "tweet": "In 2026 \ud83c\uddfa\ud83c\uddf8 New York lost 34% of porch packages to theft. \n\ud83c\uddfa\ud83c\uddf8 Philadelphia lost 21%.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States smart homes grew from 41 million in 2023 to 62 million in 2026. Smart offices grew from 900,000 to 1.5 million.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
