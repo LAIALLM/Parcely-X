@@ -88,5 +88,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German hubs of EuroTrans Logistics moved 1.8 million tons of freight in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands logistics operator handled 920000 units daily at its main facilities.",
+        "type": "infrastructure"
     }
 ]
