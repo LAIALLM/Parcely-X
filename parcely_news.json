@@ -143,5 +143,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 London delivery vans rose 35% from 2024 to 2026.  \nThey now form 25% of road traffic, up from 18% two years earlier.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
