@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-24",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Large cities average 2.8 food deliveries per household weekly in 2026\nGrocery orders reach 1.1 per week",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
         "date": "2026-06-25",
         "status": "posted",
         "tweet": "A logistics company processed 920,000 tons of cargo each day through its \ud83c\uddf3\ud83c\uddf1 Netherlands terminals in 2025.",
@@ -95,5 +87,12 @@
         "tweet": "2026 projected package thefts per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 New York\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles\n3. \ud83c\uddfa\ud83c\uddf8 Chicago\n4. \ud83c\uddfa\ud83c\uddf8 Houston\n5. \ud83c\uddfa\ud83c\uddf8 Philadelphia",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-04",
+        "status": "posted",
+        "tweet": "Apex Logistics processed 4.2 million shipments per day across \ud83c\udde8\ud83c\udde6 Canada in 2025.",
+        "type": "infrastructure"
     }
 ]
