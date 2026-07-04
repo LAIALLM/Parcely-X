@@ -141,5 +141,15 @@
         "tweet": "\ud83c\uddec\ud83c\udde7 London delivery vans rose 35% from 2024 to 2026.  \nThey now form 25% of road traffic, up from 18% two years earlier.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wczI0UWJmak9IbE9kVGNXV1BocGdkTkFaMkpVTmtxRkFCUWUtb3AwN1VsUzFIVEJBaXBZNXZYcUZMYllsOHB5dzVxM25aMlA4WEljQUhEYm1mZHFTczVPcGV4aVBtaDRqQ2ZQTW1wS0FRZzRQRE92RXJoYk5Ddw?oc=5",
+        "date": "2026-07-04",
+        "title": "China sets a new record in express delivery - China Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5wczI0UWJmak9IbE9kVGNXV1BocGdkTkFaMkpVTmtxRkFCUWUtb3AwN1VsUzFIVEJBaXBZNXZYcUZMYllsOHB5dzVxM25aMlA4WEljQUhEYm1mZHFTczVPcGV4aVBtaDRqQ2ZQTW1wS0FRZzRQRE92RXJoYk5Ddw?oc=5\" target=\"_blank\">China sets a new record in express delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
