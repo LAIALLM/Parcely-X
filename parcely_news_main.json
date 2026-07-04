@@ -94,5 +94,13 @@
         "status": "posted",
         "tweet": "Apex Logistics processed 4.2 million shipments per day across \ud83c\udde8\ud83c\udde6 Canada in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York residents order food delivery 3.5 times per week in 2026.\n\ud83c\udde8\ud83c\uddf3 Beijing residents order 5.2 times per week.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
