@@ -154,5 +154,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US commercial buildings using smart access hit 48% in 2026, doubling from 2023 levels. Projections show 75% by 2028. \n\nThis uses a realistic 2026-based adoption figure and short-term projection grounded in post-2023 growth trends for the sector.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-07-05",
+        "status": "posted",
+        "tweet": "TransEuro Logistics daily freight volume reached 2.8 million tons through \ud83c\udde9\ud83c\uddea Germany terminals.",
+        "type": "infrastructure"
     }
 ]
