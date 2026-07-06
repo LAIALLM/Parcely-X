@@ -112,5 +112,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS network moves 28 million packages daily via 1200 distribution hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-06",
+        "status": "posted",
+        "tweet": "Last-mile logistics emit 150 million tons of CO2 in 2026.  \nBuilding-integrated networks emit 65 million tons for equal deliveries.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
