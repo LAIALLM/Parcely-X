@@ -171,5 +171,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-06",
+        "status": "posted",
+        "tweet": "E-commerce deliveries worldwide created 90 million tons of packaging waste in 2026.\n\nThis equals twice the plastic waste from all \ud83c\uddfa\ud83c\uddf8 US households that year.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
