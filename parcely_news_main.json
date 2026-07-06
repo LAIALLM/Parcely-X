@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-26",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics provider moves 4 million tons of cargo daily.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-06-26",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US last-mile deliveries set to produce 32 million tons of CO2 in 2026.\nBuilding-integrated networks limit output to 11 million tons.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-06-27",
         "status": "posted",
         "tweet": "Leading logistics firm operates 25000 km of rail lines in \ud83c\uddfa\ud83c\uddf8 US",
@@ -119,6 +104,13 @@
         "date": "2026-07-05",
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Dutch logistics firm ran 1.8 million containers through its automated terminals in 2025.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS network moves 28 million packages daily via 1200 distribution hubs.",
         "type": "infrastructure"
     }
 ]
