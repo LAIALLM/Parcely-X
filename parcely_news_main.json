@@ -105,5 +105,12 @@
         "tweet": "Last-mile logistics emit 150 million tons of CO2 in 2026.  \nBuilding-integrated networks emit 65 million tons for equal deliveries.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-07-07",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\udded Switzerland logistics firm maintains 12000 km of rail infrastructure. \n\nDaily freight volume reached 1.4 million tons in 2025.",
+        "type": "infrastructure"
     }
 ]
