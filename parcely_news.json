@@ -174,5 +174,35 @@
         "tweet": "In \ud83c\uddfa\ud83c\uddf8 New York delivery vans now add 25 percent more vehicles to dense streets in 2026 as online orders keep climbing.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWQxc0h4emg1emFHOThaRWp2R3RWRlZRSmZMZ0tCRzlNRXpJS3U1YjlVcUVyNmRHNEltZmhrdTBvVEk4Q3luc3I2c2pWb1JSTzVuVG5IMldtdXlaaVgtdUR1emZoQm82VHZUYThnckFQTHJ6S21HbFJkTnBQckdBZ0FxWXZOS0dsX3U0ZHNuRjBUVUlRZjZaRC1n?oc=5",
+        "date": "2026-07-08",
+        "title": "Foxpost and Packeta Create the Country\u2019s Largest Parcel Locker Network - Hungary Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWQxc0h4emg1emFHOThaRWp2R3RWRlZRSmZMZ0tCRzlNRXpJS3U1YjlVcUVyNmRHNEltZmhrdTBvVEk4Q3luc3I2c2pWb1JSTzVuVG5IMldtdXlaaVgtdUR1emZoQm82VHZUYThnckFQTHJ6S21HbFJkTnBQckdBZ0FxWXZOS0dsX3U0ZHNuRjBUVUlRZjZaRC1n?oc=5\" target=\"_blank\">Foxpost and Packeta Create the Country\u2019s Largest Parcel Locker Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hungary Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/162331/news/e-commerce/quadient-helping-consumers-collect-and-return-parcels-as-part-of-their-normal-routines/",
+        "date": "2026-07-08",
+        "title": "Quadient \u201chelping consumers collect and return parcels as part of their normal routines\u201d",
+        "summary": "Quadient is expanding its partnership with Morrisons, to grow its locker network bringing accessible parcel collection and returns services to hundreds of supermarkets across the UK.",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/the-data-center-crackdown-is-a-logistics-story-mostly-unnoticed/",
+        "date": "2026-07-08",
+        "title": "The \u2018data center crackdown\u2019 is a logistics story \u2013 mostly unnoticed",
+        "summary": "<p>Key takeaway: Moratoriums, lawsuits, and a federal standoff over xAI&#8217;s turbines are colliding with the single biggest driver of air cargo demand growth out of Asia. For forwarders, warehouse operators, and carriers, the consequences are becoming impossible to ignore.<br />\nThe AI data center build-out has been treated by most logistics executives as a demand tailwind, a happy byproduct of Big Tech&#8217;s trillion-dollar arms race.<br />\nMore GPU servers, more high-value freight out of ...</p>\n<p>The post <a href=\"https://theloadstar.com/the-data-center-crackdown-is-a-logistics-story-mostly-unnoticed/\">The &#8216;data center crackdown&#8217; is a logistics story \u2013 mostly unnoticed</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
