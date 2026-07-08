@@ -112,5 +112,13 @@
         "status": "posted",
         "tweet": "DP World terminal in \ud83c\udde6\ud83c\uddea Dubai processed 15.8 million containers in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-08",
+        "status": "posted",
+        "tweet": "2026 parcel locker leaders\n1. \ud83c\udde8\ud83c\uddf3 Shanghai 95k\n2. \ud83c\udde8\ud83c\uddf3 Beijing 82k\n3. \ud83c\udde9\ud83c\uddea Berlin 51k\n4. \ud83c\uddef\ud83c\uddf5 Tokyo 47k\n5. \ud83c\uddf0\ud83c\uddf7 Seoul 31k",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
