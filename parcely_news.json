@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-30",
-        "status": "posted",
-        "tweet": "Union Pacific rail network spans 32,000 miles in \ud83c\uddfa\ud83c\uddf8 United States. \n$UNP",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNTVlbFlRTmhLbXBTRm1hUjhNbEpFRzg0Y2x1N1JMdWF6WUhEM1R4UldLNUh3SlQySUlQM2ZuMkg0TVRseXNSdXZCUzRwMno4ZEExVURGRjZrRnliUGxOUEcwcGdjM191QW0xZjJON2o2UUNBQUpqWGFmWmlvRmJQcFdhMzlkZmVYWDNoQklkekdaelhnek1CVmJtNndFcVNidWF1R1pqMXNzZ19td2RITFIteFZkaFdLOC0zNUtTc0RjaThJQ1U3d0RRU0htM1VVeDdFb1dGUkdmREREQmJn?oc=5",
-        "date": "2026-06-30",
-        "title": "AI dominates Shoptalk Europe conversations: the biggest retail technology stories from June - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNTVlbFlRTmhLbXBTRm1hUjhNbEpFRzg0Y2x1N1JMdWF6WUhEM1R4UldLNUh3SlQySUlQM2ZuMkg0TVRseXNSdXZCUzRwMno4ZEExVURGRjZrRnliUGxOUEcwcGdjM191QW0xZjJON2o2UUNBQUpqWGFmWmlvRmJQcFdhMzlkZmVYWDNoQklkekdaelhnek1CVmJtNndFcVNidWF1R1pqMXNzZ19td2RITFIteFZkaFdLOC0zNUtTc0RjaThJQ1U3d0RRU0htM1VVeDdFb1dGUkdmREREQmJn?oc=5\" target=\"_blank\">AI dominates Shoptalk Europe conversations: the biggest retail technology stories from June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/maersk-boosts-2026-guidance/",
-        "date": "2026-06-30",
-        "title": "M\u00e6rsk boosts 2026 guidance",
-        "summary": "<p>PRESS RELEASE<br />\nMaersk upgrades guidance for full year 2026</p>\n<p>Copenhagen, Denmark<br />\nContinued strong demand in the container market, particularly in the Far East, and a recent sustained increase in spot market rates means that A.P. M\u00f8ller \u2013 M\u00e6rsk A/S (Maersk) upgrades its guidance for full year 2026. For the full year, Maersk now expects:<br />\n\u2013 Underlying EBITDA of USD 8-10bn (previously USD 4.5-7.0bn)<br />\n\u2013 Underlying EBIT of USD 2-4bn (previously USD -1.5-1.0bn)<br />\n\u2013 Free cash flow ...</p>\n<p>The post <a href=\"https://theloadstar.com/maersk-boosts-2026-guidance/\">M\u00e6rsk boosts 2026 guidance</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-06-30",
-        "status": "posted",
-        "tweet": "In 2026 \ud83c\uddfa\ud83c\uddf8 New York lost 34% of porch packages to theft. \n\ud83c\uddfa\ud83c\uddf8 Philadelphia lost 21%.",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": null,
         "date": "2026-07-01",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States smart homes grew from 41 million in 2023 to 62 million in 2026. Smart offices grew from 900,000 to 1.5 million.",
@@ -212,5 +177,13 @@
         "tweet": "2026 last-mile CO2 vs building networks by city\n\n1. \ud83c\uddef\ud83c\uddf5 Tokyo\n2. \ud83c\uddf8\ud83c\uddec Singapore\n3. \ud83c\uddf0\ud83c\uddf7 Seoul\n4. \ud83c\uddf3\ud83c\uddf1 Amsterdam\n5. \ud83c\udde9\ud83c\uddf0 Copenhagen",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-07-10",
+        "status": "posted",
+        "tweet": "In \ud83c\uddfa\ud83c\uddf8 New York the typical household now orders food or groceries online 3 times each week.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
