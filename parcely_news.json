@@ -185,5 +185,12 @@
         "tweet": "In \ud83c\uddfa\ud83c\uddf8 New York the typical household now orders food or groceries online 3 times each week.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-10",
+        "status": "posted",
+        "tweet": "TransEuro Logistics\n\ud83c\udde9\ud83c\uddea Duisburg hub processed 2.7 million TEUs in 2025",
+        "type": "infrastructure"
     }
 ]
