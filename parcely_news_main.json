@@ -132,5 +132,13 @@
         "status": "posted",
         "tweet": "GlobalFreight moved 4.5 million tons of cargo daily through its \ud83c\uddf8\ud83c\uddec Singapore terminals in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US smart homes reach 82 million units in 2026. \nSmart offices worldwide total 1.2 million.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
