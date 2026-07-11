@@ -140,5 +140,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US logistics firm moves 920000 tons of freight daily through its rail network.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 big cities average 3 online grocery or meal orders per household each week in 2026.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
