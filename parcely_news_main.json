@@ -133,5 +133,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US smart homes reach 82 million units in 2026. \nSmart offices worldwide total 1.2 million.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-07-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US logistics firm moves 920000 tons of freight daily through its rail network.",
+        "type": "infrastructure"
     }
 ]
