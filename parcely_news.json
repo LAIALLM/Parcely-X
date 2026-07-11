@@ -174,5 +174,13 @@
         "status": "posted",
         "tweet": "TransEuro Logistics\n\ud83c\udde9\ud83c\uddea Duisburg hub processed 2.7 million TEUs in 2025",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 city van deliveries release 32 million tons CO2 yearly.\n\nBuilding networks cut emissions to 11 million tons by 2026.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
