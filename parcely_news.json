@@ -189,5 +189,15 @@
         "status": "posted",
         "tweet": "FedEx $FDX processed 22.5 million packages daily across \ud83c\uddfa\ud83c\uddf8 United States hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FWGY3ZEt4MEFsZ3RpeVlPaWNDQXNzMmhjZ0tTVks4S2o5MzJ6UlIxTDJza09JNEpSUGZRUlNhS05IYXZqS21YVC02LUNlaUpMMDF4WUJxVk9tS1ZMZGx1LUc0dG1oMTVSX1A3MDZqNFVsWERIazJjM3p6eTRFdw?oc=5",
+        "date": "2026-07-11",
+        "title": "FedEx and UPS face a new pricing threat from an old rival - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1FWGY3ZEt4MEFsZ3RpeVlPaWNDQXNzMmhjZ0tTVks4S2o5MzJ6UlIxTDJza09JNEpSUGZRUlNhS05IYXZqS21YVC02LUNlaUpMMDF4WUJxVk9tS1ZMZGx1LUc0dG1oMTVSX1A3MDZqNFVsWERIazJjM3p6eTRFdw?oc=5\" target=\"_blank\">FedEx and UPS face a new pricing threat from an old rival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
