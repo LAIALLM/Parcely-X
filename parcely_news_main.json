@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-07-02",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands logistics operator handled 920000 units daily at its main facilities.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-07-02",
-        "status": "posted",
-        "tweet": "2026 projected package thefts per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 New York\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles\n3. \ud83c\uddfa\ud83c\uddf8 Chicago\n4. \ud83c\uddfa\ud83c\uddf8 Houston\n5. \ud83c\uddfa\ud83c\uddf8 Philadelphia",
-        "type": "statistical",
-        "category": "package theft and porch piracy in major cities"
-    },
-    {
-        "link": null,
         "date": "2026-07-04",
         "status": "posted",
         "tweet": "Apex Logistics processed 4.2 million shipments per day across \ud83c\udde8\ud83c\udde6 Canada in 2025.",
