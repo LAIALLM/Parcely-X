@@ -192,5 +192,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-12",
+        "status": "posted",
+        "tweet": "FedEx infrastructure processed 22 million packages daily in 2025.",
+        "type": "infrastructure"
     }
 ]
