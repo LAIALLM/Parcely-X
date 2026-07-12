@@ -133,5 +133,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 big cities average 3 online grocery or meal orders per household each week in 2026.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-12",
+        "status": "posted",
+        "tweet": "By 2026 global parcel locker networks handle 9 billion deliveries a year. \n\ud83c\udde8\ud83c\uddf3 China and \ud83c\uddfa\ud83c\uddf8 US account for 55 percent of volume.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
