@@ -148,5 +148,13 @@
         "status": "posted",
         "tweet": "A logistics company operates 50 million square meters of warehouse space in \ud83c\udde7\ud83c\uddf7 Brazil. \n\n26",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-13",
+        "status": "posted",
+        "tweet": "By 2026 delivery vans are projected to make up 28 percent of all traffic in dense \ud83c\uddfa\ud83c\uddf8 cities.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
