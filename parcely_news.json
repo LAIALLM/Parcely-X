@@ -209,5 +209,13 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Amsterdam e-bikes and scooters set to do 55% of deliveries by 2026. \n\ud83c\uddfa\ud83c\uddf8 New York electric vans reach 35% fleet share.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York logged 250000 porch thefts in 2025.  \nProjections show 325000 cases by 2027.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
