@@ -131,5 +131,13 @@
         "tweet": "By 2026 delivery vans are projected to make up 28 percent of all traffic in dense \ud83c\uddfa\ud83c\uddf8 cities.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States smart office buildings grew 85 percent from 2024 to 2026\nResidential growth reached 52 percent",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
