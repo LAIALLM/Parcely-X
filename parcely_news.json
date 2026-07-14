@@ -199,5 +199,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German logistics operator handles 3.2 million tons of freight daily across its rail infrastructure.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-14",
+        "status": "posted",
+        "tweet": "E-commerce deliveries worldwide create 25 million tons of packaging waste in 2026, up from 12 million tons in 2023.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
