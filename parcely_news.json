@@ -190,5 +190,15 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York delivery vans reached 25% of traffic by 2026. \n\ud83c\uddec\ud83c\udde7 London hit 20%.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHoybjl3TklEQlJ4RlNjU0xLOGJYSHpiWFMyVEgtdFRPRW5fczBlMkJlT0VpNkdfLUktZDhmalNLMkt0Mlg3UXBTc3lnU2s1aUZod2hmcEI0cWhycm80eXFRX1dTQlJaWGFGeUFhYjdlNERWNTVwQjE0d056M3dYQzlVNGRqazN3MXZfd3RZUTFpQVdMRGR1RHlBRzQ?oc=5",
+        "date": "2026-07-15",
+        "title": "Sendo Shuts Down Online Grocery Platform; Exits E-Commerce - Fintech Singapore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHoybjl3TklEQlJ4RlNjU0xLOGJYSHpiWFMyVEgtdFRPRW5fczBlMkJlT0VpNkdfLUktZDhmalNLMkt0Mlg3UXBTc3lnU2s1aUZod2hmcEI0cWhycm80eXFRX1dTQlJaWGFGeUFhYjdlNERWNTVwQjE0d056M3dYQzlVNGRqazN3MXZfd3RZUTFpQVdMRGR1RHlBRzQ?oc=5\" target=\"_blank\">Sendo Shuts Down Online Grocery Platform; Exits E-Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fintech Singapore</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
