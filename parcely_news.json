@@ -182,5 +182,13 @@
         "tweet": "E-commerce deliveries worldwide create 25 million tons of packaging waste in 2026, up from 12 million tons in 2023.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-07-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York delivery vans reached 25% of traffic by 2026. \n\ud83c\uddec\ud83c\udde7 London hit 20%.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
