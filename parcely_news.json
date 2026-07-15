@@ -200,5 +200,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDFBb1Vod1RiM3phSTdNZk5VQTNEX21KZWpTQ0pBRzFSR1I0dWJVWTh6SDdDSER6VE5vd3FDVFRnUGdHbTF1b1JQbHIxV1FZcFBOaEx3QUJmZERFcmEtZ2NkbWczUGRYdFY1MW1fcnM2UC14SWZrZDB4QXhrdjlLYTNWWllyX3ZHcUJmb0RMaWpmQUktUE9YWTlZaG9ENWpEY3VSbnNR?oc=5",
+        "date": "2026-07-15",
+        "title": "Delivery company DoorDash wants to roll out robots on New Mexico roads - Source New Mexico",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDFBb1Vod1RiM3phSTdNZk5VQTNEX21KZWpTQ0pBRzFSR1I0dWJVWTh6SDdDSER6VE5vd3FDVFRnUGdHbTF1b1JQbHIxV1FZcFBOaEx3QUJmZERFcmEtZ2NkbWczUGRYdFY1MW1fcnM2UC14SWZrZDB4QXhrdjlLYTNWWllyX3ZHcUJmb0RMaWpmQUktUE9YWTlZaG9ENWpEY3VSbnNR?oc=5\" target=\"_blank\">Delivery company DoorDash wants to roll out robots on New Mexico roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Source New Mexico</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
