@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-07-06",
-        "status": "posted",
-        "tweet": "E-commerce deliveries worldwide created 90 million tons of packaging waste in 2026.\n\nThis equals twice the plastic waste from all \ud83c\uddfa\ud83c\uddf8 US households that year.",
-        "type": "statistical",
-        "category": "packaging waste from e-commerce deliveries worldwide"
-    },
-    {
-        "link": null,
         "date": "2026-07-07",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 BNSF Railway moved 550 million tons of freight in 2025.",
@@ -208,6 +200,16 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDFBb1Vod1RiM3phSTdNZk5VQTNEX21KZWpTQ0pBRzFSR1I0dWJVWTh6SDdDSER6VE5vd3FDVFRnUGdHbTF1b1JQbHIxV1FZcFBOaEx3QUJmZERFcmEtZ2NkbWczUGRYdFY1MW1fcnM2UC14SWZrZDB4QXhrdjlLYTNWWllyX3ZHcUJmb0RMaWpmQUktUE9YWTlZaG9ENWpEY3VSbnNR?oc=5\" target=\"_blank\">Delivery company DoorDash wants to roll out robots on New Mexico roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Source New Mexico</font>",
         "similarity_excluded": "No",
         "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnN6ZTV2WnZock5oOXJVMm9sVjB2eEUtSFZVWFNRWmhDTjlwUzdHNjQ4OUI1SU9RN2hxa29HVkZkNVpValpLTUtwbzBWQnhXVGtSMjR1S01VWlNNN0Fpd19IZEJPZnF0S2xzWjY1TkF3UlJTbmtycnZyWHhPVVJqQVhEcXF4R2NIbWZBM1hPMHVsamh4OWZXSzlBUjhjbzhZRnc?oc=5",
+        "date": "2026-07-16",
+        "title": "Is China\u2019s express delivery price war over? The answer will lie in profits - thebambooworks.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnN6ZTV2WnZock5oOXJVMm9sVjB2eEUtSFZVWFNRWmhDTjlwUzdHNjQ4OUI1SU9RN2hxa29HVkZkNVpValpLTUtwbzBWQnhXVGtSMjR1S01VWlNNN0Fpd19IZEJPZnF0S2xzWjY1TkF3UlJTbmtycnZyWHhPVVJqQVhEcXF4R2NIbWZBM1hPMHVsamh4OWZXSzlBUjhjbzhZRnc?oc=5\" target=\"_blank\">Is China\u2019s express delivery price war over? The answer will lie in profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thebambooworks.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
         "status": "processed",
         "tweet": null
     }
