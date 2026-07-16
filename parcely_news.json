@@ -270,5 +270,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-16",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Germany logistics firm LogiCore moves 980000 tons of freight daily via 320 automated hubs.",
+        "type": "infrastructure"
     }
 ]
