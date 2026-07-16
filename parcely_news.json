@@ -212,5 +212,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-16",
+        "status": "posted",
+        "tweet": "Global e-commerce deliveries generated 16 million tons of packaging waste in 2026. Projections show this rising 40 percent by 2030. \n(98 characters)",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
