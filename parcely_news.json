@@ -262,5 +262,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea Germany logistics firm LogiCore moves 980000 tons of freight daily via 320 automated hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York delivery vans now cause 21 percent of all urban traffic in 2026 as package volumes keep climbing.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
