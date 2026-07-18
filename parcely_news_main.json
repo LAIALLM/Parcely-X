@@ -1,30 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-07-08",
-        "status": "posted",
-        "tweet": "DP World terminal in \ud83c\udde6\ud83c\uddea Dubai processed 15.8 million containers in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-07-08",
-        "status": "posted",
-        "tweet": "2026 parcel locker leaders\n1. \ud83c\udde8\ud83c\uddf3 Shanghai 95k\n2. \ud83c\udde8\ud83c\uddf3 Beijing 82k\n3. \ud83c\udde9\ud83c\uddea Berlin 51k\n4. \ud83c\uddef\ud83c\uddf5 Tokyo 47k\n5. \ud83c\uddf0\ud83c\uddf7 Seoul 31k",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": "https://theloadstar.com/visibility-is-no-longer-the-finish-line-why-dock-and-yard-execution-now-depends-on-integration/",
-        "date": "2026-07-08",
-        "title": "Visibility is no longer the finish line: why dock and yard execution now depends on integration",
-        "summary": "<p>Supply chain operators have spent years investing in better visibility. For many, the result is a clearer view of inbound loads, outbound shipments, yard activity and carrier performance.<br />\nBut at the dock and yard, seeing the problem is not the same as solving it. A late truck still has to be worked around. A trailer in the wrong position still needs to be moved. A slipping appointment still affects labour, door ...</p>\n<p>The post <a href=\"https://theloadstar.com/visibility-is-no-longer-the-finish-line-why-dock-and-yard-execution-now-depends-on-integration/\">Visibility is no longer the finish line: why dock and yard execution now depends on integration</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHdXeFBZMDJRZWVNZzBYS1hsR1NSajI2UHFQQ0NPZmIxVkVINWJpNWRyMUZVTFhhNEVLaS14OXpEM0Q5WWVIalRpa0NZU1NuTkV0UENMbFZGMW9QZGxfbGdNYmhGTDE2S1M2ckxCVk01STVjV1RDSFp2WHF5VDBOQ0dyT1Mwb180T3loTnBReXZLZlN0QXB0Q1RzLXB3c1RtbkxQMklpRQ?oc=5",
         "date": "2026-07-09",
         "title": "Walmart makes the case for a Bloomfield e-commerce depot against neighborhood opposition - The Business Journals",
@@ -133,6 +108,13 @@
         "date": "2026-07-17",
         "status": "posted",
         "tweet": "Logistics firm moves 1.8 million tons of freight daily on \ud83c\uddfa\ud83c\uddf8 United States rail lines.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-18",
+        "status": "posted",
+        "tweet": "A logistics company moves 3 million shipments daily via \ud83c\udde9\ud83c\uddea Germany hubs.",
         "type": "infrastructure"
     }
 ]
