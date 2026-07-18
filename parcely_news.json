@@ -232,5 +232,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS moved 21.7 million packages daily through its network in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS logistics network\n24.7 million packages delivered daily",
+        "type": "infrastructure"
     }
 ]
