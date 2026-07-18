@@ -116,5 +116,13 @@
         "status": "posted",
         "tweet": "A logistics company moves 3 million shipments daily via \ud83c\udde9\ud83c\uddea Germany hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-18",
+        "status": "posted",
+        "tweet": "Highest 2026 failed first-attempt deliveries\n\n1. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo\n2. \ud83c\uddee\ud83c\uddf3 Mumbai\n3. \ud83c\uddf2\ud83c\uddfd Mexico City\n4. \ud83c\uddfa\ud83c\uddf8 New York\n5. \ud83c\udde8\ud83c\uddf3 Shanghai",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
