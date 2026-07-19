@@ -256,5 +256,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx 2026 infrastructure includes 850 cargo aircraft $FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9wdkNwVW5qMWxMc0Q4ekd0NG96c2cycGxVWFBxOGNqb2RrR3lYTUdrVDBJdGNvUFZ4QlZrM2MwZVA0WUwwbjkwaWFWQkV6R1czdGFkekItd0xicWJVejRFVEd4UlNjVEY2eHZ5TV9WSzk4R0pHbVJQUmhOSjd2TGhqUmJyRHZHOWM4cG9raGFKUEozYXRCUmo2bWhSc3FWcFUwM2ZtSUh5c3M2Ymp0OE1KMHZyZThPcF9xWWV6Zw?oc=5",
+        "date": "2026-07-19",
+        "title": "Amazon Holds B2B Conference as It Leans on Sellers to Appeal to Business Buyers - EcommerceBytes",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9wdkNwVW5qMWxMc0Q4ekd0NG96c2cycGxVWFBxOGNqb2RrR3lYTUdrVDBJdGNvUFZ4QlZrM2MwZVA0WUwwbjkwaWFWQkV6R1czdGFkekItd0xicWJVejRFVEd4UlNjVEY2eHZ5TV9WSzk4R0pHbVJQUmhOSjd2TGhqUmJyRHZHOWM4cG9raGFKUEozYXRCUmo2bWhSc3FWcFUwM2ZtSUh5c3M2Ymp0OE1KMHZyZThPcF9xWWV6Zw?oc=5\" target=\"_blank\">Amazon Holds B2B Conference as It Leans on Sellers to Appeal to Business Buyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EcommerceBytes</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
