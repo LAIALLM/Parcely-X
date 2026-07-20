@@ -251,5 +251,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUNtaXdvOTVsb3E3ek52T0lIdGszem53R3ItdWpyOWhRZzhmUlhYclFfWlJ0aEYzYXdSdEI1NXM2M09RX0hPcjNMejlxN3VicWxtZDVYLUV6WTVwTml1MUUwcGV4My1Vc0x2NmtNTjJHbm9PeS16b3hsNnhRcDk4dVVxbjhrVWd5M1UtUXc3S0drZks5YTB2UXRaQm1WMnNuRllLS0Rwcnh1Zm1fTVBxTWNaWFB5WFVWUUdiRWpqdkFjeklleXRR?oc=5",
+        "date": "2026-07-20",
+        "title": "U.S. Big and Bulky Last-Mile Delivery Adjusts to Softer Demand at $10.63 Billion in 2025 - EIN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUNtaXdvOTVsb3E3ek52T0lIdGszem53R3ItdWpyOWhRZzhmUlhYclFfWlJ0aEYzYXdSdEI1NXM2M09RX0hPcjNMejlxN3VicWxtZDVYLUV6WTVwTml1MUUwcGV4My1Vc0x2NmtNTjJHbm9PeS16b3hsNnhRcDk4dVVxbjhrVWd5M1UtUXc3S0drZks5YTB2UXRaQm1WMnNuRllLS0Rwcnh1Zm1fTVBxTWNaWFB5WFVWUUdiRWpqdkFjeklleXRR?oc=5\" target=\"_blank\">U.S. Big and Bulky Last-Mile Delivery Adjusts to Softer Demand at $10.63 Billion in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
