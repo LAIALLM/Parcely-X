@@ -117,5 +117,12 @@
         "tweet": "2026 porch piracy rates per 100 packages\n1. \ud83c\uddfa\ud83c\uddf8 Chicago 18\n2. \ud83c\uddfa\ud83c\uddf8 Philadelphia 16\n3. \ud83c\uddfa\ud83c\uddf8 New York 15\n4. \ud83c\uddfa\ud83c\uddf8 Los Angeles 14\n5. \ud83c\uddfa\ud83c\uddf8 Miami 13",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-20",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Germany\nDHL infrastructure handles 3.5 million shipments per day",
+        "type": "infrastructure"
     }
 ]
