@@ -127,5 +127,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US e-commerce projects 22% failed first deliveries in 2026\n\ud83c\udde8\ud83c\uddf3 China holds at 9%",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-07-21",
+        "status": "posted",
+        "tweet": "2026 data shows one in four packages stolen from porches across \ud83c\uddfa\ud83c\uddf8 major cities.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
