@@ -259,5 +259,12 @@
         "tweet": "E-commerce packaging waste hits 40 million tons worldwide in 2026.\n\nThis doubles the total recorded in 2024.",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-07-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nFedEx infrastructure processes 19 million packages daily across 120 hubs. $FDX",
+        "type": "infrastructure"
     }
 ]
