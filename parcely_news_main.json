@@ -149,5 +149,15 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German logistics operator runs 12400 km of dedicated freight rail. \nThis handles 2.1 million tons daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/dp-world-signs-50-year-concession-to-develop-new-uae-terminal-outside-hormuz/",
+        "date": "2026-07-22",
+        "title": "DP World signs 50-year concession to develop new UAE terminal outside Hormuz",
+        "summary": "<p>DP World confirmed today that it had reached an agreement with Fujairah Ports Authority to build two new terminals on the UAE\u2019s east coast \u2013 and outside of the Hormuz Strait \u2013 under a 50-year concession.<br />\nThe two facilities will be the Al Rugaylat container and multi-purpose terminal, and the Dibba General Cargo terminal, and in combination will increase DP World&#8217;s total container handling capacity in the UAE from 19.4m teu ...</p>\n<p>The post <a href=\"https://theloadstar.com/dp-world-signs-50-year-concession-to-develop-new-uae-terminal-outside-hormuz/\">DP World signs 50-year concession to develop new UAE terminal outside Hormuz</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
