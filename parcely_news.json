@@ -231,5 +231,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nFedEx infrastructure processes 19 million packages daily across 120 hubs. $FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR293Vk51bS1LZ1dRT2xLbzJiV0Q5V0d5Ny12VDBHTUFHUkFFb0RkU0xackg0MnVPY3pPT25aR0lmSEltTUo3dkJQUUltVUpxcEVWdGc1T0NSZnZGT0pRLTV0ZXNoX0xPS0hvOS1WWm43ZW5OcW83TjhnRElteUE1V3RtZkQxZlpublFKMVhzaDM3ZGN5cFV3bkZlT0Y?oc=5",
+        "date": "2026-07-22",
+        "title": "Tractor Supply taps Instacart for same-day delivery - Supply Chain Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNR293Vk51bS1LZ1dRT2xLbzJiV0Q5V0d5Ny12VDBHTUFHUkFFb0RkU0xackg0MnVPY3pPT25aR0lmSEltTUo3dkJQUUltVUpxcEVWdGc1T0NSZnZGT0pRLTV0ZXNoX0xPS0hvOS1WWm43ZW5OcW83TjhnRElteUE1V3RtZkQxZlpublFKMVhzaDM3ZGN5cFV3bkZlT0Y?oc=5\" target=\"_blank\">Tractor Supply taps Instacart for same-day delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
