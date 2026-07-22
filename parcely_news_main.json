@@ -142,5 +142,12 @@
         "tweet": "Residents in large \ud83c\uddfa\ud83c\uddf8 cities order food or groceries online 2.4 times per week on average in 2026.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-22",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea German logistics operator runs 12400 km of dedicated freight rail. \nThis handles 2.1 million tons daily.",
+        "type": "infrastructure"
     }
 ]
