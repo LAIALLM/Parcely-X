@@ -248,5 +248,13 @@
         "status": "posted",
         "tweet": "UPS infrastructure handled 26.4 million daily shipments through \ud83c\uddfa\ud83c\uddf8 United States hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York delivery vans reached 28 percent of downtown traffic in 2026, cutting average speeds by 18 percent since 2024.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
