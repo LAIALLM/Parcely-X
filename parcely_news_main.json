@@ -161,5 +161,13 @@
         "status": "posted",
         "tweet": "Logistics operator handles 920000 packages daily at its \ud83c\uddfa\ud83c\uddf8 Chicago hub.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-23",
+        "status": "posted",
+        "tweet": "2026 projections show 1 in 4 packages stolen in \ud83c\uddfa\ud83c\uddf8 New York compared to 1 in 12 in \ud83c\uddec\ud83c\udde7 London.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
