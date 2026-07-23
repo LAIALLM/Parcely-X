@@ -245,5 +245,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nTransGlobal Logistics moved 4.2 million tons of freight daily via its rail infrastructure in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-23",
+        "status": "posted",
+        "tweet": "By 2026, parcel lockers and pickup points will handle 9 billion packages worldwide each year.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
