@@ -312,5 +312,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS infrastructure handled 26 million packages daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFVXc1c4RkZ0Vk1OdER1by1IcVVZY2IxWTBGamFSaTFUTHVPd0R1NC0wazZSek9QZUxVb01ENkx5TERUMmRnQVVPQTYzaEdSTkRSLWF5NVRLdUtWd0dMekNFVjVaZGFnN1pNQUxSZkNyeDB1cUk3YktwMk80X0hFanB1T1p6eDRNdmd2S2N1OUNWN3hJRWwxZU1VYTFoZWhEUlE?oc=5",
+        "date": "2026-07-25",
+        "title": "Flipkart to deliver food as e-Commerce giant joins delivery war - Indian Television Dot Com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFVXc1c4RkZ0Vk1OdER1by1IcVVZY2IxWTBGamFSaTFUTHVPd0R1NC0wazZSek9QZUxVb01ENkx5TERUMmRnQVVPQTYzaEdSTkRSLWF5NVRLdUtWd0dMekNFVjVaZGFnN1pNQUxSZkNyeDB1cUk3YktwMk80X0hFanB1T1p6eDRNdmd2S2N1OUNWN3hJRWwxZU1VYTFoZWhEUlE?oc=5\" target=\"_blank\">Flipkart to deliver food as e-Commerce giant joins delivery war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Television Dot Com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
