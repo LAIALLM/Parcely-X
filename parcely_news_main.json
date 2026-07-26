@@ -169,5 +169,13 @@
         "tweet": "2026 projected porch piracy per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 Chicago, USA\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles, USA\n3. \ud83c\uddfa\ud83c\uddf8 New York, USA\n4. \ud83c\uddfa\ud83c\uddf8 Houston, USA\n5. \ud83c\uddfa\ud83c\uddf8 Philadelphia, USA",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-26",
+        "status": "posted",
+        "tweet": "Projected 2026 e-commerce packaging waste\n\n1. \ud83c\udde8\ud83c\uddf3 China 18M tons\n2. \ud83c\uddfa\ud83c\uddf8 United States 9M tons\n3. \ud83c\uddee\ud83c\uddf3 India 6M tons\n4. \ud83c\uddef\ud83c\uddf5 Japan 4M tons\n5. \ud83c\udde9\ud83c\uddea Germany 3M tons",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
