@@ -177,5 +177,12 @@
         "tweet": "Last-mile logistics in \ud83c\uddfa\ud83c\uddf8 US emit 105 million tons of CO2 by 2026. Building-integrated networks emit 29 million tons.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-07-27",
+        "status": "posted",
+        "tweet": "Logistics company clears 45000 containers daily at \ud83c\uddf3\ud83c\uddf1 Rotterdam terminal.",
+        "type": "infrastructure"
     }
 ]
