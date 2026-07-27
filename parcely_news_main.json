@@ -169,5 +169,13 @@
         "status": "posted",
         "tweet": "Logistics firm moved 4.2 million tons of freight daily via its terminals in \ud83c\uddfa\ud83c\uddf8 US during 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-27",
+        "status": "posted",
+        "tweet": "Last-mile logistics in \ud83c\uddfa\ud83c\uddf8 US emit 105 million tons of CO2 by 2026. Building-integrated networks emit 29 million tons.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
