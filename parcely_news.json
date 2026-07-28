@@ -315,5 +315,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx operates 750 cargo aircraft completing 14,000 flights daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-28",
+        "status": "posted",
+        "tweet": "In \ud83c\uddfa\ud83c\uddf8 cities, package theft hit 35% of deliveries in 2026, with $4 billion in losses projected for 2027.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
