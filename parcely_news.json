@@ -321,5 +321,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS facilities processed 25 million packages daily in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://postandparcel.info/162486/news/e-commerce/dhl-and-vinted-are-now-significantly-expanding-their-cooperation/",
+        "date": "2026-07-29",
+        "title": "DHL and Vinted are now significantly expanding their cooperation",
+        "summary": "According to the latest DHL E-Commerce Trends Report, 67 percent of online shoppers in Germany have already sold items via an online marketplace. As a result, Germany is one of Europe's most active markets for trade between private individuals.",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
