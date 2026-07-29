@@ -314,5 +314,12 @@
         "tweet": "In 2026 porch theft hit 27 percent of deliveries in \ud83c\uddfa\ud83c\uddf8 New York compared to 15 percent in \ud83c\uddec\ud83c\udde7 London.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-07-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS facilities processed 25 million packages daily in 2025.",
+        "type": "infrastructure"
     }
 ]
