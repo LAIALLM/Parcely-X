@@ -1,32 +1,5 @@
 [
     {
-        "link": "https://theloadstar.com/explainer-podcast-el-nino-and-its-impact-on-shipping/",
-        "date": "2026-07-19",
-        "title": "The Loadstar Explainer Podcast: El Ni\u00f1o and its impact on shipping",
-        "summary": "<p>In this one-off explainer episode, we&#8217;re joined by Mathew Dib, duty director of marine operations at Pole Star Global, to explore how El Ni\u00f1o, unusually warm Atlantic waters, and evolving weather patterns could shape the months ahead.<br />\nWe discuss what ship operators should be watching for this year, and how real-time decision-making is becoming more important than ever. \u00a0<br />\nIf you&#8217;re curious about how extreme weather events develop and how they ...</p>\n<p>The post <a href=\"https://theloadstar.com/explainer-podcast-el-nino-and-its-impact-on-shipping/\">The Loadstar Explainer Podcast: El Ni\u00f1o and its impact on shipping\u00a0\u00a0</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-07-19",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx 2026 infrastructure includes 850 cargo aircraft $FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9wdkNwVW5qMWxMc0Q4ekd0NG96c2cycGxVWFBxOGNqb2RrR3lYTUdrVDBJdGNvUFZ4QlZrM2MwZVA0WUwwbjkwaWFWQkV6R1czdGFkekItd0xicWJVejRFVEd4UlNjVEY2eHZ5TV9WSzk4R0pHbVJQUmhOSjd2TGhqUmJyRHZHOWM4cG9raGFKUEozYXRCUmo2bWhSc3FWcFUwM2ZtSUh5c3M2Ymp0OE1KMHZyZThPcF9xWWV6Zw?oc=5",
-        "date": "2026-07-19",
-        "title": "Amazon Holds B2B Conference as It Leans on Sellers to Appeal to Business Buyers - EcommerceBytes",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9wdkNwVW5qMWxMc0Q4ekd0NG96c2cycGxVWFBxOGNqb2RrR3lYTUdrVDBJdGNvUFZ4QlZrM2MwZVA0WUwwbjkwaWFWQkV6R1czdGFkekItd0xicWJVejRFVEd4UlNjVEY2eHZ5TV9WSzk4R0pHbVJQUmhOSjd2TGhqUmJyRHZHOWM4cG9raGFKUEozYXRCUmo2bWhSc3FWcFUwM2ZtSUh5c3M2Ymp0OE1KMHZyZThPcF9xWWV6Zw?oc=5\" target=\"_blank\">Amazon Holds B2B Conference as It Leans on Sellers to Appeal to Business Buyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EcommerceBytes</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUNtaXdvOTVsb3E3ek52T0lIdGszem53R3ItdWpyOWhRZzhmUlhYclFfWlJ0aEYzYXdSdEI1NXM2M09RX0hPcjNMejlxN3VicWxtZDVYLUV6WTVwTml1MUUwcGV4My1Vc0x2NmtNTjJHbm9PeS16b3hsNnhRcDk4dVVxbjhrVWd5M1UtUXc3S0drZks5YTB2UXRaQm1WMnNuRllLS0Rwcnh1Zm1fTVBxTWNaWFB5WFVWUUdiRWpqdkFjeklleXRR?oc=5",
         "date": "2026-07-20",
         "title": "U.S. Big and Bulky Last-Mile Delivery Adjusts to Softer Demand at $10.63 Billion in 2025 - EIN News",
@@ -333,5 +306,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-29",
+        "status": "posted",
+        "tweet": "In 2026 porch theft hit 27 percent of deliveries in \ud83c\uddfa\ud83c\uddf8 New York compared to 15 percent in \ud83c\uddec\ud83c\udde7 London.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
