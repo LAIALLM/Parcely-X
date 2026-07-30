@@ -331,5 +331,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS automated facilities manage 22 million package scans daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVc0NzdJQnBBNldYdmhGTEtoZnlSWUliU2ZjSE9tdnVDbDlKWmVGMHJXSzlkaFpDYjgzUjNPQU5hZVlUUktRbnloUTI0ZDNTcVludXluVVMzZU1SOHFRdkJjWVlMa2pfZk9XbFZpdjg0SFNiQkVKYUZuMUdqZ2h4VTFpaE1jSm9JcnJXZUptMjFoZFJMbUM0eHRudEZnR2pPRmVzVURaalBxX0FUdUctN2dBbw?oc=5",
+        "date": "2026-07-30",
+        "title": "\u201cIndia\u2019s Last-Mile EV Opportunity Is Bigger Than Most People Realise\u201d: Yuvwaa Speed - Autopunditz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVc0NzdJQnBBNldYdmhGTEtoZnlSWUliU2ZjSE9tdnVDbDlKWmVGMHJXSzlkaFpDYjgzUjNPQU5hZVlUUktRbnloUTI0ZDNTcVludXluVVMzZU1SOHFRdkJjWVlMa2pfZk9XbFZpdjg0SFNiQkVKYUZuMUdqZ2h4VTFpaE1jSm9JcnJXZUptMjFoZFJMbUM0eHRudEZnR2pPRmVzVURaalBxX0FUdUctN2dBbw?oc=5\" target=\"_blank\">\u201cIndia\u2019s Last-Mile EV Opportunity Is Bigger Than Most People Realise\u201d: Yuvwaa Speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autopunditz</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
