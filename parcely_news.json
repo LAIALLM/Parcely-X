@@ -341,5 +341,26 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5",
+        "date": "2026-07-30",
+        "title": "DoorDash secures FAA certification, launches in-house drone delivery program - Diya TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5\" target=\"_blank\">DoorDash secures FAA certification, launches in-house drone delivery program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diya TV</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash $DASH secures FAA certification and launches in-house drone delivery program"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5",
+        "date": "2026-07-30",
+        "title": "DoorDash secures FAA certification, launches in-house drone delivery program - Diya TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5\" target=\"_blank\">DoorDash secures FAA certification, launches in-house drone delivery program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diya TV</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash secures FAA certification and launches in-house drone delivery program $DASH",
+        "type": "news"
     }
 ]
