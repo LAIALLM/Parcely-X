@@ -176,5 +176,13 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-30",
+        "status": "posted",
+        "tweet": "By 2026\n\ud83c\udde8\ud83c\uddf3 China reaches 2 million parcel lockers\n\ud83c\uddea\ud83c\uddfa Europe totals 800,000",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
