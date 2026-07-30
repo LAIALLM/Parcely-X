@@ -1,30 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUNtaXdvOTVsb3E3ek52T0lIdGszem53R3ItdWpyOWhRZzhmUlhYclFfWlJ0aEYzYXdSdEI1NXM2M09RX0hPcjNMejlxN3VicWxtZDVYLUV6WTVwTml1MUUwcGV4My1Vc0x2NmtNTjJHbm9PeS16b3hsNnhRcDk4dVVxbjhrVWd5M1UtUXc3S0drZks5YTB2UXRaQm1WMnNuRllLS0Rwcnh1Zm1fTVBxTWNaWFB5WFVWUUdiRWpqdkFjeklleXRR?oc=5",
-        "date": "2026-07-20",
-        "title": "U.S. Big and Bulky Last-Mile Delivery Adjusts to Softer Demand at $10.63 Billion in 2025 - EIN News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUNtaXdvOTVsb3E3ek52T0lIdGszem53R3ItdWpyOWhRZzhmUlhYclFfWlJ0aEYzYXdSdEI1NXM2M09RX0hPcjNMejlxN3VicWxtZDVYLUV6WTVwTml1MUUwcGV4My1Vc0x2NmtNTjJHbm9PeS16b3hsNnhRcDk4dVVxbjhrVWd5M1UtUXc3S0drZks5YTB2UXRaQm1WMnNuRllLS0Rwcnh1Zm1fTVBxTWNaWFB5WFVWUUdiRWpqdkFjeklleXRR?oc=5\" target=\"_blank\">U.S. Big and Bulky Last-Mile Delivery Adjusts to Softer Demand at $10.63 Billion in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-07-20",
-        "status": "posted",
-        "tweet": "UPS infrastructure supports 450 million packages daily capacity across facilities in \ud83c\uddfa\ud83c\uddf8 United States",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-07-20",
-        "status": "posted",
-        "tweet": "2026 global pickup point leaders\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\udde9\ud83c\uddea Germany\n4. \ud83c\uddec\ud83c\udde7 United Kingdom\n5. \ud83c\uddef\ud83c\uddf5 Japan",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
         "link": null,
         "date": "2026-07-21",
         "status": "posted",
@@ -341,5 +316,13 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-30",
+        "status": "posted",
+        "tweet": "2026 avg weekly online food orders per household\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai 5.7\n2. \ud83c\uddf0\ud83c\uddf7 Seoul 5.3\n3. \ud83c\uddef\ud83c\uddf5 Tokyo 4.8\n4. \ud83c\uddfa\ud83c\uddf8 New York 4.5\n5. \ud83c\uddec\ud83c\udde7 London 4.1",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
