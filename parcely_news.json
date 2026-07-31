@@ -347,5 +347,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash secures FAA certification and launches in-house drone delivery program $DASH",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-07-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Philadelphia lost 31% of porch packages to theft in 2026. \n\ud83c\uddfa\ud83c\uddf8 San Diego lost 15%.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
