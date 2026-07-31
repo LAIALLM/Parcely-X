@@ -186,5 +186,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German logistics firm handled 1.2 million tons of freight daily in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-31",
+        "status": "posted",
+        "tweet": "By 2026, 2 million parcel lockers will operate worldwide.\n\nThey will manage 20 billion parcels per year.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
