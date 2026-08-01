@@ -1,30 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR293Vk51bS1LZ1dRT2xLbzJiV0Q5V0d5Ny12VDBHTUFHUkFFb0RkU0xackg0MnVPY3pPT25aR0lmSEltTUo3dkJQUUltVUpxcEVWdGc1T0NSZnZGT0pRLTV0ZXNoX0xPS0hvOS1WWm43ZW5OcW83TjhnRElteUE1V3RtZkQxZlpublFKMVhzaDM3ZGN5cFV3bkZlT0Y?oc=5",
-        "date": "2026-07-22",
-        "title": "Tractor Supply taps Instacart for same-day delivery - Supply Chain Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNR293Vk51bS1LZ1dRT2xLbzJiV0Q5V0d5Ny12VDBHTUFHUkFFb0RkU0xackg0MnVPY3pPT25aR0lmSEltTUo3dkJQUUltVUpxcEVWdGc1T0NSZnZGT0pRLTV0ZXNoX0xPS0hvOS1WWm43ZW5OcW83TjhnRElteUE1V3RtZkQxZlpublFKMVhzaDM3ZGN5cFV3bkZlT0Y?oc=5\" target=\"_blank\">Tractor Supply taps Instacart for same-day delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-07-22",
-        "status": "posted",
-        "tweet": "UPS infrastructure handled 26.4 million daily shipments through \ud83c\uddfa\ud83c\uddf8 United States hubs.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-07-22",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York delivery vans reached 28 percent of downtown traffic in 2026, cutting average speeds by 18 percent since 2024.",
-        "type": "statistical",
-        "category": "urban traffic growth caused by delivery vans in dense cities"
-    },
-    {
         "link": null,
         "date": "2026-07-23",
         "status": "posted",
@@ -361,6 +336,13 @@
         "date": "2026-07-31",
         "status": "posted",
         "tweet": "TransEuro Logistics maintains 8,400 km of automated rail infrastructure in \ud83c\uddeb\ud83c\uddf7 France.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-01",
+        "status": "posted",
+        "tweet": "FedEx moved 19.8 million packages daily through its \ud83c\uddfa\ud83c\uddf8 United States network. \n$FDX",
         "type": "infrastructure"
     }
 ]
