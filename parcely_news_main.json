@@ -166,5 +166,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Dutch logistics operator moves 1.8 million tons of freight daily across its European rail network.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-01",
+        "status": "posted",
+        "tweet": "By 2027 25 percent of new homes and offices in \ud83c\uddfa\ud83c\uddf8 United States will run on integrated smart systems.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
