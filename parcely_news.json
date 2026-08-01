@@ -344,5 +344,13 @@
         "status": "posted",
         "tweet": "FedEx moved 19.8 million packages daily through its \ud83c\uddfa\ud83c\uddf8 United States network. \n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-01",
+        "status": "posted",
+        "tweet": "2026 projections: \ud83c\uddfa\ud83c\uddf8 New York households order food delivery 12 times monthly. \nOnline grocery orders average 4.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
