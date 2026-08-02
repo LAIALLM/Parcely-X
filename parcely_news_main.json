@@ -174,5 +174,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US smart offices reach 52% adoption by 2026\nSmart homes hit 24%",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-08-02",
+        "status": "posted",
+        "tweet": "Logistics company facilities in \ud83c\uddfa\ud83c\uddf8 US handled 4.8 million packages each day in 2025.",
+        "type": "infrastructure"
     }
 ]
