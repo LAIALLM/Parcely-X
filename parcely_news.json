@@ -337,5 +337,15 @@
         "tweet": "2026 projections: \ud83c\uddfa\ud83c\uddf8 New York households order food delivery 12 times monthly. \nOnline grocery orders average 4.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclFkMS1wbXlWcnctNVRtemhnbE0zeVk3UHJYMzh0RE9DMXg4bWpNVmhVcjhJT3UtNTh1d3ZGTkpMN1dmakFWb29sSVB2N0RXcWwxcFIyWmtCMW1famx2UW8tYTNMQTNRSXA2TFVOWEh4RDljVERmdC01dXA3c0J3aHVnTHQzZnlIUmczbnIxSngtQlJacE9lTTNTNTBSdFE4YnAwcEU5OA?oc=5",
+        "date": "2026-08-02",
+        "title": "FCLGO Launches Amazon Fulfillment Center Locations Routing Service to Eliminate FBA Compliance Rejections for Cross-Border Sellers - Digital Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOclFkMS1wbXlWcnctNVRtemhnbE0zeVk3UHJYMzh0RE9DMXg4bWpNVmhVcjhJT3UtNTh1d3ZGTkpMN1dmakFWb29sSVB2N0RXcWwxcFIyWmtCMW1famx2UW8tYTNMQTNRSXA2TFVOWEh4RDljVERmdC01dXA3c0J3aHVnTHQzZnlIUmczbnIxSngtQlJacE9lTTNTNTBSdFE4YnAwcEU5OA?oc=5\" target=\"_blank\">FCLGO Launches Amazon Fulfillment Center Locations Routing Service to Eliminate FBA Compliance Rejections for Cross-Border Sellers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
