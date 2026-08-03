@@ -163,5 +163,12 @@
         "status": "posted",
         "tweet": "Logistics company facilities in \ud83c\uddfa\ud83c\uddf8 US handled 4.8 million packages each day in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-03",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics firm moves 48 million tons of freight daily on its rail network.",
+        "type": "infrastructure"
     }
 ]
