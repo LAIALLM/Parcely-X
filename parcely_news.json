@@ -352,5 +352,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf1\ud83c\uddf9 NEWS: Vinted adds 18,500 DHL lockers as 70% of resellers skip in-person handovers",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS network handled 27 million packages daily at its Louisville hub in 2025.\n$UPS",
+        "type": "infrastructure"
     }
 ]
