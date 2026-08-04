@@ -162,5 +162,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 Canadian logistics network moved 2.8 million freight tons daily in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-04",
+        "status": "posted",
+        "tweet": "By 2026, worldwide e-commerce deliveries will generate 14 million tons of packaging waste each year.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
