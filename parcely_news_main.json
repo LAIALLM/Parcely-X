@@ -165,5 +165,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddeb\ud83c\uddf7 French logistics firm\nships 920,000 tons of goods daily",
+        "type": "infrastructure"
     }
 ]
