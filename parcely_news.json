@@ -336,5 +336,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States LogiCorp network moved 4.7 million freight tons daily in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-05",
+        "status": "posted",
+        "tweet": "In 2026, 21 percent of global e-commerce deliveries fail on the first attempt.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
