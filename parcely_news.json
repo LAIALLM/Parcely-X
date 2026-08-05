@@ -344,5 +344,15 @@
         "tweet": "In 2026, 21 percent of global e-commerce deliveries fail on the first attempt.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYUJIcU1sbkVFNjlHZXpsLWYxTHhSeDM0Y09XNFhnMlNVMWlBeGljQVdCRHlIUkFBZnJyUTBtdXlQbUJUZ2R0VTdZX1E5T3l6UjRnVEtBVEwzUFFBV3lnSm1RR1NYSHBLSU1jeTZqZ0Y?oc=5",
+        "date": "2026-08-05",
+        "title": "New Jersey sues Amazon over delivery driver wages - njbiz.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYUJIcU1sbkVFNjlHZXpsLWYxTHhSeDM0Y09XNFhnMlNVMWlBeGljQVdCRHlIUkFBZnJyUTBtdXlQbUJUZ2R0VTdZX1E5T3l6UjRnVEtBVEwzUFFBV3lnSm1RR1NYSHBLSU1jeTZqZ0Y?oc=5\" target=\"_blank\">New Jersey sues Amazon over delivery driver wages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">njbiz.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
