@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-07-27",
-        "status": "posted",
-        "tweet": "Last-mile logistics in \ud83c\uddfa\ud83c\uddf8 US emit 105 million tons of CO2 by 2026. Building-integrated networks emit 29 million tons.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
-        "date": "2026-07-27",
-        "status": "posted",
-        "tweet": "Logistics company clears 45000 containers daily at \ud83c\uddf3\ud83c\uddf1 Rotterdam terminal.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-07-28",
         "status": "posted",
         "tweet": "E-commerce packaging waste reaches 40 million tons in \ud83c\udde8\ud83c\uddf3 China in 2026 compared to 15 million tons in \ud83c\uddfa\ud83c\uddf8 US.",
@@ -171,6 +156,13 @@
         "date": "2026-08-05",
         "status": "posted",
         "tweet": "\ud83c\uddeb\ud83c\uddf7 French logistics firm\nships 920,000 tons of goods daily",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 Dutch logistics operator moved 620000 tons of freight on its rail network yesterday.",
         "type": "infrastructure"
     }
 ]
