@@ -164,5 +164,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Dutch logistics operator moved 620000 tons of freight on its rail network yesterday.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUlsVy1kSThWV0x0dkpjWU5UYmJGWmZuSTZHRmp3MU5ub0ZoTXA5WlMwX19kUW5tRXJLN01rOHp3ZTJnazVzd290Wlh4OUppZmk0ZDktc2hsUzNDY3cwVVU5NFl6LUM1Qi1ILTBqWVc3Z0kyc1ZDVS1vd2ZLMElhSzFZMERhODZIVzZuWkpJcTdOaXBOZHNUc1M4S1pJZGlq?oc=5",
+        "date": "2026-08-06",
+        "title": "Asendia SendNow shipping platform for Etsy sellers in eight markets - channelx.world",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUlsVy1kSThWV0x0dkpjWU5UYmJGWmZuSTZHRmp3MU5ub0ZoTXA5WlMwX19kUW5tRXJLN01rOHp3ZTJnazVzd290Wlh4OUppZmk0ZDktc2hsUzNDY3cwVVU5NFl6LUM1Qi1ILTBqWVc3Z0kyc1ZDVS1vd2ZLMElhSzFZMERhODZIVzZuWkpJcTdOaXBOZHNUc1M4S1pJZGlq?oc=5\" target=\"_blank\">Asendia SendNow shipping platform for Etsy sellers in eight markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">channelx.world</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
