@@ -319,5 +319,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-07",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea DB Cargo network moved 3.8 million tonnes of freight daily.",
+        "type": "infrastructure"
     }
 ]
