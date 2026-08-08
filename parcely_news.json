@@ -291,5 +291,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea DB Cargo network moved 3.8 million tonnes of freight daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-08",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Hamburg hub processed 1.7 million TEUs in 2025.",
+        "type": "infrastructure"
     }
 ]
