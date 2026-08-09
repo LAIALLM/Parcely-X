@@ -1,52 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-07-30",
-        "status": "posted",
-        "tweet": "2026 avg weekly online food orders per household\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai 5.7\n2. \ud83c\uddf0\ud83c\uddf7 Seoul 5.3\n3. \ud83c\uddef\ud83c\uddf5 Tokyo 4.8\n4. \ud83c\uddfa\ud83c\uddf8 New York 4.5\n5. \ud83c\uddec\ud83c\udde7 London 4.1",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
-        "date": "2026-07-30",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS automated facilities manage 22 million package scans daily.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVc0NzdJQnBBNldYdmhGTEtoZnlSWUliU2ZjSE9tdnVDbDlKWmVGMHJXSzlkaFpDYjgzUjNPQU5hZVlUUktRbnloUTI0ZDNTcVludXluVVMzZU1SOHFRdkJjWVlMa2pfZk9XbFZpdjg0SFNiQkVKYUZuMUdqZ2h4VTFpaE1jSm9JcnJXZUptMjFoZFJMbUM0eHRudEZnR2pPRmVzVURaalBxX0FUdUctN2dBbw?oc=5",
-        "date": "2026-07-30",
-        "title": "\u201cIndia\u2019s Last-Mile EV Opportunity Is Bigger Than Most People Realise\u201d: Yuvwaa Speed - Autopunditz",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVc0NzdJQnBBNldYdmhGTEtoZnlSWUliU2ZjSE9tdnVDbDlKWmVGMHJXSzlkaFpDYjgzUjNPQU5hZVlUUktRbnloUTI0ZDNTcVludXluVVMzZU1SOHFRdkJjWVlMa2pfZk9XbFZpdjg0SFNiQkVKYUZuMUdqZ2h4VTFpaE1jSm9JcnJXZUptMjFoZFJMbUM0eHRudEZnR2pPRmVzVURaalBxX0FUdUctN2dBbw?oc=5\" target=\"_blank\">\u201cIndia\u2019s Last-Mile EV Opportunity Is Bigger Than Most People Realise\u201d: Yuvwaa Speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autopunditz</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5",
-        "date": "2026-07-30",
-        "title": "DoorDash secures FAA certification, launches in-house drone delivery program - Diya TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5\" target=\"_blank\">DoorDash secures FAA certification, launches in-house drone delivery program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diya TV</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash $DASH secures FAA certification and launches in-house drone delivery program"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5",
-        "date": "2026-07-30",
-        "title": "DoorDash secures FAA certification, launches in-house drone delivery program - Diya TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1J6MzVQdzhIeldXQWlwWHpGY0YwME9iRVRNZ3VPLUJ6enQ3RzdBMC03aEM5RXlyQ21EejUyVG5IQVBLd3h1MjZKOUpNSUxZLVlCR3NsVy1rX2MyWTREdnpuSS16aTMxWUNkY1hjN0lZbnMzVUNGb1hhY2N3eGNkQ24tazk1X0t6Wng5SDdmN3dwbjhxeXBmMERrVWU5N1U?oc=5\" target=\"_blank\">DoorDash secures FAA certification, launches in-house drone delivery program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diya TV</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DoorDash secures FAA certification and launches in-house drone delivery program $DASH",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2026-07-31",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Philadelphia lost 31% of porch packages to theft in 2026. \n\ud83c\uddfa\ud83c\uddf8 San Diego lost 15%.",
