@@ -140,5 +140,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-09",
+        "status": "posted",
+        "tweet": "In 2026, 68% of \ud83c\udde8\ud83c\uddf3 China office buildings use smart access systems compared to 41% in \ud83c\uddfa\ud83c\uddf8 US.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
