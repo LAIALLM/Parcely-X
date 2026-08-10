@@ -140,5 +140,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German logistics firm moved 2.1 million tons of freight daily through its network in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-10",
+        "status": "posted",
+        "tweet": "The firm moves 1.9 million tons of freight daily across its \ud83c\uddfa\ud83c\uddf8 United States network.",
+        "type": "infrastructure"
     }
 ]
