@@ -289,5 +289,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlN3dU9udVpTUDFiRXpRM3NUZklmWFV6QUgwN2pxZ3VLaS1oci1IYTc2NlRaZnVaVzhIeFh0dVNyNGJzSFY0QzFRTGdVQUs5VUFnTmlZT2M0YVlpOEF2Q0JRRjdEbzJEdmRTVXJ5anQ4SGdjbXlsZzc5ZGNWZUpVTXowdWY4cEJyUmxFWVU5QmV4dUF5VEpRUU5pZlA4NVhkblczeEFHcGw?oc=5",
+        "date": "2026-08-10",
+        "title": "Colis Priv\u00e9 expands last-mile delivery business into Spain and Portugal - FreightWaves",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlN3dU9udVpTUDFiRXpRM3NUZklmWFV6QUgwN2pxZ3VLaS1oci1IYTc2NlRaZnVaVzhIeFh0dVNyNGJzSFY0QzFRTGdVQUs5VUFnTmlZT2M0YVlpOEF2Q0JRRjdEbzJEdmRTVXJ5anQ4SGdjbXlsZzc5ZGNWZUpVTXowdWY4cEJyUmxFWVU5QmV4dUF5VEpRUU5pZlA4NVhkblczeEFHcGw?oc=5\" target=\"_blank\">Colis Priv\u00e9 expands last-mile delivery business into Spain and Portugal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
