@@ -302,5 +302,15 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
+        "date": "2026-08-11",
+        "title": "Ceva Logistics \u2013\u00a0IT breach dents confidence further, several BCOs exposed",
+        "summary": "<p>Data retention practices and third-party dependencies at major 3PLs face an unprecedented reckoning after a cyberattack on CMA CGM\u2019s logistics arm Ceva Logistics compromised eight European warehouses, spilling customer delivery metadata across multiple consumer brands, financial institutions, and platforms.<br />\nThe breach at Ceva Logistics \u2013 which took place between late July and early August \u2013 has proven to be far more than an isolated incident for a single shipper. While initial ...</p>\n<p>The post <a href=\"https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/\">Ceva Logistics \u2013\u00a0IT breach dents confidence further, several BCOs exposed</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
