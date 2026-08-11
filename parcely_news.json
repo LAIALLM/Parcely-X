@@ -312,5 +312,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-11",
+        "status": "posted",
+        "tweet": "Apex Supply Chain processed 3.2 million parcels daily at its \ud83c\udde8\ud83c\uddf3 Shenzhen facility.",
+        "type": "infrastructure"
     }
 ]
