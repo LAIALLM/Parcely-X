@@ -231,5 +231,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVNKUW4xSTJocldSLTNsbXNpNmRMQ0J0VzJ1NzI2ZjlWNENsSk5yWUNlT0tKcWZpSGxCMU10Y1E3OGJSaTFCbDRJbXlzdngxOHdlRDRHREw1SFZBYVg5R0xTa2czNUFWUVlkQTNuUVlDd0JfYjJqckJkZWtaYWRqMGVCQjhpX3pUT1o2SE91Ukp0NGx2ZFMzblZqdThjV2FUbmc3dFNsRWdlWl96REFkVTdtQm1VRDFXSVFKRGR5b1dndmkwQkE?oc=5",
+        "date": "2026-08-11",
+        "title": "Market Kurly customers complain of allegedly thawed deliveries amid heat wave - Korea JoongAng Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVNKUW4xSTJocldSLTNsbXNpNmRMQ0J0VzJ1NzI2ZjlWNENsSk5yWUNlT0tKcWZpSGxCMU10Y1E3OGJSaTFCbDRJbXlzdngxOHdlRDRHREw1SFZBYVg5R0xTa2czNUFWUVlkQTNuUVlDd0JfYjJqckJkZWtaYWRqMGVCQjhpX3pUT1o2SE91Ukp0NGx2ZFMzblZqdThjV2FUbmc3dFNsRWdlWl96REFkVTdtQm1VRDFXSVFKRGR5b1dndmkwQkE?oc=5\" target=\"_blank\">Market Kurly customers complain of allegedly thawed deliveries amid heat wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
