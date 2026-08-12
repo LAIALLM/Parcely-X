@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-02",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US smart offices reach 52% adoption by 2026\nSmart homes hit 24%",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": null,
-        "date": "2026-08-02",
-        "status": "posted",
-        "tweet": "Logistics company facilities in \ud83c\uddfa\ud83c\uddf8 US handled 4.8 million packages each day in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-08-03",
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics firm moves 48 million tons of freight daily on its rail network.",
@@ -255,6 +240,13 @@
         "date": "2026-08-11",
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea Germany logistics firm moves 2.1 million tons of freight daily.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-12",
+        "status": "posted",
+        "tweet": "DHL sorted 4 million items per day at its \ud83c\udde9\ud83c\uddea Germany centers in 2025.",
         "type": "infrastructure"
     }
 ]
