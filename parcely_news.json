@@ -316,5 +316,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS handled 8.5 million packages daily through its automated sorting facilities.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUhaN3NFWGJKSXVrM2JmcjFzZElONm9wSktjNzJLcjVZTk9NenRPM2F2ZFNvZC11amVMM1BiTHFxRmM3ZkRUcE95UWF2V19fSXdnTnhIVTYwNFJCZHNwbm9BVFZyYUxVbEtZUER4bWFUZl9vSTFNT28yRlBYQV94bHFNakNmQmxZNTVYRzZsaHdQaE1JUWhTbnNqbVpKNzZla3c?oc=5",
+        "date": "2026-08-12",
+        "title": "NYC could force Amazon and FedEx to directly employ its delivery drivers - TechSpot",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUhaN3NFWGJKSXVrM2JmcjFzZElONm9wSktjNzJLcjVZTk9NenRPM2F2ZFNvZC11amVMM1BiTHFxRmM3ZkRUcE95UWF2V19fSXdnTnhIVTYwNFJCZHNwbm9BVFZyYUxVbEtZUER4bWFUZl9vSTFNT28yRlBYQV94bHFNakNmQmxZNTVYRzZsaHdQaE1JUWhTbnNqbVpKNzZla3c?oc=5\" target=\"_blank\">NYC could force Amazon and FedEx to directly employ its delivery drivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
