@@ -248,5 +248,13 @@
         "status": "posted",
         "tweet": "DHL sorted 4 million items per day at its \ud83c\udde9\ud83c\uddea Germany centers in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-12",
+        "status": "posted",
+        "tweet": "2026 parcel locker network leaders\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\udde9\ud83c\uddea Germany\n4. \ud83c\uddec\ud83c\udde7 United Kingdom\n5. \ud83c\uddef\ud83c\uddf5 Japan",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
