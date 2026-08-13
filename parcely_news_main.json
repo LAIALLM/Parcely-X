@@ -318,5 +318,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 logistics firm moved 920000 freight containers through its network in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-13",
+        "status": "posted",
+        "tweet": "By 2028, smart buildings will number 120 million worldwide. \ud83c\uddfa\ud83c\uddf8 US and \ud83c\udde8\ud83c\uddf3 China will hold 55 percent of them, cutting energy use 25 percent on average.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
