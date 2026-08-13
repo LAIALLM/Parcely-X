@@ -311,5 +311,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon expands Locker network to more than 750 locations across over 500 US college campuses, giving students secure no-cost pickup near where they live and study.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 logistics firm moved 920000 freight containers through its network in 2025.",
+        "type": "infrastructure"
     }
 ]
