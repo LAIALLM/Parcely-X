@@ -270,5 +270,25 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTR1UHdKcTVnS0JsS2V0S3RpdnBRUHcwRm9QX1I4LV93OFphTUtoZk9hSVMzQjNhR0VDOXdGcFpPQjNqR1N0WlNfQ183SGhJV1dGUUZzNjdZem91ZVdJRFY3MXZESC00d0FPSGdNaUxSNFVOcDQ3SVgyMEYwQlhkRHhQOTlWUTF5c1lYOUwwWXJwT19ENS1SRC1VNW9pZERJVW1BUGJn?oc=5",
+        "date": "2026-08-14",
+        "title": "Walmart equipping a store with Symbotic fulfillment system - Supply Chain Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTR1UHdKcTVnS0JsS2V0S3RpdnBRUHcwRm9QX1I4LV93OFphTUtoZk9hSVMzQjNhR0VDOXdGcFpPQjNqR1N0WlNfQ183SGhJV1dGUUZzNjdZem91ZVdJRFY3MXZESC00d0FPSGdNaUxSNFVOcDQ3SVgyMEYwQlhkRHhQOTlWUTF5c1lYOUwwWXJwT19ENS1SRC1VNW9pZERJVW1BUGJn?oc=5\" target=\"_blank\">Walmart equipping a store with Symbotic fulfillment system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/logistics/harworth-to-develop-last-mile-parcel-facility-in-barnsley-uk.html",
+        "date": "2026-08-14",
+        "title": "Harworth to develop last-mile parcel facility in Barnsley, UK",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/logistics/harworth-to-develop-last-mile-parcel-facility-in-barnsley-uk.html\"><img align=\"left\" alt=\"Harworth to develop last-mile parcel facility in Barnsley, UK\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/08/harworth-e1786713626565-400x224.jpg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>Harworth Group has signed an agreement with an undisclosed logistics operator to develop a 2,800m2 last-mile parcel and postal distribution facility at Gateway 36 in Barnsley in the UK on a 20-year lease term.</p>\n<p>The facility will be built to Harworth&#8217;s proprietary building specification, targeting BREEAM Excellent certification and an EPC rating of A, and will include rooftop solar PV panels, LED lighting and EV charging points. Subject to reserved matters planning approval, construction is expected to begin shortly, with completion targeted for late 2027.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/logistics/harworth-to-develop-last-mile-parcel-facility-in-barnsley-uk.html\" rel=\"nofollow\">Continue reading Harworth to develop last-mile parcel facility in Barnsley, UK at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
