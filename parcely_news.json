@@ -290,5 +290,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/162578/news/e-commerce/jd-com-we-delivered-solid-profitability-in-the-second-quarter/",
+        "date": "2026-08-14",
+        "title": "JD.com: We delivered solid profitability in the second quarter",
+        "summary": "JD.com has announced its unaudited financial results for the three and six months ended June 30, 2026.",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
