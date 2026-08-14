@@ -260,5 +260,15 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 Shanghai hub processed 650,000 containers daily for Pacific Logistics.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/cnbc-this-copper-bet-has-became-a-real-time-gauge-of-trumps-next-trade-war-salvo/",
+        "date": "2026-08-14",
+        "title": "CNBC: This copper bet has became a real-time gauge of Trump\u2019s next trade war salvo",
+        "summary": "<p>CNBC writes:<br />\nOne specialist arbitrage trade on a metal commodity is evolving into a real-time gauge of U.S. tariff risk.<br />\nCopper \u2014 seen as a broader economic barometer, with the industrial metal a key component in construction, electronics and transportation \u2014 has been on a tear for more than a year, with futures reaching a\u00a0record high of almost $6.90 per pound last week. The spread between U.S. COMEX futures and London Metal ...</p>\n<p>The post <a href=\"https://theloadstar.com/cnbc-this-copper-bet-has-became-a-real-time-gauge-of-trumps-next-trade-war-salvo/\">CNBC: This copper bet has became a real-time gauge of Trump\u2019s next trade war salvo</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
