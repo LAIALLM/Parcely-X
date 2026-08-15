@@ -346,5 +346,13 @@
         "status": "posted",
         "tweet": "Logistics firm moved 4.7 million tons of freight daily on its \ud83c\udde8\ud83c\uddf3 China rail lines in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-15",
+        "status": "posted",
+        "tweet": "Packaging waste from e-commerce deliveries reached 25 million tons worldwide in 2026.\n\nDouble the amount recorded in 2023.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
