@@ -277,5 +277,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmRfMlUtSGZ6VWFTU0FUalpYNnl3RGZBaERiOGdfZ2lIOXdWTmpkSXY0UDJvME95NXFKSlI4VVowb185Z2Z6WWM0c3VpTG4xWDJua1JPSHhlcFZPcDZoQndHTHpyem1tcmphVFJWcTZ2eTVZREdZV0lqaGFZSm55ZXdCSVFRSEN5SmtQY0N4Q3FBTjdqbXQ1TnZCV0RqclB4ZHk0ampMZGJQZDZVbEE?oc=5",
+        "date": "2026-08-16",
+        "title": "Delhivery buys QuickMove as India logistics consolidates; PayMatrix nets $40M - Dealroom",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmRfMlUtSGZ6VWFTU0FUalpYNnl3RGZBaERiOGdfZ2lIOXdWTmpkSXY0UDJvME95NXFKSlI4VVowb185Z2Z6WWM0c3VpTG4xWDJua1JPSHhlcFZPcDZoQndHTHpyem1tcmphVFJWcTZ2eTVZREdZV0lqaGFZSm55ZXdCSVFRSEN5SmtQY0N4Q3FBTjdqbXQ1TnZCV0RqclB4ZHk0ampMZGJQZDZVbEE?oc=5\" target=\"_blank\">Delhivery buys QuickMove as India logistics consolidates; PayMatrix nets $40M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
