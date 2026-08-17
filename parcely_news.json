@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-07",
-        "status": "posted",
-        "tweet": "Smart access adoption in buildings 2026\n1. \ud83c\uddf8\ud83c\uddec Singapore 79%\n2. \ud83c\uddf0\ud83c\uddf7 South Korea 64%\n3. \ud83c\uddef\ud83c\uddf5 Japan 51%\n4. \ud83c\uddfa\ud83c\uddf8 United States 43%\n5. \ud83c\udde8\ud83c\uddf3 China 39%",
-        "type": "statistical",
-        "category": "adoption of smart access systems for buildings"
-    },
-    {
-        "link": "https://theloadstar.com/hans-dieter-potsch-the-volkswagen-group-is-at-a-historic-crossroads/",
-        "date": "2026-08-07",
-        "title": "Hans Dieter P\u00f6tsch: \u2018The Volkswagen Group is at a historic crossroads\u2019",
-        "summary": "<p>PRESS RELEASE\u00a0<br />\nPorsche SE calls for swift action at Volkswagen to improve competitiveness<br />\n(EMPHASIS IN BOLD ADDED)\u00a0<br />\nStuttgart, 7\u00a0August 2026. Porsche Automobil Holding SE (Porsche SE) continues to operate in a challenging market environment for its core investments, with a corresponding impact on earning figures. For the first half of the fiscal year 2026, the adjusted group result after tax1\u00a0of Porsche SE amounts to 0.9 billion euro (prior year: 1.1 billion euro). The ...</p>\n<p>The post <a href=\"https://theloadstar.com/hans-dieter-potsch-the-volkswagen-group-is-at-a-historic-crossroads/\">Hans Dieter P\u00f6tsch: &#8216;The Volkswagen Group is at a historic crossroads&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-07",
-        "status": "posted",
-        "tweet": "\ud83c\udde9\ud83c\uddea DB Cargo network moved 3.8 million tonnes of freight daily.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-08-08",
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea Hamburg hub processed 1.7 million TEUs in 2025.",
@@ -342,5 +317,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 Rotterdam hub of NorthSea Logistics handled 320,000 TEUs monthly.",
+        "type": "infrastructure"
     }
 ]
