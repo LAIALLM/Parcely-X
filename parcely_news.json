@@ -352,5 +352,13 @@
         "status": "posted",
         "tweet": "Maersk operates 720 vessels with 4.1 million TEU capacity",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-18",
+        "status": "posted",
+        "tweet": "2026 top cities by parcel locker totals\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai\n2. \ud83c\udde8\ud83c\uddf3 Beijing\n3. \ud83c\uddef\ud83c\uddf5 Tokyo\n4. \ud83c\uddfa\ud83c\uddf8 New York\n5. \ud83c\udde9\ud83c\uddea Berlin",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
