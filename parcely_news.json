@@ -380,5 +380,15 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/162592/news/e-commerce/offer-for-inpost-receives-clearance-from-the-ec/",
+        "date": "2026-08-18",
+        "title": "Offer for InPost receives clearance from the EC",
+        "summary": "Iris Lux Bidco has secured EU clearance for its \u20ac7.8 billion takeover of InPost, bringing the deal closer to completion.",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
