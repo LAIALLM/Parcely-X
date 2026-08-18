@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-08-08",
-        "status": "posted",
-        "tweet": "2026 data shows \ud83c\uddfa\ud83c\uddf8 New Yorkers use online grocery and food delivery 3 times weekly versus 5 in \ud83c\udde8\ud83c\uddf3 Shanghai.",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": null,
-        "date": "2026-08-08",
-        "status": "posted",
-        "tweet": "Apex Logistics network in \ud83c\udde8\ud83c\udde6 Canada handles 850000 tons of freight each day.",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvVFdmYkFoa2NLYnFoZ0xHUFJzRnNGYzY4OGZJYlFHUTE4UU00dkpnRmhFODhTcndEdWlSWWMwSEFnZmxQaDVUOURCcWQzd0JtdzVLRHYyTWRLT2VndVFMT0pjdVhDWDRWOHBFcUFjcm9HSU9fZ3ZxMGlkVQ?oc=5",
         "date": "2026-08-09",
         "title": "USPS Prioritizes Revenue over Volume - Practical Ecommerce",
@@ -360,6 +345,13 @@
         "date": "2026-08-17",
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea Germany logistics company infrastructure moves 950000 tons of cargo daily.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-18",
+        "status": "posted",
+        "tweet": "Logistics company maintains 2,400 km of rail infrastructure in \ud83c\udde8\ud83c\udde6 Canada.",
         "type": "infrastructure"
     }
 ]
