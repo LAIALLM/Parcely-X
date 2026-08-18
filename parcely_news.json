@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-08",
-        "status": "posted",
-        "tweet": "\ud83c\udde9\ud83c\uddea Hamburg hub processed 1.7 million TEUs in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-08-09",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 big cities: $8.20 per package for final delivery in 2026\n\n\ud83c\uddea\ud83c\uddfa big cities: $5.10",
@@ -352,5 +345,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-18",
+        "status": "posted",
+        "tweet": "Maersk operates 720 vessels with 4.1 million TEU capacity",
+        "type": "infrastructure"
     }
 ]
