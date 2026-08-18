@@ -361,5 +361,36 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US first-attempt delivery failures hit 30 percent in 2026.\n\ud83c\uddec\ud83c\udde7 UK stays at 13 percent.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdF9Qay1sSTBoNjVOWnlmZFVQMHE5SDNvZ0ZCbmowRGptZjVuWkRLTHlEY0FsSFlGZG5IcVVyb0ZidkRhVEVqSW40QTB3dnBLOXhOMUUtLTdnTkphLVZrY0ljSGo5amsySUVuWXNIendVZEEzRF82Zm9jbUZjRzNzZWw1QU9rMGRLdW1PXzBQMjVBUW1xTmd5dGpGdkROMzVKLUQwWmY2SG4?oc=5",
+        "date": "2026-08-18",
+        "title": "DTDC redefines last-mile delivery with #DTDCVallamExpress Onam campaign - Adgully.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdF9Qay1sSTBoNjVOWnlmZFVQMHE5SDNvZ0ZCbmowRGptZjVuWkRLTHlEY0FsSFlGZG5IcVVyb0ZidkRhVEVqSW40QTB3dnBLOXhOMUUtLTdnTkphLVZrY0ljSGo5amsySUVuWXNIendVZEEzRF82Zm9jbUZjRzNzZWw1QU9rMGRLdW1PXzBQMjVBUW1xTmd5dGpGdkROMzVKLUQwWmY2SG4?oc=5\" target=\"_blank\">DTDC redefines last-mile delivery with #DTDCVallamExpress Onam campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adgully.com</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lN0FfM05yUC1FOTBNRW5tTjF1ekRCSy1rRElrUmlIY2xiTlZIS2UyWVZhLTB1aXJoaXhfd2xXSjY4NjVDOVJ1VWpxYVpqZ3VuQmdOYkZjY3NQU0hv?oc=5",
+        "date": "2026-08-18",
+        "title": "eCommerce Campus Delivery Lockers: The Amazon Locker Network Now Covers Over 500 College\u2026 - Trend Hunter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lN0FfM05yUC1FOTBNRW5tTjF1ekRCSy1rRElrUmlIY2xiTlZIS2UyWVZhLTB1aXJoaXhfd2xXSjY4NjVDOVJ1VWpxYVpqZ3VuQmdOYkZjY3NQU0hv?oc=5\" target=\"_blank\">eCommerce Campus Delivery Lockers: The Amazon Locker Network Now Covers Over 500 College\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend Hunter</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon locker network now covers over 500 colleges for campus deliveries"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lN0FfM05yUC1FOTBNRW5tTjF1ekRCSy1rRElrUmlIY2xiTlZIS2UyWVZhLTB1aXJoaXhfd2xXSjY4NjVDOVJ1VWpxYVpqZ3VuQmdOYkZjY3NQU0hv?oc=5",
+        "date": "2026-08-18",
+        "title": "eCommerce Campus Delivery Lockers: The Amazon Locker Network Now Covers Over 500 College\u2026 - Trend Hunter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lN0FfM05yUC1FOTBNRW5tTjF1ekRCSy1rRElrUmlIY2xiTlZIS2UyWVZhLTB1aXJoaXhfd2xXSjY4NjVDOVJ1VWpxYVpqZ3VuQmdOYkZjY3NQU0hv?oc=5\" target=\"_blank\">eCommerce Campus Delivery Lockers: The Amazon Locker Network Now Covers Over 500 College\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend Hunter</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon Locker Network expands to over 500 college campuses for eCommerce deliveries.",
+        "type": "news"
     }
 ]
