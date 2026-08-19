@@ -385,5 +385,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-19",
+        "status": "posted",
+        "tweet": "E-commerce packaging waste reaches 160 million tons worldwide in 2026.\n\n\ud83c\udde8\ud83c\uddf3 China produces 88 million tons compared to 24 million tons from \ud83c\uddfa\ud83c\uddf8 United States.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
