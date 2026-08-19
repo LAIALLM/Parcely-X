@@ -451,5 +451,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nFedEx processed 22 million shipments daily through its distribution centers in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzEzNEtkS2hEU1ZIS0pZVGNVaGJ5TURGWU13OVo3cVJrSWUtYU9HbHNWcW5BSnAzU0xjMHhMWkdoN01zeEhNTUQyNEMzSzRnSzJxX0FDT3BrS2Q1YlNnYW9MajFXUnBqWm9KT0FrdFJVZmd2UUxYbFhWaXIwbjVPcFBENGl4TXVPeEF5Tnln?oc=5",
+        "date": "2026-08-19",
+        "title": "Emirates Delivers and Bicester Village announce partnership - Air Cargo Week",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzEzNEtkS2hEU1ZIS0pZVGNVaGJ5TURGWU13OVo3cVJrSWUtYU9HbHNWcW5BSnAzU0xjMHhMWkdoN01zeEhNTUQyNEMzSzRnSzJxX0FDT3BrS2Q1YlNnYW9MajFXUnBqWm9KT0FrdFJVZmd2UUxYbFhWaXIwbjVPcFBENGl4TXVPeEF5Tnln?oc=5\" target=\"_blank\">Emirates Delivers and Bicester Village announce partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Air Cargo Week</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
