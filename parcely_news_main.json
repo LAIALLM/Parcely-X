@@ -304,5 +304,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV20yWEU3UXh6Q011Z1docUt2TG8zeUkxQkw3ZmQ0X3pRZHBQMVEtX3BtUzlmRXM3dnVHZDdlMGJkUnprX0NwcTkzbkNmN1JkMUl2X3ZiWkhMdGxEU1I2NkJuRnBnbFVNYWdvTnlUeU5UeTMxUVpqRTR4S09HRzVfWVpSZ2l5ZTVYNmRFY1dlb28zODNReXRycmcyT0syRUI1SVFybXNENmczaXFPc3QtVDZzUWhnUVZkSzUxaENMYkdvS2E4?oc=5",
+        "date": "2026-08-20",
+        "title": "Coco Robotics begins autonomous pizza delivery for Little Caesars - DC Velocity",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQV20yWEU3UXh6Q011Z1docUt2TG8zeUkxQkw3ZmQ0X3pRZHBQMVEtX3BtUzlmRXM3dnVHZDdlMGJkUnprX0NwcTkzbkNmN1JkMUl2X3ZiWkhMdGxEU1I2NkJuRnBnbFVNYWdvTnlUeU5UeTMxUVpqRTR4S09HRzVfWVpSZ2l5ZTVYNmRFY1dlb28zODNReXRycmcyT0syRUI1SVFybXNENmczaXFPc3QtVDZzUWhnUVZkSzUxaENMYkdvS2E4?oc=5\" target=\"_blank\">Coco Robotics begins autonomous pizza delivery for Little Caesars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DC Velocity</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
