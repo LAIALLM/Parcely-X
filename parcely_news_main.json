@@ -286,5 +286,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-20",
+        "status": "posted",
+        "tweet": "2026 e-commerce packaging waste million tons\n\n1. \ud83c\udde8\ud83c\uddf3 China 38\n2. \ud83c\uddfa\ud83c\uddf8 United States 24\n3. \ud83c\uddee\ud83c\uddf3 India 17\n4. \ud83c\udde7\ud83c\uddf7 Brazil 11\n5. \ud83c\udde9\ud83c\uddea Germany 9",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
