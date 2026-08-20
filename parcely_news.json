@@ -459,5 +459,35 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHJGbTVXUi0yWWlqNlBLMFc5Mkxja1ZzYnpwaElTNlcteTlGT185dmxVWXdycURLZkJqRWdCdmphVEV6Q3NRRzNSTGIzRE13WHp6bjFqWWZ0Q2R0WS1vWVdlWWM0SmRnTGFnbTVDUW1POWRRRmJ1akVBMncwWjExMzJDejBHQkQ4amRpaExUa1BiXzR5X0FDS2lHQmpfYkJrMjZBWFh4bklCa05zX2l2TzVFOWFFOElYMGgySFljVWhfV1N6dE04SXFBdFc?oc=5",
+        "date": "2026-08-20",
+        "title": "Mayor backs hotly debated delivery bill - Queens Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHJGbTVXUi0yWWlqNlBLMFc5Mkxja1ZzYnpwaElTNlcteTlGT185dmxVWXdycURLZkJqRWdCdmphVEV6Q3NRRzNSTGIzRE13WHp6bjFqWWZ0Q2R0WS1vWVdlWWM0SmRnTGFnbTVDUW1POWRRRmJ1akVBMncwWjExMzJDejBHQkQ4amRpaExUa1BiXzR5X0FDS2lHQmpfYkJrMjZBWFh4bklCa05zX2l2TzVFOWFFOElYMGgySFljVWhfV1N6dE04SXFBdFc?oc=5\" target=\"_blank\">Mayor backs hotly debated delivery bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queens Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejJ3WDdPcmpPTmk0WEM0aGdpTXUwOXJQaHl0SWdmcmxUM3d1ak12d1d3QlB5Vmp4UUY3SXFRcVEzbE1nQW5BRWFGLUkzelhoUmZXWGVUNDhURF9MTnd3SEZ0ZXctSmF1bkI3aU5qd1plQVZDcHRNTU5aM0dwSzVxbFRWakdQNGJpbUNGVV9sZFFSdkhFVXB6Tg?oc=5",
+        "date": "2026-08-20",
+        "title": "Walmart e-commerce firing on all cylinders - OPI - Office Products International",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOejJ3WDdPcmpPTmk0WEM0aGdpTXUwOXJQaHl0SWdmcmxUM3d1ak12d1d3QlB5Vmp4UUY3SXFRcVEzbE1nQW5BRWFGLUkzelhoUmZXWGVUNDhURF9MTnd3SEZ0ZXctSmF1bkI3aU5qd1plQVZDcHRNTU5aM0dwSzVxbFRWakdQNGJpbUNGVV9sZFFSdkhFVXB6Tg?oc=5\" target=\"_blank\">Walmart e-commerce firing on all cylinders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OPI - Office Products International</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/freightwaves-more-than-7000-jobs-cut-in-new-wave-of-closures/",
+        "date": "2026-08-20",
+        "title": "FreightWaves: More than 7,000 jobs cut in new wave of closures",
+        "summary": "<p>FREIGHTWAVES reports:<br />\nLayoffs and facility closures are mounting across U.S. freight, distribution and manufacturing networks, with more than 7,000 jobs affected by recently announced workforce reductions involving companies ranging from Tyson Foods and FedEx to Ryder, CJ Logistics America and Daimler Truck.<br />\nThe largest reduction comes from Tyson Foods, which is reportedly eliminating more than 3,000 jobs as it closes facilities in Joslin, Illinois, and Eagle Mountain, Utah. The food giant said ...</p>\n<p>The post <a href=\"https://theloadstar.com/freightwaves-more-than-7000-jobs-cut-in-new-wave-of-closures/\">FreightWaves: More than 7,000 jobs cut in new wave of closures</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
