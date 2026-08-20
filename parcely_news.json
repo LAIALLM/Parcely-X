@@ -431,5 +431,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Memphis FedEx hub sorts 2.5 million packages daily.\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-20",
+        "status": "posted",
+        "tweet": "In \ud83c\uddfa\ud83c\uddf8 New York, 42% of porch deliveries were stolen in 2025. Projections show rates climbing past 55% by 2028.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
