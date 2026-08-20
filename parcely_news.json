@@ -489,5 +489,36 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2NsRG8tbW0tSnh6NlM5a3Z4ZzFjU0dQbFBwNThLVGJSeUlVaEtUcl9LZEoxazNiajI4bnlLV1lISHNUbTBXX3E2RjlDbkRORm9HUm1GeV93bFpaeGVDQS10UDBfallqeUNURWE1V2Zocko0MG9VWHZERFpIVFlMVXMxN0c5UTJYOGFV?oc=5",
+        "date": "2026-08-20",
+        "title": "Amazon expands drone delivery to 500 locales - New Orleans CityBusiness",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2NsRG8tbW0tSnh6NlM5a3Z4ZzFjU0dQbFBwNThLVGJSeUlVaEtUcl9LZEoxazNiajI4bnlLV1lISHNUbTBXX3E2RjlDbkRORm9HUm1GeV93bFpaeGVDQS10UDBfallqeUNURWE1V2Zocko0MG9VWHZERFpIVFlMVXMxN0c5UTJYOGFV?oc=5\" target=\"_blank\">Amazon expands drone delivery to 500 locales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Orleans CityBusiness</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMGVZWU42N3UxY1FTcm9uSVJTcG1wb2o3QWdwaFdGc0MwejhkbTB4VHAyRUNKTFR5T0NsS2xEdHJHTEpfUGhDcWFQaExLN2M3bDYtblp5Y2g5TzQ4SHZ2RnNBc1ZoNzdpUFJIcThsSTByczFVLWd2OWsyeTNLWHRVUVFnMzdQS1pEb1YtNUR6aXliejg5TnVXU0pSbVdUblNlVXc0NDVQdnZyeWpaNHp5eWFqVmVhZXRaMmlPSkVhY2t2dFN3UTRER3VScjUyWnhPRXl5MkF4QlowdWRaVm9YUmVmMVRvOXU4N25YalhvVGZsTW5BejBDWkVSUzlDNGdaa1JMbW1DSFVfSVdDMV9hREx2NmN3QXhaZ1pN?oc=5",
+        "date": "2026-08-20",
+        "title": "Robot.com and Sodexo Sign Seven-Year Agreement to Expand Partnership, Scale Autonomous Delivery Innovation Across North American Campuses - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQMGVZWU42N3UxY1FTcm9uSVJTcG1wb2o3QWdwaFdGc0MwejhkbTB4VHAyRUNKTFR5T0NsS2xEdHJHTEpfUGhDcWFQaExLN2M3bDYtblp5Y2g5TzQ4SHZ2RnNBc1ZoNzdpUFJIcThsSTByczFVLWd2OWsyeTNLWHRVUVFnMzdQS1pEb1YtNUR6aXliejg5TnVXU0pSbVdUblNlVXc0NDVQdnZyeWpaNHp5eWFqVmVhZXRaMmlPSkVhY2t2dFN3UTRER3VScjUyWnhPRXl5MkF4QlowdWRaVm9YUmVmMVRvOXU4N25YalhvVGZsTW5BejBDWkVSUzlDNGdaa1JMbW1DSFVfSVdDMV9hREx2NmN3QXhaZ1pN?oc=5\" target=\"_blank\">Robot.com and Sodexo Sign Seven-Year Agreement to Expand Partnership, Scale Autonomous Delivery Innovation Across North American Campuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Robot.com and Sodexo sign a seven-year agreement to expand their partnership and scale autonomous delivery across North American campuses."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMGVZWU42N3UxY1FTcm9uSVJTcG1wb2o3QWdwaFdGc0MwejhkbTB4VHAyRUNKTFR5T0NsS2xEdHJHTEpfUGhDcWFQaExLN2M3bDYtblp5Y2g5TzQ4SHZ2RnNBc1ZoNzdpUFJIcThsSTByczFVLWd2OWsyeTNLWHRVUVFnMzdQS1pEb1YtNUR6aXliejg5TnVXU0pSbVdUblNlVXc0NDVQdnZyeWpaNHp5eWFqVmVhZXRaMmlPSkVhY2t2dFN3UTRER3VScjUyWnhPRXl5MkF4QlowdWRaVm9YUmVmMVRvOXU4N25YalhvVGZsTW5BejBDWkVSUzlDNGdaa1JMbW1DSFVfSVdDMV9hREx2NmN3QXhaZ1pN?oc=5",
+        "date": "2026-08-20",
+        "title": "Robot.com and Sodexo Sign Seven-Year Agreement to Expand Partnership, Scale Autonomous Delivery Innovation Across North American Campuses - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQMGVZWU42N3UxY1FTcm9uSVJTcG1wb2o3QWdwaFdGc0MwejhkbTB4VHAyRUNKTFR5T0NsS2xEdHJHTEpfUGhDcWFQaExLN2M3bDYtblp5Y2g5TzQ4SHZ2RnNBc1ZoNzdpUFJIcThsSTByczFVLWd2OWsyeTNLWHRVUVFnMzdQS1pEb1YtNUR6aXliejg5TnVXU0pSbVdUblNlVXc0NDVQdnZyeWpaNHp5eWFqVmVhZXRaMmlPSkVhY2t2dFN3UTRER3VScjUyWnhPRXl5MkF4QlowdWRaVm9YUmVmMVRvOXU4N25YalhvVGZsTW5BejBDWkVSUzlDNGdaa1JMbW1DSFVfSVdDMV9hREx2NmN3QXhaZ1pN?oc=5\" target=\"_blank\">Robot.com and Sodexo Sign Seven-Year Agreement to Expand Partnership, Scale Autonomous Delivery Innovation Across North American Campuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Robot.com and Sodexo sign a seven-year agreement to expand their partnership and scale autonomous delivery across North American campuses",
+        "type": "news"
     }
 ]
