@@ -522,5 +522,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTFLVmt1TFVPVGQybE1KYWNHZE1OMmdMVTF0TWthbFhRdHlvYl9BMkZ2dXp1NGp4aC1aQ1p2ejZ2Sl9VZG9nc0tTN1B1ZkgwTjJrY1FRT0FiNWVGY3lEemMzbU94TzBZbFF4WWxpVmMtdGE4RkFQRXFUZkpKeVp5RDZudzV4WUgxOVNNSHl0SkJETDN0VUQ0aVdaTmd0eW84X29n?oc=5",
+        "date": "2026-08-21",
+        "title": "Walmart\u2019s E-Commerce Sales Rise as Deliveries Accelerate - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTFLVmt1TFVPVGQybE1KYWNHZE1OMmdMVTF0TWthbFhRdHlvYl9BMkZ2dXp1NGp4aC1aQ1p2ejZ2Sl9VZG9nc0tTN1B1ZkgwTjJrY1FRT0FiNWVGY3lEemMzbU94TzBZbFF4WWxpVmMtdGE4RkFQRXFUZkpKeVp5RDZudzV4WUgxOVNNSHl0SkJETDN0VUQ0aVdaTmd0eW84X29n?oc=5\" target=\"_blank\">Walmart\u2019s E-Commerce Sales Rise as Deliveries Accelerate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/move-to-greener-shipping-gathers-pace-with-lng-the-favourite-new-fuel/",
+        "date": "2026-08-21",
+        "title": "Move to greener shipping gathers pace, with LNG the favourite new fuel",
+        "summary": "<p>The shipping industry\u2019s shift towards alternative fuels is accelerating, but debate over how it should be regulated is intensifying as the International Maritime Organization (IMO) considers its Net-Zero Framework.\u00a0<br />\nLaura DiBella, chair of the US Federal Maritime Commission (FMC), warned yesterday that the IMO framework in its current form risked restricting the fuel choices available.\u00a0<br />\n\u201cThis initiative raises more questions than it answers and must be rethought before international acceptance and implementation,\u201d ...</p>\n<p>The post <a href=\"https://theloadstar.com/move-to-greener-shipping-gathers-pace-with-lng-the-favourite-new-fuel/\">Move to greener shipping gathers pace, with LNG the favourite new fuel</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/asia-uswc-rates-surge-as-shippers-look-to-beat-panama-canal-restrictions/",
+        "date": "2026-08-21",
+        "title": "Asia-USWC rates surge as shippers look to beat Panama Canal restrictions",
+        "summary": "<p>Asia-US west coast rates are surging at an even faster pace this week ahead of concerns around the impact of vessel reductions through the Panama Canal.<br />\nHowever, it seems the speed of decline of Asia-North Europe rates has been arrested.<br />\nAccording to Drewry\u2019s World Container Index (WCI), Shanghai-Los Angeles and Shanghai-New York spots climbed 9% week on week, to $6,802 and $9,507 per 40ft comparing favourably with the 6% growth rate recorded ...</p>\n<p>The post <a href=\"https://theloadstar.com/asia-uswc-rates-surge-as-shippers-look-to-beat-panama-canal-restrictions/\">Asia-USWC rates surge as shippers look to beat Panama Canal restrictions</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
