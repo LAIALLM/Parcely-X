@@ -562,5 +562,35 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEtOZi1oM3hGcnBGZ1VLYy16cXd5LTBqd000cm80R2ltV3BnZklPbnRTNHFJSm0wdEgzemhZZE9Pd3djckVrZVVvcU5tbG55WFQwNGFrMWtUUmU1M2dKdmEyRUxUSmNQMUNDM2o4RHVRcE5FaHlRTlNyWlJHYWxUZEVMRnl5RlFDYWhqVVdIY3o1eDV2YlFId1kyMjJPaF9rN3psbHo2Y2lSeC1hLV9yeg?oc=5",
+        "date": "2026-08-21",
+        "title": "Walmart expands 30-minutes-or-less delivery as speed woos shoppers - Supply Chain Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEtOZi1oM3hGcnBGZ1VLYy16cXd5LTBqd000cm80R2ltV3BnZklPbnRTNHFJSm0wdEgzemhZZE9Pd3djckVrZVVvcU5tbG55WFQwNGFrMWtUUmU1M2dKdmEyRUxUSmNQMUNDM2o4RHVRcE5FaHlRTlNyWlJHYWxUZEVMRnl5RlFDYWhqVVdIY3o1eDV2YlFId1kyMjJPaF9rN3psbHo2Y2lSeC1hLV9yeg?oc=5\" target=\"_blank\">Walmart expands 30-minutes-or-less delivery as speed woos shoppers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/",
+        "date": "2026-08-21",
+        "title": "Rise in US domestic intermodal traffic a return to \u2018historic norm\u2019",
+        "summary": "<p>Tight capacity and soaring rates in the truckload sector have prompted US shippers to turn increasingly to intermodal transport.<br />\nBut although enthusiasm for the alternative appears to be waning, it remains more fluid than trucking, despite predictions of rising volumes in September and October.<br />\nThe honeymoon seems to be drawing to a close amid shipper complaints of slower train speeds and less-reliable pick-up and delivery schedules. The pricing advantage has also been ...</p>\n<p>The post <a href=\"https://theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/\">Rise in US domestic intermodal traffic a return to &#8216;historic norm&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/ck-hutchison-wants-panama-to-pay-more-than-1-5bn-in-compensation-for-terminals/",
+        "date": "2026-08-21",
+        "title": "CK Hutchison wants $1.5bn in Panama terminals compensation",
+        "summary": "<p>CK Hutchison Holdings said yesterday it has initiated international arbitration proceedings against the government of Panama, seeking more than $1.5bn in damages following the Central American country\u2019s takeover of the Hong Kong-based conglomerate&#8217;s strategically vital port terminals at Balboa and Crist\u00f3bal.<br />\nThe move escalates a bitter dispute that began in 2025, when Panamanian authorities launched a series of measures against CK Hutchison\u2019s local subsidiary, Panama Ports Company (PPC). Those actions culminated ...</p>\n<p>The post <a href=\"https://theloadstar.com/ck-hutchison-wants-panama-to-pay-more-than-1-5bn-in-compensation-for-terminals/\">CK Hutchison wants $1.5bn in Panama terminals compensation</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
