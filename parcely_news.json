@@ -1,41 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-11",
-        "status": "posted",
-        "tweet": "2026 weekly online orders per household\n\n1. \ud83c\uddf8\ud83c\uddec Singapore 4.8\n2. \ud83c\uddf0\ud83c\uddf7 Seoul 4.5\n3. \ud83c\uddef\ud83c\uddf5 Tokyo 4.2\n4. \ud83c\udde8\ud83c\uddf3 Shanghai 3.9\n5. \ud83c\uddec\ud83c\udde7 London 3.7",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVNKUW4xSTJocldSLTNsbXNpNmRMQ0J0VzJ1NzI2ZjlWNENsSk5yWUNlT0tKcWZpSGxCMU10Y1E3OGJSaTFCbDRJbXlzdngxOHdlRDRHREw1SFZBYVg5R0xTa2czNUFWUVlkQTNuUVlDd0JfYjJqckJkZWtaYWRqMGVCQjhpX3pUT1o2SE91Ukp0NGx2ZFMzblZqdThjV2FUbmc3dFNsRWdlWl96REFkVTdtQm1VRDFXSVFKRGR5b1dndmkwQkE?oc=5",
-        "date": "2026-08-11",
-        "title": "Market Kurly customers complain of allegedly thawed deliveries amid heat wave - Korea JoongAng Daily",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVNKUW4xSTJocldSLTNsbXNpNmRMQ0J0VzJ1NzI2ZjlWNENsSk5yWUNlT0tKcWZpSGxCMU10Y1E3OGJSaTFCbDRJbXlzdngxOHdlRDRHREw1SFZBYVg5R0xTa2czNUFWUVlkQTNuUVlDd0JfYjJqckJkZWtaYWRqMGVCQjhpX3pUT1o2SE91Ukp0NGx2ZFMzblZqdThjV2FUbmc3dFNsRWdlWl96REFkVTdtQm1VRDFXSVFKRGR5b1dndmkwQkE?oc=5\" target=\"_blank\">Market Kurly customers complain of allegedly thawed deliveries amid heat wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
-        "date": "2026-08-11",
-        "title": "Ceva Logistics \u2013\u00a0IT breach dents confidence further, several BCOs exposed",
-        "summary": "<p>Data retention practices and third-party dependencies at major 3PLs face an unprecedented reckoning after a cyberattack on CMA CGM\u2019s logistics arm Ceva Logistics compromised eight European warehouses, spilling customer delivery metadata across multiple consumer brands, financial institutions, and platforms.<br />\nThe breach at Ceva Logistics \u2013 which took place between late July and early August \u2013 has proven to be far more than an isolated incident for a single shipper. While initial ...</p>\n<p>The post <a href=\"https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/\">Ceva Logistics \u2013\u00a0IT breach dents confidence further, several BCOs exposed</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-11",
-        "status": "posted",
-        "tweet": "Apex Supply Chain processed 3.2 million parcels daily at its \ud83c\udde8\ud83c\uddf3 Shenzhen facility.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-08-12",
         "status": "posted",
         "tweet": "2026 last-mile parcel cost per parcel USD\n\n1. \ud83c\uddfa\ud83c\uddf8 Los Angeles 10.50\n2. \ud83c\uddfa\ud83c\uddf8 Chicago 9.80\n3. \ud83c\uddfa\ud83c\uddf8 New York 9.60\n4. \ud83c\udde8\ud83c\udde6 Toronto 8.90\n5. \ud83c\uddec\ud83c\udde7 London 8.70",
@@ -520,5 +485,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Robot.com and Sodexo sign a seven-year agreement to expand their partnership and scale autonomous delivery across North American campuses",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 DHL network moved 4.2 million tons of air freight in 2025.",
+        "type": "infrastructure"
     }
 ]
