@@ -573,5 +573,12 @@
         "tweet": "Top cities by smart building growth rate to 2030\n\n1. \ud83c\udde6\ud83c\uddea Dubai\n2. \ud83c\uddf8\ud83c\uddec Singapore\n3. \ud83c\udde8\ud83c\uddf3 Shanghai\n4. \ud83c\uddfa\ud83c\uddf8 San Francisco\n5. \ud83c\uddf0\ud83c\uddf7 Seoul",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-08-23",
+        "status": "posted",
+        "tweet": "TransGlobal Logistics \ud83c\uddfa\ud83c\uddf8 Los Angeles site processed 2.8 million containers in 2025.",
+        "type": "infrastructure"
     }
 ]
