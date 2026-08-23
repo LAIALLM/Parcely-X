@@ -234,5 +234,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea German logistics firm routes 3.2 million shipments daily through its central hub.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-23",
+        "status": "posted",
+        "tweet": "2026 projections: average weekly online food deliveries per household\n1. \ud83c\uddf8\ud83c\uddec Singapore: 4.8\n2. \ud83c\uddf0\ud83c\uddf7 Seoul: 4.3\n3. \ud83c\uddec\ud83c\udde7 London: 3.9\n4. \ud83c\uddfa\ud83c\uddf8 New York: 3.7\n5. \ud83c\uddef\ud83c\uddf5 Tokyo: 3.5",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
