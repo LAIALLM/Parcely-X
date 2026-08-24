@@ -1,51 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-14",
-        "status": "posted",
-        "tweet": "2026 electric share of urban delivery fleets\n\n1. \ud83c\uddf3\ud83c\uddf1 Amsterdam 88%\n2. \ud83c\uddeb\ud83c\uddf7 Paris 83%\n3. \ud83c\uddec\ud83c\udde7 London 77%\n4. \ud83c\udde8\ud83c\uddf3 Shenzhen 72%\n5. \ud83c\uddfa\ud83c\uddf8 New York 65%",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": "https://theloadstar.com/shipping-disruption-sees-rate-increase-fire-spread-from-spots-to-contracts/",
-        "date": "2026-08-14",
-        "title": "Shipping disruption sees \u2018rate increase fire\u2019 spread from spots to contracts",
-        "summary": "<p>From one week to the next, it has been more of the same: transpacific rates on the climb; but with the cost of shipping into Europe showing an even more precipitous drop than last week, there are major question marks over the latest carrier plans to induce price hikes this week.<br />\nBeginning with the good news for the shipping lines, the amount they can charge from Asia into both US coasts ...</p>\n<p>The post <a href=\"https://theloadstar.com/shipping-disruption-sees-rate-increase-fire-spread-from-spots-to-contracts/\">Shipping disruption sees &#8216;rate increase fire&#8217; spread from spots to contracts</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/customs-crackdowns-on-chinese-ecommerce-threaten-airfreight-demand/",
-        "date": "2026-08-14",
-        "title": "Customs crackdowns on Chinese ecommerce threaten airfreight demand",
-        "summary": "<p>Tougher customs treatment of low-value airfreight shipments is threatening to reverse some of the ecommerce sector\u2019s rapid growth, according to new analysis from Trade and Transport Group.</p>\n<p>The consultancy&#8217;s latest report estimates that cross-border ecommerce accounted for almost 18% of intercontinental air cargo traffic last year, despite representing only around 6% of global online sales.</p>\n<p>China is overwhelmingly the dominant origin, accounting for more than 80% of cross-border ecommerce revenue, made up ...</p>\n<p>The post <a href=\"https://theloadstar.com/customs-crackdowns-on-chinese-ecommerce-threaten-airfreight-demand/\">Customs crackdowns on Chinese ecommerce threaten airfreight demand</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://theloadstar.com/sinolines-and-antong-combination-a-formidable-rival-for-forwarders-in-asia/",
-        "date": "2026-08-14",
-        "title": "Sinolines and Antong combination a formidable rival for forwarders in Asia",
-        "summary": "<p>Freight forwarders could face a changing competitive landscape in China and intra-Asia shipping: Sinotrans Container Lines (Sinolines) has moved to take control of Antong Holdings, combining one of China&#8217;s major domestic container logistics networks with an international liner.<br />\nOn Wednesday, China Merchants Energy Shipping (CMES) informed the Shanghai Stock Exchange that its subsidiary Sinolines now held 14.94% of the shares of Antong, the holding company of Quanzhou Ansheng Shipping, making it ...</p>\n<p>The post <a href=\"https://theloadstar.com/sinolines-and-antong-combination-a-formidable-rival-for-forwarders-in-asia/\">Sinolines and Antong combination a formidable rival for forwarders in Asia</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-14",
-        "status": "posted",
-        "tweet": "Apex Logistics moved 2 million tons of goods each day through \ud83c\udde9\ud83c\uddea Germany last year.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-08-15",
         "status": "posted",
         "tweet": "Logistics firm moved 4.7 million tons of freight daily on its \ud83c\udde8\ud83c\uddf3 China rail lines in 2025.",
@@ -252,5 +207,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-24",
+        "status": "posted",
+        "tweet": "TransGlobal moved 1.4 million tons of freight daily through its \ud83c\udde8\ud83c\uddf3 China terminals last year.",
+        "type": "infrastructure"
     }
 ]
