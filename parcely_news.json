@@ -525,5 +525,13 @@
         "status": "posted",
         "tweet": "TransGlobal Logistics \ud83c\uddfa\ud83c\uddf8 Los Angeles site processed 2.8 million containers in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-24",
+        "status": "posted",
+        "tweet": "By 2026 global e-commerce faces 850 million failed first-attempt deliveries each year.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
