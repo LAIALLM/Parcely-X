@@ -583,5 +583,25 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEw2WkFCSkFNTTBZNTk0ZWswcldjc2JydVdST2E3aWo2R2pUT3VEQnFiMm1KNW00Y2hfOG4tcmtzN21ib1ZqLXl3Mmx4X1lKMmMxX3JqSjl0MEdCbG1oenRKUEhRYndfT2xUZXJnTFY2Y0JaZ3V2TE53S2RiT3JWeFdYU002N0hHYUZMSUMtdjNaT0dwQmhtVg?oc=5",
+        "date": "2026-08-24",
+        "title": "Why more companies are investing in same-day shipping - Modern Retail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEw2WkFCSkFNTTBZNTk0ZWswcldjc2JydVdST2E3aWo2R2pUT3VEQnFiMm1KNW00Y2hfOG4tcmtzN21ib1ZqLXl3Mmx4X1lKMmMxX3JqSjl0MEdCbG1oenRKUEhRYndfT2xUZXJnTFY2Y0JaZ3V2TE53S2RiT3JWeFdYU002N0hHYUZMSUMtdjNaT0dwQmhtVg?oc=5\" target=\"_blank\">Why more companies are investing in same-day shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Retail</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/singapore-hits-back-at-us-claims-of-shadow-transhipment/",
+        "date": "2026-08-24",
+        "title": "Singapore hits back at US claims of \u2018shadow transhipment\u2019",
+        "summary": "<p>Following US allegations that Singapore is part of a &#8220;shadow transhipment network&#8221; used by Chinese exporters to circumvent tariffs, its prime minister, Lawrence Wong (pictured), said it would be &#8220;unrealistic&#8221; to expect the city-state to determine the movement and origin of every consignment passing through its port. .<br />\nAt the National Day rally, Mr Wong hit back at the White House report naming Singapore among more than 40 countries allegedly involved ...</p>\n<p>The post <a href=\"https://theloadstar.com/singapore-hits-back-at-us-claims-of-shadow-transhipment/\">Singapore hits back at US claims of &#8216;shadow transhipment&#8217;</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
