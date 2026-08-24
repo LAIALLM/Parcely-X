@@ -284,5 +284,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-24",
+        "status": "posted",
+        "tweet": "In 2026, residents of large \ud83c\uddfa\ud83c\uddf8 cities order food delivery 3 times weekly on average. \nOnline grocery orders occur once per week.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
