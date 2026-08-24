@@ -553,5 +553,35 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMGZrV09JX2JpSWt0ZHhMbzhUZFBaWnduckMwMjlWZVNDUm5uNkVZb0tNMXJ5dlhmZURjZGJGQ1JFY3RaR1lTTlVRRkNCQXg4THk5cmJvSnJ4UHUzR3BGbzRNTC1qb2l4LWVhVXlTTXpxSXRiVmJMV2NkeG83RmR3LW1QMEhLNGRwd0N3Y3dzQU5ueEpXb1gySnlhTXFLZjkzV2g0dDdxNFVVSGFUeDJhUmNrWHo5RXVlSFBDOHlZd3g3aDZEbzAxYTI1MHV2d3U4S1ktVEhadFMtNWJleWV2X0JwSVlmT1ZCcGVBRUU4YmJIYWRJYXh5UWlIVUFTU1k1c2Zr?oc=5",
+        "date": "2026-08-24",
+        "title": "Walmart\u2019s stores are becoming same-day fulfillment capacity - MarketScale",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPMGZrV09JX2JpSWt0ZHhMbzhUZFBaWnduckMwMjlWZVNDUm5uNkVZb0tNMXJ5dlhmZURjZGJGQ1JFY3RaR1lTTlVRRkNCQXg4THk5cmJvSnJ4UHUzR3BGbzRNTC1qb2l4LWVhVXlTTXpxSXRiVmJMV2NkeG83RmR3LW1QMEhLNGRwd0N3Y3dzQU5ueEpXb1gySnlhTXFLZjkzV2g0dDdxNFVVSGFUeDJhUmNrWHo5RXVlSFBDOHlZd3g3aDZEbzAxYTI1MHV2d3U4S1ktVEhadFMtNWJleWV2X0JwSVlmT1ZCcGVBRUU4YmJIYWRJYXh5UWlIVUFTU1k1c2Zr?oc=5\" target=\"_blank\">Walmart\u2019s stores are becoming same-day fulfillment capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScale</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/oceanx-seoul-beckons-zims-183-outperformance-trade-wars-back-on/",
+        "date": "2026-08-24",
+        "title": "OceanX: Seoul beckons; Zim\u2019s $183 (outperformance); trade wars back on",
+        "summary": "<p>Greetings from Seoul!<br />\nReached South Korea finally on Thursday last week after a quick stop in Shanghai to catch up with a colleague and have some local dumplings.<br />\nGreat to be back. My last trip out here was in Jan 2023, when the remnants of the pandemic were still present.<br />\nNice to see Seoul fully back&#8230; being able to look into people\u2019s beautiful faces instead of facing masks everywhere (the country is a ...</p>\n<p>The post <a href=\"https://theloadstar.com/oceanx-seoul-beckons-zims-183-outperformance-trade-wars-back-on/\">OceanX: Seoul beckons; Zim&#8217;s $183 (outperformance); trade wars back on</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/pressure-and-surcharges-on-the-increase-across-middle-east-ports/",
+        "date": "2026-08-24",
+        "title": "Pressure \u2013 and surcharges \u2013 on the increase across Middle East ports",
+        "summary": "<p>There seems to be no letup in capacity pressures plaguing alternative Middle East hubs, after container lines extend the levy of congestion surcharges to more gateways.<br />\nAfter Saudi Arabia&#8217;s Jeddah, Khor Fakkan in the UAE has now been hit by congestion surcharges from certain container carriers seeking to recoup the extra operating costs they claim to be due to the persistent logjam.<br />\nA $450 per container fee by Singapore-based Regional Container Lines ...</p>\n<p>The post <a href=\"https://theloadstar.com/pressure-and-surcharges-on-the-increase-across-middle-east-ports/\">Pressure \u2013 and surcharges \u2013 on the increase across Middle East ports</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
