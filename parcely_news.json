@@ -600,5 +600,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJGWHJ3ZFc3TWlIeHhzbzJid2w4ZF9Ua2xoS2JmZXppQ3pGRGpqdUw3bjhJV0J5RnZyMU1GYW9WN0doeU02WFhlSnk4eXc1MU5qZG9SbmNtU3gxUlZjd0hDV19vQzJZa0NwU3RMZUdtNmNvZ012dmxDRFl4bF9DRnBSblZ0UnV5OS1jVjdGOGtWR1A5VGp1TVJRREx4bkM4?oc=5",
+        "date": "2026-08-25",
+        "title": "E-mart Bets on Stores, Quick Delivery and Revamps to Fight Online Rivals - Seoul Economic Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJGWHJ3ZFc3TWlIeHhzbzJid2w4ZF9Ua2xoS2JmZXppQ3pGRGpqdUw3bjhJV0J5RnZyMU1GYW9WN0doeU02WFhlSnk4eXc1MU5qZG9SbmNtU3gxUlZjd0hDV19vQzJZa0NwU3RMZUdtNmNvZ012dmxDRFl4bF9DRnBSblZ0UnV5OS1jVjdGOGtWR1A5VGp1TVJRREx4bkM4?oc=5\" target=\"_blank\">E-mart Bets on Stores, Quick Delivery and Revamps to Fight Online Rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
