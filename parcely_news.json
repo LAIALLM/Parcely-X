@@ -583,5 +583,12 @@
         "tweet": "In \ud83c\uddfa\ud83c\uddf8 United States last-mile vans are projected to emit 48 million tons of CO2 in 2026. Building-integrated networks in \ud83c\udde9\ud83c\uddea Germany cut that total by 55 percent.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-08-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx hubs process 15 million packages daily",
+        "type": "infrastructure"
     }
 ]
