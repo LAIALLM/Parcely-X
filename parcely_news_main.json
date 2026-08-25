@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-15",
-        "status": "posted",
-        "tweet": "Logistics firm moved 4.7 million tons of freight daily on its \ud83c\udde8\ud83c\uddf3 China rail lines in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-15",
-        "status": "posted",
-        "tweet": "Packaging waste from e-commerce deliveries reached 25 million tons worldwide in 2026.\n\nDouble the amount recorded in 2023.",
-        "type": "statistical",
-        "category": "packaging waste from e-commerce deliveries worldwide"
-    },
-    {
-        "link": null,
         "date": "2026-08-16",
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics firm moves 120 million parcels daily through its network.",
@@ -292,5 +277,12 @@
         "tweet": "In 2026, residents of large \ud83c\uddfa\ud83c\uddf8 cities order food delivery 3 times weekly on average. \nOnline grocery orders occur once per week.",
         "type": "statistical",
         "category": "online grocery and food delivery frequency in large cities"
+    },
+    {
+        "link": null,
+        "date": "2026-08-25",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea German logistics operator moves 1.75 million shipments daily across its network.",
+        "type": "infrastructure"
     }
 ]
