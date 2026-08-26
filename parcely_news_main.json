@@ -335,5 +335,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics firm moves 4.8 million tons of freight daily on its rail lines.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-26",
+        "status": "posted",
+        "tweet": "2026 projected package theft per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 Chicago 47\n2. \ud83c\uddfa\ud83c\uddf8 New York 44\n3. \ud83c\uddfa\ud83c\uddf8 Los Angeles 41\n4. \ud83c\udde8\ud83c\udde6 Toronto 35\n5. \ud83c\uddec\ud83c\udde7 London 33",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
