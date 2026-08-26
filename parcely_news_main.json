@@ -328,5 +328,12 @@
         "status": "posted",
         "tweet": "NEWS: Airbound raises $37M to build an autonomous drone delivery network.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-26",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics firm moves 4.8 million tons of freight daily on its rail lines.",
+        "type": "infrastructure"
     }
 ]
