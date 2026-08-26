@@ -545,5 +545,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-26",
+        "status": "posted",
+        "tweet": "Smart homes and offices in \ud83c\udde8\ud83c\uddf3 China hit 5 million units in 2026 after 80 percent growth in three years.",
+        "type": "statistical",
+        "category": "growth of smart residential and office buildings"
     }
 ]
