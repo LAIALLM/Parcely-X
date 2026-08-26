@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-16",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China logistics firm moves 120 million parcels daily through its network.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-16",
-        "status": "posted",
-        "tweet": "By 2026 electric vans and cargo bikes will handle 30 percent of urban deliveries in \ud83c\uddfa\ud83c\uddf8 New York.",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlpDYzhsdjRWbzByTjNsUkJvWjkzVEJNTk4xSUJpQU5QTzN1UjR2RGJCZ2V5QXd1REFxcl9DbHZSNFdOZDBJWjM0SmtxNHY3YXpiNjBxREtGSlhib2dxMW44bG9jX2N1YnlucHdDc3UteHNnLU1wQlZqbjYzLVZHMlB2Ql9QZWY2TVc3V0lKNC1mVElMaGhJOG9IWWYtQTZRZWphLXZkU2RQX0w0YmMwcXVjSG1NRmFLVlhkS1hrZWxzamVaVnNINmNYTGhjLTTSAdwBQVVfeXFMTUU0VE1TRXdrWnQ2Zks5TXhOOGxwZmQ4X0hzSjJBTHRsWVlnQ1c4Q25YTGhValFpNGpIZ3p2TTdSUEg4c0JZejNpNWF6V1NaVW5pS0tlNGtPb3dsRllfNjhkZDg2R1JienJUN1VYR0tmZFVHa0VBNVd0WmRkdTlZWElOUkNndHZaZTZIUGx0R1oyaWF4VVcxaTctYTFBQkpjVkZMOWFnUkZrM0NGcTdMTDNnZnh1LTQxUko5aWotSFN2aXBMUHVUYlhzRmt1MlgxMnRWb1B3b005WkkxNA?oc=5",
-        "date": "2026-08-16",
-        "title": "Not every shipment needs to move in 10 or 30 minutes: Blue Dart CCO Dipanjan Banerjee - Fortune India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlpDYzhsdjRWbzByTjNsUkJvWjkzVEJNTk4xSUJpQU5QTzN1UjR2RGJCZ2V5QXd1REFxcl9DbHZSNFdOZDBJWjM0SmtxNHY3YXpiNjBxREtGSlhib2dxMW44bG9jX2N1YnlucHdDc3UteHNnLU1wQlZqbjYzLVZHMlB2Ql9QZWY2TVc3V0lKNC1mVElMaGhJOG9IWWYtQTZRZWphLXZkU2RQX0w0YmMwcXVjSG1NRmFLVlhkS1hrZWxzamVaVnNINmNYTGhjLTTSAdwBQVVfeXFMTUU0VE1TRXdrWnQ2Zks5TXhOOGxwZmQ4X0hzSjJBTHRsWVlnQ1c4Q25YTGhValFpNGpIZ3p2TTdSUEg4c0JZejNpNWF6V1NaVW5pS0tlNGtPb3dsRllfNjhkZDg2R1JienJUN1VYR0tmZFVHa0VBNVd0WmRkdTlZWElOUkNndHZaZTZIUGx0R1oyaWF4VVcxaTctYTFBQkpjVkZMOWFnUkZrM0NGcTdMTDNnZnh1LTQxUko5aWotSFN2aXBMUHVUYlhzRmt1MlgxMnRWb1B3b005WkkxNA?oc=5\" target=\"_blank\">Not every shipment needs to move in 10 or 30 minutes: Blue Dart CCO Dipanjan Banerjee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune India</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-17",
         "status": "posted",
         "tweet": "Projected 2026 package theft leaders\n\n1. \ud83c\uddfa\ud83c\uddf8 San Francisco\n2. \ud83c\uddfa\ud83c\uddf8 Los Angeles\n3. \ud83c\uddfa\ud83c\uddf8 New York\n4. \ud83c\uddfa\ud83c\uddf8 Chicago\n5. \ud83c\uddfa\ud83c\uddf8 Seattle",
@@ -322,5 +297,36 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGZlRWk1WmJnZ3JZSlQ2Tm5KS0w2V1dUTklxbHBNMXdWZDZvV2R1cVlzY0N3OFU0bTRyNy1sV2x4WTBoMkNYZXlUOUo0Z3lWUTh0MUp1ek94ZnhMWVhZb3daZ0o1TzZiZTBFc3pMcWdiR3lRU1JhUFZQQ05uUjNZYjNITU1aUnNKUy00?oc=5",
+        "date": "2026-08-26",
+        "title": "Airbound raises $37M for autonomous drone delivery network - IoT News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGZlRWk1WmJnZ3JZSlQ2Tm5KS0w2V1dUTklxbHBNMXdWZDZvV2R1cVlzY0N3OFU0bTRyNy1sV2x4WTBoMkNYZXlUOUo0Z3lWUTh0MUp1ek94ZnhMWVhZb3daZ0o1TzZiZTBFc3pMcWdiR3lRU1JhUFZQQ05uUjNZYjNITU1aUnNKUy00?oc=5\" target=\"_blank\">Airbound raises $37M for autonomous drone delivery network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IoT News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Airbound secures $37M to expand its autonomous drone delivery network."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM281SXptb05kUTZlUDFCRnFYMVdwaDRaLXE2bkpBYWZwc3p1M2FzR2l0djdCSDZfTXBrdDkySllEdWltV1kwWEtocF9FTVlHRmk2NzkyRGo0Z29GelB2M2dXVGhMSnAwX2o0ay1ZZmNCUG01UkxIMVF3bHpMVi1XTTNPbEtnSGJXSHQzbl9qRXE?oc=5",
+        "date": "2026-08-26",
+        "title": "Indian autonomous drone delivery startup Airbound secures $37m - DealStreetAsia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOM281SXptb05kUTZlUDFCRnFYMVdwaDRaLXE2bkpBYWZwc3p1M2FzR2l0djdCSDZfTXBrdDkySllEdWltV1kwWEtocF9FTVlHRmk2NzkyRGo0Z29GelB2M2dXVGhMSnAwX2o0ay1ZZmNCUG01UkxIMVF3bHpMVi1XTTNPbEtnSGJXSHQzbl9qRXE?oc=5\" target=\"_blank\">Indian autonomous drone delivery startup Airbound secures $37m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DealStreetAsia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGZlRWk1WmJnZ3JZSlQ2Tm5KS0w2V1dUTklxbHBNMXdWZDZvV2R1cVlzY0N3OFU0bTRyNy1sV2x4WTBoMkNYZXlUOUo0Z3lWUTh0MUp1ek94ZnhMWVhZb3daZ0o1TzZiZTBFc3pMcWdiR3lRU1JhUFZQQ05uUjNZYjNITU1aUnNKUy00?oc=5",
+        "date": "2026-08-26",
+        "title": "Airbound raises $37M for autonomous drone delivery network - IoT News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGZlRWk1WmJnZ3JZSlQ2Tm5KS0w2V1dUTklxbHBNMXdWZDZvV2R1cVlzY0N3OFU0bTRyNy1sV2x4WTBoMkNYZXlUOUo0Z3lWUTh0MUp1ek94ZnhMWVhZb3daZ0o1TzZiZTBFc3pMcWdiR3lRU1JhUFZQQ05uUjNZYjNITU1aUnNKUy00?oc=5\" target=\"_blank\">Airbound raises $37M for autonomous drone delivery network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IoT News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: Airbound raises $37M to build an autonomous drone delivery network.",
+        "type": "news"
     }
 ]
