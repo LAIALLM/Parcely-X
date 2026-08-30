@@ -247,5 +247,13 @@
         "tweet": "2026 projected kg CO2 cut per parcel from building delivery systems\n\n1. \ud83c\uddfa\ud83c\uddf8 New York 0.82\n2. \ud83c\uddec\ud83c\udde7 London 0.71\n3. \ud83c\udde8\ud83c\uddf3 Beijing 0.68\n4. \ud83c\uddef\ud83c\uddf5 Tokyo 0.64\n5. \ud83c\uddf0\ud83c\uddf7 Seoul 0.59",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-08-30",
+        "status": "posted",
+        "tweet": "By 2026, residents in large \ud83c\uddfa\ud83c\uddf8 cities average 3 online grocery or meal orders per week.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
