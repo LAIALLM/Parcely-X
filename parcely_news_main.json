@@ -247,5 +247,13 @@
         "status": "posted",
         "tweet": "Logistics company handled 1.2 million shipments per day from its \ud83c\uddec\ud83c\udde7 UK facilities in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-31",
+        "status": "posted",
+        "tweet": "2026 last-mile costs per parcel in large metros\n\ud83c\uddfa\ud83c\uddf8 $9.50\n\ud83c\uddea\ud83c\uddfa $7.10",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
