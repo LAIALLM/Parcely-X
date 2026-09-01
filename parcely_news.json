@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-22",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx infrastructure handled 22 million packages daily in 2026\n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-22",
-        "status": "posted",
-        "tweet": "In \ud83c\uddfa\ud83c\uddf8 large metros, last-mile delivery costs average $12.40 per parcel in 2026. Projections show this rising to $14.80 by 2028 as urban demand climbs.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": "https://theloadstar.com/bbc-canada-says-it-will-match-us-tariffs-dollar-for-dollar-as-trade-talks-break-down/",
-        "date": "2026-08-22",
-        "title": "BBC: Canada says it will match US tariffs \u2018dollar for dollar\u2019 as trade talks break down",
-        "summary": "<p>BBC reports:<br />\nA fresh wave of US tariffs on a wide array of Canadian goods came into effect on Saturday after a last-minute breakdown in trade talks.<br />\nAnnouncing the suspension of negotiations shortly before the Friday night deadline, Canadian Prime Minister Mark Carney said he would impose reciprocal tariffs on US goods &#8220;dollar for dollar&#8221;.<br />\nCarney said &#8220;last-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability ...</p>\n<p>The post <a href=\"https://theloadstar.com/bbc-canada-says-it-will-match-us-tariffs-dollar-for-dollar-as-trade-talks-break-down/\">BBC: Canada says it will match US tariffs &#8216;dollar for dollar&#8217; as trade talks break down</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-23",
         "status": "posted",
         "tweet": "Top cities by smart building growth rate to 2030\n\n1. \ud83c\udde6\ud83c\uddea Dubai\n2. \ud83c\uddf8\ud83c\uddec Singapore\n3. \ud83c\udde8\ud83c\uddf3 Shanghai\n4. \ud83c\uddfa\ud83c\uddf8 San Francisco\n5. \ud83c\uddf0\ud83c\uddf7 Seoul",
@@ -211,6 +186,13 @@
         "date": "2026-08-31",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS moved 21 million packages daily via its North American network in 2025.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-01",
+        "status": "posted",
+        "tweet": "UPS infrastructure: 25 million packages processed daily in \ud83c\uddfa\ud83c\uddf8 United States\n$UPS",
         "type": "infrastructure"
     }
 ]
