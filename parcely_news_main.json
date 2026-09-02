@@ -1,31 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-23",
-        "status": "posted",
-        "tweet": "\ud83c\udde9\ud83c\uddea German logistics firm routes 3.2 million shipments daily through its central hub.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-23",
-        "status": "posted",
-        "tweet": "2026 projections: average weekly online food deliveries per household\n1. \ud83c\uddf8\ud83c\uddec Singapore: 4.8\n2. \ud83c\uddf0\ud83c\uddf7 Seoul: 4.3\n3. \ud83c\uddec\ud83c\udde7 London: 3.9\n4. \ud83c\uddfa\ud83c\uddf8 New York: 3.7\n5. \ud83c\uddef\ud83c\uddf5 Tokyo: 3.5",
-        "type": "statistical",
-        "category": "online grocery and food delivery frequency in large cities"
-    },
-    {
-        "link": "https://theloadstar.com/ocean-freight-carrier-eta-vs-predicted-pta/",
-        "date": "2026-08-23",
-        "title": "Stop Trusting One Number: Why the Smartest Ocean Freight Teams Now Watch a Gap, Not an ETA",
-        "summary": "<p>For as long as ocean freight has existed, teams have asked the same question: which number do I trust?<br />\nIt\u2019s the wrong question.<br />\nEvery shipment carries at least two arrival estimates. The carrier\u2019s ETA, the official schedule teams plan around. And, increasingly, a predictive signal like SeaVantage\u2019s Predicted Time of Arrival, PTA, built from a vessel\u2019s live position, speed, historical routing pattern and congestion data. For years, the instinct has been to ...</p>\n<p>The post <a href=\"https://theloadstar.com/ocean-freight-carrier-eta-vs-predicted-pta/\">Stop Trusting One Number: Why the Smartest Ocean Freight Teams Now Watch a Gap, Not an ETA</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-24",
         "status": "posted",
         "tweet": "TransGlobal moved 1.4 million tons of freight daily through its \ud83c\udde8\ud83c\uddf3 China terminals last year.",
