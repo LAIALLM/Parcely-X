@@ -225,5 +225,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2xIcVhYd3hJcWtjc3dlR0g0Zlo1U3JGb3p4REpGb2hDclhVTzREQm1RMmsxYlNsWTRaUGhWYUhrbmtFczJDaXI5VzJGaHVzb0tUZWYzTHc3OTF2UlcyZjVuQzI1a0cyWlY3VkprdWE5V2p6T0FvUVk5M0ppVnVwUWdKYUc4R2tBX19UTFl4SFA3TWhib19TZUdrajlFc3o4dFg3bXVHS05Vc0FUNmx0NjhQSmNZRkhp?oc=5",
+        "date": "2026-09-02",
+        "title": "The Same-Day Delivery Race Is Putting Retailer Margins to the Test - WWD",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2xIcVhYd3hJcWtjc3dlR0g0Zlo1U3JGb3p4REpGb2hDclhVTzREQm1RMmsxYlNsWTRaUGhWYUhrbmtFczJDaXI5VzJGaHVzb0tUZWYzTHc3OTF2UlcyZjVuQzI1a0cyWlY3VkprdWE5V2p6T0FvUVk5M0ppVnVwUWdKYUc4R2tBX19UTFl4SFA3TWhib19TZUdrajlFc3o4dFg3bXVHS05Vc0FUNmx0NjhQSmNZRkhp?oc=5\" target=\"_blank\">The Same-Day Delivery Race Is Putting Retailer Margins to the Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
