@@ -170,5 +170,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa cities project electric and micro-mobility fleets will handle 35 percent of urban deliveries by 2026, cutting van traffic in dense areas by one fifth.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
