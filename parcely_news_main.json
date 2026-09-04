@@ -140,5 +140,13 @@
         "status": "posted",
         "tweet": "Apex Logistics moved 47 million packages via \ud83c\uddef\ud83c\uddf5 Japan hubs in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York 2026 projections show EV delivery fleets handling 62 percent of city packages\n\nMicro mobility fleets handle 28 percent",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
