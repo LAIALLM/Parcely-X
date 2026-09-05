@@ -65,5 +65,13 @@
         "status": "posted",
         "tweet": "Apex Logistics \ud83c\udde8\ud83c\uddf3 Shanghai hub processed 3.2 million shipments daily in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US last-mile logistics emitted 58 million tons of CO2 in 2025.  \nBuilding-integrated networks cut this to 17 million tons for the same delivery volume.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
