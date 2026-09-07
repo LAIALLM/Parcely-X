@@ -80,5 +80,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Rotterdam terminal processes 92,000 TEU daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS handled 24 million packages daily through its infrastructure in 2025.\n$UPS",
+        "type": "infrastructure"
     }
 ]
