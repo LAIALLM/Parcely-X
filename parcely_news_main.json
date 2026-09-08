@@ -132,5 +132,13 @@
         "status": "posted",
         "tweet": "Logistics firm moves 4.5 million tons monthly through its \ud83c\udde9\ud83c\uddea Germany rail network.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "Smart access systems now secure 35 percent of \ud83c\uddfa\ud83c\uddf8 US office buildings in 2026, on pace to cover 70 percent by 2030.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
