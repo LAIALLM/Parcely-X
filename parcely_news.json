@@ -80,5 +80,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS handled 24 million packages daily through its infrastructure in 2025.\n$UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Chicago operations of Apex Logistics processed 2.8 million parcels daily in 2026.",
+        "type": "infrastructure"
     }
 ]
