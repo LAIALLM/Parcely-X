@@ -125,5 +125,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York last-mile delivery costs 7.80 dollars per parcel in 2026.  \n\ud83c\udde8\ud83c\uddf3 Shanghai costs 2.90 dollars.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "Logistics firm moves 4.5 million tons monthly through its \ud83c\udde9\ud83c\uddea Germany rail network.",
+        "type": "infrastructure"
     }
 ]
