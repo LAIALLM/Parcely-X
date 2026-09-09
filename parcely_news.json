@@ -90,5 +90,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 2026 projections show last-mile deliveries emit 22 million tons of CO2 yearly in major cities. \nBuilding-integrated networks cut that total by 45 percent.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-09-09",
+        "status": "posted",
+        "tweet": "TransRail processed 180000 containers daily at Hamburg facility in \ud83c\udde9\ud83c\uddea Germany in 2025.",
+        "type": "infrastructure"
     }
 ]
