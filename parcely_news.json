@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-30",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx network processed 16.8 million shipments daily in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-30",
-        "status": "posted",
-        "tweet": "Projected 2026 CO2 savings per 1000 deliveries with building networks\n\n1. \ud83c\uddf8\ud83c\uddec Singapore 850kg\n2. \ud83c\udded\ud83c\uddf0 Hong Kong 780kg\n3. \ud83c\uddf3\ud83c\uddf1 Amsterdam 720kg\n4. \ud83c\uddf0\ud83c\uddf7 Seoul 690kg\n5. \ud83c\uddec\ud83c\udde7 London 650kg",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-08-31",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS moved 21 million packages daily via its North American network in 2025.",
@@ -97,5 +82,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-09",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 2026 projections show last-mile deliveries emit 22 million tons of CO2 yearly in major cities. \nBuilding-integrated networks cut that total by 45 percent.",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
