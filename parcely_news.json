@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-31",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS moved 21 million packages daily via its North American network in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-09-01",
         "status": "posted",
         "tweet": "UPS infrastructure: 25 million packages processed daily in \ud83c\uddfa\ud83c\uddf8 United States\n$UPS",
@@ -96,6 +89,13 @@
         "date": "2026-09-09",
         "status": "posted",
         "tweet": "TransRail processed 180000 containers daily at Hamburg facility in \ud83c\udde9\ud83c\uddea Germany in 2025.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-10",
+        "status": "posted",
+        "tweet": "1.2 million daily parcels delivered at 99.8% on-time rate by logistics operator in \ud83c\udde9\ud83c\uddea Germany.",
         "type": "infrastructure"
     }
 ]
