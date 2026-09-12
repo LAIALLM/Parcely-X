@@ -155,5 +155,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 Rotterdam hub infrastructure managed 7.4 million TEUs annually for Maersk logistics network.",
+        "type": "infrastructure"
     }
 ]
