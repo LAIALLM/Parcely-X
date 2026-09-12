@@ -162,5 +162,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Rotterdam hub infrastructure managed 7.4 million TEUs annually for Maersk logistics network.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-12",
+        "status": "posted",
+        "tweet": "Cities with biggest projected EV delivery fleets 2026\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai\n2. \ud83c\udde8\ud83c\uddf3 Beijing\n3. \ud83c\uddf3\ud83c\uddf1 Amsterdam\n4. \ud83c\uddfa\ud83c\uddf8 New York\n5. \ud83c\uddec\ud83c\udde7 London",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
