@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-09-04",
-        "status": "posted",
-        "tweet": "2026 projections\n\ud83c\udde8\ud83c\uddf3 China: 720000 parcel lockers\n\ud83c\uddea\ud83c\uddfa Europe: 380000",
-        "type": "statistical",
-        "category": "parcel locker and pickup-point networks globally"
-    },
-    {
-        "link": null,
-        "date": "2026-09-04",
-        "status": "posted",
-        "tweet": "Apex Logistics \ud83c\udde8\ud83c\uddf3 Shanghai hub processed 3.2 million shipments daily in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-09-05",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US last-mile logistics emitted 58 million tons of CO2 in 2025.  \nBuilding-integrated networks cut this to 17 million tons for the same delivery volume.",
@@ -182,5 +167,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-14",
+        "status": "posted",
+        "tweet": "E-commerce packaging waste reaches 24 million tons worldwide in 2026.\n\n\ud83c\udde8\ud83c\uddf3 China produces 11 million tons, double the 5 million tons from \ud83c\uddfa\ud83c\uddf8 United States.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
