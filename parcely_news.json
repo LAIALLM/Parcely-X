@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-09-05",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US last-mile logistics emitted 58 million tons of CO2 in 2025.  \nBuilding-integrated networks cut this to 17 million tons for the same delivery volume.",
-        "type": "statistical",
-        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
-    },
-    {
-        "link": null,
         "date": "2026-09-06",
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Rotterdam terminal processes 92,000 TEU daily.",
@@ -181,6 +173,13 @@
         "date": "2026-09-14",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US logistics operator: 2.3 million packages processed daily",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Vertex Logistics operated 4.8 million square meters of warehouse space.",
         "type": "infrastructure"
     }
 ]
