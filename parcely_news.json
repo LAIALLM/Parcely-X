@@ -184,5 +184,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-16",
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddea Jebel Ali terminal processed 15 million TEUs for DP World in 2025.",
+        "type": "infrastructure"
     }
 ]
