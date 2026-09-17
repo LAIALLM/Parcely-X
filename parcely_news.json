@@ -192,5 +192,12 @@
         "tweet": "2026 projections: 26% of first-attempt e-commerce deliveries fail in \ud83c\uddfa\ud83c\uddf8 United States.\n\ud83c\uddef\ud83c\uddf5 Japan rate at 9%.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-09-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx network handled 17 million daily shipments in 2025.",
+        "type": "infrastructure"
     }
 ]
