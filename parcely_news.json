@@ -183,5 +183,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York\nDelivery vans make up 23% of traffic in 2026.\nThis is up from 15% in 2024.",
         "type": "statistical",
         "category": "urban traffic growth caused by delivery vans in dense cities"
+    },
+    {
+        "link": null,
+        "date": "2026-09-19",
+        "status": "posted",
+        "tweet": "FedEx processed 20.5 million packages per day in \ud83c\uddfa\ud83c\uddf8 United States hubs during 2025.\n$FDX",
+        "type": "infrastructure"
     }
 ]
