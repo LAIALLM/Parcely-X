@@ -135,5 +135,13 @@
         "status": "posted",
         "tweet": "FedEx processed 20.5 million packages per day in \ud83c\uddfa\ud83c\uddf8 United States hubs during 2025.\n$FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US offices adopted smart access in 42% of buildings by 2026.\n\ud83c\udde8\ud83c\uddf3 China reached 75% in new offices.",
+        "type": "statistical",
+        "category": "adoption of smart access systems for buildings"
     }
 ]
