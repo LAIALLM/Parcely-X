@@ -135,5 +135,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea LogiCore Hamburg hubs recorded 14.5 million pallet movements in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-21",
+        "status": "posted",
+        "tweet": "E-commerce packaging waste reaches 21 million tons worldwide in 2026.\n\n\ud83c\udde8\ud83c\uddf3 China produces 12 million tons compared to 4 million tons from \ud83c\uddea\ud83c\uddfa Europe.",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
