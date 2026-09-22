@@ -135,5 +135,65 @@
         "status": "posted",
         "tweet": "FedEx $FDX infrastructure processed 18 million packages daily across \ud83c\uddfa\ud83c\uddf8 United States network.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzVLcXhUa0lUb3dvZUppTnNNcUt3eWJNWGZKczVLQURwbjJfUGFSZlVtdThlb3BQWTdzdnRpVWR5VXJOdWJjdnBGR1h4cXRNUE1LaXp0RWV5YklCT3FXN0xKRTZoV1pwNHU1SUFqbDZBNHZnazNFMVlWZDZTNVIzWTBkMUNxbzU5djRKbjM1bnpjNHlaUFFsREZRQ29MZXZEZEpRVGpUTzA4c3Q2Rkt2LWNEZHdHOTNF?oc=5",
+        "date": "2026-09-22",
+        "title": "A new device lets most existing delivery robots handle packages without people - stocktitan.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzVLcXhUa0lUb3dvZUppTnNNcUt3eWJNWGZKczVLQURwbjJfUGFSZlVtdThlb3BQWTdzdnRpVWR5VXJOdWJjdnBGR1h4cXRNUE1LaXp0RWV5YklCT3FXN0xKRTZoV1pwNHU1SUFqbDZBNHZnazNFMVlWZDZTNVIzWTBkMUNxbzU5djRKbjM1bnpjNHlaUFFsREZRQ29MZXZEZEpRVGpUTzA4c3Q2Rkt2LWNEZHdHOTNF?oc=5\" target=\"_blank\">A new device lets most existing delivery robots handle packages without people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU0NCMXgtZTR6MjVoWlNFUFM1Y1hfc1Z1aHpFc0RHR1VIOEc4VFBrY2kwWmJOMG5zU0dNSlpOYVI0ZldocU1ldDY2bGJobF9wU05YWVpsblAzVUhxeENHZExZSl83QlVmZmpZNHQ3YkdBZFVUTEd3d19PSjhCRkJVczdtMjM0R3c1NUtyakgyRFduV002bVFwSXc4eC1HaVdnc3FDZERYY01maGJLN2NMS011UWtjaW16cEk1NGZTdTdWNlB3cHFMVUtZQkl6VHJkRkhGZkN1ckFtNXdfN2pUd3JJT0o?oc=5",
+        "date": "2026-09-22",
+        "title": "Arrive AI to Demonstrate Autonomous Delivery Infrastructure at Investor Showcase - ACCESS Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU0NCMXgtZTR6MjVoWlNFUFM1Y1hfc1Z1aHpFc0RHR1VIOEc4VFBrY2kwWmJOMG5zU0dNSlpOYVI0ZldocU1ldDY2bGJobF9wU05YWVpsblAzVUhxeENHZExZSl83QlVmZmpZNHQ3YkdBZFVUTEd3d19PSjhCRkJVczdtMjM0R3c1NUtyakgyRFduV002bVFwSXc4eC1HaVdnc3FDZERYY01maGJLN2NMS011UWtjaW16cEk1NGZTdTdWNlB3cHFMVUtZQkl6VHJkRkhGZkN1ckFtNXdfN2pUd3JJT0o?oc=5\" target=\"_blank\">Arrive AI to Demonstrate Autonomous Delivery Infrastructure at Investor Showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACCESS Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/162875/news/post/pos-malaysia-our-priority-now-is-to-keep-scaling-what-works/",
+        "date": "2026-09-22",
+        "title": "Pos Malaysia: Our priority now is to keep scaling what works",
+        "summary": "Pos Malaysia Berhad, the national postal and parcel service provider, is now delivering one in three parcels by electric vehicle.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/162866/news/e-commerce/yeep-appoints-ella-layton-to-drive-service-delivery-as-uk-locker-network-scales/",
+        "date": "2026-09-22",
+        "title": "YEEP! to drive service delivery as UK locker network scales",
+        "summary": "YEEP!, a\u00a0open parcel locker operator, has appointed Ella Layton as Director of Service Delivery as it continues to strengthen its senior team, business partnerships and operational capabilities for the next phase of growth in the UK out-of-home market.",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/ait-home-delivery-adds-two-mercedes-benz-esprinter-electric-vans.html",
+        "date": "2026-09-22",
+        "title": "AIT Home Delivery adds two Mercedes-Benz eSprinter electric vans",
+        "summary": "<a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/ait-home-delivery-adds-two-mercedes-benz-esprinter-electric-vans.html\"><img align=\"left\" alt=\"AIT Home Delivery adds two Mercedes-Benz eSprinter electric vans\" height=\"224\" src=\"https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2026/09/PO-Web-news-1-Sep-22-scaled-e1790070576704-400x224.jpeg\" style=\"margin: 0 20px 20px 0;\" width=\"400\" /></a><p>AIT Home Delivery, a wholly owned subsidiary of AIT Worldwide Logistics, has added two Mercedes-Benz eSprinter electric vans to its delivery fleet as part of its strategy to reduce emissions from final-mile operations.</p>\n<p>Supplied by NRG Riverside, the fully electric vehicles will operate on urban delivery routes from AIT\u2019s Northampton and Enfield facilities in the UK.</p>\n<p>The company said the vans are suited to urban distribution because of their zero tailpipe emissions, low noise levels, range and payload capacity.</p>\n<p><a href=\"https://www.parcelandpostaltechnologyinternational.com/news/vehicles-fleet/ait-home-delivery-adds-two-mercedes-benz-esprinter-electric-vans.html\" rel=\"nofollow\">Continue reading AIT Home Delivery adds two Mercedes-Benz eSprinter electric vans at Parcel and Postal Technology International.</a></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/bangkokmax-charter-rates-jump-18-as-vessel-shortage-bites/",
+        "date": "2026-09-22",
+        "title": "Bangkokmax charter rates jump 18% as vessel shortage bites",
+        "summary": "<p>Charter rates for Bangkokmax (1,600-1,900 teu) ships have increased 18% over the past year to nearly $32,000 per day, as the lack of newbuilding orders since 2023 has seen only three new ships delivered so far in 2026.<br />\nCoupled with growing intra-Asia trade, demand for such ships is rising, causing resale prices to appreciate.<br />\nRecent fixtures show CMA CGM last week chartered Eastern Mediterranean&#8217;s 2006-built 1,740 teu Elbella for $34,000 per day, ...</p>\n<p>The post <a href=\"https://theloadstar.com/bangkokmax-charter-rates-jump-18-as-vessel-shortage-bites/\">Bangkokmax charter rates jump 18% as vessel shortage bites</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
