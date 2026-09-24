@@ -185,5 +185,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddf8\ud83c\uddec SingLogistics processed 120,000 TEUs daily through its \ud83c\uddf8\ud83c\uddec Singapore infrastructure.",
+        "type": "infrastructure"
     }
 ]
