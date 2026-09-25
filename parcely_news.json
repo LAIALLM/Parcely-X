@@ -1,12 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-09-15",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Vertex Logistics operated 4.8 million square meters of warehouse space.",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTg4U3FTUE0wVmRwZ2xYaDVoZklLYV9wd3V5Tlc3emVXb2hQRFpHaGFYcEJzX0xhSUdGZ0lfVEc3UWh4Y2kyOTNFWWJQUjhaeXpMaFUtYTFHWUUwd3BLRDU2Y3BIM3ZrTlVIbzFOYTZ4MGZpakpjbEktU09tM3FoY3RhV2dxX3FJMFkyNkI4OF9yc1lmOHBhYThkTzdpQTV0Tk80TGZpWGd1Z2VoNzdnVzBtUXVFMzFlaFpqcXY4MElGYlBzVXY3TEtIMXRvMk5xTzd5bmNoMFhzb3BqZzR1QTZobzE?oc=5",
         "date": "2026-09-16",
         "title": "Uber Eats hails milestone for grocery and retail business in Germany as REWE taps delivery platform - Retail Technology Innovation Hub",
@@ -212,5 +205,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-25",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Germany logistics operator routes 3.4 million tons of freight daily via rail network",
+        "type": "infrastructure"
     }
 ]
