@@ -1,22 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTg4U3FTUE0wVmRwZ2xYaDVoZklLYV9wd3V5Tlc3emVXb2hQRFpHaGFYcEJzX0xhSUdGZ0lfVEc3UWh4Y2kyOTNFWWJQUjhaeXpMaFUtYTFHWUUwd3BLRDU2Y3BIM3ZrTlVIbzFOYTZ4MGZpakpjbEktU09tM3FoY3RhV2dxX3FJMFkyNkI4OF9yc1lmOHBhYThkTzdpQTV0Tk80TGZpWGd1Z2VoNzdnVzBtUXVFMzFlaFpqcXY4MElGYlBzVXY3TEtIMXRvMk5xTzd5bmNoMFhzb3BqZzR1QTZobzE?oc=5",
-        "date": "2026-09-16",
-        "title": "Uber Eats hails milestone for grocery and retail business in Germany as REWE taps delivery platform - Retail Technology Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTg4U3FTUE0wVmRwZ2xYaDVoZklLYV9wd3V5Tlc3emVXb2hQRFpHaGFYcEJzX0xhSUdGZ0lfVEc3UWh4Y2kyOTNFWWJQUjhaeXpMaFUtYTFHWUUwd3BLRDU2Y3BIM3ZrTlVIbzFOYTZ4MGZpakpjbEktU09tM3FoY3RhV2dxX3FJMFkyNkI4OF9yc1lmOHBhYThkTzdpQTV0Tk80TGZpWGd1Z2VoNzdnVzBtUXVFMzFlaFpqcXY4MElGYlBzVXY3TEtIMXRvMk5xTzd5bmNoMFhzb3BqZzR1QTZobzE?oc=5\" target=\"_blank\">Uber Eats hails milestone for grocery and retail business in Germany as REWE taps delivery platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Technology Innovation Hub</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-09-16",
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddea Jebel Ali terminal processed 15 million TEUs for DP World in 2025.",
-        "type": "infrastructure"
-    },
-    {
         "link": null,
         "date": "2026-09-17",
         "status": "posted",
@@ -220,5 +203,13 @@
         "tweet": "Smart residential and office growth leaders 2026-2030\n\n1. \ud83c\uddf8\ud83c\uddec Singapore\n2. \ud83c\udde6\ud83c\uddea Dubai\n3. \ud83c\udde8\ud83c\uddf3 Shanghai\n4. \ud83c\uddfa\ud83c\uddf8 New York\n5. \ud83c\uddf0\ud83c\uddf7 Seoul",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-09-26",
+        "status": "posted",
+        "tweet": "2026 package theft per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 San Francisco\n2. \ud83c\uddfa\ud83c\uddf8 New York\n3. \ud83c\uddfa\ud83c\uddf8 Los Angeles\n4. \ud83c\uddfa\ud83c\uddf8 Chicago\n5. \ud83c\uddfa\ud83c\uddf8 Seattle",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
