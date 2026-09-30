@@ -210,5 +210,13 @@
         "tweet": "2026 stolen packages per 1000 deliveries\n\n1. \ud83c\uddfa\ud83c\uddf8 Los Angeles 49\n2. \ud83c\uddfa\ud83c\uddf8 Chicago 46\n3. \ud83c\uddfa\ud83c\uddf8 New York 42\n4. \ud83c\uddfa\ud83c\uddf8 Houston 38\n5. \ud83c\uddfa\ud83c\uddf8 Philadelphia 35",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-09-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa Europe operates 220000 parcel lockers in 2026\n\ud83c\uddfa\ud83c\uddf8 The United States operates 52000",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
