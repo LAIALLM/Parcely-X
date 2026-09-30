@@ -218,5 +218,12 @@
         "tweet": "\ud83c\uddea\ud83c\uddfa Europe operates 220000 parcel lockers in 2026\n\ud83c\uddfa\ud83c\uddf8 The United States operates 52000",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-09-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Memphis hub processed 11.8 million packages daily in 2025.",
+        "type": "infrastructure"
     }
 ]
