@@ -207,5 +207,13 @@
         "status": "posted",
         "tweet": "LogiCore processed 4.7 million shipments daily via \ud83c\uddfa\ud83c\uddf8 United States hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-01",
+        "status": "posted",
+        "tweet": "Projected 2026 last-mile parcel costs USD\n\n1. \ud83c\udde8\ud83c\udded Zurich 13.8\n2. \ud83c\uddf3\ud83c\uddf4 Oslo 12.9\n3. \ud83c\uddfa\ud83c\uddf8 San Francisco 11.7\n4. \ud83c\uddec\ud83c\udde7 London 10.9\n5. \ud83c\uddef\ud83c\uddf5 Tokyo 10.5",
+        "type": "statistical",
+        "category": "last-mile delivery costs per parcel in large metros"
     }
 ]
