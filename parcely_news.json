@@ -128,5 +128,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Memphis hub\nFedEx $FDX processed 19 million packages daily in Q1 2026",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDNqRy1WVWswckJ6Nl82VEdNbDVrXzllcmJKc19pQjAzRlBrT0hwcnB6TzNTSk9Ea2pvSG1wUUpnbHQySklCNl9nUDJLMk5ZNW1qOUpUa1R1N1hQclU3dDhSQnRzaEMwekFnaV9aaGVfYVRsS2ZsbWh6eUdIV2V5NVl2bzlqeGxhaHE0QVU0Z0diTkgzckhJ?oc=5",
+        "date": "2026-10-05",
+        "title": "DeinFach and myflexbox join forces on open parcel lockers - Mobility Plaza",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDNqRy1WVWswckJ6Nl82VEdNbDVrXzllcmJKc19pQjAzRlBrT0hwcnB6TzNTSk9Ea2pvSG1wUUpnbHQySklCNl9nUDJLMk5ZNW1qOUpUa1R1N1hQclU3dDhSQnRzaEMwekFnaV9aaGVfYVRsS2ZsbWh6eUdIV2V5NVl2bzlqeGxhaHE0QVU0Z0diTkgzckhJ?oc=5\" target=\"_blank\">DeinFach and myflexbox join forces on open parcel lockers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mobility Plaza</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
