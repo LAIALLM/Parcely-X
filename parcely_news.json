@@ -130,5 +130,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Memphis hub sorted 5.1 million packages daily with 98.7 percent routing accuracy.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://theloadstar.com/ship-angel-oceanrate-ocean-rate-sheet-ai/",
+        "date": "2026-10-06",
+        "title": "The end of double keying: why we built OceanRate for the whole industry",
+        "summary": "<p>Somewhere in every logistics business, someone is re-keying a rate sheet right now. A pricing analyst at a carrier. A two-person NVOCC. The rates desk at a top-20 forwarder. A shipper&#8217;s logistics manager with a stack of quotes and a tender due on Friday. The layouts are different, the surcharges are different, the validity dates are buried on page nine, and the job is the same: read it, understand it, ...</p>\n<p>The post <a href=\"https://theloadstar.com/ship-angel-oceanrate-ocean-rate-sheet-ai/\">The end of double keying: why we built OceanRate for the whole industry</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
