@@ -133,5 +133,12 @@
         "tweet": "Package delivery vans in \ud83c\uddfa\ud83c\uddf8 United States will emit 140 million tons of CO2 in 2026. \nBuilding-integrated networks cut that total in half.",
         "type": "statistical",
         "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
+    },
+    {
+        "link": null,
+        "date": "2026-10-07",
+        "status": "posted",
+        "tweet": "Nexus Logistics \ud83c\uddf3\ud83c\uddf1 Netherlands terminals processed 1.4 million TEUs last quarter.",
+        "type": "infrastructure"
     }
 ]
