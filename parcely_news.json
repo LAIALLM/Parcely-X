@@ -132,5 +132,25 @@
         "status": "posted",
         "tweet": "Nexus Logistics \ud83c\uddf3\ud83c\uddf1 Netherlands terminals processed 1.4 million TEUs last quarter.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1JLVnBVNU81dWs5YWp1encxQnhwY1BYNktaWVFGMEM4c1VZNWlPUlBBb1dkUzcyb1R1MzA2S2JkR0gzR0RUU09ZaDFyZ0VNNll6NkhKd1J2VG9WN1dGblNVNnhkNDl2NDRPZFpuUzNnbHhBNmdrNzZRMVlqZzR1ekF5SDhwNklBbDNOSzN5d1hlSDB2Uzl2UmZFZHprNWpnSmxXWQ?oc=5",
+        "date": "2026-10-08",
+        "title": "Amazon's delivery box: a symbol of instant gratification and convenience - Jacksonville Journal-Courier",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1JLVnBVNU81dWs5YWp1encxQnhwY1BYNktaWVFGMEM4c1VZNWlPUlBBb1dkUzcyb1R1MzA2S2JkR0gzR0RUU09ZaDFyZ0VNNll6NkhKd1J2VG9WN1dGblNVNnhkNDl2NDRPZFpuUzNnbHhBNmdrNzZRMVlqZzR1ekF5SDhwNklBbDNOSzN5d1hlSDB2Uzl2UmZFZHprNWpnSmxXWQ?oc=5\" target=\"_blank\">Amazon's delivery box: a symbol of instant gratification and convenience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacksonville Journal-Courier</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOVVqS0pkZE9Fakt6cGx1RjJkNjBUa1lyOUpQTXdnbWp0cmdpWE1qWFZKVlFLRlpFcHFJT0VFVmU0a3d4WGVfczZtRi1lRVVvcjNlU3ZxUlhmd3VsY3UyOUVNSktBUTBrQUVSblhOMlgtSmFCSTNETEFWckhMVEJVc2F5TW1Rc2ZoTHlZb2l0ZGpVLV8wdEZrXzRsQVRBSTg0LVctMWlrOFUzMnctM0VqNmllUmVPMnE0TlJ5X2lhd0hDaVVGTmdhQ1NoRmcxYTVINmNvdWp1REY3d0RrczhlOVotU29WYjhFMi1pQWV5bm5XVlpmUHBPNkt4WnBSMzg?oc=5",
+        "date": "2026-10-08",
+        "title": "Amazon's delivery box: a symbol of instant gratification and convenience - Ottumwa Courier",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOVVqS0pkZE9Fakt6cGx1RjJkNjBUa1lyOUpQTXdnbWp0cmdpWE1qWFZKVlFLRlpFcHFJT0VFVmU0a3d4WGVfczZtRi1lRVVvcjNlU3ZxUlhmd3VsY3UyOUVNSktBUTBrQUVSblhOMlgtSmFCSTNETEFWckhMVEJVc2F5TW1Rc2ZoTHlZb2l0ZGpVLV8wdEZrXzRsQVRBSTg0LVctMWlrOFUzMnctM0VqNmllUmVPMnE0TlJ5X2lhd0hDaVVGTmdhQ1NoRmcxYTVINmNvdWp1REY3d0RrczhlOVotU29WYjhFMi1pQWV5bm5XVlpmUHBPNkt4WnBSMzg?oc=5\" target=\"_blank\">Amazon's delivery box: a symbol of instant gratification and convenience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ottumwa Courier</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
