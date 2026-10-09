@@ -145,5 +145,12 @@
         "tweet": "2026 projections show thieves taking 1 in 5 packages from porches in \ud83c\uddfa\ud83c\uddf8 major cities.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-10-09",
+        "status": "posted",
+        "tweet": "EuroLogix \ud83c\udde9\ud83c\uddea Germany hubs recorded 1.8 million TEU throughput in Q4 2025.",
+        "type": "infrastructure"
     }
 ]
