@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-10-01",
-        "status": "posted",
-        "tweet": "LogiCore processed 4.7 million shipments daily via \ud83c\uddfa\ud83c\uddf8 United States hubs.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-10-01",
-        "status": "posted",
-        "tweet": "Projected 2026 last-mile parcel costs USD\n\n1. \ud83c\udde8\ud83c\udded Zurich 13.8\n2. \ud83c\uddf3\ud83c\uddf4 Oslo 12.9\n3. \ud83c\uddfa\ud83c\uddf8 San Francisco 11.7\n4. \ud83c\uddec\ud83c\udde7 London 10.9\n5. \ud83c\uddef\ud83c\uddf5 Tokyo 10.5",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
         "link": "https://www.parcelandpostaltechnologyinternational.com/news/mail/australia-post-to-serve-rural-and-remote-communities-via-outback-stores.html",
         "date": "2026-10-02",
         "title": "Australia Post to serve rural and remote communities via Outback Stores",
@@ -145,5 +130,13 @@
         "tweet": "Projected smart building growth rates 2026-2030\n\n1. \ud83c\uddf8\ud83c\uddec Singapore 42%\n2. \ud83c\udde6\ud83c\uddea Dubai 38%\n3. \ud83c\uddf0\ud83c\uddf7 Seoul 35%\n4. \ud83c\uddfa\ud83c\uddf8 New York 31%\n5. \ud83c\uddef\ud83c\uddf5 Tokyo 29%",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-10-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 London delivery fleets hit 40% electric by 2026.  \n\ud83c\uddfa\ud83c\uddf8 New York reaches 22% adoption for vans and cargo bikes.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
