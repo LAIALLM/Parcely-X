@@ -145,5 +145,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tV2xNZ3F3OUp5NnJhZ0hlMXBJbUxvZG4yREw4Uk9SQnFwRnhIYU8wdGpTaDJMenFBUU0tV0dyWXUyN0praG9hSF9vMG1sVDNfZFMwcUh1SHRldVh4MGxRdVRZdUxTRko0QWdxcW00dw?oc=5",
+        "date": "2026-10-14",
+        "title": "The China Threat Hiding on Your Doorstep - The Daily Signal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4tV2xNZ3F3OUp5NnJhZ0hlMXBJbUxvZG4yREw4Uk9SQnFwRnhIYU8wdGpTaDJMenFBUU0tV0dyWXUyN0praG9hSF9vMG1sVDNfZFMwcUh1SHRldVh4MGxRdVRZdUxTRko0QWdxcW00dw?oc=5\" target=\"_blank\">The China Threat Hiding on Your Doorstep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Signal</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlFUX05LNndrc2JDWk5CN3ZZVVFtNFlSQVYycDJOQzNxajNLaWZHSU8ydFVnR1pTaUFaZlZhME9ibWN4UF9BQjFZOVlXbWpUXzFQWVlXU1VXN3JQb1dPWVBmR2dnSjBMdU5Bcm56Tl93bGRXRFhQMkttUGNMUzhfUVJqQlVHOGV5SEt0c21pay1sdklpS1ZscHE4eVFjUk5NOFdDSC15QmRVU0J2eEtoN0d1dDRyVEFjejNtRg?oc=5",
+        "date": "2026-10-14",
+        "title": "Santa Maria Announces Development Plans to Build New Amazon Delivery Warehouse - News Channel 3-12",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlFUX05LNndrc2JDWk5CN3ZZVVFtNFlSQVYycDJOQzNxajNLaWZHSU8ydFVnR1pTaUFaZlZhME9ibWN4UF9BQjFZOVlXbWpUXzFQWVlXU1VXN3JQb1dPWVBmR2dnSjBMdU5Bcm56Tl93bGRXRFhQMkttUGNMUzhfUVJqQlVHOGV5SEt0c21pay1sdklpS1ZscHE4eVFjUk5NOFdDSC15QmRVU0J2eEtoN0d1dDRyVEFjejNtRg?oc=5\" target=\"_blank\">Santa Maria Announces Development Plans to Build New Amazon Delivery Warehouse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Channel 3-12</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
