@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-10-04",
-        "status": "posted",
-        "tweet": "FedEx processes 22 million parcels daily through \ud83c\uddfa\ud83c\uddf8 United States hubs \n$FDX",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-10-04",
-        "status": "posted",
-        "tweet": "Smart buildings in \ud83c\uddfa\ud83c\uddf8 United States grew to 850,000 in 2026, a 70% rise since 2023.",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": null,
         "date": "2026-10-05",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Memphis hub\nFedEx $FDX processed 19 million packages daily in Q1 2026",
@@ -123,5 +108,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-14",
+        "status": "posted",
+        "tweet": "TransEuro processed 1,200 containers per hour at \ud83c\udde9\ud83c\uddea Hamburg terminal in 2025.",
+        "type": "infrastructure"
     }
 ]
