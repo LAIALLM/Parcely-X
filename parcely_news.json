@@ -154,5 +154,13 @@
         "status": "posted",
         "tweet": "FedEx averaged 15.8 million daily shipments in \ud83c\uddfa\ud83c\uddf8 United States during 2025. $FDX",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-16",
+        "status": "posted",
+        "tweet": "2026 projections: building networks emit 55% less CO2 than last-mile logistics\n1. \ud83c\uddfa\ud83c\uddf8 New York\n2. \ud83c\udde8\ud83c\uddf3 Shanghai\n3. \ud83c\uddec\ud83c\udde7 London\n4. \ud83c\uddef\ud83c\uddf5 Tokyo\n5. \ud83c\udde9\ud83c\uddea Berlin",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
