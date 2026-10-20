@@ -166,5 +166,13 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-20",
+        "status": "posted",
+        "tweet": "By 2026, 17 percent of global e-commerce deliveries fail on the first attempt.\nThis adds 12 billion dollars in extra costs each year.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
