@@ -191,5 +191,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nVertex Logistics moved 1.1 million freight cars daily across its rail network.",
+        "type": "infrastructure"
     }
 ]
