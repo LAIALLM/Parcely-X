@@ -163,5 +163,13 @@
         "status": "posted",
         "tweet": "FedEx infrastructure routes 22 million packages daily through \ud83c\uddfa\ud83c\uddf8 United States hubs.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York households average 3 food deliveries weekly in 2026. \nOnline grocery orders reach 2 per week.",
+        "type": "statistical",
+        "category": "online grocery and food delivery frequency in large cities"
     }
 ]
