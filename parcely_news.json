@@ -198,5 +198,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nVertex Logistics moved 1.1 million freight cars daily across its rail network.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Union Pacific recorded 920,000 daily railcar loadings in Q1 2026.",
+        "type": "infrastructure"
     }
 ]
