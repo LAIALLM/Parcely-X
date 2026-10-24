@@ -148,5 +148,13 @@
         "tweet": "Projected 2026 e-commerce packaging waste million tons\n\n1. \ud83c\udde8\ud83c\uddf3 China 42\n2. \ud83c\uddfa\ud83c\uddf8 United States 18\n3. \ud83c\uddee\ud83c\uddf3 India 12\n4. \ud83c\udde9\ud83c\uddea Germany 6\n5. \ud83c\uddec\ud83c\udde7 United Kingdom 5",
         "type": "statistical",
         "category": "packaging waste from e-commerce deliveries worldwide"
+    },
+    {
+        "link": null,
+        "date": "2026-10-24",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China runs 2 million parcel lockers, twice the 1 million across \ud83c\uddea\ud83c\uddfa Europe.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
