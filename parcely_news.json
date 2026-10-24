@@ -156,5 +156,12 @@
         "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China runs 2 million parcel lockers, twice the 1 million across \ud83c\uddea\ud83c\uddfa Europe.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": null,
+        "date": "2026-10-24",
+        "status": "posted",
+        "tweet": "TransLogix handles 4.2 million shipments daily through its \ud83c\uddfa\ud83c\uddf8 United States facilities",
+        "type": "infrastructure"
     }
 ]
