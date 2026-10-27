@@ -180,5 +180,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 UPS infrastructure processed 19 million shipments daily in 2025. $UPS",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York projects one in seven packages stolen in 2026 compared to one in fourteen in \ud83c\uddec\ud83c\udde7 London.",
+        "type": "statistical",
+        "category": "package theft and porch piracy in major cities"
     }
 ]
