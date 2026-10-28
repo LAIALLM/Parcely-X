@@ -163,5 +163,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York projects one in seven packages stolen in 2026 compared to one in fourteen in \ud83c\uddec\ud83c\udde7 London.",
         "type": "statistical",
         "category": "package theft and porch piracy in major cities"
+    },
+    {
+        "link": null,
+        "date": "2026-10-28",
+        "status": "posted",
+        "tweet": "2026 projections show \ud83c\udde8\ud83c\uddf3 China with 1.2 million parcel lockers against 400,000 in \ud83c\uddea\ud83c\uddfa Europe.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
