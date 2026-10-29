@@ -164,5 +164,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-29",
+        "status": "posted",
+        "tweet": "By 2026\n\ud83c\udde8\ud83c\uddf3 China has 2 million parcel lockers\n\ud83c\uddfa\ud83c\uddf8 United States has 400,000",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
