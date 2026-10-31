@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-10-21",
-        "status": "posted",
-        "tweet": "FedEx infrastructure routes 22 million packages daily through \ud83c\uddfa\ud83c\uddf8 United States hubs.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-10-22",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York households average 3 food deliveries weekly in 2026. \nOnline grocery orders reach 2 per week.",
@@ -219,5 +212,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Network moves 4.7 million tons of freight daily across 62,000 miles of track.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York EV delivery fleets reach 45 percent in 2026.\n\ud83c\uddf3\ud83c\uddf1 Amsterdam micro-mobility fleets hit 80 percent.",
+        "type": "statistical",
+        "category": "EV and micro-mobility delivery fleets in cities"
     }
 ]
