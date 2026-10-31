@@ -220,5 +220,15 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York EV delivery fleets reach 45 percent in 2026.\n\ud83c\uddf3\ud83c\uddf1 Amsterdam micro-mobility fleets hit 80 percent.",
         "type": "statistical",
         "category": "EV and micro-mobility delivery fleets in cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0lxWXdqU3JPOXlHZWRZR0lyNDNqcEotaVAtWEpKLVB5RzhKNldHbnNzaVdlUmFZeDV3SHpSajY2VFZHMDBud3dodzBjNlRQeHhsUUhmeDE1SDBZQjJMazBCM192bEVGTElkbUhxWThIWDlxY2I3T0x6M1QxNDhHMFF5ZFkweEloX19GNkk3dmNSSDZtZ3pISzJ2NEhZMXB6LThveExWaFY3NEQzRFZlcnlhUXk0TDE0a1pzV1JHUQ?oc=5",
+        "date": "2026-10-31",
+        "title": "Shipping Rates Fall: Why Operators See No Relief - Supply & Demand Chain Executive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0lxWXdqU3JPOXlHZWRZR0lyNDNqcEotaVAtWEpKLVB5RzhKNldHbnNzaVdlUmFZeDV3SHpSajY2VFZHMDBud3dodzBjNlRQeHhsUUhmeDE1SDBZQjJMazBCM192bEVGTElkbUhxWThIWDlxY2I3T0x6M1QxNDhHMFF5ZFkweEloX19GNkk3dmNSSDZtZ3pISzJ2NEhZMXB6LThveExWaFY3NEQzRFZlcnlhUXk0TDE0a1pzV1JHUQ?oc=5\" target=\"_blank\">Shipping Rates Fall: Why Operators See No Relief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply & Demand Chain Executive</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
