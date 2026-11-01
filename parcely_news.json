@@ -202,5 +202,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx $FDX Memphis hub processed 3.2 million packages daily in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-01",
+        "status": "posted",
+        "tweet": "Projected 2026 e-commerce packaging waste million tons\n\n1. \ud83c\udde8\ud83c\uddf3 China 28.5\n2. \ud83c\uddfa\ud83c\uddf8 United States 19.2\n3. \ud83c\uddee\ud83c\uddf3 India 12.8\n4. \ud83c\uddef\ud83c\uddf5 Japan 8.4\n5. \ud83c\udde9\ud83c\uddea Germany 6.1",
+        "type": "statistical",
+        "category": "packaging waste from e-commerce deliveries worldwide"
     }
 ]
