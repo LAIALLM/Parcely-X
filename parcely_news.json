@@ -1,24 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-10-25",
-        "status": "posted",
-        "tweet": "Leading cities by new smart buildings 2026\n1. \ud83c\uddf8\ud83c\uddec Singapore\n2. \ud83c\udde6\ud83c\uddea Dubai\n3. \ud83c\uddfa\ud83c\uddf8 New York\n4. \ud83c\udde8\ud83c\uddf3 Shanghai\n5. \ud83c\uddec\ud83c\udde7 London",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVh5NHV0NjJuRDRMNUxnTldCT3B1dmdIanlLd2NvV1NReDJPRTFTVHUtb21xSndSMUxoT0tnOXZBbFZIeVFRVG5vUHVVb3EyVGtBX3V5QVNINEVjUjd0RW5VUkx3WmZpYkdSTEtMbTBDdWVKQU9keEFzbFpqQWFzQQ?oc=5",
-        "date": "2026-10-25",
-        "title": "USPS Can Bill Sellers for Foreign Duties - Practical Ecommerce",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVh5NHV0NjJuRDRMNUxnTldCT3B1dmdIanlLd2NvV1NReDJPRTFTVHUtb21xSndSMUxoT0tnOXZBbFZIeVFRVG5vUHVVb3EyVGtBX3V5QVNINEVjUjd0RW5VUkx3WmZpYkdSTEtMbTBDdWVKQU9keEFzbFpqQWFzQQ?oc=5\" target=\"_blank\">USPS Can Bill Sellers for Foreign Duties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Practical Ecommerce</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-10-26",
         "status": "posted",
         "tweet": "By 2026 \ud83c\uddfa\ud83c\uddf8 last-mile deliveries release 85 million tons of CO2 yearly.  \nBuilding-integrated networks cut emissions to 31 million tons.",
@@ -196,6 +178,16 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc255UFRzc0MyX2hWZk16eGFTekthRmFtbE9vbm9sMlVTWFdkcUdhZnNqUzNDbjh5RURGUkRMVlpqeldjQnhuRWY3QVo4Y291UVpqZlFWODNBVmNiY1RrQzVSWHFaWXJod2h6NVpRVEU0cy05RzEyWmhRWng1dUc4NHBCTmxlZFVoemRuQnRJdHpYc29wUktwSkRYR25ORTg?oc=5\" target=\"_blank\">From Onboarding to Ongoing: The First 90 Days After Changing Your Parcel Delivery Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maersk</font>",
         "similarity_excluded": "No",
         "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wZGxDb2ZyQmRkRE9wZ25velZGRUpQQ1JORzF6ekFRVGNxc0RuQnEwVTlvdUdRQTR6SUxfU0tfOEt1SWNvX0FEVjE0MEp5MGswbE9mTFp1TQ?oc=5",
+        "date": "2026-11-04",
+        "title": "Coupang logs third straight loss in Q3 despite record paid membership - The Korea Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wZGxDb2ZyQmRkRE9wZ25velZGRUpQQ1JORzF6ekFRVGNxc0RuQnEwVTlvdUdRQTR6SUxfU0tfOEt1SWNvX0FEVjE0MEp5MGswbE9mTFp1TQ?oc=5\" target=\"_blank\">Coupang logs third straight loss in Q3 despite record paid membership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+        "similarity_excluded": "No",
+        "score": 0,
         "status": "processed",
         "tweet": null
     }
