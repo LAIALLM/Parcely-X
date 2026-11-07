@@ -149,5 +149,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-07",
+        "status": "posted",
+        "tweet": "In \ud83c\uddec\ud83c\udde7 London delivery vans made up 20% of traffic in 2024. \nBy 2026 they reach 32%.",
+        "type": "statistical",
+        "category": "urban traffic growth caused by delivery vans in dense cities"
     }
 ]
