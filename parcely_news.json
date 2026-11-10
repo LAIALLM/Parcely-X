@@ -1,24 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-10-31",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York EV delivery fleets reach 45 percent in 2026.\n\ud83c\uddf3\ud83c\uddf1 Amsterdam micro-mobility fleets hit 80 percent.",
-        "type": "statistical",
-        "category": "EV and micro-mobility delivery fleets in cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0lxWXdqU3JPOXlHZWRZR0lyNDNqcEotaVAtWEpKLVB5RzhKNldHbnNzaVdlUmFZeDV3SHpSajY2VFZHMDBud3dodzBjNlRQeHhsUUhmeDE1SDBZQjJMazBCM192bEVGTElkbUhxWThIWDlxY2I3T0x6M1QxNDhHMFF5ZFkweEloX19GNkk3dmNSSDZtZ3pISzJ2NEhZMXB6LThveExWaFY3NEQzRFZlcnlhUXk0TDE0a1pzV1JHUQ?oc=5",
-        "date": "2026-10-31",
-        "title": "Shipping Rates Fall: Why Operators See No Relief - Supply & Demand Chain Executive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0lxWXdqU3JPOXlHZWRZR0lyNDNqcEotaVAtWEpKLVB5RzhKNldHbnNzaVdlUmFZeDV3SHpSajY2VFZHMDBud3dodzBjNlRQeHhsUUhmeDE1SDBZQjJMazBCM192bEVGTElkbUhxWThIWDlxY2I3T0x6M1QxNDhHMFF5ZFkweEloX19GNkk3dmNSSDZtZ3pISzJ2NEhZMXB6LThveExWaFY3NEQzRFZlcnlhUXk0TDE0a1pzV1JHUQ?oc=5\" target=\"_blank\">Shipping Rates Fall: Why Operators See No Relief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply & Demand Chain Executive</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-11-01",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx $FDX Memphis hub processed 3.2 million packages daily in 2026.",
@@ -90,6 +72,13 @@
         "date": "2026-11-07",
         "status": "posted",
         "tweet": "TransGlobal Logistics recorded 48.6 million TEU annual throughput at \ud83c\uddf8\ud83c\uddec Singapore terminals in 2025.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 Maersk Rotterdam terminals handled 16.2 million TEUs in 2025.",
         "type": "infrastructure"
     }
 ]
