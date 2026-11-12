@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94WlRFcmxsWmMxc3ljSVZybjM1VWdTaFlsTXBPdVFkNXRxbHZNbEl3QW95SUlha1I1LTlCOEw5WmdqYXpaS2tmODN0Tm9lMzRBSzhFWTJJZ3RPWUJ3dTRWc2JKV2R6YXI0SkV3VlFB?oc=5",
+        "date": "2026-11-12",
+        "title": "Quiver acquires Stuart last-mile delivery platform - Direct Commerce Association",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE94WlRFcmxsWmMxc3ljSVZybjM1VWdTaFlsTXBPdVFkNXRxbHZNbEl3QW95SUlha1I1LTlCOEw5WmdqYXpaS2tmODN0Tm9lMzRBSzhFWTJJZ3RPWUJ3dTRWc2JKV2R6YXI0SkV3VlFB?oc=5\" target=\"_blank\">Quiver acquires Stuart last-mile delivery platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Direct Commerce Association</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Quiver acquires Stuart last-mile delivery platform."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzlhanNZYTRDWUY1S2tQUGs3WUwwTFVtLXVVV05aSTRrTDFWc3p6WVB4LWFYbVEzWVdieUw2ZmV0UlJfRzZzTHBYdjFpUFo3dWZCS3ZyT2UxblE2dkctQ3ZVNHpKQlBPcjlPUWlTQmdyc2VQSUVCRTluSDhsNVZJdWZ2WTJxRUM5Q0JRendGV2xKbFg0czJtQmx0TkVCQnRDbFV5TA?oc=5",
+        "date": "2026-11-12",
+        "title": "DX acquires eCommerce fulfilment specialist Fulfil with Synergy - Direct Commerce Association",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzlhanNZYTRDWUY1S2tQUGs3WUwwTFVtLXVVV05aSTRrTDFWc3p6WVB4LWFYbVEzWVdieUw2ZmV0UlJfRzZzTHBYdjFpUFo3dWZCS3ZyT2UxblE2dkctQ3ZVNHpKQlBPcjlPUWlTQmdyc2VQSUVCRTluSDhsNVZJdWZ2WTJxRUM5Q0JRendGV2xKbFg0czJtQmx0TkVCQnRDbFV5TA?oc=5\" target=\"_blank\">DX acquires eCommerce fulfilment specialist Fulfil with Synergy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Direct Commerce Association</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93RHVQd0lNYWpQNjVVYV9nU2JLMzJlTHJlNjV6VVBTY2VuNmJJT2Vib2FIMkdlYmZTZElmR2ZxX1gzWjhBcGtrMlJYeHJUSk9Wa1JWbGs1X19RY1U5QmRQN2xsNy1LVnR6NmU1aU0zWkFvRDhySlN4OU9n?oc=5",
+        "date": "2026-11-12",
+        "title": "Carbon neutral delivery ads banned for four online retailers - Direct Commerce Association",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE93RHVQd0lNYWpQNjVVYV9nU2JLMzJlTHJlNjV6VVBTY2VuNmJJT2Vib2FIMkdlYmZTZElmR2ZxX1gzWjhBcGtrMlJYeHJUSk9Wa1JWbGs1X19RY1U5QmRQN2xsNy1LVnR6NmU1aU0zWkFvRDhySlN4OU9n?oc=5\" target=\"_blank\">Carbon neutral delivery ads banned for four online retailers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Direct Commerce Association</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    }
+]
