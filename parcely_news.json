@@ -73,5 +73,55 @@
         "tweet": "By 2026, smart access systems reached 45% in \ud83c\uddfa\ud83c\uddf8 United States offices but 72% in \ud83c\uddf0\ud83c\uddf7 South Korea.",
         "type": "statistical",
         "category": "adoption of smart access systems for buildings"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0VQVld6djBBeWJqY3hmT1QtNHN4LVRaQnVVTzdEeGd6Uk12OHNtRHNzeGx3Wi1MWWQwQUdnNXZvRFBpanN4VFctM09pN04xVGZ6d1loYkdORHpvTkxOZXZ0UjdiU1I4TXpCRXdEbW9vVEk0X0RsOExpbUpDY2VyWVRUYks?oc=5",
+        "date": "2026-11-12",
+        "title": "Robot in your bike lane? A food delivery bot has taken to Salt Lake City\u2019s streets. - The Salt Lake Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0VQVld6djBBeWJqY3hmT1QtNHN4LVRaQnVVTzdEeGd6Uk12OHNtRHNzeGx3Wi1MWWQwQUdnNXZvRFBpanN4VFctM09pN04xVGZ6d1loYkdORHpvTkxOZXZ0UjdiU1I4TXpCRXdEbW9vVEk0X0RsOExpbUpDY2VyWVRUYks?oc=5\" target=\"_blank\">Robot in your bike lane? A food delivery bot has taken to Salt Lake City\u2019s streets.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://postandparcel.info/163305/news/e-commerce/poste-italiane-i-am-pleased-to-report-another-record-performance/",
+        "date": "2026-11-12",
+        "title": "Poste Italiane: I am pleased to report another record performance",
+        "summary": "Yesterday, the Board of Directors of Poste Italiane S.p.A., chaired by Silvia Maria Rovere, approved the 9M-2026 Financial Results.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/strong-freight-rates-help-hapag-lloyd-profits-soar-despite-loss-of-market-share/",
+        "date": "2026-11-12",
+        "title": "Strong freight rates help Hapag-Lloyd profits soar, despite loss of market share",
+        "summary": "<p>The recent strength in container spot freight rates drove a 480% year-on-year increase in group profit at Hapag-Lloyd in the third quarter, despite its liner shipping operations seeing flat volumes, indicating lost market share.<br />\nRevenue in its liner shipping segment rose 25% year on year in Q3, \u201cdriven by a significantly higher average freight rate of $1,808 per teu\u201d, compared with $1,413 per teu in the same period last year.<br />\nIts third-quarter ...</p>\n<p>The post <a href=\"https://theloadstar.com/strong-freight-rates-help-hapag-lloyd-profits-soar-despite-loss-of-market-share/\">Strong freight rates help Hapag-Lloyd profits soar, despite loss of market share</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/",
+        "date": "2026-11-12",
+        "title": "Spanish box terminals face cargo backlog after general strike",
+        "summary": "<p>Spain\u2019s container terminals are beginning the task of recovering following yesterday\u2019s general strike across the country that left box ships waiting at anchor after a slew of terminal closures \u2013 but the extent of the cargo backlog remains unclear.<br />\nContainer movements ground to a halt at Algeciras, loading and discharge was suspended at Valencia, and cargo operations requiring the support of dockers stopped at Barcelona, although essential marine services remained unaffected.<br />\nTrade ...</p>\n<p>The post <a href=\"https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/\">Spanish box terminals face cargo backlog after general strike</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/wave-of-larger-newbuild-box-ships-a-threat-to-the-panamax-fleet/",
+        "date": "2026-11-12",
+        "title": "Wave of larger newbuild box ships a threat to the panamax fleet",
+        "summary": "<p>The coming influx of larger containerships could render ageing panamax vessels commercially obsolete by 2030, while carriers&#8217; efforts to renew smaller fleets threaten further capacity displacement.<br />\nJonathan Roach, analyst at Braemar, told The Loadstar\u00a0the newbuilding programme was creating a substantial mismatch between vessels entering service and those approaching retirement.<br />\nHe identified the 4,000\u20137,499 teu segment as particularly vulnerable, with 428 vessels aged at least 20 years old against just 283 ships on ...</p>\n<p>The post <a href=\"https://theloadstar.com/wave-of-larger-newbuild-box-ships-a-threat-to-the-panamax-fleet/\">Wave of larger newbuild box ships a threat to the panamax fleet</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
