@@ -121,5 +121,12 @@
         "tweet": "2026 projections show first-attempt e-commerce deliveries fail 29% of the time in \ud83c\uddfa\ud83c\uddf8 United States versus 10% in \ud83c\uddef\ud83c\uddf5 Japan.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": null,
+        "date": "2026-11-13",
+        "status": "posted",
+        "tweet": "FedEx processed 22 million parcels daily via its rail infrastructure spanning 18,000 kilometers in \ud83c\uddfa\ud83c\uddf8 United States.",
+        "type": "infrastructure"
     }
 ]
