@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc255UFRzc0MyX2hWZk16eGFTekthRmFtbE9vbm9sMlVTWFdkcUdhZnNqUzNDbjh5RURGUkRMVlpqeldjQnhuRWY3QVo4Y291UVpqZlFWODNBVmNiY1RrQzVSWHFaWXJod2h6NVpRVEU0cy05RzEyWmhRWng1dUc4NHBCTmxlZFVoemRuQnRJdHpYc29wUktwSkRYR25ORTg?oc=5",
-        "date": "2026-11-03",
-        "title": "From Onboarding to Ongoing: The First 90 Days After Changing Your Parcel Delivery Model - Maersk",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc255UFRzc0MyX2hWZk16eGFTekthRmFtbE9vbm9sMlVTWFdkcUdhZnNqUzNDbjh5RURGUkRMVlpqeldjQnhuRWY3QVo4Y291UVpqZlFWODNBVmNiY1RrQzVSWHFaWXJod2h6NVpRVEU0cy05RzEyWmhRWng1dUc4NHBCTmxlZFVoemRuQnRJdHpYc29wUktwSkRYR25ORTg?oc=5\" target=\"_blank\">From Onboarding to Ongoing: The First 90 Days After Changing Your Parcel Delivery Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maersk</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wZGxDb2ZyQmRkRE9wZ25velZGRUpQQ1JORzF6ekFRVGNxc0RuQnEwVTlvdUdRQTR6SUxfU0tfOEt1SWNvX0FEVjE0MEp5MGswbE9mTFp1TQ?oc=5",
         "date": "2026-11-04",
         "title": "Coupang logs third straight loss in Q3 despite record paid membership - The Korea Herald",
@@ -123,5 +113,13 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-13",
+        "status": "posted",
+        "tweet": "2026 projections show first-attempt e-commerce deliveries fail 29% of the time in \ud83c\uddfa\ud83c\uddf8 United States versus 10% in \ud83c\uddef\ud83c\uddf5 Japan.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
