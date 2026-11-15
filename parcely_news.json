@@ -1,12 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-11-05",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FedEx Memphis facility handled 4.2 million packages daily in 2026.",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2pYN0VyT3RWR25zTldlYVB1QVlfNDFoRWdpVmtoWmV6bG1YSTNTUkh1YWFGQ2lhaUtfbkUwQlZIOXctOTBNMFh5ejBsRjNCUDJUMzcyZFhoRFhFaVBYcnlZVGlNUkVvQ0htZ2hQWGI0d1VYU05lSzJTbDQ3azNpaEFMb09COXR1UjBVcWVXMmpWemRxYUhGNTd5TkUtMGlUVTRxakJhSTdPcExaclJiVA?oc=5",
         "date": "2026-11-06",
         "title": "Cainiao Opens Its Global Warehouse Network as a Real-World Training Ground for Embodied AI - Pandaily",
@@ -125,5 +118,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands operator moved 2.1 million TEUs through its terminals in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-15",
+        "status": "posted",
+        "tweet": "2026 failed first-attempt e-commerce deliveries\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai\n2. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo\n3. \ud83c\uddfa\ud83c\uddf8 New York\n4. \ud83c\uddf2\ud83c\uddfd Mexico City\n5. \ud83c\uddec\ud83c\udde7 London",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
