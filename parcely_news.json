@@ -117,5 +117,12 @@
         "tweet": "Doorstep delivery costs in \ud83c\uddfa\ud83c\uddf8 large metros are projected to reach $11 per parcel by 2028.",
         "type": "statistical",
         "category": "last-mile delivery costs per parcel in large metros"
+    },
+    {
+        "link": null,
+        "date": "2026-11-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US hubs processed 19.4 million parcels daily in 2026.",
+        "type": "infrastructure"
     }
 ]
