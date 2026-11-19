@@ -132,5 +132,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States smart office growth reaches 32 percent by 2026 compared to 14 percent for residential buildings.",
         "type": "statistical",
         "category": "growth of smart residential and office buildings"
+    },
+    {
+        "link": null,
+        "date": "2026-11-19",
+        "status": "posted",
+        "tweet": "Global parcel locker and pickup point networks reach 2.5 million locations in 2026.",
+        "type": "statistical",
+        "category": "parcel locker and pickup-point networks globally"
     }
 ]
