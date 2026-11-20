@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-11-10",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 Maersk Rotterdam terminals handled 16.2 million TEUs in 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-11-11",
         "status": "posted",
         "tweet": "2026 e-commerce packaging waste million tons\n\n1. \ud83c\udde8\ud83c\uddf3 China 48\n2. \ud83c\uddfa\ud83c\uddf8 United States 25\n3. \ud83c\uddee\ud83c\uddf3 India 17\n4. \ud83c\udde9\ud83c\uddea Germany 10\n5. \ud83c\uddef\ud83c\uddf5 Japan 8",
@@ -140,5 +133,35 @@
         "tweet": "Global parcel locker and pickup point networks reach 2.5 million locations in 2026.",
         "type": "statistical",
         "category": "parcel locker and pickup-point networks globally"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOEVPWWRUdVFDOXMyZDhCeEU2S0ZzSndfY1hjQ2RlSE4xbjVGZ2trYkJ4R3VLZVpFOWVfT09rUTVjSk8zUDRlaEphV0p2NXJQcE1RdVNNT04zdFZmTUpGeW9VZ0U3VjRsa3lET1M3eWdyODlLWW1yUFZIOFU3eGo4NWlhVGlNMHNIYkxRcmlQZUNTbTRQYW1vanRCcDByRTlJMU9IQ0kzaUw3dDRrd1pNVEJuN0x0Mlk1WlY3Snh1NXNUU0lJOEE?oc=5",
+        "date": "2026-11-20",
+        "title": "Black Friday is now Black November - and SA businesses face a new delivery challenge - Bizcommunity",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNOEVPWWRUdVFDOXMyZDhCeEU2S0ZzSndfY1hjQ2RlSE4xbjVGZ2trYkJ4R3VLZVpFOWVfT09rUTVjSk8zUDRlaEphV0p2NXJQcE1RdVNNT04zdFZmTUpGeW9VZ0U3VjRsa3lET1M3eWdyODlLWW1yUFZIOFU3eGo4NWlhVGlNMHNIYkxRcmlQZUNTbTRQYW1vanRCcDByRTlJMU9IQ0kzaUw3dDRrd1pNVEJuN0x0Mlk1WlY3Snh1NXNUU0lJOEE?oc=5\" target=\"_blank\">Black Friday is now Black November - and SA businesses face a new delivery challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bizcommunity</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
+        "date": "2026-11-20",
+        "title": "Transpac spots finally on the slide, but Asia-Med spike a surprise",
+        "summary": "<p>Container spot freight rates on the transpacific trades finally began to show more normal slack-season behaviour this week, with significant declines from Asia to both the US west and east coasts.<br />\nHowever, spot rates on the Asia-Europe trade moved in the opposite direction, with Asia-Mediterranean rates showing a small spike after three weeks of flatlining.<br />\nThis week\u2019s World Container Index (WCI) from Drewry recorded spot rates on its Shanghai-Genoa leg up 6% ...</p>\n<p>The post <a href=\"https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/\">Transpac spots finally on the slide, but Asia-Med spike a surprise</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://theloadstar.com/analysis-imo-net-zero-now-or-never-time-draws-near/",
+        "date": "2026-11-20",
+        "title": "Analysis: IMO Net-Zero: now-or-never time draws near",
+        "summary": "<p>A study for European shipowners puts shipping&#8217;s annual EU ETS bill at about \u20ac9bn, at \u20ac100 a tonne. The same study finds that directive does not oblige member states to send any fixed share of that money back to shipping, and names only France and Estonia as exceptions. Delegates carry that experience into London on Monday, when ISWG-GHG 23 opens and they try again to fix a global carbon price ...</p>\n<p>The post <a href=\"https://theloadstar.com/analysis-imo-net-zero-now-or-never-time-draws-near/\">Analysis: IMO Net-Zero: now-or-never time draws near</a> appeared first on <a href=\"https://theloadstar.com\">The Loadstar</a>.</p>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
