@@ -8,5 +8,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWVTT3E5WU9hRHlaTF8tSUZOWnRKeWZnOS1uVjdwc2QzVmk2NnFOOExMQnBsZWxBaU54d2lnSGpqU1ZkaHVDVGliVjVRS2F5ZmVkbTFmaGx3RFo1Z242ZGJmbGg2LWE2R0Y1Qk9ydDNzZDloQlVCSkd5YkdzNDVOUGM3Z1laYWhsa0Q5NDBhVklvZU4xWGw0WjYtM0J3QlRnS1U0SHgxSHVXeUdXNFE3NHVvYzk?oc=5",
+        "date": "2026-11-23",
+        "title": "Amazon drone deliveries launch in Tampa. More Florida cities coming. - Daytona Beach News-Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWVTT3E5WU9hRHlaTF8tSUZOWnRKeWZnOS1uVjdwc2QzVmk2NnFOOExMQnBsZWxBaU54d2lnSGpqU1ZkaHVDVGliVjVRS2F5ZmVkbTFmaGx3RFo1Z242ZGJmbGg2LWE2R0Y1Qk9ydDNzZDloQlVCSkd5YkdzNDVOUGM3Z1laYWhsa0Q5NDBhVklvZU4xWGw0WjYtM0J3QlRnS1U0SHgxSHVXeUdXNFE3NHVvYzk?oc=5\" target=\"_blank\">Amazon drone deliveries launch in Tampa. More Florida cities coming.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daytona Beach News-Journal</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon launches drone deliveries in Tampa with more Florida cities on the way."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaW44WkRtM0tka1pGYnhPeFFvejhaSWY0VzlwUkVoUFphck9UMUlYRk1UOXAxY0hmS01HeTZhSklDUkotSEhTNld2X2RpSG9pZTBBYm12TVBVRzJWb05oRmVlOEVRVDFjTkdid2tKZk55ZC16LUZZbEtEd0g3SFMyTUpSbjFjWFdMNUJkX290c0E?oc=5",
+        "date": "2026-11-23",
+        "title": "Flipkart Doubles Electric Delivery Fleet to 42,000 in 2026 - Indian Retailer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOaW44WkRtM0tka1pGYnhPeFFvejhaSWY0VzlwUkVoUFphck9UMUlYRk1UOXAxY0hmS01HeTZhSklDUkotSEhTNld2X2RpSG9pZTBBYm12TVBVRzJWb05oRmVlOEVRVDFjTkdid2tKZk55ZC16LUZZbEtEd0g3SFMyTUpSbjFjWFdMNUJkX290c0E?oc=5\" target=\"_blank\">Flipkart Doubles Electric Delivery Fleet to 42,000 in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Flipkart doubles its electric delivery fleet to 42,000 in 2026"
     }
 ]
