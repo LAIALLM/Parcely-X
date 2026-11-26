@@ -99,5 +99,13 @@
         "status": "posted",
         "tweet": "Apex Rail \ud83c\uddfa\ud83c\uddf8 Chicago yard records 1,850 daily train dispatches.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-26",
+        "status": "posted",
+        "tweet": "By 2026, 24 percent of global e-commerce deliveries will fail on the first attempt.",
+        "type": "statistical",
+        "category": "failed first-attempt deliveries in global e-commerce"
     }
 ]
