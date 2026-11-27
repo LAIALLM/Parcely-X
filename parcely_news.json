@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-11-17",
-        "status": "posted",
-        "tweet": "Doorstep delivery costs in \ud83c\uddfa\ud83c\uddf8 large metros are projected to reach $11 per parcel by 2028.",
-        "type": "statistical",
-        "category": "last-mile delivery costs per parcel in large metros"
-    },
-    {
-        "link": null,
         "date": "2026-11-18",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US hubs processed 19.4 million parcels daily in 2026.",
@@ -107,5 +99,25 @@
         "tweet": "By 2026, 24 percent of global e-commerce deliveries will fail on the first attempt.",
         "type": "statistical",
         "category": "failed first-attempt deliveries in global e-commerce"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmRheDFjaG1FZFRVN052aGZhM1FvcEl6Mmt5UndKNjZZMzFScklSeXJFQWllR2I0NXNNdjJGZkRfamV4c2lnY1dSNjFKdUZBYVZLUmJvaDhLa21HaC14Qm84X002RF83QXBYRVJMUWVnY3BCcjlKaFFDbGIySXN1R1lLR0prMFFvbm1oR2pQVG5YcUNKUktUc2lBOTlsVUlf?oc=5",
+        "date": "2026-11-27",
+        "title": "ZTO's Q3 Growth Gets A Boost From E-Commerce Returns - Benzinga",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmRheDFjaG1FZFRVN052aGZhM1FvcEl6Mmt5UndKNjZZMzFScklSeXJFQWllR2I0NXNNdjJGZkRfamV4c2lnY1dSNjFKdUZBYVZLUmJvaDhLa21HaC14Qm84X002RF83QXBYRVJMUWVnY3BCcjlKaFFDbGIySXN1R1lLR0prMFFvbm1oR2pQVG5YcUNKUktUc2lBOTlsVUlf?oc=5\" target=\"_blank\">ZTO's Q3 Growth Gets A Boost From E-Commerce Returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lV3ZYZGNHd2Vqb1N3SWNmSnBndHV6TnExZnBLZ20zQ0g1cDRhSVBtNjdySDJEem9zR05wSlFNQWR4OGNneGxWVVpUbw?oc=5",
+        "date": "2026-11-27",
+        "title": "LG U+, along with Hyundai Motor Group Robotics Lab, has completed a technology demonstration to appl.. - \ub9e4\uc77c\uacbd\uc81c",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lV3ZYZGNHd2Vqb1N3SWNmSnBndHV6TnExZnBLZ20zQ0g1cDRhSVBtNjdySDJEem9zR05wSlFNQWR4OGNneGxWVVpUbw?oc=5\" target=\"_blank\">LG U+, along with Hyundai Motor Group Robotics Lab, has completed a technology demonstration to appl..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub9e4\uc77c\uacbd\uc81c</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
