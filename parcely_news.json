@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-11-18",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US hubs processed 19.4 million parcels daily in 2026.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-11-18",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States smart office growth reaches 32 percent by 2026 compared to 14 percent for residential buildings.",
-        "type": "statistical",
-        "category": "growth of smart residential and office buildings"
-    },
-    {
-        "link": null,
         "date": "2026-11-19",
         "status": "posted",
         "tweet": "Global parcel locker and pickup point networks reach 2.5 million locations in 2026.",
@@ -119,5 +104,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-28",
+        "status": "posted",
+        "tweet": "2026 kg CO2 savings per delivery with building networks:\n\n1. \ud83c\uddf8\ud83c\uddec Singapore 2.1\n2. \ud83c\uddef\ud83c\uddf5 Tokyo 1.9\n3. \ud83c\uddf0\ud83c\uddf7 Seoul 1.8\n4. \ud83c\uddf3\ud83c\uddf1 Amsterdam 1.7\n5. \ud83c\udde8\ud83c\udded Zurich 1.6",
+        "type": "statistical",
+        "category": "CO2 emissions from last-mile logistics versus building-integrated networks"
     }
 ]
